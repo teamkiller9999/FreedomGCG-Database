@@ -1,0 +1,5 @@
+var e=[{card_id:`GD01-001`,card_no:`GD01-001`,name:`高達`,rarity:`LR`,block_icon:`1`,level:`4`,cost:`3`,color:`Blue`,type:`UNIT`,effect:`我方所有〔WB隊〕的單位獲得《修理1》。
+(我方回合結束時，回復此單位指定的數量)
+【配置時】若此單位以外我方有2個以上的單位存在，我方抽1張卡。`,zone:`宇宙 地球`,trait:`〔地球連邦〕 〔WB隊〕`,link:`「阿寶·尼爾」`,ap:`3`,hp:`3`,source_title:`機動戰士高達`,package:`Newtype Rising [GD01]`,image_url:`https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD01-001.webp`},{card_id:`GD01-001_p1`,card_no:`GD01-001`,name:`高達`,rarity:`LR +`,block_icon:`1`,level:`4`,cost:`3`,color:`Blue`,type:`UNIT`,effect:`我方所有〔WB隊〕的單位獲得《修理1》。
+(我方回合結束時，回復此單位指定的數量)
+【配置時】若此單位以外我方有2個以上的單位存在，我方抽1張卡。`,zone:`宇宙 地球`,trait:`〔地球連邦〕 〔WB隊〕`,link:`「阿寶·尼爾」`,ap:`3`,hp:`3`,source_title:`機動戰士高達`,package:`Newtype Rising [GD01]`,image_url:`https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD01-001_p1.webp`}];export{e as default};

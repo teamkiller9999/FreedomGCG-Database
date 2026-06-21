@@ -1,0 +1,5 @@
+var e=[{card_id:`GD01-001`,card_no:`GD01-001`,name:`高达`,rarity:`LR`,block_icon:`1`,level:`4`,cost:`3`,color:`Blue`,type:`UNIT`,effect:`我方所有〔WB队〕的单位获得《修理1》。
+(我方回合结束时，回復此单位指定的数量)
+【配置时】若此单位以外我方有2个以上的单位存在，我方抽1张卡。`,zone:`宇宙 地球`,trait:`〔地球连邦〕 〔WB队〕`,link:`「阿宝·尼尔」`,ap:`3`,hp:`3`,source_title:`机动战士高达`,package:`Newtype Rising [GD01]`,image_url:`https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/1753375462276GD01-001.jpg`},{card_id:`GD01-001_p1`,card_no:`GD01-001`,name:`高达`,rarity:`LR +`,block_icon:`1`,level:`4`,cost:`3`,color:`Blue`,type:`UNIT`,effect:`我方所有〔WB队〕的单位获得《修理1》。
+(我方回合结束时，回復此单位指定的数量)
+【配置时】若此单位以外我方有2个以上的单位存在，我方抽1张卡。`,zone:`宇宙 地球`,trait:`〔地球连邦〕 〔WB队〕`,link:`「阿宝·尼尔」`,ap:`3`,hp:`3`,source_title:`机动战士高达`,package:`Newtype Rising [GD01]`,image_url:`https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/1753375462326GD01-001_1.jpg`}];export{e as default};

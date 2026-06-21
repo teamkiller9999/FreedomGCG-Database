@@ -1,0 +1,5 @@
+var e=[{card_id:`GD01-001`,card_no:`GD01-001`,name:`ガンダム`,rarity:`LR`,block_icon:`1`,level:`4`,cost:`3`,color:`Blue`,type:`UNIT`,effect:`〔WB隊〕の自分のユニットすべては《リペア1》を得る。
+(自分のターン終了時、このユニットを指定の数回復する)
+【セット時】このユニット以外の、自分のユニットが2つ以上いるなら、自分は1枚ドローする。`,zone:`宇宙 地球`,trait:`〔地球連邦〕 〔WB隊〕`,link:`「アムロ・レイ」`,ap:`3`,hp:`3`,source_title:`機動戦士ガンダム`,package:`Newtype Rising [GD01]`,image_url:`https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD01-001.webp`},{card_id:`GD01-001_p1`,card_no:`GD01-001`,name:`ガンダム`,rarity:`LR +`,block_icon:`1`,level:`4`,cost:`3`,color:`Blue`,type:`UNIT`,effect:`〔WB隊〕の自分のユニットすべては《リペア1》を得る。
+(自分のターン終了時、このユニットを指定の数回復する)
+【セット時】このユニット以外の、自分のユニットが2つ以上いるなら、自分は1枚ドローする。`,zone:`宇宙 地球`,trait:`〔地球連邦〕 〔WB隊〕`,link:`「アムロ・レイ」`,ap:`3`,hp:`3`,source_title:`機動戦士ガンダム`,package:`Newtype Rising [GD01]`,image_url:`https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD01-001_p1.webp`}];export{e as default};
