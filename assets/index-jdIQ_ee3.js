@@ -86,6 +86,36 @@ var e=Object.defineProperty,t=(t,n)=>{let r={};for(var i in t)e(r,i,{get:t[i],en
           downloadBtn.textContent = isCapturing ? '輸出中...' : '下載截圖'
         }
 
+        const saveBlobFile = (blob, fileName) => {
+          const isIOS = /iPad|iPhone|iPod/.test(navigator.userAgent) ||
+            (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1)
+
+          if (isIOS) {
+            const reader = new FileReader()
+            reader.onloadend = () => {
+              const dataUrl = reader.result
+              const previewWindow = window.open('', '_blank')
+              if (previewWindow) {
+                previewWindow.location.href = dataUrl
+                alert('iOS 不支援直接下載，請在新分頁長按圖片後選擇「儲存到相簿」。')
+              } else {
+                window.location.href = dataUrl
+              }
+            }
+            reader.readAsDataURL(blob)
+            return
+          }
+
+          const url = URL.createObjectURL(blob)
+          const link = document.createElement('a')
+          link.href = url
+          link.download = fileName
+          document.body.appendChild(link)
+          link.click()
+          document.body.removeChild(link)
+          setTimeout(() => URL.revokeObjectURL(url), 1000)
+        }
+
         const downloadScreenshot = async () => {
           try {
             setCapturingState(true)
@@ -114,10 +144,17 @@ var e=Object.defineProperty,t=(t,n)=>{let r={};for(var i in t)e(r,i,{get:t[i],en
               pad(now.getSeconds())
             ].join('-')
 
-            const link = document.createElement('a')
-            link.href = canvas.toDataURL('image/jpeg', 0.95)
-            link.download = 'deck-export_' + timestamp + '.jpg'
-            link.click()
+            const blob = await new Promise((resolve, reject) => {
+              canvas.toBlob((result) => {
+                if (result) {
+                  resolve(result)
+                  return
+                }
+                reject(new Error('無法產生圖片檔案'))
+              }, 'image/jpeg', 0.95)
+            })
+
+            saveBlobFile(blob, 'deck-export_' + timestamp + '.jpg')
           } catch (error) {
             alert('截圖失敗，請稍後再試。')
             console.error(error)
