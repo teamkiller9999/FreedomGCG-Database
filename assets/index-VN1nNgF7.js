@@ -140,11 +140,12 @@
       <title>牌組匯出</title>
       <style>
         body { margin: 0; padding: 20px; background: #111827; font-family: Arial, sans-serif; color: #f8fafc; }
-        .actions { position: fixed; top: 16px; right: 16px; z-index: 1000; display: flex; gap: 8px; }
+        .actions { position: sticky; top: 12px; left: 0; z-index: 1000; display: flex; gap: 8px; margin-bottom: 16px; width: fit-content; }
         .export-spell-btn { background: #0f766e; color: #fff; border: none; border-radius: 8px; padding: 10px 14px; font-size: 14px; font-weight: bold; cursor: pointer; box-shadow: 0 4px 10px rgba(15, 118, 110, 0.25); }
         .export-wing-btn { background: #b45309; color: #fff; border: none; border-radius: 8px; padding: 10px 14px; font-size: 14px; font-weight: bold; cursor: pointer; box-shadow: 0 4px 10px rgba(180, 83, 9, 0.25); }
         .copy-wing-btn { background: #0369a1; color: #fff; border: none; border-radius: 8px; padding: 10px 14px; font-size: 14px; font-weight: bold; cursor: pointer; box-shadow: 0 4px 10px rgba(3, 105, 161, 0.25); }
         .download-btn { background: #2563eb; color: #fff; border: none; border-radius: 8px; padding: 10px 14px; font-size: 14px; font-weight: bold; cursor: pointer; box-shadow: 0 4px 10px rgba(37, 99, 235, 0.25); }
+        .actions button { min-height: 44px; }
         .download-btn:disabled, .export-spell-btn:disabled, .export-wing-btn:disabled, .copy-wing-btn:disabled { opacity: 0.7; cursor: progress; }
         .sections { display: flex; flex-direction: column; gap: 20px; }
         .section { background: #0f172a; border: 1px solid #334155; border-radius: 12px; padding: 16px; }
@@ -164,6 +165,20 @@
         .card-name { margin-top: 8px; font-size: 18px; text-align: center; word-break: break-word; max-width: 320px; display: flex; align-items: center; justify-content: center; color: #f1f5f9; }
         .card-note { margin-top: 8px; font-size: 18px; font-weight: bold; color: #991b1b; text-align: center; word-break: break-word; max-width: 320px; background: #e5e7eb; padding: 8px; }
         .empty-text { color: #94a3b8; font-size: 16px; }
+
+        @media (max-width: 768px) {
+          .actions {
+            top: 8px;
+            gap: 10px;
+            flex-wrap: wrap;
+          }
+
+          .actions button {
+            font-size: 16px;
+            padding: 12px 16px;
+            min-height: 48px;
+          }
+        }
       </style>
     </head>
     <body>
@@ -286,14 +301,37 @@
             if (!window.html2canvas) {
               throw new Error('html2canvas 未載入')
             }
-            const canvas = await window.html2canvas(document.body, {
-              useCORS: true,
-              backgroundColor: '#111827',
-              scale: Math.max(2, window.devicePixelRatio || 1),
-              windowWidth: document.documentElement.scrollWidth,
-              windowHeight: document.documentElement.scrollHeight,
-              ignoreElements: (element) => element.classList && element.classList.contains('no-capture')
-            })
+
+            const captureRoot = document.getElementById('captureRoot')
+            if (!captureRoot) {
+              throw new Error('找不到截圖目標區塊')
+            }
+
+            const fixedCaptureWidth = 1865
+            const originalCaptureWidth = captureRoot.style.width
+            const originalCaptureMaxWidth = captureRoot.style.maxWidth
+            const originalBodyMinWidth = document.body.style.minWidth
+
+            let canvas
+            try {
+              captureRoot.style.width = fixedCaptureWidth + 'px'
+              captureRoot.style.maxWidth = 'none'
+              document.body.style.minWidth = fixedCaptureWidth + 'px'
+
+              canvas = await window.html2canvas(captureRoot, {
+                useCORS: true,
+                backgroundColor: '#111827',
+                scale: Math.max(2, window.devicePixelRatio || 1),
+                width: fixedCaptureWidth,
+                windowWidth: fixedCaptureWidth,
+                scrollX: 0,
+                scrollY: 0
+              })
+            } finally {
+              captureRoot.style.width = originalCaptureWidth
+              captureRoot.style.maxWidth = originalCaptureMaxWidth
+              document.body.style.minWidth = originalBodyMinWidth
+            }
 
             const now = new Date()
             const pad = (value) => String(value).padStart(2, '0')
@@ -306,16 +344,6 @@
               pad(now.getMinutes()),
               pad(now.getSeconds())
             ].join('-')
-
-            const blob = await new Promise((resolve, reject) => {
-              canvas.toBlob((result) => {
-                if (result) {
-                  resolve(result)
-                  return
-                }
-                reject(new Error('無法產生圖片檔案'))
-              }, 'image/jpeg', 0.95)
-            })
 
             saveBlobFile(await getOptimizedJpegBlob(canvas), 'deck-export_' + timestamp + '.jpg')
           } catch (error) {
