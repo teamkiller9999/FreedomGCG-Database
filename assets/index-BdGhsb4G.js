@@ -187,6 +187,20 @@
             border-radius: 12px;
           }
         }
+
+        @supports (-webkit-touch-callout: none) {
+          .actions {
+            gap: 12px;
+            flex-wrap: wrap;
+          }
+
+          .actions button {
+            font-size: 24px;
+            padding: 18px 24px;
+            min-height: 72px;
+            border-radius: 14px;
+          }
+        }
       </style>
     </head>
     <body>
