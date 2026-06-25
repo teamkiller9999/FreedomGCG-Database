@@ -138,6 +138,7 @@
     <html>
     <head>
       <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
       <title>${Vt(e.windowTitle)}</title>
       <style>
         body { margin: 0; padding: 20px; background: #111827; font-family: Arial, sans-serif; color: #f8fafc; }
