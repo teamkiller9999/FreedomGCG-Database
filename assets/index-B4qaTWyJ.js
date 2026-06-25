@@ -195,10 +195,10 @@
           }
 
           .actions button {
-            font-size: 24px;
-            padding: 18px 24px;
-            min-height: 72px;
-            border-radius: 14px;
+            font-size: 48px;
+            padding: 36px 48px;
+            min-height: 144px;
+            border-radius: 28px;
           }
         }
       </style>
