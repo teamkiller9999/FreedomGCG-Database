@@ -281,14 +281,39 @@
           return fallbackBlob
         }
 
-        const saveBlobFile = (blob, fileName) => {
-          const isIOS = /iPad|iPhone|iPod/.test(navigator.userAgent) ||
+        const isIOSDevice = () => {
+          return /iPad|iPhone|iPod/.test(navigator.userAgent) ||
             (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1)
+        }
+
+        const saveBlobFile = async (blob, fileName, iosPreviewWindow) => {
+          const isIOS = isIOSDevice()
 
           if (isIOS) {
+            const supportsShareFile = typeof navigator !== 'undefined' &&
+              typeof navigator.share === 'function' &&
+              typeof navigator.canShare === 'function' &&
+              typeof File !== 'undefined'
+
+            if (supportsShareFile) {
+              try {
+                const file = new File([blob], fileName, { type: blob.type || 'image/jpeg' })
+                if (navigator.canShare({ files: [file] })) {
+                  await navigator.share({ files: [file], title: fileName })
+                  return
+                }
+              } catch (shareError) {
+                console.warn('iOS share failed, fallback to preview window.', shareError)
+              }
+            }
+
             const url = URL.createObjectURL(blob)
-            const previewWindow = window.open(url, '_blank')
+            const previewWindow = (iosPreviewWindow && !iosPreviewWindow.closed)
+              ? iosPreviewWindow
+              : window.open('', '_blank')
+
             if (previewWindow) {
+              previewWindow.location.href = url
               alert(iosHint)
             } else {
               alert(exportText.previewBlocked)
@@ -308,8 +333,18 @@
         }
 
         const downloadScreenshot = async () => {
+          let iosPreviewWindow = null
           try {
             setCapturingState(true)
+
+            if (isIOSDevice()) {
+              iosPreviewWindow = window.open('', '_blank')
+              if (iosPreviewWindow) {
+                iosPreviewWindow.document.write('<!doctype html><html><head><meta charset="utf-8"><title>Preparing Screenshot</title><style>body{font-family:Arial,sans-serif;padding:20px;color:#0f172a;background:#f8fafc;}p{margin:0;font-size:16px;line-height:1.6;}</style></head><body><p>' + exportText.processing + '</p></body></html>')
+                iosPreviewWindow.document.close()
+              }
+            }
+
             await ensureHtml2canvas()
             if (!window.html2canvas) {
               throw new Error('html2canvas 未載入')
@@ -358,8 +393,11 @@
               pad(now.getSeconds())
             ].join('-')
 
-            saveBlobFile(await getOptimizedJpegBlob(canvas), 'deck-export_' + timestamp + '.jpg')
+            await saveBlobFile(await getOptimizedJpegBlob(canvas), 'deck-export_' + timestamp + '.jpg', iosPreviewWindow)
           } catch (error) {
+            if (iosPreviewWindow && !iosPreviewWindow.closed) {
+              iosPreviewWindow.close()
+            }
             alert(exportText.screenshotFailed)
             console.error(error)
           } finally {
