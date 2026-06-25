@@ -264,6 +264,15 @@
           })
         }
 
+        const blobToDataUrl = (blob) => {
+          return new Promise((resolve, reject) => {
+            const reader = new FileReader()
+            reader.onloadend = () => resolve(reader.result)
+            reader.onerror = () => reject(new Error('無法轉換圖片格式'))
+            reader.readAsDataURL(blob)
+          })
+        }
+
         const getOptimizedJpegBlob = async (canvas) => {
           // Keep the rendered resolution; reduce file size by tuning JPEG quality.
           const qualitySteps = [0.92, 0.9, 0.88, 0.86, 0.84, 0.82]
@@ -307,18 +316,19 @@
               }
             }
 
-            const url = URL.createObjectURL(blob)
             const previewWindow = (iosPreviewWindow && !iosPreviewWindow.closed)
               ? iosPreviewWindow
               : window.open('', '_blank')
 
             if (previewWindow) {
-              previewWindow.location.href = url
+              const dataUrl = await blobToDataUrl(blob)
+              previewWindow.document.open()
+              previewWindow.document.write('<!doctype html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Deck Screenshot</title><style>body{margin:0;padding:12px;background:#0f172a;display:flex;justify-content:center;align-items:flex-start;}img{max-width:100%;height:auto;border-radius:8px;box-shadow:0 6px 20px rgba(0,0,0,0.35);} .hint{position:fixed;left:12px;right:12px;top:12px;padding:10px 12px;background:rgba(15,23,42,0.86);color:#f8fafc;border:1px solid #334155;border-radius:8px;font-family:Arial,sans-serif;font-size:14px;line-height:1.5;z-index:5;}</style></head><body><div class="hint">' + iosHint.replace(/</g, '&lt;').replace(/>/g, '&gt;') + '</div><img src="' + dataUrl + '" alt="Deck Screenshot"></body></html>')
+              previewWindow.document.close()
               alert(iosHint)
             } else {
               alert(exportText.previewBlocked)
             }
-            setTimeout(() => URL.revokeObjectURL(url), 60 * 1000)
             return
           }
 
