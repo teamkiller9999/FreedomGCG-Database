@@ -172,7 +172,7 @@
           line-height: 1;
         }
         .card-name { font-size: clamp(10px, 9cqw, 22px); font-weight: 800; text-align: left; color: #f1f5f9; line-height: 1.2; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; word-break: normal; overflow-wrap: normal; }
-        .card-note { font-size: clamp(12px, 8cqw, 24px); font-weight: bold; color: #991b1b; text-align: left; word-break: break-word; background: #e5e7eb; padding: 10px; min-height: 40px; }
+        .card-note { font-size: clamp(12px, 8cqw, 24px); font-weight: bold; color: #991b1b; text-align: left; word-break: break-word; background: #e5e7eb; padding: 5px 10px; min-height: 50px; }
         .empty-text { color: #94a3b8; font-size: 16px; }
 
         @media (max-width: 768px) {
