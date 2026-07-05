@@ -1,4 +1,4 @@
-name: Retry Pages deploy
+name: Retry Pages Deploy
 
 on:
   workflow_run:
@@ -13,7 +13,7 @@ jobs:
     if: >-
       github.event.workflow_run.conclusion == 'failure' &&
       github.event.workflow_run.head_branch == 'gh-pages' &&
-      github.event.workflow_run.run_attempt < 2
+      github.event.workflow_run.run_attempt == 1
     runs-on: ubuntu-latest
     steps:
       - name: Re-run failed Pages workflow once
