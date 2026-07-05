@@ -153,12 +153,13 @@
         .section { background: #0f172a; border: 1px solid #334155; border-radius: 12px; padding: 16px; }
         .section-header { font-size: 24px; font-weight: bold; margin: 0 0 12px 0; color: #f8fafc; }
         .container { display: flex; flex-wrap: wrap; gap: 20px; }
-        .card-item { position: relative; background: #1f2937; border: 1px solid #334155; border-radius: 12px; padding: 14px; }
+        .card-item { position: relative; background: #1f2937; border: 1px solid #334155; border-radius: 12px; padding: 0px 0px 14px 0px; }
         .card-image { width: 320px; height: 448px; border-radius: 8px; object-fit: cover; box-shadow: 0 2px 8px rgba(0,0,0,0.2); }
-        .card-meta-row { margin-top: 10px; display: flex; justify-content: space-between; align-items: stretch; gap: 12px; max-width: 320px; height: 87px; }
-        .card-meta-left { flex: 1; min-width: 0; display: flex; flex-direction: column; gap: 8px; }
+        .card-meta-row { margin-top: 10px; display: flex; justify-content: space-between; align-items: stretch; gap: 5px; max-width: 320px; height: 87px; }
+        .card-meta-left { flex: 1; min-width: 0; display: flex; flex-direction: column; gap: 8px; margin-left: 14px; container-type: inline-size; }
         .card-count {
           min-width: 76px;
+          margin-right: 14px;
           display: flex;
           align-items: center;
           justify-content: center;
@@ -170,8 +171,8 @@
           font-size: 42px;
           line-height: 1;
         }
-        .card-name { font-size: 22px; font-weight: 800; text-align: left; word-break: break-word; color: #f1f5f9; }
-        .card-note { font-size: 24px; font-weight: bold; color: #991b1b; text-align: left; word-break: break-word; background: #e5e7eb; padding: 10px; }
+        .card-name { font-size: clamp(10px, 9cqw, 22px); font-weight: 800; text-align: left; color: #f1f5f9; line-height: 1.2; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; word-break: normal; overflow-wrap: normal; }
+        .card-note { font-size: clamp(12px, 8cqw, 24px); font-weight: bold; color: #991b1b; text-align: left; word-break: break-word; background: #e5e7eb; padding: 10px; min-height: 40px; }
         .empty-text { color: #94a3b8; font-size: 16px; }
 
         @media (max-width: 768px) {
