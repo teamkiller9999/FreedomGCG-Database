@@ -274,6 +274,44 @@
             min-height: 64px;
             border-radius: 12px;
           }
+
+          .deck-spell-modal {
+            padding: 20px;
+          }
+
+          .deck-spell-modal-card {
+            width: 100%;
+            border-radius: 14px;
+            padding: 20px;
+          }
+
+          .deck-spell-modal-title {
+            font-size: 28px;
+            margin-bottom: 14px;
+          }
+
+          .deck-spell-modal-label {
+            font-size: 20px;
+          }
+
+          .deck-spell-modal-input {
+            font-size: 24px;
+            min-height: 64px;
+            padding: 12px 14px;
+            border-radius: 10px;
+          }
+
+          .deck-spell-modal-actions {
+            gap: 10px;
+            margin-top: 16px;
+          }
+
+          .deck-spell-modal-btn {
+            font-size: 22px;
+            min-height: 64px;
+            padding: 14px 18px;
+            border-radius: 10px;
+          }
         }
 
         @supports (-webkit-touch-callout: none) {
@@ -287,6 +325,49 @@
             padding: 36px 48px;
             min-height: 144px;
             border-radius: 28px;
+          }
+
+          .deck-spell-modal {
+            padding: 24px;
+          }
+
+          .deck-spell-modal-card {
+            width: min(880px, 100%);
+            border-radius: 20px;
+            padding: 24px;
+          }
+
+          .deck-spell-modal-title {
+            font-size: 42px;
+            margin-bottom: 20px;
+          }
+
+          .deck-spell-modal-field {
+            gap: 10px;
+            margin-bottom: 14px;
+          }
+
+          .deck-spell-modal-label {
+            font-size: 28px;
+          }
+
+          .deck-spell-modal-input {
+            font-size: 36px;
+            min-height: 110px;
+            padding: 18px 22px;
+            border-radius: 16px;
+          }
+
+          .deck-spell-modal-actions {
+            gap: 14px;
+            margin-top: 22px;
+          }
+
+          .deck-spell-modal-btn {
+            font-size: 34px;
+            min-height: 108px;
+            padding: 18px 30px;
+            border-radius: 16px;
           }
         }
       </style>
