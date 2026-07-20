@@ -1045,9 +1045,9 @@
             const cardsPerPage = columns * rows
             const cardWidthMm = 63
             const cardHeightMm = 88
-            const gapMm = 2
-            const startX = 8.5
-            const startY = 14.5
+            const gapMm = 1
+            const startX = 9.5
+            const startY = 15.5
             const timestamp = getTimestamp()
             let failedCount = 0
 
