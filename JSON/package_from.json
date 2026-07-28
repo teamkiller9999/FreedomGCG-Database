@@ -1,0 +1,233 @@
+[
+  {
+    "package_id": "615105",
+    "package_from": "[GD05] Freedom Ascension",
+    "code": "GD05",
+    "jp": "[GD05] Freedom Ascension",
+    "en": "[GD05] Freedom Ascension",
+    "zh-tw": "[GD05] Freedom Ascension",
+    "zh-cn": "[GD05] Freedom Ascension",
+    "th": "[GD05] Freedom Ascension",
+    "order": "001"
+  },
+  {
+    "package_id": "615104",
+    "package_from": "[GD04] Phantom Aria",
+    "code": "GD04",
+    "jp": "[GD04] Phantom Aria",
+    "en": "[GD04] Phantom Aria",
+    "zh-tw": "[GD04] Phantom Aria",
+    "zh-cn": "[GD04] Phantom Aria",
+    "th": "[GD04] Phantom Aria",
+    "order": "002"
+  },
+  {
+    "package_id": "615103",
+    "package_from": "[GD03] Steel Requiem",
+    "code": "GD03",
+    "jp": "[GD03] Steel Requiem",
+    "en": "[GD03] Steel Requiem",
+    "zh-tw": "[GD03] Steel Requiem",
+    "zh-cn": "[GD03] Steel Requiem",
+    "th": "[GD03] Steel Requiem",
+    "order": "003"
+  },
+  {
+    "package_id": "615102",
+    "package_from": "[GD02] Dual Impact",
+    "code": "GD02",
+    "jp": "[GD02] Dual Impact",
+    "en": "[GD02] Dual Impact",
+    "zh-tw": "[GD02] Dual Impact",
+    "zh-cn": "[GD02] Dual Impact",
+    "th": "[GD02] Dual Impact",
+    "order": "004"
+  },
+  {
+    "package_id": "615101",
+    "package_from": "[GD01] Newtype Rising",
+    "code": "GD01",
+    "jp": "[GD01] Newtype Rising",
+    "en": "[GD01] Newtype Rising",
+    "zh-tw": "[GD01] Newtype Rising",
+    "zh-cn": "[GD01] Newtype Rising",
+    "th": "[GD01] Newtype Rising",
+    "order": "005"
+  },
+  {
+    "package_id": "615201",
+    "package_from": "[EB01] Eternal Nexus",
+    "code": "EB01",
+    "jp": "[EB01] Eternal Nexus",
+    "en": "[EB01] Eternal Nexus",
+    "zh-tw": "[EB01] Eternal Nexus",
+    "zh-cn": "[EB01] Eternal Nexus",
+    "th": "[EB01] Eternal Nexus",
+    "order": "006"
+  },
+  {
+    "package_id": "615010",
+    "package_from": "[ST10] Generation Pulse",
+    "code": "ST10",
+    "jp": "[ST10] Generation Pulse",
+    "en": "[ST10] Generation Pulse",
+    "zh-tw": "[ST10] Generation Pulse",
+    "zh-cn": "[ST10] Generation Pulse",
+    "th": "[ST10] Generation Pulse",
+    "order": "007"
+  },
+  {
+    "package_id": "615009",
+    "package_from": "[ST09] Destiny Ignition",
+    "code": "ST09",
+    "jp": "[ST09] Destiny Ignition",
+    "en": "[ST09] Destiny Ignition",
+    "zh-tw": "[ST09] Destiny Ignition",
+    "zh-cn": "[ST09] Destiny Ignition",
+    "th": "[ST09] Destiny Ignition",
+    "order": "008"
+  },
+  {
+    "package_id": "615008",
+    "package_from": "[ST08] Flash of Radiance",
+    "code": "ST08",
+    "jp": "[ST08] Flash of Radiance",
+    "en": "[ST08] Flash of Radiance",
+    "zh-tw": "[ST08] Flash of Radiance",
+    "zh-cn": "[ST08] Flash of Radiance",
+    "th": "[ST08] Flash of Radiance",
+    "order": "009"
+  },
+  {
+    "package_id": "615007",
+    "package_from": "[ST07] Celestial Drive",
+    "code": "ST07",
+    "jp": "[ST07] Celestial Drive",
+    "en": "[ST07] Celestial Drive",
+    "zh-tw": "[ST07] Celestial Drive",
+    "zh-cn": "[ST07] Celestial Drive",
+    "th": "[ST07] Celestial Drive",
+    "order": "010"
+  },
+  {
+    "package_id": "615006",
+    "package_from": "[ST06] Clan Unity",
+    "code": "ST06",
+    "jp": "[ST06] Clan Unity",
+    "en": "[ST06] Clan Unity",
+    "zh-tw": "[ST06] Clan Unity",
+    "zh-cn": "[ST06] Clan Unity",
+    "th": "[ST06] Clan Unity",
+    "order": "011"
+  },
+  {
+    "package_id": "615005",
+    "package_from": "[ST05] Iron Bloom",
+    "code": "ST05",
+    "jp": "[ST05] Iron Bloom",
+    "en": "[ST05] Iron Bloom",
+    "zh-tw": "[ST05] Iron Bloom",
+    "zh-cn": "[ST05] Iron Bloom",
+    "th": "[ST05] Iron Bloom",
+    "order": "012"
+  },
+  {
+    "package_id": "615004",
+    "package_from": "[ST04] SEED Strike",
+    "code": "ST04",
+    "jp": "[ST04] SEED Strike",
+    "en": "[ST04] SEED Strike",
+    "zh-tw": "[ST04] SEED Strike",
+    "zh-cn": "[ST04] SEED Strike",
+    "th": "[ST04] SEED Strike",
+    "order": "013"
+  },
+  {
+    "package_id": "615003",
+    "package_from": "[ST03] Zeon's Rush",
+    "code": "ST03",
+    "jp": "[ST03] Zeon's Rush",
+    "en": "[ST03] Zeon's Rush",
+    "zh-tw": "[ST03] Zeon's Rush",
+    "zh-cn": "[ST03] Zeon's Rush",
+    "th": "[ST03] Zeon's Rush",
+    "order": "014"
+  },
+  {
+    "package_id": "615002",
+    "package_from": "[ST02] Wings of Advance",
+    "code": "ST02",
+    "jp": "[ST02] Wings of Advance",
+    "en": "[ST02] Wings of Advance",
+    "zh-tw": "[ST02] Wings of Advance",
+    "zh-cn": "[ST02] Wings of Advance",
+    "th": "[ST02] Wings of Advance",
+    "order": "015"
+  },
+  {
+    "package_id": "615001",
+    "package_from": "[ST01] Heroic Beginnings",
+    "code": "ST01",
+    "jp": "[ST01] Heroic Beginnings",
+    "en": "[ST01] Heroic Beginnings",
+    "zh-tw": "[ST01] Heroic Beginnings",
+    "zh-cn": "[ST01] Heroic Beginnings",
+    "th": "[ST01] Heroic Beginnings",
+    "order": "016"
+  },
+  {
+    "package_id": "615000",
+    "package_from": "リミテッドBOX Ver.β",
+    "code": "",
+    "jp": "リミテッドBOX Ver.β",
+    "en": "Edition Beta",
+    "zh-tw": "LIMITED BOX Ver.β",
+    "zh-cn": "LIMITED BOX Ver.β",
+    "th": "LIMITED BOX Ver.β",
+    "order": "017"
+  },
+  {
+    "package_id": "615901",
+    "package_from": "プロモーションカード",
+    "code": "",
+    "jp": "プロモーションカード",
+    "en": "Promotion card",
+    "zh-tw": "推廣卡",
+    "zh-cn": "推广卡",
+    "th": "โปรโมชั่นการ์ด",
+    "order": "018"
+  },
+  {
+    "package_id": "615801",
+    "package_from": "基本カード",
+    "code": "",
+    "jp": "基本カード",
+    "en": "Basic Cards",
+    "zh-tw": "基本卡牌",
+    "zh-cn": "基本卡牌",
+    "th": "การ์ดสามัญ",
+    "order": "019"
+  },
+  {
+    "package_id": "615701",
+    "package_from": "限定商品収録カード",
+    "code": "",
+    "jp": "限定商品収録カード",
+    "en": "Other Product Card",
+    "zh-tw": "限定商品收錄卡牌",
+    "zh-cn": "限定商品收录卡牌",
+    "th": "บัตรผลิตภัณฑ์จำนวนจำกัด",
+    "order": "020"
+  },
+  {
+    "package_id": "615301",
+    "package_from": "[SC01] カスタムデッキボックス Freedom Ascension",
+    "code": "SC01",
+    "jp": "[SC01] カスタムデッキボックス Freedom Ascension",
+    "en": "[SC01] Deck Build Box Freedom Ascension",
+    "zh-tw": "[SC01] 客製牌組盒 Freedom Ascension",
+    "zh-cn": "[SC01] 客制牌组盒 Freedom Ascension",
+    "th": "[SC01] Deck Build Box Freedom Ascension",
+    "order": "021"
+  }
+]
