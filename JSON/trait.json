@@ -1,0 +1,686 @@
+[
+  {
+    "jp": "AGEシステム",
+    "en": "AGE System",
+    "zh-tw": "AGE系統",
+    "zh-cn": "AGE系统",
+    "th": "ระบบ AGE",
+    "trait_id": "001",
+    "order": "001"
+  },
+  {
+    "jp": "CB",
+    "en": "CB",
+    "zh-tw": "CB",
+    "zh-cn": "CB",
+    "th": "CB",
+    "trait_id": "002",
+    "order": "002"
+  },
+  {
+    "jp": "DG細胞",
+    "en": "DG Cells",
+    "zh-tw": "DG細胞",
+    "zh-cn": "DG细胞",
+    "th": "DG เซลล์",
+    "trait_id": "003",
+    "order": "003"
+  },
+  {
+    "jp": "GNドライヴ",
+    "en": "GN Drive",
+    "zh-tw": "GN動力裝置",
+    "zh-cn": "GN太阳炉",
+    "th": "GN ไดรฟ์",
+    "trait_id": "004",
+    "order": "004"
+  },
+  {
+    "jp": "Gチーム",
+    "en": "G Team",
+    "zh-tw": "G小隊",
+    "zh-cn": "G小队",
+    "th": "ทีม G",
+    "trait_id": "005",
+    "order": "005"
+  },
+  {
+    "jp": "MF",
+    "en": "MF",
+    "zh-tw": "MF",
+    "zh-cn": "MF",
+    "th": "MF",
+    "trait_id": "006",
+    "order": "006"
+  },
+  {
+    "jp": "OZ",
+    "en": "OZ",
+    "zh-tw": "OZ",
+    "zh-cn": "OZ",
+    "th": "OZ",
+    "trait_id": "007",
+    "order": "007"
+  },
+  {
+    "jp": "UE",
+    "en": "UE",
+    "zh-tw": "UE",
+    "zh-cn": "UE",
+    "th": "UE",
+    "trait_id": "008",
+    "order": "008"
+  },
+  {
+    "jp": "WB隊",
+    "en": "White Base Team",
+    "zh-tw": "WB隊",
+    "zh-cn": "WB队",
+    "th": "หน่วยไวท์เบส",
+    "trait_id": "009",
+    "order": "009"
+  },
+  {
+    "jp": "Xラウンダー",
+    "en": "X-Rounder",
+    "zh-tw": "X行者",
+    "zh-cn": "X-Rounder",
+    "th": "เอ็กซ์ราวเดอร์",
+    "trait_id": "010",
+    "order": "010"
+  },
+  {
+    "jp": "アスノ家",
+    "en": "Asuno Family",
+    "zh-tw": "明日野家",
+    "zh-cn": "明日野家",
+    "th": "ตระกูลอาซุโนะ",
+    "trait_id": "011",
+    "order": "011"
+  },
+  {
+    "jp": "イノベイド",
+    "en": "Innovade",
+    "zh-tw": "變革體",
+    "zh-cn": "变革者",
+    "th": "อินโนเวด",
+    "trait_id": "012",
+    "order": "012"
+  },
+  {
+    "jp": "エゥーゴ",
+    "en": "AEUG",
+    "zh-tw": "幽谷",
+    "zh-cn": "奥古",
+    "th": "เอวโก้",
+    "trait_id": "013",
+    "order": "013"
+  },
+  {
+    "jp": "オペレーション・メテオ",
+    "en": "Operation Meteor",
+    "zh-tw": "流星作戰",
+    "zh-cn": "流星作战",
+    "th": "โอเปอเรชั่น เมเทโอ",
+    "trait_id": "014",
+    "order": "014"
+  },
+  {
+    "jp": "オーブ",
+    "en": "Orb",
+    "zh-tw": "歐普",
+    "zh-cn": "奥布",
+    "th": "ออร์บ",
+    "trait_id": "015",
+    "order": "015"
+  },
+  {
+    "jp": "カラバ",
+    "en": "Karaba",
+    "zh-tw": "卡拉巴",
+    "zh-cn": "卡拉巴",
+    "th": "คาราบา",
+    "trait_id": "016",
+    "order": "016"
+  },
+  {
+    "jp": "ガンダムファイター",
+    "en": "Gundam Fighter",
+    "zh-tw": "高達鬥士",
+    "zh-cn": "高达斗士",
+    "th": "กันดั้มไฟท์เตอร์",
+    "trait_id": "017",
+    "order": "017"
+  },
+  {
+    "jp": "ガンダム・フレーム",
+    "en": "Gundam Frame",
+    "zh-tw": "高達骨架",
+    "zh-cn": "高达骨架",
+    "th": "กันดั้มเฟรม",
+    "trait_id": "018",
+    "order": "018"
+  },
+  {
+    "jp": "ギャラルホルン",
+    "en": "Gjallarhorn",
+    "zh-tw": "末日號角士官",
+    "zh-cn": "加拉尔霍恩",
+    "th": "กาลาร์ฮอร์น",
+    "trait_id": "019",
+    "order": "019"
+  },
+  {
+    "jp": "クラン",
+    "en": "Clan",
+    "zh-tw": "戰團",
+    "zh-cn": "军团",
+    "th": "แคลน",
+    "trait_id": "020",
+    "order": "020"
+  },
+  {
+    "jp": "クワイエット・ゼロ",
+    "en": "Quiet Zero",
+    "zh-tw": "靜寂・零",
+    "zh-cn": "静寂·零",
+    "th": "ไควเอทซีโร่",
+    "trait_id": "021",
+    "order": "021"
+  },
+  {
+    "jp": "コーディネイター",
+    "en": "Coordinator",
+    "zh-tw": "調整者",
+    "zh-cn": "调整者",
+    "th": "โคออร์ดิเนเตอร์",
+    "trait_id": "022",
+    "order": "022"
+  },
+  {
+    "jp": "サイクロプス隊",
+    "en": "Cyclops Team",
+    "zh-tw": "獨眼巨人隊",
+    "zh-cn": "独眼巨人队",
+    "th": "หน่วยไซคลอปส์",
+    "trait_id": "023",
+    "order": "023"
+  },
+  {
+    "jp": "サイド6",
+    "en": "Side 6",
+    "zh-tw": "SIDE 6",
+    "zh-cn": "Side 6",
+    "th": "ไซด์ 6",
+    "trait_id": "024",
+    "order": "024"
+  },
+  {
+    "jp": "サテリコン",
+    "en": "Satyricon",
+    "zh-tw": "墮落",
+    "zh-cn": "萨提利康",
+    "th": "ซาเทริคอน",
+    "trait_id": "025",
+    "order": "025"
+  },
+  {
+    "jp": "ザフト",
+    "en": "ZAFT",
+    "zh-tw": "札夫特",
+    "zh-cn": "扎夫特",
+    "th": "ซาฟท์",
+    "trait_id": "026",
+    "order": "026"
+  },
+  {
+    "jp": "ザンスカール",
+    "en": "Zanscare",
+    "zh-tw": "贊斯卡爾",
+    "zh-cn": "赞斯卡尔",
+    "th": "ซันสการ์",
+    "trait_id": "027",
+    "order": "027"
+  },
+  {
+    "jp": "シャッフル同盟",
+    "en": "Shuffle Alliance",
+    "zh-tw": "洗牌同盟",
+    "zh-cn": "洗牌同盟",
+    "th": "สหพันธ์ชัฟเฟิล",
+    "trait_id": "028",
+    "order": "028"
+  },
+  {
+    "jp": "シュラク隊",
+    "en": "Shrike Team",
+    "zh-tw": "伯勞隊",
+    "zh-cn": "修拉克队",
+    "th": "หน่วยไชรค์",
+    "trait_id": "029",
+    "order": "029"
+  },
+  {
+    "jp": "ジオン",
+    "en": "Zeon",
+    "zh-tw": "吉翁",
+    "zh-cn": "吉翁",
+    "th": "ซีอ้อน",
+    "trait_id": "030",
+    "order": "030"
+  },
+  {
+    "jp": "ジュピトリス",
+    "en": "Jupitris",
+    "zh-tw": "丘比特里斯號",
+    "zh-cn": "朱庇特利斯",
+    "th": "จูปิทริส",
+    "trait_id": "031",
+    "order": "031"
+  },
+  {
+    "jp": "ジージェネ",
+    "en": "G Generation",
+    "zh-tw": "G世代",
+    "zh-cn": "G世代",
+    "th": "จีเจน",
+    "trait_id": "032",
+    "order": "032"
+  },
+  {
+    "jp": "ティターンズ",
+    "en": "Titans",
+    "zh-tw": "泰坦斯",
+    "zh-cn": "提坦斯",
+    "th": "ทิทานส์",
+    "trait_id": "033",
+    "order": "033"
+  },
+  {
+    "jp": "テイワズ",
+    "en": "Teiwaz",
+    "zh-tw": "迪瓦茲",
+    "zh-cn": "迪瓦兹",
+    "th": "เทวาซ",
+    "trait_id": "034",
+    "order": "034"
+  },
+  {
+    "jp": "トリニティ",
+    "en": "Trinity",
+    "zh-tw": "崔尼提",
+    "zh-cn": "特里尼迪",
+    "th": "ทรินิตี้",
+    "trait_id": "035",
+    "order": "035"
+  },
+  {
+    "jp": "ニュータイプ",
+    "en": "Newtype",
+    "zh-tw": "新人類",
+    "zh-cn": "新人类",
+    "th": "นิวไทป์",
+    "trait_id": "036",
+    "order": "036"
+  },
+  {
+    "jp": "ネオ・ジオン",
+    "en": "Neo Zeon",
+    "zh-tw": "新吉翁",
+    "zh-cn": "新吉翁",
+    "th": "นีโอ・ซีอ้อน",
+    "trait_id": "037",
+    "order": "037"
+  },
+  {
+    "jp": "バルチャー",
+    "en": "Vulture",
+    "zh-tw": "禿鷹",
+    "zh-cn": "猎鹰",
+    "th": "กลุ่มวัลเจอร์",
+    "trait_id": "038",
+    "order": "038"
+  },
+  {
+    "jp": "ファントムペイン",
+    "en": "Phantom Pain",
+    "zh-tw": "幻痛",
+    "zh-cn": "幻痛",
+    "th": "แฟนธอมเพน",
+    "trait_id": "039",
+    "order": "039"
+  },
+  {
+    "jp": "フォルドの夜明け",
+    "en": "Dawn of Fold",
+    "zh-tw": "弗德之黎明",
+    "zh-cn": "弗尔德的黎明",
+    "th": "รุ่งอรุณแห่งโฟลด์",
+    "trait_id": "040",
+    "order": "040"
+  },
+  {
+    "jp": "プリベンター",
+    "en": "Preventer",
+    "zh-tw": "預防者",
+    "zh-cn": "预防者",
+    "th": "พรีเวนเตอร์",
+    "trait_id": "041",
+    "order": "041"
+  },
+  {
+    "jp": "ホワイトファング",
+    "en": "White Fang",
+    "zh-tw": "白色獠牙",
+    "zh-cn": "白色獠牙",
+    "th": "ไวท์แฟง",
+    "trait_id": "042",
+    "order": "042"
+  },
+  {
+    "jp": "マグアナック隊",
+    "en": "Maganac Corps",
+    "zh-tw": "馬格亞那克隊",
+    "zh-cn": "马格亚那克队",
+    "th": "หน่วยแม็กกาแน็ค",
+    "trait_id": "043",
+    "order": "043"
+  },
+  {
+    "jp": "マフティー",
+    "en": "Mafty",
+    "zh-tw": "馬法狄",
+    "zh-cn": "马夫蒂",
+    "th": "มาฟตี้",
+    "trait_id": "044",
+    "order": "044"
+  },
+  {
+    "jp": "マリーメイア軍",
+    "en": "Mariemaia Army",
+    "zh-tw": "瑪莉梅亞軍",
+    "zh-cn": "马里梅亚军",
+    "th": "กองทัพแมรี่เมอา",
+    "trait_id": "045",
+    "order": "045"
+  },
+  {
+    "jp": "ミネルバ隊",
+    "en": "Minerva Squad",
+    "zh-tw": "智慧女神號隊",
+    "zh-cn": "密涅瓦队",
+    "th": "กองยานมิเนอร์วา",
+    "trait_id": "046",
+    "order": "046"
+  },
+  {
+    "jp": "ミリシャ",
+    "en": "Militia",
+    "zh-tw": "民兵團",
+    "zh-cn": "民兵团",
+    "th": "มิลิชา",
+    "trait_id": "047",
+    "order": "047"
+  },
+  {
+    "jp": "ムーンレィス",
+    "en": "Moonrace",
+    "zh-tw": "月之民",
+    "zh-cn": "月之民",
+    "th": "มูนเรซ",
+    "trait_id": "048",
+    "order": "048"
+  },
+  {
+    "jp": "リガ・ミリティア",
+    "en": "League Militaire",
+    "zh-tw": "神聖軍事同盟",
+    "zh-cn": "神圣军事同盟",
+    "th": "ลีกมิลิเทียร์",
+    "trait_id": "049",
+    "order": "049"
+  },
+  {
+    "jp": "ロンド・ベル",
+    "en": "Londo Bell",
+    "zh-tw": "隆德・貝爾",
+    "zh-cn": "隆德·贝尔",
+    "th": "ลอนโดเบล",
+    "trait_id": "050",
+    "order": "050"
+  },
+  {
+    "jp": "ヴァナディース機関",
+    "en": "Vanadis Institute",
+    "zh-tw": "瓦納迪斯機構",
+    "zh-cn": "凡娜迪斯机构",
+    "th": "สถาบันวานาดิส",
+    "trait_id": "051",
+    "order": "051"
+  },
+  {
+    "jp": "ヴィクトリータイプ",
+    "en": "Victory Type",
+    "zh-tw": "勝利型",
+    "zh-cn": "胜利型",
+    "th": "วิคตอรีไทป์",
+    "trait_id": "052",
+    "order": "052"
+  },
+  {
+    "jp": "ヴェイガン",
+    "en": "Vagan",
+    "zh-tw": "維根",
+    "zh-cn": "维根",
+    "th": "เวแกน",
+    "trait_id": "053",
+    "order": "053"
+  },
+  {
+    "jp": "三隻同盟",
+    "en": "Triple Ship Alliance",
+    "zh-tw": "三艦同盟",
+    "zh-cn": "三舰同盟",
+    "th": "พันธมิตรสามยานบิน",
+    "trait_id": "054",
+    "order": "054"
+  },
+  {
+    "jp": "厄祭戦",
+    "en": "Calamity War",
+    "zh-tw": "厄祭戰爭",
+    "zh-cn": "厄祭战争",
+    "th": "สงครามหายนะ",
+    "trait_id": "055",
+    "order": "055"
+  },
+  {
+    "jp": "国連",
+    "en": "UN",
+    "zh-tw": "國聯",
+    "zh-cn": "国联",
+    "th": "สหประชาชาติ",
+    "trait_id": "056",
+    "order": "056"
+  },
+  {
+    "jp": "地球圏統一国家",
+    "en": "Earth Sphere Unified Nation",
+    "zh-tw": "地球圈統一國家",
+    "zh-cn": "地球圈统一国家",
+    "th": "สหพันธรัฐเอกภาพแห่งดินแดนโลก",
+    "trait_id": "057",
+    "order": "057"
+  },
+  {
+    "jp": "地球連合",
+    "en": "Earth Alliance",
+    "zh-tw": "地球聯合",
+    "zh-cn": "地球联合",
+    "th": "พันธมิตรโลก",
+    "trait_id": "058",
+    "order": "058"
+  },
+  {
+    "jp": "地球連邦",
+    "en": "Earth Federation",
+    "zh-tw": "地球聯邦",
+    "zh-cn": "地球联邦",
+    "th": "สหพันธ์โลก",
+    "trait_id": "059",
+    "order": "059"
+  },
+  {
+    "jp": "学園",
+    "en": "Academy",
+    "zh-tw": "學園",
+    "zh-cn": "学园",
+    "th": "โรงเรียน",
+    "trait_id": "060",
+    "order": "060"
+  },
+  {
+    "jp": "宇宙革命軍",
+    "en": "SRA",
+    "zh-tw": "宇宙革命軍",
+    "zh-cn": "宇宙革命军",
+    "th": "กองทัพปฏิวัติอวกาศ",
+    "trait_id": "061",
+    "order": "061"
+  },
+  {
+    "jp": "強化人間",
+    "en": "Cyber-Newtype",
+    "zh-tw": "強化人",
+    "zh-cn": "强化人",
+    "th": "มนุษย์เสริมสมรรถนะ",
+    "trait_id": "062",
+    "order": "062"
+  },
+  {
+    "jp": "必殺技",
+    "en": "Special Move",
+    "zh-tw": "必殺技",
+    "zh-cn": "必杀技",
+    "th": "ท่าไม้ตาย",
+    "trait_id": "063",
+    "order": "063"
+  },
+  {
+    "jp": "拠点",
+    "en": "Stronghold",
+    "zh-tw": "據點",
+    "zh-cn": "据点",
+    "th": "ฐาน",
+    "trait_id": "064",
+    "order": "064"
+  },
+  {
+    "jp": "支援型",
+    "en": "Support",
+    "zh-tw": "支援型",
+    "zh-cn": "支援型",
+    "th": "ประเภทสนับสนุน",
+    "trait_id": "065",
+    "order": "065"
+  },
+  {
+    "jp": "攻撃型",
+    "en": "Attack",
+    "zh-tw": "攻擊型",
+    "zh-cn": "攻击型",
+    "th": "ประเภทโจมตี",
+    "trait_id": "066",
+    "order": "066"
+  },
+  {
+    "jp": "新連邦",
+    "en": "New UNE",
+    "zh-tw": "新聯邦",
+    "zh-cn": "新联邦",
+    "th": "สหพันธ์โลกใหม่",
+    "trait_id": "067",
+    "order": "067"
+  },
+  {
+    "jp": "旧連邦",
+    "en": "Old UNE",
+    "zh-tw": "舊聯邦",
+    "zh-cn": "旧联邦",
+    "th": "สหพันธ์โลกเก่า",
+    "trait_id": "068",
+    "order": "068"
+  },
+  {
+    "jp": "民間",
+    "en": "Civilian",
+    "zh-tw": "民間",
+    "zh-cn": "民间",
+    "th": "พลเรือน",
+    "trait_id": "069",
+    "order": "069"
+  },
+  {
+    "jp": "生体CPU",
+    "en": "Biological CPU",
+    "zh-tw": "生體CPU",
+    "zh-cn": "生体CPU",
+    "th": "CPU ชีวภาพ",
+    "trait_id": "070",
+    "order": "070"
+  },
+  {
+    "jp": "耐久型",
+    "en": "Durability",
+    "zh-tw": "耐久型",
+    "zh-cn": "耐久型",
+    "th": "ประเภทป้องกัน",
+    "trait_id": "071",
+    "order": "071"
+  },
+  {
+    "jp": "艦船",
+    "en": "Warship",
+    "zh-tw": "艦船",
+    "zh-cn": "舰船",
+    "th": "ยานรบ",
+    "trait_id": "072",
+    "order": "072"
+  },
+  {
+    "jp": "超兵",
+    "en": "Super Soldier",
+    "zh-tw": "超兵",
+    "zh-cn": "超兵",
+    "th": "ซูเปอร์โซลเจอร์",
+    "trait_id": "073",
+    "order": "073"
+  },
+  {
+    "jp": "超大国群",
+    "en": "Superpower Bloc",
+    "zh-tw": "超大國群",
+    "zh-cn": "超大国群",
+    "th": "กลุ่มมหาอำนาจ",
+    "trait_id": "074",
+    "order": "074"
+  },
+  {
+    "jp": "鉄華団",
+    "en": "Tekkadan",
+    "zh-tw": "鐵華團",
+    "zh-cn": "铁华团",
+    "th": "เท็กกะดัน",
+    "trait_id": "075",
+    "order": "075"
+  },
+  {
+    "jp": "阿頼耶識",
+    "en": "Alaya-Vijnana",
+    "zh-tw": "阿賴耶識",
+    "zh-cn": "阿赖耶识",
+    "th": "อาลยวิญญาณ",
+    "trait_id": "076",
+    "order": "076"
+  }
+]
