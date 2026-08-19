@@ -414,17 +414,8 @@
           setTimeout(() => URL.revokeObjectURL(url), 1000)
         }
 
-        // Mobile browsers often save downloaded files into a Downloads folder rather than Photos/Gallery,
-        // so open the screenshot in a new tab and let the user long-press "Save Image" instead.
-        const isMobileDevice = () => {
-          if (navigator.userAgentData?.mobile !== undefined) return navigator.userAgentData.mobile
-          if (/Android|iPhone|iPad|iPod/i.test(navigator.userAgent || '')) return true
-          return navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1
-        }
-
         const downloadScreenshot = async () => {
           const button = document.getElementById('downloadShotBtn')
-
           if (button) {
             button.disabled = true
             button.textContent = exportText.processing
@@ -454,30 +445,17 @@
             captureRoot.style.width = originalCaptureWidth
             captureRoot.style.maxWidth = originalCaptureMaxWidth
             document.body.style.minWidth = originalBodyMinWidth
-
-            if (isMobileDevice()) {
-              const dataUrl = canvas.toDataURL('image/jpeg', 0.92)
-              alert(iosHint)
-              const link = document.createElement('a')
-              link.href = dataUrl
-              link.target = '_blank'
-              link.rel = 'noopener noreferrer'
-              document.body.appendChild(link)
-              link.click()
-              document.body.removeChild(link)
-            } else {
-              const timestamp = getTimestamp()
-              const jpegBlob = await new Promise((resolve, reject) => {
-                canvas.toBlob((result) => {
-                  if (result) {
-                    resolve(result)
-                  } else {
-                    reject(new Error('Failed to create JPEG'))
-                  }
-                }, 'image/jpeg', 0.92)
-              })
-              saveBlobFile(jpegBlob, 'deck-export_' + timestamp + '.jpg')
-            }
+            const timestamp = getTimestamp()
+            const jpegBlob = await new Promise((resolve, reject) => {
+              canvas.toBlob((result) => {
+                if (result) {
+                  resolve(result)
+                } else {
+                  reject(new Error('Failed to create JPEG'))
+                }
+              }, 'image/jpeg', 0.92)
+            })
+            saveBlobFile(jpegBlob, 'deck-export_' + timestamp + '.jpg')
           } catch (error) {
             alert(exportText.screenshotFailed)
             console.error(error)
