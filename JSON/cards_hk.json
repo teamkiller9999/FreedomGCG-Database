@@ -170,7 +170,7 @@
   {
     "card_id": "GD01-004",
     "card_no": "GD01-004",
-    "name": "鋼加農",
+    "name": "鐳射大砲",
     "rarity": "R",
     "spCol": "",
     "block_icon": "1",
@@ -242,7 +242,7 @@
   {
     "card_id": "GD01-006",
     "card_no": "GD01-006",
-    "name": "德爾塔普拉斯",
+    "name": "Delta Plus",
     "rarity": "R",
     "spCol": "",
     "block_icon": "1",
@@ -266,7 +266,7 @@
   {
     "card_id": "GD01-006_p1",
     "card_no": "GD01-006",
-    "name": "德爾塔普拉斯",
+    "name": "Delta Plus",
     "rarity": "R +",
     "spCol": "",
     "block_icon": "1",
@@ -290,7 +290,7 @@
   {
     "card_id": "GD01-007",
     "card_no": "GD01-007",
-    "name": "艾亞利茲（諾茵機）",
+    "name": "航空力士（奈茵機）",
     "rarity": "R",
     "spCol": "",
     "block_icon": "1",
@@ -314,7 +314,7 @@
   {
     "card_id": "GD01-008",
     "card_no": "GD01-008",
-    "name": "鋼坦克",
+    "name": "太空坦克",
     "rarity": "U",
     "spCol": "",
     "block_icon": "1",
@@ -410,7 +410,7 @@
   {
     "card_id": "GD01-012",
     "card_no": "GD01-012",
-    "name": "里歐（傑克斯機）",
+    "name": "力傲（積古斯機）",
     "rarity": "U",
     "spCol": "",
     "block_icon": "1",
@@ -482,7 +482,7 @@
   {
     "card_id": "GD01-015",
     "card_no": "GD01-015",
-    "name": "球艇",
+    "name": "鐵球",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -506,7 +506,7 @@
   {
     "card_id": "GD01-016",
     "card_no": "GD01-016",
-    "name": "傑鋼",
+    "name": "積根",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -530,7 +530,7 @@
   {
     "card_id": "GD01-017",
     "card_no": "GD01-017",
-    "name": "武裝強化型傑鋼",
+    "name": "武裝強化積根",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -674,7 +674,7 @@
   {
     "card_id": "GD01-023",
     "card_no": "GD01-023",
-    "name": "夏亞專用傑爾古格",
+    "name": "馬沙專用格魯古古",
     "rarity": "LR",
     "spCol": "",
     "block_icon": "1",
@@ -698,7 +698,7 @@
   {
     "card_id": "GD01-023_p1",
     "card_no": "GD01-023",
-    "name": "夏亞專用傑爾古格",
+    "name": "馬沙專用格魯古古",
     "rarity": "LR +",
     "spCol": "",
     "block_icon": "1",
@@ -818,7 +818,7 @@
   {
     "card_id": "GD01-026",
     "card_no": "GD01-026",
-    "name": "夏亞專用薩克Ⅱ",
+    "name": "渣古II（馬沙・亞斯洛布機）",
     "rarity": "R",
     "spCol": "",
     "block_icon": "1",
@@ -842,7 +842,7 @@
   {
     "card_id": "GD01-027",
     "card_no": "GD01-027",
-    "name": "畢格・薩姆",
+    "name": "魔霸",
     "rarity": "R",
     "spCol": "",
     "block_icon": "1",
@@ -866,7 +866,7 @@
   {
     "card_id": "GD01-027_p1",
     "card_no": "GD01-027",
-    "name": "畢格・薩姆",
+    "name": "魔霸",
     "rarity": "R +",
     "spCol": "",
     "block_icon": "1",
@@ -962,7 +962,7 @@
   {
     "card_id": "GD01-030",
     "card_no": "GD01-030",
-    "name": "里克・德姆",
+    "name": "力奇・大魔",
     "rarity": "U",
     "spCol": "",
     "block_icon": "1",
@@ -986,7 +986,7 @@
   {
     "card_id": "GD01-031",
     "card_no": "GD01-031",
-    "name": "傑爾古格",
+    "name": "格魯古古",
     "rarity": "U",
     "spCol": "",
     "block_icon": "1",
@@ -1010,7 +1010,7 @@
   {
     "card_id": "GD01-032",
     "card_no": "GD01-032",
-    "name": "吉昂",
+    "name": "強人",
     "rarity": "R",
     "spCol": "",
     "block_icon": "1",
@@ -1058,7 +1058,7 @@
   {
     "card_id": "GD01-034",
     "card_no": "GD01-034",
-    "name": "重武裝高達",
+    "name": "重炮手高達",
     "rarity": "U",
     "spCol": "",
     "block_icon": "1",
@@ -1082,7 +1082,7 @@
   {
     "card_id": "GD01-035",
     "card_no": "GD01-035",
-    "name": "薩克Ⅱ",
+    "name": "渣古Ⅱ",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -1106,7 +1106,7 @@
   {
     "card_id": "GD01-036",
     "card_no": "GD01-036",
-    "name": "古夫",
+    "name": "老虎",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -1130,7 +1130,7 @@
   {
     "card_id": "GD01-037",
     "card_no": "GD01-037",
-    "name": "葛克",
+    "name": "戰蟹",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -1154,7 +1154,7 @@
   {
     "card_id": "GD01-038",
     "card_no": "GD01-038",
-    "name": "阿薩姆",
+    "name": "亞札姆",
     "rarity": "U",
     "spCol": "",
     "block_icon": "1",
@@ -1250,7 +1250,7 @@
   {
     "card_id": "GD01-042",
     "card_no": "GD01-042",
-    "name": "里歐（迪歐機）",
+    "name": "力傲（狄奧機）",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -1274,7 +1274,7 @@
   {
     "card_id": "GD01-043",
     "card_no": "GD01-043",
-    "name": "馬格亞那克（拉席德機）",
+    "name": "馬格亞那克（拉西德機）",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -1490,7 +1490,7 @@
   {
     "card_id": "GD01-048",
     "card_no": "GD01-048",
-    "name": "薩克Ⅰ狙擊型",
+    "name": "渣古Ⅰ・狙擊型",
     "rarity": "R",
     "spCol": "",
     "block_icon": "1",
@@ -1538,7 +1538,7 @@
   {
     "card_id": "GD01-050",
     "card_no": "GD01-050",
-    "name": "拉寇",
+    "name": "拉哥",
     "rarity": "R",
     "spCol": "",
     "block_icon": "1",
@@ -1562,7 +1562,7 @@
   {
     "card_id": "GD01-050_p1",
     "card_no": "GD01-050",
-    "name": "拉寇",
+    "name": "拉哥",
     "rarity": "R +",
     "spCol": "",
     "block_icon": "1",
@@ -1610,7 +1610,7 @@
   {
     "card_id": "GD01-052",
     "card_no": "GD01-052",
-    "name": "吉拉・祖魯（親衛隊機）",
+    "name": "居拉・祖魯（親衛隊機）",
     "rarity": "U",
     "spCol": "",
     "block_icon": "1",
@@ -1634,7 +1634,7 @@
   {
     "card_id": "GD01-053",
     "card_no": "GD01-053",
-    "name": "吉拉・德卡（重武裝規格）",
+    "name": "居拉・德卡（重武裝規格）",
     "rarity": "U",
     "spCol": "",
     "block_icon": "1",
@@ -1682,7 +1682,7 @@
   {
     "card_id": "GD01-055",
     "card_no": "GD01-055",
-    "name": "巴庫",
+    "name": "巴古",
     "rarity": "U",
     "spCol": "",
     "block_icon": "1",
@@ -1706,7 +1706,7 @@
   {
     "card_id": "GD01-056",
     "card_no": "GD01-056",
-    "name": "吉拉・德卡（帶袖的規格）",
+    "name": "居拉・德卡（帶袖規格）",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -1730,7 +1730,7 @@
   {
     "card_id": "GD01-057",
     "card_no": "GD01-057",
-    "name": "德萊森（帶袖的規格）",
+    "name": "達拉森（帶袖規格）",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -1754,7 +1754,7 @@
   {
     "card_id": "GD01-058",
     "card_no": "GD01-058",
-    "name": "卡爾斯K",
+    "name": "扎斯K",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -1802,7 +1802,7 @@
   {
     "card_id": "GD01-060",
     "card_no": "GD01-060",
-    "name": "薩克海中型",
+    "name": "渣古・海中型",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -1826,7 +1826,7 @@
   {
     "card_id": "GD01-061",
     "card_no": "GD01-061",
-    "name": "薩伍特",
+    "name": "渣烏度",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -1850,7 +1850,7 @@
   {
     "card_id": "GD01-062",
     "card_no": "GD01-062",
-    "name": "古恩",
+    "name": "古連",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -1874,7 +1874,7 @@
   {
     "card_id": "GD01-063",
     "card_no": "GD01-063",
-    "name": "佐諾",
+    "name": "桑羅",
     "rarity": "U",
     "spCol": "",
     "block_icon": "1",
@@ -1898,7 +1898,7 @@
   {
     "card_id": "GD01-064",
     "card_no": "GD01-064",
-    "name": "迪因",
+    "name": "迪武",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -2018,7 +2018,7 @@
   {
     "card_id": "GD01-067",
     "card_no": "GD01-067",
-    "name": "風靈高達（修改型）",
+    "name": "風靈高達（改修型）",
     "rarity": "LR",
     "spCol": "",
     "block_icon": "1",
@@ -2042,7 +2042,7 @@
   {
     "card_id": "GD01-067_p1",
     "card_no": "GD01-067",
-    "name": "風靈高達（修改型）",
+    "name": "風靈高達（改修型）",
     "rarity": "LR +",
     "spCol": "",
     "block_icon": "1",
@@ -2066,7 +2066,7 @@
   {
     "card_id": "GD01-067_p2",
     "card_no": "GD01-067",
-    "name": "風靈高達（修改型）",
+    "name": "風靈高達（改修型）",
     "rarity": "LR ++",
     "spCol": "",
     "block_icon": "1",
@@ -2090,7 +2090,7 @@
   {
     "card_id": "GD01-068",
     "card_no": "GD01-068",
-    "name": "完美型突擊高達",
+    "name": "完美突擊高達",
     "rarity": "R",
     "spCol": "",
     "block_icon": "1",
@@ -2114,7 +2114,7 @@
   {
     "card_id": "GD01-069",
     "card_no": "GD01-069",
-    "name": "突擊高達・紅",
+    "name": "嫣紅突擊高達",
     "rarity": "R",
     "spCol": "",
     "block_icon": "1",
@@ -2138,7 +2138,7 @@
   {
     "card_id": "GD01-069_p1",
     "card_no": "GD01-069",
-    "name": "突擊高達・紅",
+    "name": "嫣紅突擊高達",
     "rarity": "R +",
     "spCol": "",
     "block_icon": "1",
@@ -2234,7 +2234,7 @@
   {
     "card_id": "GD01-072",
     "card_no": "GD01-072",
-    "name": "砲戰型突擊高達",
+    "name": "重炮型突擊高達",
     "rarity": "U",
     "spCol": "",
     "block_icon": "1",
@@ -2282,7 +2282,7 @@
   {
     "card_id": "GD01-074",
     "card_no": "GD01-074",
-    "name": "迪米教練機 雀丘專用機",
+    "name": "學園訓練機 賽賽專用機",
     "rarity": "R",
     "spCol": "",
     "block_icon": "1",
@@ -2306,7 +2306,7 @@
   {
     "card_id": "GD01-075",
     "card_no": "GD01-075",
-    "name": "達里巴爾迪",
+    "name": "達里魯巴路迪",
     "rarity": "U",
     "spCol": "",
     "block_icon": "1",
@@ -2378,7 +2378,7 @@
   {
     "card_id": "GD01-078",
     "card_no": "GD01-078",
-    "name": "密斯特拉爾",
+    "name": "密托拉",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -2402,7 +2402,7 @@
   {
     "card_id": "GD01-079",
     "card_no": "GD01-079",
-    "name": "空中霸者",
+    "name": "空中霸王",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -2426,7 +2426,7 @@
   {
     "card_id": "GD01-080",
     "card_no": "GD01-080",
-    "name": "空中霸者（卡佳里機）",
+    "name": "空中霸王（卡嘉蓮機）",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -2450,7 +2450,7 @@
   {
     "card_id": "GD01-081",
     "card_no": "GD01-081",
-    "name": "M1迷惘高達",
+    "name": "M1迷惘",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -2474,7 +2474,7 @@
   {
     "card_id": "GD01-082",
     "card_no": "GD01-082",
-    "name": "風靈高達（米拉蘇爾社製 飛行組件裝備）",
+    "name": "風靈高達（米拉蘇爾公司製飛行組件裝備）",
     "rarity": "U",
     "spCol": "",
     "block_icon": "1",
@@ -2498,7 +2498,7 @@
   {
     "card_id": "GD01-083",
     "card_no": "GD01-083",
-    "name": "迪蘭薩 古爾專用機",
+    "name": "迪蘭扎 古爾專用機",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -2546,7 +2546,7 @@
   {
     "card_id": "GD01-085",
     "card_no": "GD01-085",
-    "name": "迪米警衛機",
+    "name": "學園警衛機",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -2594,7 +2594,7 @@
   {
     "card_id": "GD01-087",
     "card_no": "GD01-087",
-    "name": "雪拉・瑪斯",
+    "name": "馬茜・瑪斯",
     "rarity": "R",
     "spCol": "",
     "block_icon": "1",
@@ -2618,7 +2618,7 @@
   {
     "card_id": "GD01-087_p1",
     "card_no": "GD01-087",
-    "name": "雪拉・瑪斯",
+    "name": "馬茜・瑪斯",
     "rarity": "R +",
     "spCol": "",
     "block_icon": "1",
@@ -2690,7 +2690,7 @@
   {
     "card_id": "GD01-090",
     "card_no": "GD01-090",
-    "name": "迪歐・麥斯威爾",
+    "name": "狄奧・麥斯威爾",
     "rarity": "R",
     "spCol": "",
     "block_icon": "1",
@@ -2714,7 +2714,7 @@
   {
     "card_id": "GD01-090_p1",
     "card_no": "GD01-090",
-    "name": "迪歐・麥斯威爾",
+    "name": "狄奧・麥斯威爾",
     "rarity": "R +",
     "spCol": "",
     "block_icon": "1",
@@ -2762,7 +2762,7 @@
   {
     "card_id": "GD01-092",
     "card_no": "GD01-092",
-    "name": "馬・克貝",
+    "name": "馬・古比",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -2834,7 +2834,7 @@
   {
     "card_id": "GD01-094",
     "card_no": "GD01-094",
-    "name": "伊薩克・焦耳",
+    "name": "伊撒古・尊路",
     "rarity": "U",
     "spCol": "",
     "block_icon": "1",
@@ -2858,7 +2858,7 @@
   {
     "card_id": "GD01-095",
     "card_no": "GD01-095",
-    "name": "迪安卡・艾斯曼",
+    "name": "迪亞加・艾士文",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -2882,7 +2882,7 @@
   {
     "card_id": "GD01-096",
     "card_no": "GD01-096",
-    "name": "卡佳里・由拉・阿斯哈",
+    "name": "卡嘉蓮・尤拉・阿斯哈",
     "rarity": "R",
     "spCol": "",
     "block_icon": "1",
@@ -2906,7 +2906,7 @@
   {
     "card_id": "GD01-096_p1",
     "card_no": "GD01-096",
-    "name": "卡佳里・由拉・阿斯哈",
+    "name": "卡嘉蓮・尤拉・阿斯哈",
     "rarity": "R +",
     "spCol": "",
     "block_icon": "1",
@@ -2930,7 +2930,7 @@
   {
     "card_id": "GD01-097",
     "card_no": "GD01-097",
-    "name": "古爾・杰特克",
+    "name": "古爾・傑特克",
     "rarity": "U",
     "spCol": "",
     "block_icon": "1",
@@ -2954,7 +2954,7 @@
   {
     "card_id": "GD01-098",
     "card_no": "GD01-098",
-    "name": "伊蘭・凱萊斯（強化人士四號）",
+    "name": "伊蘭・凱萊斯（強化人士4號）",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -3002,7 +3002,7 @@
   {
     "card_id": "GD01-100",
     "card_no": "GD01-100",
-    "name": "覺悟的表露",
+    "name": "覺悟的表現",
     "rarity": "U",
     "spCol": "",
     "block_icon": "1",
@@ -3026,7 +3026,7 @@
   {
     "card_id": "GD01-100_p1",
     "card_no": "GD01-100",
-    "name": "覺悟的表露",
+    "name": "覺悟的表現",
     "rarity": "U +",
     "spCol": "",
     "block_icon": "1",
@@ -3098,7 +3098,7 @@
   {
     "card_id": "GD01-103",
     "card_no": "GD01-103",
-    "name": "齒輪的倔強",
+    "name": "齒輪的意志",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -3146,7 +3146,7 @@
   {
     "card_id": "GD01-105",
     "card_no": "GD01-105",
-    "name": "奮起吧！國民！",
+    "name": "站起來吧國民！",
     "rarity": "R",
     "spCol": "",
     "block_icon": "1",
@@ -3170,7 +3170,7 @@
   {
     "card_id": "GD01-105_p1",
     "card_no": "GD01-105",
-    "name": "奮起吧！國民！",
+    "name": "站起來吧國民！",
     "rarity": "R +",
     "spCol": "",
     "block_icon": "1",
@@ -3290,7 +3290,7 @@
   {
     "card_id": "GD01-110",
     "card_no": "GD01-110",
-    "name": "拉席德的指示",
+    "name": "拉西德的指示",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -3362,7 +3362,7 @@
   {
     "card_id": "GD01-112",
     "card_no": "GD01-112",
-    "name": "怨仇的盡頭",
+    "name": "宿怨的盡頭",
     "rarity": "R",
     "spCol": "",
     "block_icon": "1",
@@ -3434,7 +3434,7 @@
   {
     "card_id": "GD01-115",
     "card_no": "GD01-115",
-    "name": "吉翁殘黨軍",
+    "name": "自護殘黨軍",
     "rarity": "U",
     "spCol": "",
     "block_icon": "1",
@@ -3602,7 +3602,7 @@
   {
     "card_id": "GD01-120",
     "card_no": "GD01-120",
-    "name": "艦砲射撃",
+    "name": "艦砲射擊",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -3842,7 +3842,7 @@
   {
     "card_id": "GD01-130",
     "card_no": "GD01-130",
-    "name": "十三號戰術試驗區域",
+    "name": "第13戰術試驗區域",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -3866,7 +3866,7 @@
   {
     "card_id": "R-002",
     "card_no": "R-002",
-    "name": "能源",
+    "name": "資源",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -3890,7 +3890,7 @@
   {
     "card_id": "R-002_p1",
     "card_no": "R-002",
-    "name": "能源",
+    "name": "資源",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "1",
@@ -3914,7 +3914,7 @@
   {
     "card_id": "R-002_p2",
     "card_no": "R-002",
-    "name": "能源",
+    "name": "資源",
     "rarity": "C ++",
     "spCol": "",
     "block_icon": "1",
@@ -3938,7 +3938,7 @@
   {
     "card_id": "R-003",
     "card_no": "R-003",
-    "name": "能源",
+    "name": "資源",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -3962,7 +3962,7 @@
   {
     "card_id": "R-003_p1",
     "card_no": "R-003",
-    "name": "能源",
+    "name": "資源",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "1",
@@ -3986,7 +3986,7 @@
   {
     "card_id": "R-004",
     "card_no": "R-004",
-    "name": "能源",
+    "name": "資源",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -4010,7 +4010,7 @@
   {
     "card_id": "R-004_p1",
     "card_no": "R-004",
-    "name": "能源",
+    "name": "資源",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "1",
@@ -4034,7 +4034,7 @@
   {
     "card_id": "R-005",
     "card_no": "R-005",
-    "name": "能源",
+    "name": "資源",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -4058,7 +4058,7 @@
   {
     "card_id": "R-005_p1",
     "card_no": "R-005",
-    "name": "能源",
+    "name": "資源",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "1",
@@ -4082,7 +4082,7 @@
   {
     "card_id": "R-006",
     "card_no": "R-006",
-    "name": "能源",
+    "name": "資源",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -4106,7 +4106,7 @@
   {
     "card_id": "R-006_p1",
     "card_no": "R-006",
-    "name": "能源",
+    "name": "資源",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "1",
@@ -4130,7 +4130,7 @@
   {
     "card_id": "R-007",
     "card_no": "R-007",
-    "name": "能源",
+    "name": "資源",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -4154,7 +4154,7 @@
   {
     "card_id": "R-007_p1",
     "card_no": "R-007",
-    "name": "能源",
+    "name": "資源",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "1",
@@ -4178,7 +4178,7 @@
   {
     "card_id": "R-008",
     "card_no": "R-008",
-    "name": "能源",
+    "name": "資源",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -4202,7 +4202,7 @@
   {
     "card_id": "R-008_p1",
     "card_no": "R-008",
-    "name": "能源",
+    "name": "資源",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "1",
@@ -4226,7 +4226,7 @@
   {
     "card_id": "R-009",
     "card_no": "R-009",
-    "name": "能源",
+    "name": "資源",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -4250,7 +4250,7 @@
   {
     "card_id": "R-009_p1",
     "card_no": "R-009",
-    "name": "能源",
+    "name": "資源",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "1",
@@ -4466,7 +4466,7 @@
   {
     "card_id": "GD02-005",
     "card_no": "GD02-005",
-    "name": "托爾吉斯",
+    "name": "多魯基斯",
     "rarity": "R",
     "spCol": "",
     "block_icon": "1",
@@ -4490,7 +4490,7 @@
   {
     "card_id": "GD02-005_p1",
     "card_no": "GD02-005",
-    "name": "托爾吉斯",
+    "name": "多魯基斯",
     "rarity": "R +",
     "spCol": "",
     "block_icon": "1",
@@ -4538,7 +4538,7 @@
   {
     "card_id": "GD02-007",
     "card_no": "GD02-007",
-    "name": "重高達（MA型態）",
+    "name": "重高達（MA形態）",
     "rarity": "U",
     "spCol": "",
     "block_icon": "1",
@@ -4634,7 +4634,7 @@
   {
     "card_id": "GD02-011",
     "card_no": "GD02-011",
-    "name": "梅比烏斯（維和部隊）",
+    "name": "梅比烏斯（和平締造者隊）",
     "rarity": "U",
     "spCol": "",
     "block_icon": "1",
@@ -4682,7 +4682,7 @@
   {
     "card_id": "GD02-013",
     "card_no": "GD02-013",
-    "name": "高性能薩克",
+    "name": "高渣古",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -4706,7 +4706,7 @@
   {
     "card_id": "GD02-014",
     "card_no": "GD02-014",
-    "name": "卡爾巴迪β",
+    "name": "哥邦迪β",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -4730,7 +4730,7 @@
   {
     "card_id": "GD02-015",
     "card_no": "GD02-015",
-    "name": "馬拉賽",
+    "name": "姆歷沙",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -4778,7 +4778,7 @@
   {
     "card_id": "GD02-017",
     "card_no": "GD02-017",
-    "name": "德爾塔普拉斯（WAVE RIDER型態）",
+    "name": "Delta Plus（WAVE RIDER形態）",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -4802,7 +4802,7 @@
   {
     "card_id": "GD02-018",
     "card_no": "GD02-018",
-    "name": "陶拉斯",
+    "name": "特拉士",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -4826,7 +4826,7 @@
   {
     "card_id": "GD02-019",
     "card_no": "GD02-019",
-    "name": "獵殺高達（MA型態）",
+    "name": "獵殺高達（MA形態）",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -4850,7 +4850,7 @@
   {
     "card_id": "GD02-020",
     "card_no": "GD02-020",
-    "name": "艾爾美斯",
+    "name": "愛美號",
     "rarity": "LR",
     "spCol": "",
     "block_icon": "1",
@@ -4874,7 +4874,7 @@
   {
     "card_id": "GD02-020_p1",
     "card_no": "GD02-020",
-    "name": "艾爾美斯",
+    "name": "愛美號",
     "rarity": "LR +",
     "spCol": "",
     "block_icon": "1",
@@ -5066,7 +5066,7 @@
   {
     "card_id": "GD02-025",
     "card_no": "GD02-025",
-    "name": "重砲手高達",
+    "name": "重炮手高達",
     "rarity": "U",
     "spCol": "",
     "block_icon": "1",
@@ -5090,7 +5090,7 @@
   {
     "card_id": "GD02-026",
     "card_no": "GD02-026",
-    "name": "傑諾亞斯特裝型",
+    "name": "榭魯艾斯特裝型",
     "rarity": "U",
     "spCol": "",
     "block_icon": "1",
@@ -5186,7 +5186,7 @@
   {
     "card_id": "GD02-030",
     "card_no": "GD02-030",
-    "name": "傑諾亞斯",
+    "name": "榭魯艾斯",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -5258,7 +5258,7 @@
   {
     "card_id": "GD02-033",
     "card_no": "GD02-033",
-    "name": "齊克羅加（MA型態）（GQ）",
+    "name": "奇格羅加（MA形態）（GQ）",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -5306,7 +5306,7 @@
   {
     "card_id": "GD02-035",
     "card_no": "GD02-035",
-    "name": "軍警薩克 特種部隊規格",
+    "name": "軍警渣古 特殊部隊規格",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -5426,7 +5426,7 @@
   {
     "card_id": "GD02-038",
     "card_no": "GD02-038",
-    "name": "GQuuuuuuX（Ω腦波傳導啟動時）",
+    "name": "GQuuuuuuX（Ω精神感應起動時）",
     "rarity": "LR",
     "spCol": "",
     "block_icon": "1",
@@ -5450,7 +5450,7 @@
   {
     "card_id": "GD02-038_p1",
     "card_no": "GD02-038",
-    "name": "GQuuuuuuX（Ω腦波傳導啟動時）",
+    "name": "GQuuuuuuX（Ω精神感應起動時）",
     "rarity": "LR +",
     "spCol": "",
     "block_icon": "1",
@@ -5474,7 +5474,7 @@
   {
     "card_id": "GD02-038_p2",
     "card_no": "GD02-038",
-    "name": "GQuuuuuuX（Ω腦波傳導啟動時）",
+    "name": "GQuuuuuuX（Ω精神感應起動時）",
     "rarity": "LR ++",
     "spCol": "",
     "block_icon": "1",
@@ -5498,7 +5498,7 @@
   {
     "card_id": "GD02-039",
     "card_no": "GD02-039",
-    "name": "卡薩C（哈曼・坎恩專用機）",
+    "name": "加煞C（哈曼・嘉專用機）",
     "rarity": "R",
     "spCol": "",
     "block_icon": "1",
@@ -5570,7 +5570,7 @@
   {
     "card_id": "GD02-041",
     "card_no": "GD02-041",
-    "name": "傑爾古格 菅井座機（GQ）",
+    "name": "格魯古古 菅井機（GQ）",
     "rarity": "R",
     "spCol": "",
     "block_icon": "1",
@@ -5594,7 +5594,7 @@
   {
     "card_id": "GD02-041_p1",
     "card_no": "GD02-041",
-    "name": "傑爾古格 菅井座機（GQ）",
+    "name": "格魯古古 菅井機（GQ）",
     "rarity": "R +",
     "spCol": "",
     "block_icon": "1",
@@ -5618,7 +5618,7 @@
   {
     "card_id": "GD02-042",
     "card_no": "GD02-042",
-    "name": "阿斯特龍高達（MA型態）",
+    "name": "阿斯特龍高達（MA形態）",
     "rarity": "U",
     "spCol": "",
     "block_icon": "1",
@@ -5642,7 +5642,7 @@
   {
     "card_id": "GD02-043",
     "card_no": "GD02-043",
-    "name": "德特雷斯武裝型",
+    "name": "多托列斯・武裝型",
     "rarity": "U",
     "spCol": "",
     "block_icon": "1",
@@ -5666,7 +5666,7 @@
   {
     "card_id": "GD02-044",
     "card_no": "GD02-044",
-    "name": "德特雷斯指揮型",
+    "name": "多托列斯・指揮型",
     "rarity": "U",
     "spCol": "",
     "block_icon": "1",
@@ -5690,7 +5690,7 @@
   {
     "card_id": "GD02-045",
     "card_no": "GD02-045",
-    "name": "長程強行偵察複座型基恩",
+    "name": "長程強行偵察複座型捷武",
     "rarity": "U",
     "spCol": "",
     "block_icon": "1",
@@ -5714,7 +5714,7 @@
   {
     "card_id": "GD02-046",
     "card_no": "GD02-046",
-    "name": "雪拉專用輕加農",
+    "name": "馬茜專用輕鐳射大砲",
     "rarity": "U",
     "spCol": "",
     "block_icon": "1",
@@ -5738,7 +5738,7 @@
   {
     "card_id": "GD02-047",
     "card_no": "GD02-047",
-    "name": "卡薩C",
+    "name": "加煞C",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -5762,7 +5762,7 @@
   {
     "card_id": "GD02-048",
     "card_no": "GD02-048",
-    "name": "薩克Ⅲ（袖章軍團規格）",
+    "name": "渣古III（帶袖規格）",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -5786,7 +5786,7 @@
   {
     "card_id": "GD02-049",
     "card_no": "GD02-049",
-    "name": "德特雷斯",
+    "name": "多托列斯",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -5810,7 +5810,7 @@
   {
     "card_id": "GD02-050",
     "card_no": "GD02-050",
-    "name": "加索姆（袖章軍團規格）",
+    "name": "加索姆（帶袖規格）",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -5858,7 +5858,7 @@
   {
     "card_id": "GD02-052",
     "card_no": "GD02-052",
-    "name": "鋼加農（GQ）",
+    "name": "鐳射大砲（GQ）",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -5882,7 +5882,7 @@
   {
     "card_id": "GD02-053",
     "card_no": "GD02-053",
-    "name": "高達X",
+    "name": "高達DX",
     "rarity": "LR",
     "spCol": "",
     "block_icon": "1",
@@ -5906,7 +5906,7 @@
   {
     "card_id": "GD02-053_p1",
     "card_no": "GD02-053",
-    "name": "高達X",
+    "name": "高達DX",
     "rarity": "LR +",
     "spCol": "",
     "block_icon": "1",
@@ -5930,7 +5930,7 @@
   {
     "card_id": "GD02-054",
     "card_no": "GD02-054",
-    "name": "高達巴巴托司（第1型態）",
+    "name": "高達・巴巴托司（第1形態）",
     "rarity": "LR",
     "spCol": "",
     "block_icon": "1",
@@ -5954,7 +5954,7 @@
   {
     "card_id": "GD02-054_p1",
     "card_no": "GD02-054",
-    "name": "高達巴巴托司（第1型態）",
+    "name": "高達・巴巴托司（第1形態）",
     "rarity": "LR +",
     "spCol": "",
     "block_icon": "1",
@@ -5978,7 +5978,7 @@
   {
     "card_id": "GD02-054_p2",
     "card_no": "GD02-054",
-    "name": "高達巴巴托司（第1型態）",
+    "name": "高達・巴巴托司（第1形態）",
     "rarity": "LR ++",
     "spCol": "",
     "block_icon": "1",
@@ -6050,7 +6050,7 @@
   {
     "card_id": "GD02-056",
     "card_no": "GD02-056",
-    "name": "高達X",
+    "name": "高達DX",
     "rarity": "R",
     "spCol": "",
     "block_icon": "1",
@@ -6098,7 +6098,7 @@
   {
     "card_id": "GD02-058",
     "card_no": "GD02-058",
-    "name": "流星號（格雷茲改貳）",
+    "name": "流星號（古尼捷改貳）",
     "rarity": "R",
     "spCol": "",
     "block_icon": "1",
@@ -6170,7 +6170,7 @@
   {
     "card_id": "GD02-060",
     "card_no": "GD02-060",
-    "name": "斑豹高達",
+    "name": "班豹高達",
     "rarity": "U",
     "spCol": "",
     "block_icon": "1",
@@ -6194,7 +6194,7 @@
   {
     "card_id": "GD02-060_p1",
     "card_no": "GD02-060",
-    "name": "斑豹高達",
+    "name": "班豹高達",
     "rarity": "U +",
     "spCol": "",
     "block_icon": "1",
@@ -6242,7 +6242,7 @@
   {
     "card_id": "GD02-062",
     "card_no": "GD02-062",
-    "name": "百鍊（阿蜜達機）",
+    "name": "百鍊（亞米達機）",
     "rarity": "U",
     "spCol": "",
     "block_icon": "1",
@@ -6290,7 +6290,7 @@
   {
     "card_id": "GD02-064",
     "card_no": "GD02-064",
-    "name": "斑豹高達",
+    "name": "班豹高達",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -6314,7 +6314,7 @@
   {
     "card_id": "GD02-065",
     "card_no": "GD02-065",
-    "name": "傑尼斯改",
+    "name": "積尼斯改",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -6338,7 +6338,7 @@
   {
     "card_id": "GD02-066",
     "card_no": "GD02-066",
-    "name": "加夫蘭",
+    "name": "格夫蘭",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -6362,7 +6362,7 @@
   {
     "card_id": "GD02-067",
     "card_no": "GD02-067",
-    "name": "巴克托",
+    "name": "巴古托",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -6482,7 +6482,7 @@
   {
     "card_id": "GD02-071",
     "card_no": "GD02-071",
-    "name": "高達Mk-Ⅱ（幽谷規格）",
+    "name": "高達Mk-Ⅱ（奧干規格）",
     "rarity": "R",
     "spCol": "",
     "block_icon": "1",
@@ -6554,7 +6554,7 @@
   {
     "card_id": "GD02-073",
     "card_no": "GD02-073",
-    "name": "騎士式格雷茲（凱爾妲機/地上戰規格）",
+    "name": "古尼捷烈達（嘉達機/地上戰規格）",
     "rarity": "R",
     "spCol": "",
     "block_icon": "1",
@@ -6578,7 +6578,7 @@
   {
     "card_id": "GD02-073_p1",
     "card_no": "GD02-073",
-    "name": "騎士式格雷茲（凱爾妲機/地上戰規格）",
+    "name": "古尼捷烈達（嘉達機/地上戰規格）",
     "rarity": "R +",
     "spCol": "",
     "block_icon": "1",
@@ -6602,7 +6602,7 @@
   {
     "card_id": "GD02-074",
     "card_no": "GD02-074",
-    "name": "風靈高達（修改型）",
+    "name": "風靈高達（改修型）",
     "rarity": "R",
     "spCol": "",
     "block_icon": "1",
@@ -6626,7 +6626,7 @@
   {
     "card_id": "GD02-075",
     "card_no": "GD02-075",
-    "name": "里克・迪亞斯（紅）",
+    "name": "力奇・戴亞斯（紅）",
     "rarity": "U",
     "spCol": "",
     "block_icon": "1",
@@ -6674,7 +6674,7 @@
   {
     "card_id": "GD02-077",
     "card_no": "GD02-077",
-    "name": "燕式格雷茲（艾因機）",
+    "name": "舒華爾比・古尼捷（艾因機）",
     "rarity": "U",
     "spCol": "",
     "block_icon": "1",
@@ -6722,7 +6722,7 @@
   {
     "card_id": "GD02-079",
     "card_no": "GD02-079",
-    "name": "里克・迪亞斯",
+    "name": "力奇・戴亞斯",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -6746,7 +6746,7 @@
   {
     "card_id": "GD02-080",
     "card_no": "GD02-080",
-    "name": "尼摩",
+    "name": "雷姆",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -6770,7 +6770,7 @@
   {
     "card_id": "GD02-081",
     "card_no": "GD02-081",
-    "name": "梅塔斯",
+    "name": "密達斯",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -6794,7 +6794,7 @@
   {
     "card_id": "GD02-082",
     "card_no": "GD02-082",
-    "name": "燕式格雷茲（蓋里歐機）",
+    "name": "舒華爾比・古尼捷（蓋里奧機）",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -6818,7 +6818,7 @@
   {
     "card_id": "GD02-083",
     "card_no": "GD02-083",
-    "name": "騎士式格雷茲（地上戰規格）",
+    "name": "古尼捷烈達（地上戰規格）",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -6842,7 +6842,7 @@
   {
     "card_id": "GD02-084",
     "card_no": "GD02-084",
-    "name": "迪蘭薩 勞達專用機",
+    "name": "迪蘭扎 勞達專用機",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -6866,7 +6866,7 @@
   {
     "card_id": "GD02-085",
     "card_no": "GD02-085",
-    "name": "鳳・村雨",
+    "name": "科・姆拉沙美",
     "rarity": "R",
     "spCol": "",
     "block_icon": "1",
@@ -6890,7 +6890,7 @@
   {
     "card_id": "GD02-085_p1",
     "card_no": "GD02-085",
-    "name": "鳳・村雨",
+    "name": "科・姆拉沙美",
     "rarity": "R +",
     "spCol": "",
     "block_icon": "1",
@@ -6914,7 +6914,7 @@
   {
     "card_id": "GD02-086",
     "card_no": "GD02-086",
-    "name": "傑利特・梅薩",
+    "name": "尊尼特・密沙",
     "rarity": "U",
     "spCol": "",
     "block_icon": "1",
@@ -6938,7 +6938,7 @@
   {
     "card_id": "GD02-087",
     "card_no": "GD02-087",
-    "name": "歐魯卡＆庫洛特＆夏尼",
+    "name": "奧加＆古朗度＆沙里",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -7010,7 +7010,7 @@
   {
     "card_id": "GD02-089",
     "card_no": "GD02-089",
-    "name": "拉拉・遜",
+    "name": "娜娜・辛",
     "rarity": "U",
     "spCol": "",
     "block_icon": "1",
@@ -7034,7 +7034,7 @@
   {
     "card_id": "GD02-090",
     "card_no": "GD02-090",
-    "name": "夏里亞・布爾（GQ）",
+    "name": "沙利亞・布魯（GQ）",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -7058,7 +7058,7 @@
   {
     "card_id": "GD02-091",
     "card_no": "GD02-091",
-    "name": "哈曼・坎恩",
+    "name": "哈曼・嘉",
     "rarity": "R",
     "spCol": "",
     "block_icon": "1",
@@ -7082,7 +7082,7 @@
   {
     "card_id": "GD02-091_p1",
     "card_no": "GD02-091",
-    "name": "哈曼・坎恩",
+    "name": "哈曼・嘉",
     "rarity": "R +",
     "spCol": "",
     "block_icon": "1",
@@ -7106,7 +7106,7 @@
   {
     "card_id": "GD02-092",
     "card_no": "GD02-092",
-    "name": "夏基亞・佛羅斯特",
+    "name": "沙亞・福洛斯特",
     "rarity": "U",
     "spCol": "",
     "block_icon": "1",
@@ -7130,7 +7130,7 @@
   {
     "card_id": "GD02-093",
     "card_no": "GD02-093",
-    "name": "歐爾巴・佛羅斯特",
+    "name": "歐巴・福洛斯特",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -7154,7 +7154,7 @@
   {
     "card_id": "GD02-094",
     "card_no": "GD02-094",
-    "name": "嘉羅德・蘭＆蒂法・安迪爾",
+    "name": "卡洛・萊＆荻花・安迪爾",
     "rarity": "R",
     "spCol": "",
     "block_icon": "1",
@@ -7178,7 +7178,7 @@
   {
     "card_id": "GD02-094_p1",
     "card_no": "GD02-094",
-    "name": "嘉羅德・蘭＆蒂法・安迪爾",
+    "name": "卡洛・萊＆荻花・安迪爾",
     "rarity": "R +",
     "spCol": "",
     "block_icon": "1",
@@ -7202,7 +7202,7 @@
   {
     "card_id": "GD02-095",
     "card_no": "GD02-095",
-    "name": "拉芙特・法蘭克蘭登",
+    "name": "拉芙達・法蘭克蘭度",
     "rarity": "U",
     "spCol": "",
     "block_icon": "1",
@@ -7226,7 +7226,7 @@
   {
     "card_id": "GD02-096",
     "card_no": "GD02-096",
-    "name": "德席爾・加列特",
+    "name": "迪斯路・加列圖",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -7298,7 +7298,7 @@
   {
     "card_id": "GD02-098",
     "card_no": "GD02-098",
-    "name": "克瓦特羅・巴吉納",
+    "name": "古華多羅・巴茲拿",
     "rarity": "U",
     "spCol": "",
     "block_icon": "1",
@@ -7322,7 +7322,7 @@
   {
     "card_id": "GD02-099",
     "card_no": "GD02-099",
-    "name": "蓋里歐・鮑德溫",
+    "name": "蓋里奧・巴特韋恩",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -7346,7 +7346,7 @@
   {
     "card_id": "GD02-100",
     "card_no": "GD02-100",
-    "name": "逆轉之策",
+    "name": "逆轉的一手",
     "rarity": "R",
     "spCol": "",
     "block_icon": "1",
@@ -7370,7 +7370,7 @@
   {
     "card_id": "GD02-100_p1",
     "card_no": "GD02-100",
-    "name": "逆轉之策",
+    "name": "逆轉的一手",
     "rarity": "R +",
     "spCol": "",
     "block_icon": "1",
@@ -7562,7 +7562,7 @@
   {
     "card_id": "GD02-107",
     "card_no": "GD02-107",
-    "name": "全領域攻擊",
+    "name": "全方位攻擊",
     "rarity": "R",
     "spCol": "",
     "block_icon": "1",
@@ -7586,7 +7586,7 @@
   {
     "card_id": "GD02-107_p1",
     "card_no": "GD02-107",
-    "name": "全領域攻擊",
+    "name": "全方位攻擊",
     "rarity": "R +",
     "spCol": "",
     "block_icon": "1",
@@ -7610,7 +7610,7 @@
   {
     "card_id": "GD02-108",
     "card_no": "GD02-108",
-    "name": "那架看起來比較強耶？",
+    "name": "那一方不是看來更強嗎？",
     "rarity": "U",
     "spCol": "",
     "block_icon": "1",
@@ -7706,7 +7706,7 @@
   {
     "card_id": "GD02-111",
     "card_no": "GD02-111",
-    "name": "決戰王牌",
+    "name": "決戰的王牌",
     "rarity": "R",
     "spCol": "",
     "block_icon": "1",
@@ -7730,7 +7730,7 @@
   {
     "card_id": "GD02-112",
     "card_no": "GD02-112",
-    "name": "片刻的休憩時光",
+    "name": "休憩的愜意時光",
     "rarity": "R",
     "spCol": "",
     "block_icon": "1",
@@ -7754,7 +7754,7 @@
   {
     "card_id": "GD02-112_p1",
     "card_no": "GD02-112",
-    "name": "片刻的休憩時光",
+    "name": "休憩的愜意時光",
     "rarity": "R +",
     "spCol": "",
     "block_icon": "1",
@@ -7850,7 +7850,7 @@
   {
     "card_id": "GD02-116",
     "card_no": "GD02-116",
-    "name": "夥伴情誼",
+    "name": "夥伴意識",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -7874,7 +7874,7 @@
   {
     "card_id": "GD02-117",
     "card_no": "GD02-117",
-    "name": "新的脈動",
+    "name": "新的鼓動",
     "rarity": "R",
     "spCol": "",
     "block_icon": "1",
@@ -7946,7 +7946,7 @@
   {
     "card_id": "GD02-120",
     "card_no": "GD02-120",
-    "name": "機師志願",
+    "name": "成為機師的志願",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -7994,7 +7994,7 @@
   {
     "card_id": "GD02-122",
     "card_no": "GD02-122",
-    "name": "亞力山卓",
+    "name": "亞歷山大號",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -8018,7 +8018,7 @@
   {
     "card_id": "GD02-123",
     "card_no": "GD02-123",
-    "name": "索頓號",
+    "name": "蘇頓號",
     "rarity": "R",
     "spCol": "",
     "block_icon": "1",
@@ -8042,7 +8042,7 @@
   {
     "card_id": "GD02-124",
     "card_no": "GD02-124",
-    "name": "歌姬號",
+    "name": "迪娃女神號",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -8066,7 +8066,7 @@
   {
     "card_id": "GD02-125",
     "card_no": "GD02-125",
-    "name": "格瓦丹",
+    "name": "古華達",
     "rarity": "R",
     "spCol": "",
     "block_icon": "1",
@@ -8090,7 +8090,7 @@
   {
     "card_id": "GD02-126",
     "card_no": "GD02-126",
-    "name": "修司的祕密基地",
+    "name": "修治的隱密據點",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -8114,7 +8114,7 @@
   {
     "card_id": "GD02-127",
     "card_no": "GD02-127",
-    "name": "和平號",
+    "name": "自由號",
     "rarity": "U",
     "spCol": "",
     "block_icon": "1",
@@ -8138,7 +8138,7 @@
   {
     "card_id": "GD02-128",
     "card_no": "GD02-128",
-    "name": "雙髻鯊",
+    "name": "鎚頭鯊號",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -8162,7 +8162,7 @@
   {
     "card_id": "GD02-129",
     "card_no": "GD02-129",
-    "name": "阿卡馬",
+    "name": "亞加瑪",
     "rarity": "R",
     "spCol": "",
     "block_icon": "1",
@@ -8186,7 +8186,7 @@
   {
     "card_id": "GD02-129_p1",
     "card_no": "GD02-129",
-    "name": "阿卡馬",
+    "name": "亞加瑪",
     "rarity": "R +",
     "spCol": "",
     "block_icon": "1",
@@ -8210,7 +8210,7 @@
   {
     "card_id": "GD02-130",
     "card_no": "GD02-130",
-    "name": "八腳神馬號",
+    "name": "斯雷普尼爾號",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -8234,7 +8234,7 @@
   {
     "card_id": "R-010",
     "card_no": "R-010",
-    "name": "能源",
+    "name": "資源",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -8258,7 +8258,7 @@
   {
     "card_id": "R-010_p1",
     "card_no": "R-010",
-    "name": "能源",
+    "name": "資源",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "1",
@@ -8282,7 +8282,7 @@
   {
     "card_id": "R-011",
     "card_no": "R-011",
-    "name": "能源",
+    "name": "資源",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -8306,7 +8306,7 @@
   {
     "card_id": "R-011_p1",
     "card_no": "R-011",
-    "name": "能源",
+    "name": "資源",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "1",
@@ -8330,7 +8330,7 @@
   {
     "card_id": "R-012",
     "card_no": "R-012",
-    "name": "能源",
+    "name": "資源",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -8354,7 +8354,7 @@
   {
     "card_id": "R-012_p1",
     "card_no": "R-012",
-    "name": "能源",
+    "name": "資源",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "1",
@@ -8378,7 +8378,7 @@
   {
     "card_id": "R-013",
     "card_no": "R-013",
-    "name": "能源",
+    "name": "資源",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -8402,7 +8402,7 @@
   {
     "card_id": "R-013_p1",
     "card_no": "R-013",
-    "name": "能源",
+    "name": "資源",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "1",
@@ -8426,7 +8426,7 @@
   {
     "card_id": "R-014",
     "card_no": "R-014",
-    "name": "能源",
+    "name": "資源",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -8450,7 +8450,7 @@
   {
     "card_id": "R-014_p1",
     "card_no": "R-014",
-    "name": "能源",
+    "name": "資源",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "1",
@@ -8474,7 +8474,7 @@
   {
     "card_id": "R-015",
     "card_no": "R-015",
-    "name": "能源",
+    "name": "資源",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -8498,7 +8498,7 @@
   {
     "card_id": "R-015_p1",
     "card_no": "R-015",
-    "name": "能源",
+    "name": "資源",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "1",
@@ -8522,7 +8522,7 @@
   {
     "card_id": "R-015_p2",
     "card_no": "R-015",
-    "name": "能源",
+    "name": "資源",
     "rarity": "C ++",
     "spCol": "",
     "block_icon": "1",
@@ -8546,7 +8546,7 @@
   {
     "card_id": "R-016",
     "card_no": "R-016",
-    "name": "能源",
+    "name": "資源",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -8570,7 +8570,7 @@
   {
     "card_id": "R-016_p1",
     "card_no": "R-016",
-    "name": "能源",
+    "name": "資源",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "1",
@@ -8594,7 +8594,7 @@
   {
     "card_id": "R-017",
     "card_no": "R-017",
-    "name": "能源",
+    "name": "資源",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -8618,7 +8618,7 @@
   {
     "card_id": "R-017_p1",
     "card_no": "R-017",
-    "name": "能源",
+    "name": "資源",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "1",
@@ -8642,7 +8642,7 @@
   {
     "card_id": "R-018",
     "card_no": "R-018",
-    "name": "能源",
+    "name": "資源",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -8666,7 +8666,7 @@
   {
     "card_id": "R-018_p1",
     "card_no": "R-018",
-    "name": "能源",
+    "name": "資源",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "1",
@@ -8690,7 +8690,7 @@
   {
     "card_id": "R-019",
     "card_no": "R-019",
-    "name": "能源",
+    "name": "資源",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -8714,7 +8714,7 @@
   {
     "card_id": "R-019_p1",
     "card_no": "R-019",
-    "name": "能源",
+    "name": "資源",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "1",
@@ -8738,7 +8738,7 @@
   {
     "card_id": "T-012",
     "card_no": "T-012",
-    "name": "德特雷斯",
+    "name": "多托列斯",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -8762,7 +8762,7 @@
   {
     "card_id": "GD01-100_p5",
     "card_no": "GD01-100",
-    "name": "覺悟的表露",
+    "name": "覺悟的表現",
     "rarity": "U +",
     "spCol": "SP",
     "block_icon": "1",
@@ -8954,7 +8954,7 @@
   {
     "card_id": "GD03-003",
     "card_no": "GD03-003",
-    "name": "梅薩拉",
+    "name": "密沙羅",
     "rarity": "R",
     "spCol": "",
     "block_icon": "1",
@@ -8978,7 +8978,7 @@
   {
     "card_id": "GD03-003_p1",
     "card_no": "GD03-003",
-    "name": "梅薩拉",
+    "name": "密沙羅",
     "rarity": "R +",
     "spCol": "",
     "block_icon": "1",
@@ -9002,7 +9002,7 @@
   {
     "card_id": "GD03-004",
     "card_no": "GD03-004",
-    "name": "漢摩拉比",
+    "name": "赫巴比",
     "rarity": "R",
     "spCol": "",
     "block_icon": "1",
@@ -9050,7 +9050,7 @@
   {
     "card_id": "GD03-006",
     "card_no": "GD03-006",
-    "name": "潘娜洛普（中型型態）",
+    "name": "潘尼洛普（中間形態）",
     "rarity": "R",
     "spCol": "",
     "block_icon": "1",
@@ -9098,7 +9098,7 @@
   {
     "card_id": "GD03-008",
     "card_no": "GD03-008",
-    "name": "波利諾克・沙曼",
+    "name": "波連洛克・沙曼",
     "rarity": "U",
     "spCol": "",
     "block_icon": "1",
@@ -9146,7 +9146,7 @@
   {
     "card_id": "GD03-010",
     "card_no": "GD03-010",
-    "name": "全裝甲獨角獸高達（破壞模式）",
+    "name": "全武裝獨角獸高達（破壞模式）",
     "rarity": "U",
     "spCol": "",
     "block_icon": "1",
@@ -9170,7 +9170,7 @@
   {
     "card_id": "GD03-010_p1",
     "card_no": "GD03-010",
-    "name": "全裝甲獨角獸高達（破壞模式）",
+    "name": "全武裝獨角獸高達（破壞模式）",
     "rarity": "U +",
     "spCol": "",
     "block_icon": "1",
@@ -9194,7 +9194,7 @@
   {
     "card_id": "GD03-011",
     "card_no": "GD03-011",
-    "name": "吉姆狙擊型Ⅱ",
+    "name": "吉姆・狙擊型Ⅱ",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -9218,7 +9218,7 @@
   {
     "card_id": "GD03-012",
     "card_no": "GD03-012",
-    "name": "梅薩拉（MA型態）",
+    "name": "密沙拿（MA形態）",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -9242,7 +9242,7 @@
   {
     "card_id": "GD03-013",
     "card_no": "GD03-013",
-    "name": "高性能薩克",
+    "name": "高渣古",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -9266,7 +9266,7 @@
   {
     "card_id": "GD03-014",
     "card_no": "GD03-014",
-    "name": "高性能薩克特裝型",
+    "name": "高渣古改",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -9314,7 +9314,7 @@
   {
     "card_id": "GD03-016",
     "card_no": "GD03-016",
-    "name": "全裝甲獨角獸高達（獨角獸模式）",
+    "name": "全武裝獨角獸高達（獨角獸模式）",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -9338,7 +9338,7 @@
   {
     "card_id": "GD03-017",
     "card_no": "GD03-017",
-    "name": "肯普法",
+    "name": "京寶梵",
     "rarity": "LR",
     "spCol": "",
     "block_icon": "1",
@@ -9362,7 +9362,7 @@
   {
     "card_id": "GD03-017_p1",
     "card_no": "GD03-017",
-    "name": "肯普法",
+    "name": "京寶梵",
     "rarity": "LR +",
     "spCol": "",
     "block_icon": "1",
@@ -9386,7 +9386,7 @@
   {
     "card_id": "GD03-017_p2",
     "card_no": "GD03-017",
-    "name": "肯普法",
+    "name": "京寶梵",
     "rarity": "LR ++",
     "spCol": "",
     "block_icon": "1",
@@ -9458,7 +9458,7 @@
   {
     "card_id": "GD03-019",
     "card_no": "GD03-019",
-    "name": "高達AGE-2 普通型",
+    "name": "高達AGE-2 一般型",
     "rarity": "LR",
     "spCol": "",
     "block_icon": "1",
@@ -9482,7 +9482,7 @@
   {
     "card_id": "GD03-019_p1",
     "card_no": "GD03-019",
-    "name": "高達AGE-2 普通型",
+    "name": "高達AGE-2 一般型",
     "rarity": "LR +",
     "spCol": "",
     "block_icon": "1",
@@ -9506,7 +9506,7 @@
   {
     "card_id": "GD03-020",
     "card_no": "GD03-020",
-    "name": "薩克Ⅱ改",
+    "name": "渣古Ⅱ改",
     "rarity": "R",
     "spCol": "",
     "block_icon": "1",
@@ -9530,7 +9530,7 @@
   {
     "card_id": "GD03-020_p1",
     "card_no": "GD03-020",
-    "name": "薩克Ⅱ改",
+    "name": "渣古Ⅱ改",
     "rarity": "R +",
     "spCol": "",
     "block_icon": "1",
@@ -9578,7 +9578,7 @@
   {
     "card_id": "GD03-022",
     "card_no": "GD03-022",
-    "name": "主天使高達",
+    "name": "高達基里昂斯",
     "rarity": "R",
     "spCol": "",
     "block_icon": "1",
@@ -9602,7 +9602,7 @@
   {
     "card_id": "GD03-022_p1",
     "card_no": "GD03-022",
-    "name": "主天使高達",
+    "name": "高達基里昂斯",
     "rarity": "R +",
     "spCol": "",
     "block_icon": "1",
@@ -9650,7 +9650,7 @@
   {
     "card_id": "GD03-024",
     "card_no": "GD03-024",
-    "name": "高性能葛克",
+    "name": "高戰蟹",
     "rarity": "U",
     "spCol": "",
     "block_icon": "1",
@@ -9698,7 +9698,7 @@
   {
     "card_id": "GD03-026",
     "card_no": "GD03-026",
-    "name": "力天使高達",
+    "name": "高達戴勒米",
     "rarity": "U",
     "spCol": "",
     "block_icon": "1",
@@ -9722,7 +9722,7 @@
   {
     "card_id": "GD03-027",
     "card_no": "GD03-027",
-    "name": "茲卡克E",
+    "name": "魔蟹E",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -9770,7 +9770,7 @@
   {
     "card_id": "GD03-029",
     "card_no": "GD03-029",
-    "name": "重砲手高達改",
+    "name": "重炮手高達改",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -9794,7 +9794,7 @@
   {
     "card_id": "GD03-030",
     "card_no": "GD03-030",
-    "name": "主天使高達（尾部組件裝備）（飛行型態）",
+    "name": "高達基里昂斯（尾部組件裝備）（飛行形態）",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -9842,7 +9842,7 @@
   {
     "card_id": "GD03-032",
     "card_no": "GD03-032",
-    "name": "薩克 四蛇眼規格[雪怪]（GQ）",
+    "name": "渣古 四蛇眼規格[雪怪]（GQ）",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -9914,7 +9914,7 @@
   {
     "card_id": "GD03-034",
     "card_no": "GD03-034",
-    "name": "GQuuuuuuX（Ω腦波傳導啟動時）",
+    "name": "GQuuuuuuX（Ω精神感應起動時）",
     "rarity": "LR",
     "spCol": "",
     "block_icon": "1",
@@ -9938,7 +9938,7 @@
   {
     "card_id": "GD03-034_p1",
     "card_no": "GD03-034",
-    "name": "GQuuuuuuX（Ω腦波傳導啟動時）",
+    "name": "GQuuuuuuX（Ω精神感應起動時）",
     "rarity": "LR +",
     "spCol": "",
     "block_icon": "1",
@@ -10034,7 +10034,7 @@
   {
     "card_id": "GD03-036",
     "card_no": "GD03-036",
-    "name": "Ξ高達（飛行型態）",
+    "name": "Ξ高達（飛行形態）",
     "rarity": "R",
     "spCol": "",
     "block_icon": "1",
@@ -10058,7 +10058,7 @@
   {
     "card_id": "GD03-036_p1",
     "card_no": "GD03-036",
-    "name": "Ξ高達（飛行型態）",
+    "name": "Ξ高達（飛行形態）",
     "rarity": "R +",
     "spCol": "",
     "block_icon": "1",
@@ -10082,7 +10082,7 @@
   {
     "card_id": "GD03-037",
     "card_no": "GD03-037",
-    "name": "貝爾汀格",
+    "name": "貝迪哥",
     "rarity": "R",
     "spCol": "",
     "block_icon": "1",
@@ -10106,7 +10106,7 @@
   {
     "card_id": "GD03-037_p1",
     "card_no": "GD03-037",
-    "name": "貝爾汀格",
+    "name": "貝迪哥",
     "rarity": "R +",
     "spCol": "",
     "block_icon": "1",
@@ -10130,7 +10130,7 @@
   {
     "card_id": "GD03-038",
     "card_no": "GD03-038",
-    "name": "蓋茲（指揮官用）",
+    "name": "基捷（指揮官用）",
     "rarity": "R",
     "spCol": "",
     "block_icon": "1",
@@ -10178,7 +10178,7 @@
   {
     "card_id": "GD03-040",
     "card_no": "GD03-040",
-    "name": "華沙哥高達&阿斯特龍高達",
+    "name": "華沙哥高達＆阿斯特龍高達",
     "rarity": "U",
     "spCol": "",
     "block_icon": "1",
@@ -10202,7 +10202,7 @@
   {
     "card_id": "GD03-041",
     "card_no": "GD03-041",
-    "name": "帕度里亞",
+    "name": "帕度利亞",
     "rarity": "U",
     "spCol": "",
     "block_icon": "1",
@@ -10274,7 +10274,7 @@
   {
     "card_id": "GD03-044",
     "card_no": "GD03-044",
-    "name": "德特雷斯・飛行型",
+    "name": "多托列斯・飛行型",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -10298,7 +10298,7 @@
   {
     "card_id": "GD03-045",
     "card_no": "GD03-045",
-    "name": "巴林",
+    "name": "巴利艾度",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -10322,7 +10322,7 @@
   {
     "card_id": "GD03-046",
     "card_no": "GD03-046",
-    "name": "席古",
+    "name": "捷高",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -10346,7 +10346,7 @@
   {
     "card_id": "GD03-047",
     "card_no": "GD03-047",
-    "name": "迪因（指揮官用）",
+    "name": "迪武（指揮官用）",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -10394,7 +10394,7 @@
   {
     "card_id": "GD03-049",
     "card_no": "GD03-049",
-    "name": "能天使高達（TRANS-AM）",
+    "name": "高達艾斯亞（Trans-Am）",
     "rarity": "LR",
     "spCol": "",
     "block_icon": "1",
@@ -10418,7 +10418,7 @@
   {
     "card_id": "GD03-049_p1",
     "card_no": "GD03-049",
-    "name": "能天使高達（TRANS-AM）",
+    "name": "高達艾斯亞（Trans-Am）",
     "rarity": "LR +",
     "spCol": "",
     "block_icon": "1",
@@ -10442,7 +10442,7 @@
   {
     "card_id": "GD03-050",
     "card_no": "GD03-050",
-    "name": "高達巴巴托司狼式",
+    "name": "高達・巴巴托司狼式",
     "rarity": "LR",
     "spCol": "",
     "block_icon": "1",
@@ -10466,7 +10466,7 @@
   {
     "card_id": "GD03-050_p1",
     "card_no": "GD03-050",
-    "name": "高達巴巴托司狼式",
+    "name": "高達・巴巴托司狼式",
     "rarity": "LR +",
     "spCol": "",
     "block_icon": "1",
@@ -10490,7 +10490,7 @@
   {
     "card_id": "GD03-051",
     "card_no": "GD03-051",
-    "name": "高達X（分裂者）",
+    "name": "高達X分裂者",
     "rarity": "R",
     "spCol": "",
     "block_icon": "1",
@@ -10514,7 +10514,7 @@
   {
     "card_id": "GD03-052",
     "card_no": "GD03-052",
-    "name": "德天使高達",
+    "name": "高達華塞亞",
     "rarity": "R",
     "spCol": "",
     "block_icon": "1",
@@ -10538,7 +10538,7 @@
   {
     "card_id": "GD03-052_p1",
     "card_no": "GD03-052",
-    "name": "德天使高達",
+    "name": "高達華塞亞",
     "rarity": "R +",
     "spCol": "",
     "block_icon": "1",
@@ -10610,7 +10610,7 @@
   {
     "card_id": "GD03-054",
     "card_no": "GD03-054",
-    "name": "堅德拉",
+    "name": "傑德拿",
     "rarity": "R",
     "spCol": "",
     "block_icon": "1",
@@ -10634,7 +10634,7 @@
   {
     "card_id": "GD03-055",
     "card_no": "GD03-055",
-    "name": "端白星高達（第2型態）",
+    "name": "端白星高達（第2形態）",
     "rarity": "R",
     "spCol": "",
     "block_icon": "1",
@@ -10658,7 +10658,7 @@
   {
     "card_id": "GD03-056",
     "card_no": "GD03-056",
-    "name": "高達巴巴托司 適應型",
+    "name": "高達・巴巴托司適應型",
     "rarity": "R",
     "spCol": "",
     "block_icon": "1",
@@ -10682,7 +10682,7 @@
   {
     "card_id": "GD03-057",
     "card_no": "GD03-057",
-    "name": "GN裝甲模組E型",
+    "name": "GN裝甲 TYPE-E",
     "rarity": "U",
     "spCol": "",
     "block_icon": "1",
@@ -10730,7 +10730,7 @@
   {
     "card_id": "GD03-059",
     "card_no": "GD03-059",
-    "name": "賽達斯R",
+    "name": "戰達斯R",
     "rarity": "U",
     "spCol": "",
     "block_icon": "1",
@@ -10778,7 +10778,7 @@
   {
     "card_id": "GD03-061",
     "card_no": "GD03-061",
-    "name": "高達巴巴托司（第6型態）",
+    "name": "高達・巴巴托司（第6形態）",
     "rarity": "U",
     "spCol": "",
     "block_icon": "1",
@@ -10874,7 +10874,7 @@
   {
     "card_id": "GD03-065",
     "card_no": "GD03-065",
-    "name": "賽達斯M",
+    "name": "戰達斯M",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -10898,7 +10898,7 @@
   {
     "card_id": "GD03-066",
     "card_no": "GD03-066",
-    "name": "高達巴巴托司（第5型態/地上戰規格）",
+    "name": "高達・巴巴托司（第5形態/地上戰規格）",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -10970,7 +10970,7 @@
   {
     "card_id": "GD03-069",
     "card_no": "GD03-069",
-    "name": "葛拉漢專用聯合旗幟式特裝型",
+    "name": "古萊哈姆專用聯邦旗幟特裝型",
     "rarity": "LR",
     "spCol": "",
     "block_icon": "1",
@@ -10994,7 +10994,7 @@
   {
     "card_id": "GD03-069_p1",
     "card_no": "GD03-069",
-    "name": "葛拉漢專用聯合旗幟式特裝型",
+    "name": "古萊哈姆專用聯邦旗幟特裝型",
     "rarity": "LR +",
     "spCol": "",
     "block_icon": "1",
@@ -11066,7 +11066,7 @@
   {
     "card_id": "GD03-071",
     "card_no": "GD03-071",
-    "name": "Z高達（生化感應器啟動時）",
+    "name": "Z高達（生物感應器起動時）",
     "rarity": "R",
     "spCol": "",
     "block_icon": "1",
@@ -11090,7 +11090,7 @@
   {
     "card_id": "GD03-071_p1",
     "card_no": "GD03-071",
-    "name": "Z高達（生化感應器啟動時）",
+    "name": "Z高達（生物感應器起動時）",
     "rarity": "R +",
     "spCol": "",
     "block_icon": "1",
@@ -11138,7 +11138,7 @@
   {
     "card_id": "GD03-073",
     "card_no": "GD03-073",
-    "name": "格雷茲・艾因",
+    "name": "古尼捷・艾因",
     "rarity": "R",
     "spCol": "",
     "block_icon": "1",
@@ -11162,7 +11162,7 @@
   {
     "card_id": "GD03-073_p1",
     "card_no": "GD03-073",
-    "name": "格雷茲・艾因",
+    "name": "古尼捷・艾因",
     "rarity": "R +",
     "spCol": "",
     "block_icon": "1",
@@ -11186,7 +11186,7 @@
   {
     "card_id": "GD03-074",
     "card_no": "GD03-074",
-    "name": "鐵人式桃子",
+    "name": "鐵人桃子",
     "rarity": "R",
     "spCol": "",
     "block_icon": "1",
@@ -11282,7 +11282,7 @@
   {
     "card_id": "GD03-078",
     "card_no": "GD03-078",
-    "name": "鐵人式高機動型",
+    "name": "鐵人高機動型",
     "rarity": "U",
     "spCol": "",
     "block_icon": "1",
@@ -11306,7 +11306,7 @@
   {
     "card_id": "GD03-079",
     "card_no": "GD03-079",
-    "name": "G防禦機",
+    "name": "G防衛者",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -11330,7 +11330,7 @@
   {
     "card_id": "GD03-080",
     "card_no": "GD03-080",
-    "name": "高達錫蒙力騎兵（騎兵型態）",
+    "name": "高達錫蒙力騎兵（騎兵形態）",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -11354,7 +11354,7 @@
   {
     "card_id": "GD03-081",
     "card_no": "GD03-081",
-    "name": "AEU制定式（展示機色）",
+    "name": "AEU依拉古頓（示範機色）",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -11378,7 +11378,7 @@
   {
     "card_id": "GD03-082",
     "card_no": "GD03-082",
-    "name": "聯合旗幟式",
+    "name": "聯邦旗幟",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -11402,7 +11402,7 @@
   {
     "card_id": "GD03-083",
     "card_no": "GD03-083",
-    "name": "AEU暴徒式",
+    "name": "AEU凱里昂",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -11426,7 +11426,7 @@
   {
     "card_id": "GD03-084",
     "card_no": "GD03-084",
-    "name": "帕普提瑪斯・西羅克",
+    "name": "帕普迪馬斯・斯洛哥",
     "rarity": "R",
     "spCol": "",
     "block_icon": "1",
@@ -11450,7 +11450,7 @@
   {
     "card_id": "GD03-084_p1",
     "card_no": "GD03-084",
-    "name": "帕普提瑪斯・西羅克",
+    "name": "帕普迪馬斯・斯洛哥",
     "rarity": "R +",
     "spCol": "",
     "block_icon": "1",
@@ -11474,7 +11474,7 @@
   {
     "card_id": "GD03-085",
     "card_no": "GD03-085",
-    "name": "克莉絲汀・邁肯錫",
+    "name": "克莉絲汀娜・瑪肯吉",
     "rarity": "U",
     "spCol": "",
     "block_icon": "1",
@@ -11498,7 +11498,7 @@
   {
     "card_id": "GD03-086",
     "card_no": "GD03-086",
-    "name": "亞贊・蓋伯",
+    "name": "日札・基保",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -11522,7 +11522,7 @@
   {
     "card_id": "GD03-087",
     "card_no": "GD03-087",
-    "name": "莎拉・薩比亞羅夫",
+    "name": "莎拉・薩比洛夫",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -11618,7 +11618,7 @@
   {
     "card_id": "GD03-090",
     "card_no": "GD03-090",
-    "name": "米海爾・卡明斯基",
+    "name": "米哈路・卡明斯基",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -11642,7 +11642,7 @@
   {
     "card_id": "GD03-091",
     "card_no": "GD03-091",
-    "name": "拉烏・魯・克魯澤",
+    "name": "拉・魯・古魯謝",
     "rarity": "R",
     "spCol": "",
     "block_icon": "1",
@@ -11666,7 +11666,7 @@
   {
     "card_id": "GD03-091_p1",
     "card_no": "GD03-091",
-    "name": "拉烏・魯・克魯澤",
+    "name": "拉・魯・古魯謝",
     "rarity": "R +",
     "spCol": "",
     "block_icon": "1",
@@ -11690,7 +11690,7 @@
   {
     "card_id": "GD03-092",
     "card_no": "GD03-092",
-    "name": "涅安",
+    "name": "娜安",
     "rarity": "U",
     "spCol": "",
     "block_icon": "1",
@@ -11786,7 +11786,7 @@
   {
     "card_id": "GD03-095",
     "card_no": "GD03-095",
-    "name": "雅芝・古魯明",
+    "name": "亞芝・古魯明",
     "rarity": "U",
     "spCol": "",
     "block_icon": "1",
@@ -11810,7 +11810,7 @@
   {
     "card_id": "GD03-096",
     "card_no": "GD03-096",
-    "name": "賈米爾・尼特",
+    "name": "舒文・尼特",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -11834,7 +11834,7 @@
   {
     "card_id": "GD03-097",
     "card_no": "GD03-097",
-    "name": "威斯塔利歐・阿法姆",
+    "name": "維達利奧・阿凡",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -11858,7 +11858,7 @@
   {
     "card_id": "GD03-098",
     "card_no": "GD03-098",
-    "name": "葛拉漢・耶卡",
+    "name": "古萊哈姆・依卡",
     "rarity": "R",
     "spCol": "",
     "block_icon": "1",
@@ -11882,7 +11882,7 @@
   {
     "card_id": "GD03-098_p1",
     "card_no": "GD03-098",
-    "name": "葛拉漢・耶卡",
+    "name": "古萊哈姆・依卡",
     "rarity": "R +",
     "spCol": "",
     "block_icon": "1",
@@ -11906,7 +11906,7 @@
   {
     "card_id": "GD03-099",
     "card_no": "GD03-099",
-    "name": "艾瑪・辛",
+    "name": "愛瑪・辛",
     "rarity": "U",
     "spCol": "",
     "block_icon": "1",
@@ -11930,7 +11930,7 @@
   {
     "card_id": "GD03-100",
     "card_no": "GD03-100",
-    "name": "索瑪・皮利斯",
+    "name": "索瑪・皮里斯",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -12050,7 +12050,7 @@
   {
     "card_id": "GD03-104",
     "card_no": "GD03-104",
-    "name": "蕾柯亞的氣息",
+    "name": "莉哥亞的氣息",
     "rarity": "U",
     "spCol": "",
     "block_icon": "1",
@@ -12122,7 +12122,7 @@
   {
     "card_id": "GD03-106",
     "card_no": "GD03-106",
-    "name": "M.A.V.戰術",
+    "name": "M・A・V・戰術",
     "rarity": "U",
     "spCol": "",
     "block_icon": "1",
@@ -12170,7 +12170,7 @@
   {
     "card_id": "GD03-108",
     "card_no": "GD03-108",
-    "name": "離戰場還有幾英里？",
+    "name": "距離戰場還有幾英里？",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -12266,7 +12266,7 @@
   {
     "card_id": "GD03-111",
     "card_no": "GD03-111",
-    "name": "現場潛入員",
+    "name": "現地潛入員",
     "rarity": "U",
     "spCol": "",
     "block_icon": "1",
@@ -12434,7 +12434,7 @@
   {
     "card_id": "GD03-117",
     "card_no": "GD03-117",
-    "name": "歐格的號令",
+    "name": "奧加的號令",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -12506,7 +12506,7 @@
   {
     "card_id": "GD03-119",
     "card_no": "GD03-119",
-    "name": "笨拙地接近",
+    "name": "拙劣的手法",
     "rarity": "U",
     "spCol": "",
     "block_icon": "1",
@@ -12530,7 +12530,7 @@
   {
     "card_id": "GD03-120",
     "card_no": "GD03-120",
-    "name": "不死身的克拉桑瓦",
+    "name": "不死身的歌拉沙禾",
     "rarity": "U",
     "spCol": "",
     "block_icon": "1",
@@ -12554,7 +12554,7 @@
   {
     "card_id": "GD03-121",
     "card_no": "GD03-121",
-    "name": "獨斷出擊",
+    "name": "擅自出擊",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -12602,7 +12602,7 @@
   {
     "card_id": "GD03-123",
     "card_no": "GD03-123",
-    "name": "丘比特里斯號",
+    "name": "朱比多利斯",
     "rarity": "R",
     "spCol": "",
     "block_icon": "1",
@@ -12674,7 +12674,7 @@
   {
     "card_id": "GD03-126",
     "card_no": "GD03-126",
-    "name": "獨眼巨人隊",
+    "name": "獨眼巨人小隊",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -12698,7 +12698,7 @@
   {
     "card_id": "GD03-127",
     "card_no": "GD03-127",
-    "name": "雅金・杜威",
+    "name": "亞金・杜域",
     "rarity": "U",
     "spCol": "",
     "block_icon": "1",
@@ -12818,7 +12818,7 @@
   {
     "card_id": "GD03-132",
     "card_no": "GD03-132",
-    "name": "拉迪修",
+    "name": "拉迪殊",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -12842,7 +12842,7 @@
   {
     "card_id": "R-020",
     "card_no": "R-020",
-    "name": "能源",
+    "name": "資源",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -12866,7 +12866,7 @@
   {
     "card_id": "R-020_p1",
     "card_no": "R-020",
-    "name": "能源",
+    "name": "資源",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "1",
@@ -12890,7 +12890,7 @@
   {
     "card_id": "R-021",
     "card_no": "R-021",
-    "name": "能源",
+    "name": "資源",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -12914,7 +12914,7 @@
   {
     "card_id": "R-021_p1",
     "card_no": "R-021",
-    "name": "能源",
+    "name": "資源",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "1",
@@ -12938,7 +12938,7 @@
   {
     "card_id": "R-022",
     "card_no": "R-022",
-    "name": "能源",
+    "name": "資源",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -12962,7 +12962,7 @@
   {
     "card_id": "R-022_p1",
     "card_no": "R-022",
-    "name": "能源",
+    "name": "資源",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "1",
@@ -12986,7 +12986,7 @@
   {
     "card_id": "R-023",
     "card_no": "R-023",
-    "name": "能源",
+    "name": "資源",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -13010,7 +13010,7 @@
   {
     "card_id": "R-023_p1",
     "card_no": "R-023",
-    "name": "能源",
+    "name": "資源",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "1",
@@ -13034,7 +13034,7 @@
   {
     "card_id": "R-024",
     "card_no": "R-024",
-    "name": "能源",
+    "name": "資源",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -13058,7 +13058,7 @@
   {
     "card_id": "R-024_p1",
     "card_no": "R-024",
-    "name": "能源",
+    "name": "資源",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "1",
@@ -13082,7 +13082,7 @@
   {
     "card_id": "R-025",
     "card_no": "R-025",
-    "name": "能源",
+    "name": "資源",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -13106,7 +13106,7 @@
   {
     "card_id": "R-025_p1",
     "card_no": "R-025",
-    "name": "能源",
+    "name": "資源",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "1",
@@ -13130,7 +13130,7 @@
   {
     "card_id": "R-025_p2",
     "card_no": "R-025",
-    "name": "能源",
+    "name": "資源",
     "rarity": "C ++",
     "spCol": "",
     "block_icon": "1",
@@ -13154,7 +13154,7 @@
   {
     "card_id": "R-026",
     "card_no": "R-026",
-    "name": "能源",
+    "name": "資源",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -13178,7 +13178,7 @@
   {
     "card_id": "R-026_p1",
     "card_no": "R-026",
-    "name": "能源",
+    "name": "資源",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "1",
@@ -13202,7 +13202,7 @@
   {
     "card_id": "R-027",
     "card_no": "R-027",
-    "name": "能源",
+    "name": "資源",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -13226,7 +13226,7 @@
   {
     "card_id": "R-027_p1",
     "card_no": "R-027",
-    "name": "能源",
+    "name": "資源",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "1",
@@ -13250,7 +13250,7 @@
   {
     "card_id": "R-028",
     "card_no": "R-028",
-    "name": "能源",
+    "name": "資源",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -13274,7 +13274,7 @@
   {
     "card_id": "R-028_p1",
     "card_no": "R-028",
-    "name": "能源",
+    "name": "資源",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "1",
@@ -13298,7 +13298,7 @@
   {
     "card_id": "R-029",
     "card_no": "R-029",
-    "name": "能源",
+    "name": "資源",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -13322,7 +13322,7 @@
   {
     "card_id": "R-029_p1",
     "card_no": "R-029",
-    "name": "能源",
+    "name": "資源",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "1",
@@ -13418,7 +13418,7 @@
   {
     "card_id": "T-013",
     "card_no": "T-013",
-    "name": "高性能葛克",
+    "name": "高戰蟹",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -13490,7 +13490,7 @@
   {
     "card_id": "T-016",
     "card_no": "T-016",
-    "name": "格雷茲改",
+    "name": "古尼捷改",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -13514,7 +13514,7 @@
   {
     "card_id": "T-017",
     "card_no": "T-017",
-    "name": "高達巴巴托司(第4形態)",
+    "name": "高達・巴巴托司（第4形態）",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -13562,7 +13562,7 @@
   {
     "card_id": "T-019",
     "card_no": "T-019",
-    "name": "GQuuuuuuX（Ω腦波傳導啟動時）",
+    "name": "GQuuuuuuX（Ω精神感應起動時）",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -13634,7 +13634,7 @@
   {
     "card_id": "GD03-026_p1",
     "card_no": "GD03-026",
-    "name": "力天使高達",
+    "name": "高達戴勒米",
     "rarity": "U +",
     "spCol": "SP",
     "block_icon": "1",
@@ -13682,7 +13682,7 @@
   {
     "card_id": "GD03-056_p1",
     "card_no": "GD03-056",
-    "name": "高達巴巴托司 適應型",
+    "name": "高達・巴巴托司適應型",
     "rarity": "R +",
     "spCol": "SP",
     "block_icon": "1",
@@ -13754,7 +13754,7 @@
   {
     "card_id": "GD04-002",
     "card_no": "GD04-002",
-    "name": "潘娜洛普（飛行型態）",
+    "name": "潘娜洛普（飛行形態）",
     "rarity": "LR",
     "spCol": "",
     "block_icon": "1",
@@ -13778,7 +13778,7 @@
   {
     "card_id": "GD04-002_p1",
     "card_no": "GD04-002",
-    "name": "潘娜洛普（飛行型態）",
+    "name": "潘娜洛普（飛行形態）",
     "rarity": "LR +",
     "spCol": "",
     "block_icon": "1",
@@ -13898,7 +13898,7 @@
   {
     "card_id": "GD04-006",
     "card_no": "GD04-006",
-    "name": "V Dash高達",
+    "name": "V Dash 高達",
     "rarity": "R",
     "spCol": "",
     "block_icon": "1",
@@ -13922,7 +13922,7 @@
   {
     "card_id": "GD04-006_p1",
     "card_no": "GD04-006",
-    "name": "V Dash高達",
+    "name": "V Dash 高達",
     "rarity": "R +",
     "spCol": "",
     "block_icon": "1",
@@ -13946,7 +13946,7 @@
   {
     "card_id": "GD04-007",
     "card_no": "GD04-007",
-    "name": "V Dash高達HEXA",
+    "name": "V 高達 Hexa",
     "rarity": "R",
     "spCol": "",
     "block_icon": "1",
@@ -13994,7 +13994,7 @@
   {
     "card_id": "GD04-009",
     "card_no": "GD04-009",
-    "name": "鋼加農（108）&鋼加農（109）",
+    "name": "鐳射大砲（108）＆鐳射大砲（109）",
     "rarity": "R",
     "spCol": "",
     "block_icon": "1",
@@ -14018,7 +14018,7 @@
   {
     "card_id": "GD04-009_p1",
     "card_no": "GD04-009",
-    "name": "鋼加農（108）&鋼加農（109）",
+    "name": "鐳射大砲（108）＆鐳射大砲（109）",
     "rarity": "R +",
     "spCol": "",
     "block_icon": "1",
@@ -14042,7 +14042,7 @@
   {
     "card_id": "GD04-010",
     "card_no": "GD04-010",
-    "name": "蓋布蘭",
+    "name": "基布蘭",
     "rarity": "U",
     "spCol": "",
     "block_icon": "1",
@@ -14090,7 +14090,7 @@
   {
     "card_id": "GD04-012",
     "card_no": "GD04-012",
-    "name": "核心推進機（005）&核心推進機（006）",
+    "name": "核心推進機（005）＆核心推進機（006）",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -14138,7 +14138,7 @@
   {
     "card_id": "GD04-014",
     "card_no": "GD04-014",
-    "name": "夏柯",
+    "name": "察高",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -14162,7 +14162,7 @@
   {
     "card_id": "GD04-015",
     "card_no": "GD04-015",
-    "name": "鋼伊基",
+    "name": "鋼伊哲",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -14186,7 +14186,7 @@
   {
     "card_id": "GD04-016",
     "card_no": "GD04-016",
-    "name": "索羅安特（神聖軍事同盟規格）",
+    "name": "佐羅亞特（神聖軍事同盟規格）",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -14210,7 +14210,7 @@
   {
     "card_id": "GD04-017",
     "card_no": "GD04-017",
-    "name": "吉翁克",
+    "name": "自護號",
     "rarity": "LR",
     "spCol": "",
     "block_icon": "1",
@@ -14234,7 +14234,7 @@
   {
     "card_id": "GD04-017_p1",
     "card_no": "GD04-017",
-    "name": "吉翁克",
+    "name": "自護號",
     "rarity": "LR +",
     "spCol": "",
     "block_icon": "1",
@@ -14258,7 +14258,7 @@
   {
     "card_id": "GD04-017_p2",
     "card_no": "GD04-017",
-    "name": "吉翁克",
+    "name": "自護號",
     "rarity": "LR ++",
     "spCol": "",
     "block_icon": "1",
@@ -14330,7 +14330,7 @@
   {
     "card_id": "GD04-019",
     "card_no": "GD04-019",
-    "name": "GN裝甲模組D型（TRANS-AM）",
+    "name": "GN裝甲 TYPE-D （TRANS-AM）",
     "rarity": "R",
     "spCol": "",
     "block_icon": "1",
@@ -14426,7 +14426,7 @@
   {
     "card_id": "GD04-022",
     "card_no": "GD04-022",
-    "name": "齊克羅加（MS型態）（GQ)",
+    "name": "奇格羅加（MS形態）（GQ）",
     "rarity": "R",
     "spCol": "",
     "block_icon": "1",
@@ -14450,7 +14450,7 @@
   {
     "card_id": "GD04-022_p1",
     "card_no": "GD04-022",
-    "name": "齊克羅加（MS型態）（GQ)",
+    "name": "奇格羅加（MS形態）（GQ）",
     "rarity": "R +",
     "spCol": "",
     "block_icon": "1",
@@ -14474,7 +14474,7 @@
   {
     "card_id": "GD04-023",
     "card_no": "GD04-023",
-    "name": "主天使高達（尾部推進器裝備）",
+    "name": "高達基里昂斯（尾部推進器裝備）",
     "rarity": "U",
     "spCol": "",
     "block_icon": "1",
@@ -14498,7 +14498,7 @@
   {
     "card_id": "GD04-024",
     "card_no": "GD04-024",
-    "name": "風靈高達（修改型）",
+    "name": "風靈高達（改修型）",
     "rarity": "U",
     "spCol": "",
     "block_icon": "1",
@@ -14546,7 +14546,7 @@
   {
     "card_id": "GD04-026",
     "card_no": "GD04-026",
-    "name": "多普戰機（卡爾馬・薩比専用）",
+    "name": "多普戰機（加曼・薩比專用）",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -14570,7 +14570,7 @@
   {
     "card_id": "GD04-027",
     "card_no": "GD04-027",
-    "name": "畢格羅",
+    "name": "宇宙魔蟹",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -14594,7 +14594,7 @@
   {
     "card_id": "GD04-028",
     "card_no": "GD04-028",
-    "name": "薩克雷洛",
+    "name": "渣古尼羅",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -14618,7 +14618,7 @@
   {
     "card_id": "GD04-029",
     "card_no": "GD04-029",
-    "name": "力天使高達（GN全身盾）",
+    "name": "高達戴勒米（GN全覆護盾）",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -14642,7 +14642,7 @@
   {
     "card_id": "GD04-030",
     "card_no": "GD04-030",
-    "name": "迪米教練機 雀丘專用機",
+    "name": "學園訓練機 賽賽專用機",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -14666,7 +14666,7 @@
   {
     "card_id": "GD04-031",
     "card_no": "GD04-031",
-    "name": "海因德里",
+    "name": "海因德利",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -14690,7 +14690,7 @@
   {
     "card_id": "GD04-032",
     "card_no": "GD04-032",
-    "name": "艾格沙貝専用吉昂（白瓷矛裝備）（GQ）",
+    "name": "艾古沙貝專用強人（白瓷矛裝備）（GQ）",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -14714,7 +14714,7 @@
   {
     "card_id": "GD04-033",
     "card_no": "GD04-033",
-    "name": "新吉翁克",
+    "name": "新自護號",
     "rarity": "LR",
     "spCol": "",
     "block_icon": "1",
@@ -14738,7 +14738,7 @@
   {
     "card_id": "GD04-033_p1",
     "card_no": "GD04-033",
-    "name": "新吉翁克",
+    "name": "新自護號",
     "rarity": "LR +",
     "spCol": "",
     "block_icon": "1",
@@ -14762,7 +14762,7 @@
   {
     "card_id": "GD04-034",
     "card_no": "GD04-034",
-    "name": "主天使高達",
+    "name": "高達基里昂斯",
     "rarity": "LR",
     "spCol": "",
     "block_icon": "1",
@@ -14786,7 +14786,7 @@
   {
     "card_id": "GD04-034_p1",
     "card_no": "GD04-034",
-    "name": "主天使高達",
+    "name": "高達基里昂斯",
     "rarity": "LR +",
     "spCol": "",
     "block_icon": "1",
@@ -14834,7 +14834,7 @@
   {
     "card_id": "GD04-036",
     "card_no": "GD04-036",
-    "name": "座天使高達一型",
+    "name": "高達斯洛尼一型",
     "rarity": "R",
     "spCol": "",
     "block_icon": "1",
@@ -14858,7 +14858,7 @@
   {
     "card_id": "GD04-036_p1",
     "card_no": "GD04-036",
-    "name": "座天使高達一型",
+    "name": "高達斯洛尼一型",
     "rarity": "R +",
     "spCol": "",
     "block_icon": "1",
@@ -14882,7 +14882,7 @@
   {
     "card_id": "GD04-037",
     "card_no": "GD04-037",
-    "name": "主天使高達（TRANS-AM）",
+    "name": "高達基里昂斯（TRANS-AM）",
     "rarity": "R",
     "spCol": "",
     "block_icon": "1",
@@ -14906,7 +14906,7 @@
   {
     "card_id": "GD04-038",
     "card_no": "GD04-038",
-    "name": "能天使高達",
+    "name": "高達艾斯亞",
     "rarity": "R",
     "spCol": "",
     "block_icon": "1",
@@ -14954,7 +14954,7 @@
   {
     "card_id": "GD04-040",
     "card_no": "GD04-040",
-    "name": "疾風・卡爾斯",
+    "name": "斯姆・札斯",
     "rarity": "U",
     "spCol": "",
     "block_icon": "1",
@@ -14978,7 +14978,7 @@
   {
     "card_id": "GD04-041",
     "card_no": "GD04-041",
-    "name": "座天使高達三型",
+    "name": "高達斯洛尼三型",
     "rarity": "U",
     "spCol": "",
     "block_icon": "1",
@@ -15050,7 +15050,7 @@
   {
     "card_id": "GD04-043",
     "card_no": "GD04-043",
-    "name": "茲沙（帶袖的規格）",
+    "name": "瑞莎（帶袖規格）",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -15074,7 +15074,7 @@
   {
     "card_id": "GD04-044",
     "card_no": "GD04-044",
-    "name": "喀帝爾",
+    "name": "加迪爾",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -15098,7 +15098,7 @@
   {
     "card_id": "GD04-045",
     "card_no": "GD04-045",
-    "name": "座天使高達二型",
+    "name": "高達斯洛尼二型",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -15122,7 +15122,7 @@
   {
     "card_id": "GD04-046",
     "card_no": "GD04-046",
-    "name": "力天使高達",
+    "name": "高達戴勒米",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -15146,7 +15146,7 @@
   {
     "card_id": "GD04-047",
     "card_no": "GD04-047",
-    "name": "德天使高達",
+    "name": "高達華塞亞",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -15170,7 +15170,7 @@
   {
     "card_id": "GD04-048",
     "card_no": "GD04-048",
-    "name": "漢摩拉比（GQ）",
+    "name": "赫巴比（GQ）",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -15194,7 +15194,7 @@
   {
     "card_id": "GD04-049",
     "card_no": "GD04-049",
-    "name": "高達X",
+    "name": "高達DX",
     "rarity": "LR",
     "spCol": "",
     "block_icon": "1",
@@ -15218,7 +15218,7 @@
   {
     "card_id": "GD04-049_p1",
     "card_no": "GD04-049",
-    "name": "高達X",
+    "name": "高達DX",
     "rarity": "LR +",
     "spCol": "",
     "block_icon": "1",
@@ -15362,7 +15362,7 @@
   {
     "card_id": "GD04-053",
     "card_no": "GD04-053",
-    "name": "瞬發型薩克幽靈（雷専用機）",
+    "name": "烈火渣古幻影（尼爾專用機）",
     "rarity": "R",
     "spCol": "",
     "block_icon": "1",
@@ -15386,7 +15386,7 @@
   {
     "card_id": "GD04-053_p1",
     "card_no": "GD04-053",
-    "name": "瞬發型薩克幽靈（雷専用機）",
+    "name": "烈火渣古幻影（尼爾專用機）",
     "rarity": "R +",
     "spCol": "",
     "block_icon": "1",
@@ -15410,7 +15410,7 @@
   {
     "card_id": "GD04-054",
     "card_no": "GD04-054",
-    "name": "德天使高達（TRANS-AM）",
+    "name": "高達華塞亞（TRANS-AM）",
     "rarity": "R",
     "spCol": "",
     "block_icon": "1",
@@ -15434,7 +15434,7 @@
   {
     "card_id": "GD04-055",
     "card_no": "GD04-055",
-    "name": "古夫烈焰型（海涅・威斯坦弗斯專用機）",
+    "name": "烈焰老虎（海涅・威斯坦弗斯專用機）",
     "rarity": "U",
     "spCol": "",
     "block_icon": "1",
@@ -15458,7 +15458,7 @@
   {
     "card_id": "GD04-056",
     "card_no": "GD04-056",
-    "name": "雙劍型衝擊高達",
+    "name": "雙劍型脈衝高達",
     "rarity": "U",
     "spCol": "",
     "block_icon": "1",
@@ -15482,7 +15482,7 @@
   {
     "card_id": "GD04-057",
     "card_no": "GD04-057",
-    "name": "中性高達",
+    "name": "高達納多尼",
     "rarity": "U",
     "spCol": "",
     "block_icon": "1",
@@ -15506,7 +15506,7 @@
   {
     "card_id": "GD04-058",
     "card_no": "GD04-058",
-    "name": "高達X（賈米爾機）",
+    "name": "高達X（舒文機）",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -15530,7 +15530,7 @@
   {
     "card_id": "GD04-059",
     "card_no": "GD04-059",
-    "name": "德特雷斯HMC智鼠德特雷斯",
+    "name": "多托列斯HMC智鼠",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -15578,7 +15578,7 @@
   {
     "card_id": "GD04-061",
     "card_no": "GD04-061",
-    "name": "G戰隼",
+    "name": "G獵鷹",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -15602,7 +15602,7 @@
   {
     "card_id": "GD04-062",
     "card_no": "GD04-062",
-    "name": "砲擊型薩克戰士（露娜瑪莉亞・霍克專用機）",
+    "name": "槍擊渣古戰士（露娜瑪利亞・賀古專用機）",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -15626,7 +15626,7 @@
   {
     "card_id": "GD04-063",
     "card_no": "GD04-063",
-    "name": "GN裝甲模組E型",
+    "name": "GN裝甲 TYPE-E",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -15650,7 +15650,7 @@
   {
     "card_id": "GD04-064",
     "card_no": "GD04-064",
-    "name": "能天使高達",
+    "name": "高達艾斯亞",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -15674,7 +15674,7 @@
   {
     "card_id": "GD04-065",
     "card_no": "GD04-065",
-    "name": "獨角獸高達2號機 報喪女妖·命運女神型（破壞模式）",
+    "name": "獨角獸高達2號機 報喪女妖・命運女神型（破壞模式）",
     "rarity": "LR",
     "spCol": "",
     "block_icon": "1",
@@ -15698,7 +15698,7 @@
   {
     "card_id": "GD04-065_p1",
     "card_no": "GD04-065",
-    "name": "獨角獸高達2號機 報喪女妖·命運女神型（破壞模式）",
+    "name": "獨角獸高達2號機 報喪女妖・命運女神型（破壞模式）",
     "rarity": "LR +",
     "spCol": "",
     "block_icon": "1",
@@ -15890,7 +15890,7 @@
   {
     "card_id": "GD04-070",
     "card_no": "GD04-070",
-    "name": "沙瑟斯專用AEU制定式特裝型（摩拉利亞開發實驗型）",
+    "name": "撒祖斯專用AEU依拉古頓特裝型（摩拉利亞開發實驗型）",
     "rarity": "R",
     "spCol": "",
     "block_icon": "1",
@@ -15914,7 +15914,7 @@
   {
     "card_id": "GD04-071",
     "card_no": "GD04-071",
-    "name": "葛拉漢專用聯合旗幟式特裝型Ⅱ（GN旗幟式）",
+    "name": "古萊哈姆專用聯邦旗幟特裝型II（GN旗幟）",
     "rarity": "R",
     "spCol": "",
     "block_icon": "1",
@@ -15938,7 +15938,7 @@
   {
     "card_id": "GD04-071_p1",
     "card_no": "GD04-071",
-    "name": "葛拉漢專用聯合旗幟式特裝型Ⅱ（GN旗幟式）",
+    "name": "古萊哈姆專用聯邦旗幟特裝型II（GN旗幟）",
     "rarity": "R +",
     "spCol": "",
     "block_icon": "1",
@@ -15962,7 +15962,7 @@
   {
     "card_id": "GD04-072",
     "card_no": "GD04-072",
-    "name": "獨角獸高達2號機 報喪女妖·命運女神型（獨角獸模式）",
+    "name": "獨角獸高達2號機 報喪女妖・命運女神型（獨角獸模式）",
     "rarity": "U",
     "spCol": "",
     "block_icon": "1",
@@ -16106,7 +16106,7 @@
   {
     "card_id": "GD04-078",
     "card_no": "GD04-078",
-    "name": "伯爾加納",
+    "name": "博加農",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -16130,7 +16130,7 @@
   {
     "card_id": "GD04-079",
     "card_no": "GD04-079",
-    "name": "亞格利沙",
+    "name": "亞古力沙",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -16154,7 +16154,7 @@
   {
     "card_id": "GD04-080",
     "card_no": "GD04-080",
-    "name": "阿爾瓦特雷",
+    "name": "艾法佗",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -16178,7 +16178,7 @@
   {
     "card_id": "GD04-081",
     "card_no": "GD04-081",
-    "name": "胡索・艾溫",
+    "name": "胡索・艾文",
     "rarity": "R",
     "spCol": "",
     "block_icon": "1",
@@ -16202,7 +16202,7 @@
   {
     "card_id": "GD04-081_p1",
     "card_no": "GD04-081",
-    "name": "胡索・艾溫",
+    "name": "胡索・艾文",
     "rarity": "R +",
     "spCol": "",
     "block_icon": "1",
@@ -16226,7 +16226,7 @@
   {
     "card_id": "GD04-082",
     "card_no": "GD04-082",
-    "name": "羅莎米亞・巴達姆",
+    "name": "麗莎米亞・巴達姆",
     "rarity": "U",
     "spCol": "",
     "block_icon": "1",
@@ -16250,7 +16250,7 @@
   {
     "card_id": "GD04-083",
     "card_no": "GD04-083",
-    "name": "瑪貝特・芬格哈特",
+    "name": "瑪比得・芬格哈特",
     "rarity": "U",
     "spCol": "",
     "block_icon": "1",
@@ -16346,7 +16346,7 @@
   {
     "card_id": "GD04-086",
     "card_no": "GD04-086",
-    "name": "卡爾馬・薩比",
+    "name": "加曼・薩比",
     "rarity": "U",
     "spCol": "",
     "block_icon": "1",
@@ -16370,7 +16370,7 @@
   {
     "card_id": "GD04-087",
     "card_no": "GD04-087",
-    "name": "伊蘭・凱萊斯（強化人士五號）",
+    "name": "伊蘭・凱萊斯（強化人士5號）",
     "rarity": "U",
     "spCol": "",
     "block_icon": "1",
@@ -16394,7 +16394,7 @@
   {
     "card_id": "GD04-088",
     "card_no": "GD04-088",
-    "name": "特克瓦恩",
+    "name": "多古華",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -16418,7 +16418,7 @@
   {
     "card_id": "GD04-089",
     "card_no": "GD04-089",
-    "name": "妮娜・崔尼提",
+    "name": "妮娜・東尼迪",
     "rarity": "R",
     "spCol": "",
     "block_icon": "1",
@@ -16442,7 +16442,7 @@
   {
     "card_id": "GD04-089_p1",
     "card_no": "GD04-089",
-    "name": "妮娜・崔尼提",
+    "name": "妮娜・東尼迪",
     "rarity": "R +",
     "spCol": "",
     "block_icon": "1",
@@ -16466,7 +16466,7 @@
   {
     "card_id": "GD04-090",
     "card_no": "GD04-090",
-    "name": "哈雷路亞・帕普提茲姆",
+    "name": "哈路耶・哈帝姆",
     "rarity": "U",
     "spCol": "",
     "block_icon": "1",
@@ -16490,7 +16490,7 @@
   {
     "card_id": "GD04-091",
     "card_no": "GD04-091",
-    "name": "貳・村雨",
+    "name": "杜・村雨",
     "rarity": "U",
     "spCol": "",
     "block_icon": "1",
@@ -16514,7 +16514,7 @@
   {
     "card_id": "GD04-092",
     "card_no": "GD04-092",
-    "name": "米歇爾・崔尼提",
+    "name": "米凱魯・東尼迪",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -16538,7 +16538,7 @@
   {
     "card_id": "GD04-093",
     "card_no": "GD04-093",
-    "name": "雷・札・巴雷爾",
+    "name": "尼爾・乍・巴里路",
     "rarity": "R",
     "spCol": "",
     "block_icon": "1",
@@ -16562,7 +16562,7 @@
   {
     "card_id": "GD04-093_p1",
     "card_no": "GD04-093",
-    "name": "雷・札・巴雷爾",
+    "name": "尼爾・乍・巴里路",
     "rarity": "R +",
     "spCol": "",
     "block_icon": "1",
@@ -16610,7 +16610,7 @@
   {
     "card_id": "GD04-095",
     "card_no": "GD04-095",
-    "name": "露娜瑪莉亞・霍克",
+    "name": "露娜瑪利亞・賀古",
     "rarity": "U",
     "spCol": "",
     "block_icon": "1",
@@ -16634,7 +16634,7 @@
   {
     "card_id": "GD04-095_p1",
     "card_no": "GD04-095",
-    "name": "露娜瑪莉亞・霍克",
+    "name": "露娜瑪利亞・賀古",
     "rarity": "U +",
     "spCol": "",
     "block_icon": "1",
@@ -16658,7 +16658,7 @@
   {
     "card_id": "GD04-096",
     "card_no": "GD04-096",
-    "name": "艾妮爾・愛爾",
+    "name": "艾妮露・愛爾",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -16754,7 +16754,7 @@
   {
     "card_id": "GD04-099",
     "card_no": "GD04-099",
-    "name": "阿里・亞爾・沙瑟斯",
+    "name": "亞里・艾露・撒祖斯",
     "rarity": "U",
     "spCol": "",
     "block_icon": "1",
@@ -16778,7 +16778,7 @@
   {
     "card_id": "GD04-100",
     "card_no": "GD04-100",
-    "name": "索西葉・海姆",
+    "name": "蘇茜亞・海姆",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -16826,7 +16826,7 @@
   {
     "card_id": "GD04-102",
     "card_no": "GD04-102",
-    "name": "片刻的休息",
+    "name": "短暫的休憩",
     "rarity": "U",
     "spCol": "",
     "block_icon": "1",
@@ -16850,7 +16850,7 @@
   {
     "card_id": "GD04-102_p1",
     "card_no": "GD04-102",
-    "name": "片刻的休息",
+    "name": "短暫的休憩",
     "rarity": "U +",
     "spCol": "",
     "block_icon": "1",
@@ -16898,7 +16898,7 @@
   {
     "card_id": "GD04-104",
     "card_no": "GD04-104",
-    "name": "伯勞隊的壁壘",
+    "name": "修羅隊的壁壘",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -17114,7 +17114,7 @@
   {
     "card_id": "GD04-111",
     "card_no": "GD04-111",
-    "name": "崔尼提",
+    "name": "三位一體",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -17234,7 +17234,7 @@
   {
     "card_id": "GD04-115",
     "card_no": "GD04-115",
-    "name": "支援",
+    "name": "後援",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -17402,7 +17402,7 @@
   {
     "card_id": "GD04-121",
     "card_no": "GD04-121",
-    "name": "Rin Hosu Jr.",
+    "name": "林霍斯Jr.",
     "rarity": "R",
     "spCol": "",
     "block_icon": "1",
@@ -17450,7 +17450,7 @@
   {
     "card_id": "GD04-123",
     "card_no": "GD04-123",
-    "name": "阿・巴瓦・庫",
+    "name": "阿・巴瓦・古",
     "rarity": "U",
     "spCol": "",
     "block_icon": "1",
@@ -17474,7 +17474,7 @@
   {
     "card_id": "GD04-124",
     "card_no": "GD04-124",
-    "name": "九號戰術試驗區域",
+    "name": "第9戰術試驗區域",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -17498,7 +17498,7 @@
   {
     "card_id": "GD04-125",
     "card_no": "GD04-125",
-    "name": "崔尼提艦",
+    "name": "三位一體艦",
     "rarity": "U",
     "spCol": "",
     "block_icon": "1",
@@ -17522,7 +17522,7 @@
   {
     "card_id": "GD04-126",
     "card_no": "GD04-126",
-    "name": "伊茲瑪殖民地",
+    "name": "伊茲瑪・殖民衛星",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -17546,7 +17546,7 @@
   {
     "card_id": "GD04-127",
     "card_no": "GD04-127",
-    "name": "和平號Ⅱ",
+    "name": "自由號Ⅱ",
     "rarity": "U",
     "spCol": "",
     "block_icon": "1",
@@ -17594,7 +17594,7 @@
   {
     "card_id": "GD04-129",
     "card_no": "GD04-129",
-    "name": "威爾傑姆",
+    "name": "偉爾基姆",
     "rarity": "R",
     "spCol": "",
     "block_icon": "1",
@@ -17642,7 +17642,7 @@
   {
     "card_id": "R-031",
     "card_no": "R-031",
-    "name": "能源",
+    "name": "資源",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -17666,7 +17666,7 @@
   {
     "card_id": "R-031_p1",
     "card_no": "R-031",
-    "name": "能源",
+    "name": "資源",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "1",
@@ -17690,7 +17690,7 @@
   {
     "card_id": "R-032",
     "card_no": "R-032",
-    "name": "能源",
+    "name": "資源",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -17714,7 +17714,7 @@
   {
     "card_id": "R-032_p1",
     "card_no": "R-032",
-    "name": "能源",
+    "name": "資源",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "1",
@@ -17738,7 +17738,7 @@
   {
     "card_id": "R-033",
     "card_no": "R-033",
-    "name": "能源",
+    "name": "資源",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -17762,7 +17762,7 @@
   {
     "card_id": "R-033_p1",
     "card_no": "R-033",
-    "name": "能源",
+    "name": "資源",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "1",
@@ -17786,7 +17786,7 @@
   {
     "card_id": "R-034",
     "card_no": "R-034",
-    "name": "能源",
+    "name": "資源",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -17810,7 +17810,7 @@
   {
     "card_id": "R-034_p1",
     "card_no": "R-034",
-    "name": "能源",
+    "name": "資源",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "1",
@@ -17834,7 +17834,7 @@
   {
     "card_id": "R-035",
     "card_no": "R-035",
-    "name": "能源",
+    "name": "資源",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -17858,7 +17858,7 @@
   {
     "card_id": "R-035_p1",
     "card_no": "R-035",
-    "name": "能源",
+    "name": "資源",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "1",
@@ -17882,7 +17882,7 @@
   {
     "card_id": "R-036",
     "card_no": "R-036",
-    "name": "能源",
+    "name": "資源",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -17906,7 +17906,7 @@
   {
     "card_id": "R-036_p1",
     "card_no": "R-036",
-    "name": "能源",
+    "name": "資源",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "1",
@@ -17930,7 +17930,7 @@
   {
     "card_id": "R-037",
     "card_no": "R-037",
-    "name": "能源",
+    "name": "資源",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -17954,7 +17954,7 @@
   {
     "card_id": "R-037_p1",
     "card_no": "R-037",
-    "name": "能源",
+    "name": "資源",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "1",
@@ -17978,7 +17978,7 @@
   {
     "card_id": "R-038",
     "card_no": "R-038",
-    "name": "能源",
+    "name": "資源",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -18002,7 +18002,7 @@
   {
     "card_id": "R-038_p1",
     "card_no": "R-038",
-    "name": "能源",
+    "name": "資源",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "1",
@@ -18026,7 +18026,7 @@
   {
     "card_id": "R-038_p2",
     "card_no": "R-038",
-    "name": "能源",
+    "name": "資源",
     "rarity": "C ++",
     "spCol": "",
     "block_icon": "1",
@@ -18050,7 +18050,7 @@
   {
     "card_id": "R-039",
     "card_no": "R-039",
-    "name": "能源",
+    "name": "資源",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -18074,7 +18074,7 @@
   {
     "card_id": "R-039_p1",
     "card_no": "R-039",
-    "name": "能源",
+    "name": "資源",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "1",
@@ -18098,7 +18098,7 @@
   {
     "card_id": "R-040",
     "card_no": "R-040",
-    "name": "能源",
+    "name": "資源",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -18122,7 +18122,7 @@
   {
     "card_id": "R-040_p1",
     "card_no": "R-040",
-    "name": "能源",
+    "name": "資源",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "1",
@@ -18218,7 +18218,7 @@
   {
     "card_id": "T-023",
     "card_no": "T-023",
-    "name": "吉翁克（頭部）",
+    "name": "自護號（頭部）",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -18266,7 +18266,7 @@
   {
     "card_id": "EXR-004",
     "card_no": "EXR-004",
-    "name": "EX能源",
+    "name": "EX資源",
     "rarity": "C +",
     "spCol": "SP",
     "block_icon": "2",
@@ -18290,7 +18290,7 @@
   {
     "card_id": "EXR-005",
     "card_no": "EXR-005",
-    "name": "EX能源",
+    "name": "EX資源",
     "rarity": "C +",
     "spCol": "SP",
     "block_icon": "2",
@@ -18314,7 +18314,7 @@
   {
     "card_id": "EXR-006",
     "card_no": "EXR-006",
-    "name": "EX能源",
+    "name": "EX資源",
     "rarity": "C +",
     "spCol": "SP",
     "block_icon": "2",
@@ -18338,7 +18338,7 @@
   {
     "card_id": "EXR-007",
     "card_no": "EXR-007",
-    "name": "EX能源",
+    "name": "EX資源",
     "rarity": "C +",
     "spCol": "SP",
     "block_icon": "2",
@@ -18362,7 +18362,7 @@
   {
     "card_id": "EXR-008",
     "card_no": "EXR-008",
-    "name": "EX能源",
+    "name": "EX資源",
     "rarity": "C +",
     "spCol": "SP",
     "block_icon": "2",
@@ -18386,7 +18386,7 @@
   {
     "card_id": "EXR-009",
     "card_no": "EXR-009",
-    "name": "EX能源",
+    "name": "EX資源",
     "rarity": "C +",
     "spCol": "SP",
     "block_icon": "2",
@@ -18410,7 +18410,7 @@
   {
     "card_id": "EXR-010",
     "card_no": "EXR-010",
-    "name": "EX能源",
+    "name": "EX資源",
     "rarity": "C +",
     "spCol": "SP",
     "block_icon": "2",
@@ -18434,7 +18434,7 @@
   {
     "card_id": "EXR-011",
     "card_no": "EXR-011",
-    "name": "EX能源",
+    "name": "EX資源",
     "rarity": "C +",
     "spCol": "SP",
     "block_icon": "2",
@@ -18602,7 +18602,7 @@
   {
     "card_id": "GD05-003",
     "card_no": "GD05-003",
-    "name": "村雨（安德列・渥特菲德專用機）",
+    "name": "姆拉沙美（安德魯・包樸菲杜專用機）",
     "rarity": "R",
     "spCol": "",
     "block_icon": "2",
@@ -18626,7 +18626,7 @@
   {
     "card_id": "GD05-003_p1",
     "card_no": "GD05-003",
-    "name": "村雨（安德列・渥特菲德專用機）",
+    "name": "姆拉沙美（安德魯・包樸菲杜專用機）",
     "rarity": "R +",
     "spCol": "LK",
     "block_icon": "2",
@@ -18650,7 +18650,7 @@
   {
     "card_id": "GD05-004",
     "card_no": "GD05-004",
-    "name": "曉（大鷲）",
+    "name": "曉（大鷲裝備）",
     "rarity": "R",
     "spCol": "",
     "block_icon": "2",
@@ -18674,7 +18674,7 @@
   {
     "card_id": "GD05-004_p1",
     "card_no": "GD05-004",
-    "name": "曉（大鷲）",
+    "name": "曉（大鷲裝備）",
     "rarity": "R +",
     "spCol": "",
     "block_icon": "2",
@@ -18698,7 +18698,7 @@
   {
     "card_id": "GD05-005",
     "card_no": "GD05-005",
-    "name": "突擊高達‧紅(鳳型裝備)",
+    "name": "嫣紅突擊高達（鳳凰裝備）",
     "rarity": "R",
     "spCol": "",
     "block_icon": "2",
@@ -18722,7 +18722,7 @@
   {
     "card_id": "GD05-005_p1",
     "card_no": "GD05-005",
-    "name": "突擊高達‧紅(鳳型裝備)",
+    "name": "嫣紅突擊高達（鳳凰裝備）",
     "rarity": "R +",
     "spCol": "LK",
     "block_icon": "2",
@@ -18746,7 +18746,7 @@
   {
     "card_id": "GD05-006",
     "card_no": "GD05-006",
-    "name": "哈斯蒙",
+    "name": "哈斯武",
     "rarity": "R",
     "spCol": "",
     "block_icon": "2",
@@ -18770,7 +18770,7 @@
   {
     "card_id": "GD05-006_p1",
     "card_no": "GD05-006",
-    "name": "哈斯蒙",
+    "name": "哈斯武",
     "rarity": "R +",
     "spCol": "",
     "block_icon": "2",
@@ -18794,7 +18794,7 @@
   {
     "card_id": "GD05-007",
     "card_no": "GD05-007",
-    "name": "亞席瑪",
+    "name": "亞斯曼",
     "rarity": "U",
     "spCol": "",
     "block_icon": "2",
@@ -18818,7 +18818,7 @@
   {
     "card_id": "GD05-008",
     "card_no": "GD05-008",
-    "name": "迪傑",
+    "name": "迪哲",
     "rarity": "U",
     "spCol": "",
     "block_icon": "2",
@@ -18842,7 +18842,7 @@
   {
     "card_id": "GD05-009",
     "card_no": "GD05-009",
-    "name": "鋼普拉斯達",
+    "name": "鋼布拉斯塔",
     "rarity": "U",
     "spCol": "",
     "block_icon": "2",
@@ -18866,7 +18866,7 @@
   {
     "card_id": "GD05-010",
     "card_no": "GD05-010",
-    "name": "突擊高達‧紅（基拉機）",
+    "name": "嫣紅突擊高達（基拉機）",
     "rarity": "U",
     "spCol": "",
     "block_icon": "2",
@@ -18938,7 +18938,7 @@
   {
     "card_id": "GD05-013",
     "card_no": "GD05-013",
-    "name": "鋼伊基",
+    "name": "鋼伊哲",
     "rarity": "C",
     "spCol": "",
     "block_icon": "2",
@@ -18962,7 +18962,7 @@
   {
     "card_id": "GD05-014",
     "card_no": "GD05-014",
-    "name": "賈貝理",
+    "name": "札比連",
     "rarity": "C",
     "spCol": "",
     "block_icon": "2",
@@ -18986,7 +18986,7 @@
   {
     "card_id": "GD05-015",
     "card_no": "GD05-015",
-    "name": "M1迷惘高達 (伯勞鳥裝備)",
+    "name": "M1迷惘 （伯勞鳥裝備）",
     "rarity": "C",
     "spCol": "",
     "block_icon": "2",
@@ -19154,7 +19154,7 @@
   {
     "card_id": "GD05-019",
     "card_no": "GD05-019",
-    "name": "Re-GZ",
+    "name": "靈格斯",
     "rarity": "R",
     "spCol": "",
     "block_icon": "2",
@@ -19226,7 +19226,7 @@
   {
     "card_id": "GD05-021",
     "card_no": "GD05-021",
-    "name": "高達AGE-2 雙砲",
+    "name": "高達AGE-2 雙砲型",
     "rarity": "R",
     "spCol": "",
     "block_icon": "2",
@@ -19250,7 +19250,7 @@
   {
     "card_id": "GD05-021_p1",
     "card_no": "GD05-021",
-    "name": "高達AGE-2 雙砲",
+    "name": "高達AGE-2 雙砲型",
     "rarity": "R +",
     "spCol": "",
     "block_icon": "2",
@@ -19298,7 +19298,7 @@
   {
     "card_id": "GD05-023",
     "card_no": "GD05-023",
-    "name": "Re-GZ（BWS）",
+    "name": "靈格斯（BWS）",
     "rarity": "U",
     "spCol": "",
     "block_icon": "2",
@@ -19322,7 +19322,7 @@
   {
     "card_id": "GD05-024",
     "card_no": "GD05-024",
-    "name": "高達AGE-2 普通型（特別配色）",
+    "name": "高達AGE-2 普通型（SP配色）",
     "rarity": "U",
     "spCol": "",
     "block_icon": "2",
@@ -19346,7 +19346,7 @@
   {
     "card_id": "GD05-025",
     "card_no": "GD05-025",
-    "name": "迪米馬鎧機",
+    "name": "迪米巴迪古",
     "rarity": "U",
     "spCol": "",
     "block_icon": "2",
@@ -19370,7 +19370,7 @@
   {
     "card_id": "GD05-025_p1",
     "card_no": "GD05-025",
-    "name": "迪米馬鎧機",
+    "name": "迪米巴迪古",
     "rarity": "U +",
     "spCol": "LK",
     "block_icon": "2",
@@ -19394,7 +19394,7 @@
   {
     "card_id": "GD05-026",
     "card_no": "GD05-026",
-    "name": "風靈高達（修改型）",
+    "name": "風靈高達（改修型）",
     "rarity": "U",
     "spCol": "",
     "block_icon": "2",
@@ -19418,7 +19418,7 @@
   {
     "card_id": "GD05-027",
     "card_no": "GD05-027",
-    "name": "傑鋼",
+    "name": "積根",
     "rarity": "C",
     "spCol": "",
     "block_icon": "2",
@@ -19442,7 +19442,7 @@
   {
     "card_id": "GD05-028",
     "card_no": "GD05-028",
-    "name": "傑鋼（凱拉機）",
+    "name": "積根（姬拉機）",
     "rarity": "C",
     "spCol": "",
     "block_icon": "2",
@@ -19466,7 +19466,7 @@
   {
     "card_id": "GD05-029",
     "card_no": "GD05-029",
-    "name": "Re-GZ（凱拉機）",
+    "name": "靈格斯（姬拉機）",
     "rarity": "C",
     "spCol": "",
     "block_icon": "2",
@@ -19490,7 +19490,7 @@
   {
     "card_id": "GD05-029_p1",
     "card_no": "GD05-029",
-    "name": "Re-GZ（凱拉機）",
+    "name": "靈格斯（姬拉機）",
     "rarity": "C +",
     "spCol": "LK",
     "block_icon": "2",
@@ -19538,7 +19538,7 @@
   {
     "card_id": "GD05-031",
     "card_no": "GD05-031",
-    "name": "迪蘭薩 古爾專用機",
+    "name": "迪蘭扎 古爾專用機",
     "rarity": "C",
     "spCol": "",
     "block_icon": "2",
@@ -19586,7 +19586,7 @@
   {
     "card_id": "GD05-033",
     "card_no": "GD05-033",
-    "name": "宗師高達",
+    "name": "盟主高達",
     "rarity": "LR",
     "spCol": "",
     "block_icon": "2",
@@ -19610,7 +19610,7 @@
   {
     "card_id": "GD05-033_p1",
     "card_no": "GD05-033",
-    "name": "宗師高達",
+    "name": "盟主高達",
     "rarity": "LR +",
     "spCol": "",
     "block_icon": "2",
@@ -19634,7 +19634,7 @@
   {
     "card_id": "GD05-033_p2",
     "card_no": "GD05-033",
-    "name": "宗師高達",
+    "name": "盟主高達",
     "rarity": "LR ++",
     "spCol": "",
     "block_icon": "2",
@@ -19850,7 +19850,7 @@
   {
     "card_id": "GD05-038",
     "card_no": "GD05-038",
-    "name": "高達斯洛尼一型（GN高出力MEGA發射器）",
+    "name": "高達斯洛尼一型（GN高出力米加發射器）",
     "rarity": "R",
     "spCol": "",
     "block_icon": "2",
@@ -19922,7 +19922,7 @@
   {
     "card_id": "GD05-041",
     "card_no": "GD05-041",
-    "name": "大地高達（MA型態）",
+    "name": "大地高達（MA形態）",
     "rarity": "U",
     "spCol": "",
     "block_icon": "2",
@@ -19946,7 +19946,7 @@
   {
     "card_id": "GD05-041_p1",
     "card_no": "GD05-041",
-    "name": "大地高達（MA型態）",
+    "name": "大地高達（MA形態）",
     "rarity": "U +",
     "spCol": "LK",
     "block_icon": "2",
@@ -20042,7 +20042,7 @@
   {
     "card_id": "GD05-045",
     "card_no": "GD05-045",
-    "name": "混沌高達（MA型態）",
+    "name": "混沌高達（MA形態）",
     "rarity": "C",
     "spCol": "",
     "block_icon": "2",
@@ -20066,7 +20066,7 @@
   {
     "card_id": "GD05-046",
     "card_no": "GD05-046",
-    "name": "深淵高達（MA型態）",
+    "name": "深淵高達（MA形態）",
     "rarity": "C",
     "spCol": "",
     "block_icon": "2",
@@ -20114,7 +20114,7 @@
   {
     "card_id": "GD05-048",
     "card_no": "GD05-048",
-    "name": "主天使高達（飛行型態）",
+    "name": "高達基里昂斯（飛行形態）",
     "rarity": "C",
     "spCol": "",
     "block_icon": "2",
@@ -20138,7 +20138,7 @@
   {
     "card_id": "GD05-048_p1",
     "card_no": "GD05-048",
-    "name": "主天使高達（飛行型態）",
+    "name": "高達基里昂斯（飛行形態）",
     "rarity": "C +",
     "spCol": "LK",
     "block_icon": "2",
@@ -20162,7 +20162,7 @@
   {
     "card_id": "GD05-049",
     "card_no": "GD05-049",
-    "name": "沙薩比",
+    "name": "沙煞比",
     "rarity": "LR",
     "spCol": "",
     "block_icon": "2",
@@ -20186,7 +20186,7 @@
   {
     "card_id": "GD05-049_p1",
     "card_no": "GD05-049",
-    "name": "沙薩比",
+    "name": "沙煞比",
     "rarity": "LR +",
     "spCol": "",
     "block_icon": "2",
@@ -20210,7 +20210,7 @@
   {
     "card_id": "GD05-049_p2",
     "card_no": "GD05-049",
-    "name": "沙薩比",
+    "name": "沙煞比",
     "rarity": "LR ++",
     "spCol": "",
     "block_icon": "2",
@@ -20234,7 +20234,7 @@
   {
     "card_id": "GD05-050",
     "card_no": "GD05-050",
-    "name": "能天使高達修補版",
+    "name": "高達艾斯亞修補版",
     "rarity": "LR",
     "spCol": "",
     "block_icon": "2",
@@ -20258,7 +20258,7 @@
   {
     "card_id": "GD05-050_p1",
     "card_no": "GD05-050",
-    "name": "能天使高達修補版",
+    "name": "高達艾斯亞修補版",
     "rarity": "LR +",
     "spCol": "",
     "block_icon": "2",
@@ -20282,7 +20282,7 @@
   {
     "card_id": "GD05-051",
     "card_no": "GD05-051",
-    "name": "高達巴巴托司狼王式",
+    "name": "高達・巴巴托司狼王式",
     "rarity": "LR",
     "spCol": "",
     "block_icon": "2",
@@ -20306,7 +20306,7 @@
   {
     "card_id": "GD05-051_p1",
     "card_no": "GD05-051",
-    "name": "高達巴巴托司狼王式",
+    "name": "高達・巴巴托司狼王式",
     "rarity": "LR +",
     "spCol": "",
     "block_icon": "2",
@@ -20330,7 +20330,7 @@
   {
     "card_id": "GD05-052",
     "card_no": "GD05-052",
-    "name": "沙薩比",
+    "name": "沙煞比",
     "rarity": "R",
     "spCol": "",
     "block_icon": "2",
@@ -20354,7 +20354,7 @@
   {
     "card_id": "GD05-052_p1",
     "card_no": "GD05-052",
-    "name": "沙薩比",
+    "name": "沙煞比",
     "rarity": "R +",
     "spCol": "",
     "block_icon": "2",
@@ -20378,7 +20378,7 @@
   {
     "card_id": "GD05-053",
     "card_no": "GD05-053",
-    "name": "葵絲專用亞克托・德卡",
+    "name": "積德・德卡（姬絲專用機）",
     "rarity": "R",
     "spCol": "",
     "block_icon": "2",
@@ -20402,7 +20402,7 @@
   {
     "card_id": "GD05-053_p1",
     "card_no": "GD05-053",
-    "name": "葵絲專用亞克托・德卡",
+    "name": "積德・德卡（姬絲專用機）",
     "rarity": "R +",
     "spCol": "LK",
     "block_icon": "2",
@@ -20426,7 +20426,7 @@
   {
     "card_id": "GD05-054",
     "card_no": "GD05-054",
-    "name": "α・阿基爾",
+    "name": "α・亞索龍",
     "rarity": "R",
     "spCol": "",
     "block_icon": "2",
@@ -20498,7 +20498,7 @@
   {
     "card_id": "GD05-056",
     "card_no": "GD05-056",
-    "name": "吉拉・德卡（蕾森・史奈德機）",
+    "name": "基拉・德卡（莉珍・舒奈德機）",
     "rarity": "U",
     "spCol": "",
     "block_icon": "2",
@@ -20522,7 +20522,7 @@
   {
     "card_id": "GD05-057",
     "card_no": "GD05-057",
-    "name": "裘尼專用亞克托・德卡",
+    "name": "乍多・德卡（基尼專用機）",
     "rarity": "U",
     "spCol": "",
     "block_icon": "2",
@@ -20570,7 +20570,7 @@
   {
     "card_id": "GD05-059",
     "card_no": "GD05-059",
-    "name": "高達巴巴托司狼式",
+    "name": "高達・巴巴托司狼式",
     "rarity": "U",
     "spCol": "",
     "block_icon": "2",
@@ -20594,7 +20594,7 @@
   {
     "card_id": "GD05-059_p1",
     "card_no": "GD05-059",
-    "name": "高達巴巴托司狼式",
+    "name": "高達・巴巴托司狼式",
     "rarity": "U +",
     "spCol": "LK",
     "block_icon": "2",
@@ -20642,7 +20642,7 @@
   {
     "card_id": "GD05-061",
     "card_no": "GD05-061",
-    "name": "吉拉・德卡",
+    "name": "基拉・德卡",
     "rarity": "C",
     "spCol": "",
     "block_icon": "2",
@@ -20666,7 +20666,7 @@
   {
     "card_id": "GD05-062",
     "card_no": "GD05-062",
-    "name": "收藏型・高性能薩克",
+    "name": "收藏型・高渣古",
     "rarity": "C",
     "spCol": "",
     "block_icon": "2",
@@ -20690,7 +20690,7 @@
   {
     "card_id": "GD05-063",
     "card_no": "GD05-063",
-    "name": "裘尼專用亞克托・德卡",
+    "name": "乍多・德卡（基尼專用機）",
     "rarity": "C",
     "spCol": "",
     "block_icon": "2",
@@ -20714,7 +20714,7 @@
   {
     "card_id": "GD05-064",
     "card_no": "GD05-064",
-    "name": "強攻型衝擊高達",
+    "name": "強攻型脈衝高達",
     "rarity": "C",
     "spCol": "",
     "block_icon": "2",
@@ -20738,7 +20738,7 @@
   {
     "card_id": "GD05-064_p1",
     "card_no": "GD05-064",
-    "name": "強攻型衝擊高達",
+    "name": "強攻型脈衝高達",
     "rarity": "C +",
     "spCol": "LK",
     "block_icon": "2",
@@ -20762,7 +20762,7 @@
   {
     "card_id": "GD05-065",
     "card_no": "GD05-065",
-    "name": "蘭德曼・羅迪",
+    "name": "蘭度曼・羅迪",
     "rarity": "C",
     "spCol": "",
     "block_icon": "2",
@@ -20978,7 +20978,7 @@
   {
     "card_id": "GD05-070",
     "card_no": "GD05-070",
-    "name": "托爾吉斯Ⅲ",
+    "name": "多魯基斯Ⅲ",
     "rarity": "R",
     "spCol": "",
     "block_icon": "2",
@@ -21002,7 +21002,7 @@
   {
     "card_id": "GD05-070_p1",
     "card_no": "GD05-070",
-    "name": "托爾吉斯Ⅲ",
+    "name": "多魯基斯Ⅲ",
     "rarity": "R +",
     "spCol": "",
     "block_icon": "2",
@@ -21122,7 +21122,7 @@
   {
     "card_id": "GD05-074",
     "card_no": "GD05-074",
-    "name": "陶拉斯（諾茵機）",
+    "name": "特拉士（奈茵機）",
     "rarity": "U",
     "spCol": "",
     "block_icon": "2",
@@ -21194,7 +21194,7 @@
   {
     "card_id": "GD05-077",
     "card_no": "GD05-077",
-    "name": "里歐",
+    "name": "力傲",
     "rarity": "C",
     "spCol": "",
     "block_icon": "2",
@@ -21218,7 +21218,7 @@
   {
     "card_id": "GD05-078",
     "card_no": "GD05-078",
-    "name": "地獄死神高達（EW版）",
+    "name": "地獄死神高達（EX版）",
     "rarity": "C",
     "spCol": "",
     "block_icon": "2",
@@ -21242,7 +21242,7 @@
   {
     "card_id": "GD05-079",
     "card_no": "GD05-079",
-    "name": "重砲手高達改（EW版）",
+    "name": "重炮手高達改（EW版）",
     "rarity": "C",
     "spCol": "",
     "block_icon": "2",
@@ -21266,7 +21266,7 @@
   {
     "card_id": "GD05-079_p1",
     "card_no": "GD05-079",
-    "name": "重砲手高達改（EW版）",
+    "name": "重炮手高達改（EW版）",
     "rarity": "C +",
     "spCol": "LK",
     "block_icon": "2",
@@ -21290,7 +21290,7 @@
   {
     "card_id": "GD05-080",
     "card_no": "GD05-080",
-    "name": "傑邦專用伯爾加納",
+    "name": "傑邦專用博加農",
     "rarity": "C",
     "spCol": "",
     "block_icon": "2",
@@ -21362,7 +21362,7 @@
   {
     "card_id": "GD05-082",
     "card_no": "GD05-082",
-    "name": "安德列・渥特菲德",
+    "name": "安德魯・包樸菲杜",
     "rarity": "U",
     "spCol": "",
     "block_icon": "2",
@@ -21386,7 +21386,7 @@
   {
     "card_id": "GD05-083",
     "card_no": "GD05-083",
-    "name": "卡佳里・由拉・阿斯哈",
+    "name": "卡嘉蓮・尤拉・阿斯哈",
     "rarity": "U",
     "spCol": "",
     "block_icon": "2",
@@ -21410,7 +21410,7 @@
   {
     "card_id": "GD05-084",
     "card_no": "GD05-084",
-    "name": "奧德羅・亨利克",
+    "name": "奧迪羅・漢寧古",
     "rarity": "C",
     "spCol": "",
     "block_icon": "2",
@@ -21434,7 +21434,7 @@
   {
     "card_id": "GD05-085",
     "card_no": "GD05-085",
-    "name": "阿姆羅・雷",
+    "name": "阿寶・尼爾",
     "rarity": "R",
     "spCol": "",
     "block_icon": "2",
@@ -21458,7 +21458,7 @@
   {
     "card_id": "GD05-085_p1",
     "card_no": "GD05-085",
-    "name": "阿姆羅・雷",
+    "name": "阿寶・尼爾",
     "rarity": "R +",
     "spCol": "",
     "block_icon": "2",
@@ -21482,7 +21482,7 @@
   {
     "card_id": "GD05-086",
     "card_no": "GD05-086",
-    "name": "凱拉・蘇",
+    "name": "姬拉・遜",
     "rarity": "U",
     "spCol": "",
     "block_icon": "2",
@@ -21506,7 +21506,7 @@
   {
     "card_id": "GD05-087",
     "card_no": "GD05-087",
-    "name": "勞達・尼爾",
+    "name": "勞達・尼路",
     "rarity": "U",
     "spCol": "",
     "block_icon": "2",
@@ -21554,7 +21554,7 @@
   {
     "card_id": "GD05-089",
     "card_no": "GD05-089",
-    "name": "亞洲宗師",
+    "name": "亞洲盟主",
     "rarity": "LR",
     "spCol": "",
     "block_icon": "2",
@@ -21578,7 +21578,7 @@
   {
     "card_id": "GD05-089_p1",
     "card_no": "GD05-089",
-    "name": "亞洲宗師",
+    "name": "亞洲盟主",
     "rarity": "LR +",
     "spCol": "",
     "block_icon": "2",
@@ -21602,7 +21602,7 @@
   {
     "card_id": "GD05-090",
     "card_no": "GD05-090",
-    "name": "史黛拉・路歇",
+    "name": "史汀娜・露茜",
     "rarity": "R",
     "spCol": "",
     "block_icon": "2",
@@ -21626,7 +21626,7 @@
   {
     "card_id": "GD05-090_p1",
     "card_no": "GD05-090",
-    "name": "史黛拉・路歇",
+    "name": "史汀娜・露茜",
     "rarity": "R +",
     "spCol": "",
     "block_icon": "2",
@@ -21650,7 +21650,7 @@
   {
     "card_id": "GD05-091",
     "card_no": "GD05-091",
-    "name": "史汀格・歐格雷",
+    "name": "史汀・奧古利",
     "rarity": "U",
     "spCol": "",
     "block_icon": "2",
@@ -21674,7 +21674,7 @@
   {
     "card_id": "GD05-092",
     "card_no": "GD05-092",
-    "name": "奧爾・尼達",
+    "name": "亞路・列特",
     "rarity": "C",
     "spCol": "",
     "block_icon": "2",
@@ -21698,7 +21698,7 @@
   {
     "card_id": "GD05-093",
     "card_no": "GD05-093",
-    "name": "夏亞・阿茲那布爾",
+    "name": "馬沙・亞斯洛布",
     "rarity": "R",
     "spCol": "",
     "block_icon": "2",
@@ -21722,7 +21722,7 @@
   {
     "card_id": "GD05-093_p1",
     "card_no": "GD05-093",
-    "name": "夏亞・阿茲那布爾",
+    "name": "馬沙・亞斯洛布",
     "rarity": "R +",
     "spCol": "",
     "block_icon": "2",
@@ -21746,7 +21746,7 @@
   {
     "card_id": "GD05-094",
     "card_no": "GD05-094",
-    "name": "葵絲・帕拉亞",
+    "name": "姬絲・帕拉雅",
     "rarity": "U",
     "spCol": "",
     "block_icon": "2",
@@ -21770,7 +21770,7 @@
   {
     "card_id": "GD05-095",
     "card_no": "GD05-095",
-    "name": "裘尼・韓斯",
+    "name": "基尼・戒司",
     "rarity": "C",
     "spCol": "",
     "block_icon": "2",
@@ -21818,7 +21818,7 @@
   {
     "card_id": "GD05-097",
     "card_no": "GD05-097",
-    "name": "多門・火州",
+    "name": "杜門・卡遜",
     "rarity": "R",
     "spCol": "",
     "block_icon": "2",
@@ -21842,7 +21842,7 @@
   {
     "card_id": "GD05-097_p1",
     "card_no": "GD05-097",
-    "name": "多門・火州",
+    "name": "杜門・卡遜",
     "rarity": "R +",
     "spCol": "",
     "block_icon": "2",
@@ -21866,7 +21866,7 @@
   {
     "card_id": "GD05-098",
     "card_no": "GD05-098",
-    "name": "希洛・唯",
+    "name": "希羅・尤",
     "rarity": "R",
     "spCol": "",
     "block_icon": "2",
@@ -21890,7 +21890,7 @@
   {
     "card_id": "GD05-098_p1",
     "card_no": "GD05-098",
-    "name": "希洛・唯",
+    "name": "希羅・尤",
     "rarity": "R +",
     "spCol": "",
     "block_icon": "2",
@@ -21914,7 +21914,7 @@
   {
     "card_id": "GD05-099",
     "card_no": "GD05-099",
-    "name": "特洛瓦・巴頓",
+    "name": "多諾華・巴頓",
     "rarity": "U",
     "spCol": "",
     "block_icon": "2",
@@ -22202,7 +22202,7 @@
   {
     "card_id": "GD05-109",
     "card_no": "GD05-109",
-    "name": "菲爾西的懇求",
+    "name": "菲爾斯的懇求",
     "rarity": "C",
     "spCol": "",
     "block_icon": "2",
@@ -22658,7 +22658,7 @@
   {
     "card_id": "GD05-126",
     "card_no": "GD05-126",
-    "name": "靜寂・零",
+    "name": "寂靜・零",
     "rarity": "C",
     "spCol": "",
     "block_icon": "2",
@@ -22682,7 +22682,7 @@
   {
     "card_id": "GD05-127",
     "card_no": "GD05-127",
-    "name": "葛蒂・露號",
+    "name": "葛蒂・露",
     "rarity": "U",
     "spCol": "",
     "block_icon": "2",
@@ -22730,7 +22730,7 @@
   {
     "card_id": "GD05-129",
     "card_no": "GD05-129",
-    "name": "阿克西斯",
+    "name": "阿古捷斯",
     "rarity": "R",
     "spCol": "",
     "block_icon": "2",
@@ -22754,7 +22754,7 @@
   {
     "card_id": "GD05-130",
     "card_no": "GD05-130",
-    "name": "總統府",
+    "name": "大總統府",
     "rarity": "C",
     "spCol": "",
     "block_icon": "2",
@@ -22778,7 +22778,7 @@
   {
     "card_id": "ST01-010_p4",
     "card_no": "ST01-010",
-    "name": "阿姆羅・雷",
+    "name": "阿寶・尼爾",
     "rarity": "C +",
     "spCol": "SP",
     "block_icon": "2",
@@ -22826,7 +22826,7 @@
   {
     "card_id": "ST02-010_p5",
     "card_no": "ST02-010",
-    "name": "希洛・唯",
+    "name": "希羅・尤",
     "rarity": "C +",
     "spCol": "SP",
     "block_icon": "2",
@@ -22874,7 +22874,7 @@
   {
     "card_id": "ST03-011_p4",
     "card_no": "ST03-011",
-    "name": "夏亞・阿茲那布爾",
+    "name": "馬沙・亞斯洛布",
     "rarity": "C +",
     "spCol": "SP",
     "block_icon": "2",
@@ -22922,7 +22922,7 @@
   {
     "card_id": "ST07-009_p3",
     "card_no": "ST07-009",
-    "name": "剎那・F・塞耶",
+    "name": "剎那・F・清榮",
     "rarity": "C +",
     "spCol": "SP",
     "block_icon": "2",
@@ -23042,7 +23042,7 @@
   {
     "card_id": "ST01-002",
     "card_no": "ST01-002",
-    "name": "高達（MA型態）",
+    "name": "高達（MA形態）",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -23066,7 +23066,7 @@
   {
     "card_id": "ST01-002_p1",
     "card_no": "ST01-002",
-    "name": "高達（MA型態）",
+    "name": "高達（MA形態）",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "1",
@@ -23090,7 +23090,7 @@
   {
     "card_id": "ST01-003",
     "card_no": "ST01-003",
-    "name": "鋼加農",
+    "name": "鐳射大砲",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -23114,7 +23114,7 @@
   {
     "card_id": "ST01-003_p1",
     "card_no": "ST01-003",
-    "name": "鋼加農",
+    "name": "鐳射大砲",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "1",
@@ -23138,7 +23138,7 @@
   {
     "card_id": "ST01-004",
     "card_no": "ST01-004",
-    "name": "鋼坦克",
+    "name": "太空坦克",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -23162,7 +23162,7 @@
   {
     "card_id": "ST01-004_p1",
     "card_no": "ST01-004",
-    "name": "鋼坦克",
+    "name": "太空坦克",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "1",
@@ -23234,7 +23234,7 @@
   {
     "card_id": "ST01-006",
     "card_no": "ST01-006",
-    "name": "風靈高達（帕梅特刻痕6）",
+    "name": "風靈高達（帕梅特刻痕六）",
     "rarity": "LR",
     "spCol": "",
     "block_icon": "1",
@@ -23258,7 +23258,7 @@
   {
     "card_id": "ST01-006_p1",
     "card_no": "ST01-006",
-    "name": "風靈高達（帕梅特刻痕6）",
+    "name": "風靈高達（帕梅特刻痕六）",
     "rarity": "LR +",
     "spCol": "",
     "block_icon": "1",
@@ -23330,7 +23330,7 @@
   {
     "card_id": "ST01-008",
     "card_no": "ST01-008",
-    "name": "迪米教練機",
+    "name": "學園訓練機",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -23354,7 +23354,7 @@
   {
     "card_id": "ST01-008_p1",
     "card_no": "ST01-008",
-    "name": "迪米教練機",
+    "name": "學園訓練機",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "1",
@@ -23378,7 +23378,7 @@
   {
     "card_id": "ST01-009",
     "card_no": "ST01-009",
-    "name": "佐渥特",
+    "name": "突騎兵",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -23402,7 +23402,7 @@
   {
     "card_id": "ST01-009_p1",
     "card_no": "ST01-009",
-    "name": "佐渥特",
+    "name": "突騎兵",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "1",
@@ -23426,7 +23426,7 @@
   {
     "card_id": "ST01-010",
     "card_no": "ST01-010",
-    "name": "阿姆羅・雷",
+    "name": "阿寶・尼爾",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -23450,7 +23450,7 @@
   {
     "card_id": "ST01-010_p1",
     "card_no": "ST01-010",
-    "name": "阿姆羅・雷",
+    "name": "阿寶・尼爾",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "1",
@@ -23522,7 +23522,7 @@
   {
     "card_id": "ST01-012",
     "card_no": "ST01-012",
-    "name": "滿身瘡痍",
+    "name": "滿身創痍",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -23546,7 +23546,7 @@
   {
     "card_id": "ST01-012_p1",
     "card_no": "ST01-012",
-    "name": "滿身瘡痍",
+    "name": "滿身創痍",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "1",
@@ -23570,7 +23570,7 @@
   {
     "card_id": "ST01-013",
     "card_no": "ST01-013",
-    "name": "凱的決心",
+    "name": "凱的決意",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -23594,7 +23594,7 @@
   {
     "card_id": "ST01-013_p1",
     "card_no": "ST01-013",
-    "name": "凱的決心",
+    "name": "凱的決意",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "1",
@@ -23666,7 +23666,7 @@
   {
     "card_id": "ST01-015",
     "card_no": "ST01-015",
-    "name": "白色基地",
+    "name": "木馬號",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -23690,7 +23690,7 @@
   {
     "card_id": "ST01-015_p1",
     "card_no": "ST01-015",
-    "name": "白色基地",
+    "name": "木馬號",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "1",
@@ -23786,7 +23786,7 @@
   {
     "card_id": "T-002",
     "card_no": "T-002",
-    "name": "鋼加農",
+    "name": "鐳射大砲",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -23810,7 +23810,7 @@
   {
     "card_id": "T-003",
     "card_no": "T-003",
-    "name": "鋼坦克",
+    "name": "太空坦克",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -23882,7 +23882,7 @@
   {
     "card_id": "ST02-002",
     "card_no": "ST02-002",
-    "name": "飛翼高達（鳥型型態）",
+    "name": "飛翼高達（鳥形態）",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -23906,7 +23906,7 @@
   {
     "card_id": "ST02-002_p1",
     "card_no": "ST02-002",
-    "name": "飛翼高達（鳥型型態）",
+    "name": "飛翼高達（鳥形態）",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "1",
@@ -23930,7 +23930,7 @@
   {
     "card_id": "ST02-003",
     "card_no": "ST02-003",
-    "name": "重砲手高達",
+    "name": "重炮手高達",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -23954,7 +23954,7 @@
   {
     "card_id": "ST02-003_p1",
     "card_no": "ST02-003",
-    "name": "重砲手高達",
+    "name": "重炮手高達",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "1",
@@ -24074,7 +24074,7 @@
   {
     "card_id": "ST02-006",
     "card_no": "ST02-006",
-    "name": "托爾吉斯",
+    "name": "多魯基斯",
     "rarity": "LR",
     "spCol": "",
     "block_icon": "1",
@@ -24098,7 +24098,7 @@
   {
     "card_id": "ST02-006_p1",
     "card_no": "ST02-006",
-    "name": "托爾吉斯",
+    "name": "多魯基斯",
     "rarity": "LR +",
     "spCol": "",
     "block_icon": "1",
@@ -24122,7 +24122,7 @@
   {
     "card_id": "ST02-007",
     "card_no": "ST02-007",
-    "name": "里歐",
+    "name": "力傲",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -24146,7 +24146,7 @@
   {
     "card_id": "ST02-007_p1",
     "card_no": "ST02-007",
-    "name": "里歐",
+    "name": "力傲",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "1",
@@ -24170,7 +24170,7 @@
   {
     "card_id": "ST02-008",
     "card_no": "ST02-008",
-    "name": "艾亞利茲",
+    "name": "航空力士",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -24194,7 +24194,7 @@
   {
     "card_id": "ST02-008_p1",
     "card_no": "ST02-008",
-    "name": "艾亞利茲",
+    "name": "航空力士",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "1",
@@ -24266,7 +24266,7 @@
   {
     "card_id": "ST02-010",
     "card_no": "ST02-010",
-    "name": "希洛・唯",
+    "name": "希羅・尤",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -24290,7 +24290,7 @@
   {
     "card_id": "ST02-010_p1",
     "card_no": "ST02-010",
-    "name": "希洛・唯",
+    "name": "希羅・尤",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "1",
@@ -24314,7 +24314,7 @@
   {
     "card_id": "ST02-011",
     "card_no": "ST02-011",
-    "name": "傑克斯・馬吉斯",
+    "name": "薩古斯・瑪基斯",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -24338,7 +24338,7 @@
   {
     "card_id": "ST02-011_p1",
     "card_no": "ST02-011",
-    "name": "傑克斯・馬吉斯",
+    "name": "薩古斯・瑪基斯",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "1",
@@ -24410,7 +24410,7 @@
   {
     "card_id": "ST02-013",
     "card_no": "ST02-013",
-    "name": "溫和的音色",
+    "name": "柔和的音色",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -24434,7 +24434,7 @@
   {
     "card_id": "ST02-013_p1",
     "card_no": "ST02-013",
-    "name": "溫和的音色",
+    "name": "柔和的音色",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "1",
@@ -24602,7 +24602,7 @@
   {
     "card_id": "T-004",
     "card_no": "T-004",
-    "name": "里歐",
+    "name": "力傲",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -24626,7 +24626,7 @@
   {
     "card_id": "T-005",
     "card_no": "T-005",
-    "name": "托爾吉斯",
+    "name": "多魯基斯",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -24698,7 +24698,7 @@
   {
     "card_id": "ST03-002",
     "card_no": "ST03-002",
-    "name": "吉拉・祖魯（安傑羅・梭斐專用機）",
+    "name": "居拉・祖魯（安傑洛・梭裴專用機）",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -24722,7 +24722,7 @@
   {
     "card_id": "ST03-002_p1",
     "card_no": "ST03-002",
-    "name": "吉拉・祖魯（安傑羅・梭斐專用機）",
+    "name": "居拉・祖魯（安傑洛・梭裴專用機）",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "1",
@@ -24746,7 +24746,7 @@
   {
     "card_id": "ST03-003",
     "card_no": "ST03-003",
-    "name": "吉拉・祖魯",
+    "name": "居拉・祖魯",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -24770,7 +24770,7 @@
   {
     "card_id": "ST03-003_p1",
     "card_no": "ST03-003",
-    "name": "吉拉・祖魯",
+    "name": "居拉・祖魯",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "1",
@@ -24794,7 +24794,7 @@
   {
     "card_id": "ST03-004",
     "card_no": "ST03-004",
-    "name": "卡薩D（帶袖的規格）",
+    "name": "加煞D（帶袖規格）",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -24818,7 +24818,7 @@
   {
     "card_id": "ST03-004_p1",
     "card_no": "ST03-004",
-    "name": "卡薩D（帶袖的規格）",
+    "name": "加煞D（帶袖規格）",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "1",
@@ -24842,7 +24842,7 @@
   {
     "card_id": "ST03-005",
     "card_no": "ST03-005",
-    "name": "特拉傑（帶袖的規格）",
+    "name": "多拉傑（帶袖規格）",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -24866,7 +24866,7 @@
   {
     "card_id": "ST03-005_p1",
     "card_no": "ST03-005",
-    "name": "特拉傑（帶袖的規格）",
+    "name": "多拉傑（帶袖規格）",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "1",
@@ -24890,7 +24890,7 @@
   {
     "card_id": "ST03-006",
     "card_no": "ST03-006",
-    "name": "夏亞專用薩克Ⅱ",
+    "name": "渣古II（馬沙・亞斯洛布機）",
     "rarity": "LR",
     "spCol": "",
     "block_icon": "1",
@@ -24914,7 +24914,7 @@
   {
     "card_id": "ST03-006_p1",
     "card_no": "ST03-006",
-    "name": "夏亞專用薩克Ⅱ",
+    "name": "渣古II（馬沙・亞斯洛布機）",
     "rarity": "LR +",
     "spCol": "",
     "block_icon": "1",
@@ -24938,7 +24938,7 @@
   {
     "card_id": "ST03-007",
     "card_no": "ST03-007",
-    "name": "薩克Ⅰ",
+    "name": "渣古I",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -24962,7 +24962,7 @@
   {
     "card_id": "ST03-007_p1",
     "card_no": "ST03-007",
-    "name": "薩克Ⅰ",
+    "name": "渣古I",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "1",
@@ -24986,7 +24986,7 @@
   {
     "card_id": "ST03-008",
     "card_no": "ST03-008",
-    "name": "薩克Ⅱ",
+    "name": "渣古Ⅱ",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -25010,7 +25010,7 @@
   {
     "card_id": "ST03-008_p1",
     "card_no": "ST03-008",
-    "name": "薩克Ⅱ",
+    "name": "渣古Ⅱ",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "1",
@@ -25034,7 +25034,7 @@
   {
     "card_id": "ST03-009",
     "card_no": "ST03-009",
-    "name": "古夫",
+    "name": "老虎",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -25058,7 +25058,7 @@
   {
     "card_id": "ST03-009_p1",
     "card_no": "ST03-009",
-    "name": "古夫",
+    "name": "老虎",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "1",
@@ -25130,7 +25130,7 @@
   {
     "card_id": "ST03-011",
     "card_no": "ST03-011",
-    "name": "夏亞・阿茲那布爾",
+    "name": "馬沙・亞斯洛布",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -25154,7 +25154,7 @@
   {
     "card_id": "ST03-011_p1",
     "card_no": "ST03-011",
-    "name": "夏亞・阿茲那布爾",
+    "name": "馬沙・亞斯洛布",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "1",
@@ -25274,7 +25274,7 @@
   {
     "card_id": "ST03-014",
     "card_no": "ST03-014",
-    "name": "青色巨星",
+    "name": "藍色巨星",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -25298,7 +25298,7 @@
   {
     "card_id": "ST03-014_p1",
     "card_no": "ST03-014",
-    "name": "青色巨星",
+    "name": "藍色巨星",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "1",
@@ -25322,7 +25322,7 @@
   {
     "card_id": "ST03-015",
     "card_no": "ST03-015",
-    "name": "雷烏路拉",
+    "name": "留露拉號",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -25346,7 +25346,7 @@
   {
     "card_id": "ST03-015_p1",
     "card_no": "ST03-015",
-    "name": "雷烏路拉",
+    "name": "留露拉號",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "1",
@@ -25418,7 +25418,7 @@
   {
     "card_id": "T-006",
     "card_no": "T-006",
-    "name": "夏亞專用薩克Ⅱ",
+    "name": "渣古II（馬沙・亞斯洛布機）",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -25442,7 +25442,7 @@
   {
     "card_id": "T-007",
     "card_no": "T-007",
-    "name": "薩克Ⅱ",
+    "name": "渣古Ⅱ",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -25562,7 +25562,7 @@
   {
     "card_id": "ST04-003",
     "card_no": "ST04-003",
-    "name": "梅比烏斯零式",
+    "name": "米別斯零式",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -25586,7 +25586,7 @@
   {
     "card_id": "ST04-003_p1",
     "card_no": "ST04-003",
-    "name": "梅比烏斯零式",
+    "name": "米別斯零式",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "1",
@@ -25610,7 +25610,7 @@
   {
     "card_id": "ST04-004",
     "card_no": "ST04-004",
-    "name": "梅比烏斯",
+    "name": "米別斯",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -25634,7 +25634,7 @@
   {
     "card_id": "ST04-004_p1",
     "card_no": "ST04-004",
-    "name": "梅比烏斯",
+    "name": "米別斯",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "1",
@@ -25754,7 +25754,7 @@
   {
     "card_id": "ST04-007",
     "card_no": "ST04-007",
-    "name": "神盾高達（MA型態）",
+    "name": "神盾高達（MA形態）",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -25778,7 +25778,7 @@
   {
     "card_id": "ST04-007_p1",
     "card_no": "ST04-007",
-    "name": "神盾高達（MA型態）",
+    "name": "神盾高達（MA形態）",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "1",
@@ -25802,7 +25802,7 @@
   {
     "card_id": "ST04-008",
     "card_no": "ST04-008",
-    "name": "基恩",
+    "name": "捷武",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -25826,7 +25826,7 @@
   {
     "card_id": "ST04-008_p1",
     "card_no": "ST04-008",
-    "name": "基恩",
+    "name": "捷武",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "1",
@@ -25850,7 +25850,7 @@
   {
     "card_id": "ST04-009",
     "card_no": "ST04-009",
-    "name": "基恩（米蓋爾・艾曼專用機）",
+    "name": "捷武（米基爾・艾文）",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -25874,7 +25874,7 @@
   {
     "card_id": "ST04-009_p1",
     "card_no": "ST04-009",
-    "name": "基恩（米蓋爾・艾曼專用機）",
+    "name": "捷武（米基爾・艾文）",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "1",
@@ -25946,7 +25946,7 @@
   {
     "card_id": "ST04-011",
     "card_no": "ST04-011",
-    "name": "阿斯蘭・薩拉",
+    "name": "阿斯蘭・察拉",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -25970,7 +25970,7 @@
   {
     "card_id": "ST04-011_p1",
     "card_no": "ST04-011",
-    "name": "阿斯蘭・薩拉",
+    "name": "阿斯蘭・察拉",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "1",
@@ -26018,7 +26018,7 @@
   {
     "card_id": "ST04-012_p1",
     "card_no": "ST04-012",
-    "name": "攻擊背包",
+    "name": "突擊背包",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "1",
@@ -26042,7 +26042,7 @@
   {
     "card_id": "ST04-013",
     "card_no": "ST04-013",
-    "name": "安迪米翁之鷹",
+    "name": "安迪蒙之鷹",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -26066,7 +26066,7 @@
   {
     "card_id": "ST04-013_p1",
     "card_no": "ST04-013",
-    "name": "安迪米翁之鷹",
+    "name": "安迪蒙之鷹",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "1",
@@ -26258,7 +26258,7 @@
   {
     "card_id": "T-009",
     "card_no": "T-009",
-    "name": "砲戰型突擊高達",
+    "name": "重炮型突擊高達",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -26354,7 +26354,7 @@
   {
     "card_id": "ST05-001",
     "card_no": "ST05-001",
-    "name": "高達巴巴托司(第4形態)",
+    "name": "高達・巴巴托司（第4形態）",
     "rarity": "LR",
     "spCol": "",
     "block_icon": "1",
@@ -26378,7 +26378,7 @@
   {
     "card_id": "ST05-001_p1",
     "card_no": "ST05-001",
-    "name": "高達巴巴托司(第4形態)",
+    "name": "高達・巴巴托司（第4形態）",
     "rarity": "LR +",
     "spCol": "",
     "block_icon": "1",
@@ -26402,7 +26402,7 @@
   {
     "card_id": "ST05-002",
     "card_no": "ST05-002",
-    "name": "高達巴巴托司(第2形態)",
+    "name": "高達・巴巴托司（第2形態）",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -26426,7 +26426,7 @@
   {
     "card_id": "ST05-002_p1",
     "card_no": "ST05-002",
-    "name": "高達巴巴托司(第2形態)",
+    "name": "高達・巴巴托司（第2形態）",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "1",
@@ -26498,7 +26498,7 @@
   {
     "card_id": "ST05-004",
     "card_no": "ST05-004",
-    "name": "格雷茲改",
+    "name": "古尼捷改",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -26522,7 +26522,7 @@
   {
     "card_id": "ST05-004_p1",
     "card_no": "ST05-004",
-    "name": "格雷茲改",
+    "name": "古尼捷改",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "1",
@@ -26642,7 +26642,7 @@
   {
     "card_id": "ST05-007",
     "card_no": "ST05-007",
-    "name": "燕式格雷茲（麥吉利斯機）",
+    "name": "舒華爾比・古尼捷（麥基利斯機）",
     "rarity": "LR",
     "spCol": "",
     "block_icon": "1",
@@ -26666,7 +26666,7 @@
   {
     "card_id": "ST05-007_p1",
     "card_no": "ST05-007",
-    "name": "燕式格雷茲（麥吉利斯機）",
+    "name": "舒華爾比・古尼捷（麥基利斯機）",
     "rarity": "LR +",
     "spCol": "",
     "block_icon": "1",
@@ -26690,7 +26690,7 @@
   {
     "card_id": "ST05-008",
     "card_no": "ST05-008",
-    "name": "格雷茲（指揮官機）",
+    "name": "古尼捷（指揮官機）",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -26714,7 +26714,7 @@
   {
     "card_id": "ST05-008_p1",
     "card_no": "ST05-008",
-    "name": "格雷茲（指揮官機）",
+    "name": "古尼捷（指揮官機）",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "1",
@@ -26738,7 +26738,7 @@
   {
     "card_id": "ST05-009",
     "card_no": "ST05-009",
-    "name": "格雷茲",
+    "name": "古尼捷",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -26762,7 +26762,7 @@
   {
     "card_id": "ST05-009_p1",
     "card_no": "ST05-009",
-    "name": "格雷茲",
+    "name": "古尼捷",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "1",
@@ -26834,7 +26834,7 @@
   {
     "card_id": "ST05-011",
     "card_no": "ST05-011",
-    "name": "昭弘・亞特蘭大",
+    "name": "昭弘・阿爾特蘭",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -26858,7 +26858,7 @@
   {
     "card_id": "ST05-011_p1",
     "card_no": "ST05-011",
-    "name": "昭弘・亞特蘭大",
+    "name": "昭弘・阿爾特蘭",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "1",
@@ -26882,7 +26882,7 @@
   {
     "card_id": "ST05-012",
     "card_no": "ST05-012",
-    "name": "麥吉利斯・法里德",
+    "name": "麥基利斯・法里度",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -26906,7 +26906,7 @@
   {
     "card_id": "ST05-012_p1",
     "card_no": "ST05-012",
-    "name": "麥吉利斯・法里德",
+    "name": "麥基利斯・法里度",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "1",
@@ -27122,7 +27122,7 @@
   {
     "card_id": "ST06-001",
     "card_no": "ST06-001",
-    "name": "GQuuuuuuX（Ω腦波傳導啟動時）",
+    "name": "GQuuuuuuX（Ω精神感應起動時）",
     "rarity": "LR",
     "spCol": "",
     "block_icon": "1",
@@ -27146,7 +27146,7 @@
   {
     "card_id": "ST06-001_p1",
     "card_no": "ST06-001",
-    "name": "GQuuuuuuX（Ω腦波傳導啟動時）",
+    "name": "GQuuuuuuX（Ω精神感應起動時）",
     "rarity": "LR +",
     "spCol": "",
     "block_icon": "1",
@@ -27170,7 +27170,7 @@
   {
     "card_id": "ST06-002",
     "card_no": "ST06-002",
-    "name": "GQuuuuuuX（Ω腦波傳導啟動時）",
+    "name": "GQuuuuuuX（Ω精神感應起動時）",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -27194,7 +27194,7 @@
   {
     "card_id": "ST06-002_p1",
     "card_no": "ST06-002",
-    "name": "GQuuuuuuX（Ω腦波傳導啟動時）",
+    "name": "GQuuuuuuX（Ω精神感應起動時）",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "1",
@@ -27218,7 +27218,7 @@
   {
     "card_id": "ST06-003",
     "card_no": "ST06-003",
-    "name": "里克・德姆 蓋亞機（GQ）",
+    "name": "力奇・大魔 蓋亞機（GQ）",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -27242,7 +27242,7 @@
   {
     "card_id": "ST06-003_p1",
     "card_no": "ST06-003",
-    "name": "里克・德姆 蓋亞機（GQ）",
+    "name": "力奇・大魔 蓋亞機（GQ）",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "1",
@@ -27266,7 +27266,7 @@
   {
     "card_id": "ST06-004",
     "card_no": "ST06-004",
-    "name": "傑爾古格（GQ）",
+    "name": "格魯古古（GQ）",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -27290,7 +27290,7 @@
   {
     "card_id": "ST06-004_p1",
     "card_no": "ST06-004",
-    "name": "傑爾古格（GQ）",
+    "name": "格魯古古（GQ）",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "1",
@@ -27410,7 +27410,7 @@
   {
     "card_id": "ST06-007",
     "card_no": "ST06-007",
-    "name": "里克・德姆 奧爾迪加機（GQ）",
+    "name": "力奇・大魔 奧迪加機（GQ）",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -27434,7 +27434,7 @@
   {
     "card_id": "ST06-007_p1",
     "card_no": "ST06-007",
-    "name": "里克・德姆 奧爾迪加機（GQ）",
+    "name": "力奇・大魔 奧迪加機（GQ）",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "1",
@@ -27458,7 +27458,7 @@
   {
     "card_id": "ST06-008",
     "card_no": "ST06-008",
-    "name": "傑爾古格 菅井座機（GQ）",
+    "name": "格魯古古 菅井機（GQ）",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -27482,7 +27482,7 @@
   {
     "card_id": "ST06-008_p1",
     "card_no": "ST06-008",
-    "name": "傑爾古格 菅井座機（GQ）",
+    "name": "格魯古古 菅井機（GQ）",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "1",
@@ -27554,7 +27554,7 @@
   {
     "card_id": "ST06-010",
     "card_no": "ST06-010",
-    "name": "修司伊藤",
+    "name": "修治・伊藤",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -27578,7 +27578,7 @@
   {
     "card_id": "ST06-010_p1",
     "card_no": "ST06-010",
-    "name": "修司伊藤",
+    "name": "修治・伊藤",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "1",
@@ -27602,7 +27602,7 @@
   {
     "card_id": "ST06-011",
     "card_no": "ST06-011",
-    "name": "鐵血戰術",
+    "name": "冷徹的戰術",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -27626,7 +27626,7 @@
   {
     "card_id": "ST06-011_p1",
     "card_no": "ST06-011",
-    "name": "鐵血戰術",
+    "name": "冷徹的戰術",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "1",
@@ -27650,7 +27650,7 @@
   {
     "card_id": "ST06-012",
     "card_no": "ST06-012",
-    "name": "女高中生與走私人",
+    "name": "女高中生與走私者",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -27674,7 +27674,7 @@
   {
     "card_id": "ST06-012_p1",
     "card_no": "ST06-012",
-    "name": "女高中生與走私人",
+    "name": "女高中生與走私者",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "1",
@@ -27698,7 +27698,7 @@
   {
     "card_id": "ST06-013",
     "card_no": "ST06-013",
-    "name": "猛將聯合",
+    "name": "猛者的連攜",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -27722,7 +27722,7 @@
   {
     "card_id": "ST06-013_p1",
     "card_no": "ST06-013",
-    "name": "猛將聯合",
+    "name": "猛者的連攜",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "1",
@@ -27746,7 +27746,7 @@
   {
     "card_id": "ST06-014",
     "card_no": "ST06-014",
-    "name": "戰團對決",
+    "name": "軍團戰",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -27770,7 +27770,7 @@
   {
     "card_id": "ST06-014_p1",
     "card_no": "ST06-014",
-    "name": "戰團對決",
+    "name": "軍團戰",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "1",
@@ -27794,7 +27794,7 @@
   {
     "card_id": "ST06-015",
     "card_no": "ST06-015",
-    "name": "加涅邦有限公司",
+    "name": "加尼邦有限公司",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -27818,7 +27818,7 @@
   {
     "card_id": "ST06-015_p1",
     "card_no": "ST06-015",
-    "name": "加涅邦有限公司",
+    "name": "加尼邦有限公司",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "1",
@@ -27890,7 +27890,7 @@
   {
     "card_id": "ST07-001",
     "card_no": "ST07-001",
-    "name": "能天使高達",
+    "name": "高達艾斯亞",
     "rarity": "LR",
     "spCol": "",
     "block_icon": "1",
@@ -27914,7 +27914,7 @@
   {
     "card_id": "ST07-001_p1",
     "card_no": "ST07-001",
-    "name": "能天使高達",
+    "name": "高達艾斯亞",
     "rarity": "LR +",
     "spCol": "",
     "block_icon": "1",
@@ -27938,7 +27938,7 @@
   {
     "card_id": "ST07-002",
     "card_no": "ST07-002",
-    "name": "能天使高達",
+    "name": "高達艾斯亞",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -27962,7 +27962,7 @@
   {
     "card_id": "ST07-002_p1",
     "card_no": "ST07-002",
-    "name": "能天使高達",
+    "name": "高達艾斯亞",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "1",
@@ -27986,7 +27986,7 @@
   {
     "card_id": "ST07-003",
     "card_no": "ST07-003",
-    "name": "德天使高達",
+    "name": "高達華塞亞",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -28010,7 +28010,7 @@
   {
     "card_id": "ST07-003_p1",
     "card_no": "ST07-003",
-    "name": "德天使高達",
+    "name": "高達華塞亞",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "1",
@@ -28034,7 +28034,7 @@
   {
     "card_id": "ST07-004",
     "card_no": "ST07-004",
-    "name": "德天使高達",
+    "name": "高達華塞亞",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -28058,7 +28058,7 @@
   {
     "card_id": "ST07-004_p1",
     "card_no": "ST07-004",
-    "name": "德天使高達",
+    "name": "高達華塞亞",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "1",
@@ -28082,7 +28082,7 @@
   {
     "card_id": "ST07-005",
     "card_no": "ST07-005",
-    "name": "力天使高達",
+    "name": "高達戴勒米",
     "rarity": "LR",
     "spCol": "",
     "block_icon": "1",
@@ -28106,7 +28106,7 @@
   {
     "card_id": "ST07-005_p1",
     "card_no": "ST07-005",
-    "name": "力天使高達",
+    "name": "高達戴勒米",
     "rarity": "LR +",
     "spCol": "",
     "block_icon": "1",
@@ -28130,7 +28130,7 @@
   {
     "card_id": "ST07-006",
     "card_no": "ST07-006",
-    "name": "力天使高達",
+    "name": "高達戴勒米",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -28154,7 +28154,7 @@
   {
     "card_id": "ST07-006_p1",
     "card_no": "ST07-006",
-    "name": "力天使高達",
+    "name": "高達戴勒米",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "1",
@@ -28178,7 +28178,7 @@
   {
     "card_id": "ST07-007",
     "card_no": "ST07-007",
-    "name": "主天使高達",
+    "name": "高達基里昂斯",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -28202,7 +28202,7 @@
   {
     "card_id": "ST07-007_p1",
     "card_no": "ST07-007",
-    "name": "主天使高達",
+    "name": "高達基里昂斯",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "1",
@@ -28226,7 +28226,7 @@
   {
     "card_id": "ST07-008",
     "card_no": "ST07-008",
-    "name": "主天使高達（飛行型態）",
+    "name": "高達基里昂斯（飛行形態）",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -28250,7 +28250,7 @@
   {
     "card_id": "ST07-008_p1",
     "card_no": "ST07-008",
-    "name": "主天使高達（飛行型態）",
+    "name": "高達基里昂斯（飛行形態）",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "1",
@@ -28274,7 +28274,7 @@
   {
     "card_id": "ST07-009",
     "card_no": "ST07-009",
-    "name": "剎那・F・塞耶",
+    "name": "剎那・F・清榮",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -28298,7 +28298,7 @@
   {
     "card_id": "ST07-009_p1",
     "card_no": "ST07-009",
-    "name": "剎那・F・塞耶",
+    "name": "剎那・F・清榮",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "1",
@@ -28322,7 +28322,7 @@
   {
     "card_id": "ST07-010",
     "card_no": "ST07-010",
-    "name": "提耶利亞・厄德",
+    "name": "迪尼亞・艾迪",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -28346,7 +28346,7 @@
   {
     "card_id": "ST07-010_p1",
     "card_no": "ST07-010",
-    "name": "提耶利亞・厄德",
+    "name": "迪尼亞・艾迪",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "1",
@@ -28370,7 +28370,7 @@
   {
     "card_id": "ST07-011",
     "card_no": "ST07-011",
-    "name": "洛克昂・史特拉托斯（尼爾・狄蘭迪）",
+    "name": "洛奧・史當斯（尼爾）",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -28394,7 +28394,7 @@
   {
     "card_id": "ST07-011_p1",
     "card_no": "ST07-011",
-    "name": "洛克昂・史特拉托斯（尼爾・狄蘭迪）",
+    "name": "洛奧・史當斯（尼爾）",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "1",
@@ -28418,7 +28418,7 @@
   {
     "card_id": "ST07-012",
     "card_no": "ST07-012",
-    "name": "阿雷路亞・帕普提茲姆",
+    "name": "阿路耶・哈帝姆",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -28442,7 +28442,7 @@
   {
     "card_id": "ST07-012_p1",
     "card_no": "ST07-012",
-    "name": "阿雷路亞・帕普提茲姆",
+    "name": "阿路耶・哈帝姆",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "1",
@@ -28514,7 +28514,7 @@
   {
     "card_id": "ST07-014",
     "card_no": "ST07-014",
-    "name": "戰術預報員",
+    "name": "戰術預報士",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -28538,7 +28538,7 @@
   {
     "card_id": "ST07-014_p1",
     "card_no": "ST07-014",
-    "name": "戰術預報員",
+    "name": "戰術預報士",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "1",
@@ -28850,7 +28850,7 @@
   {
     "card_id": "ST08-005",
     "card_no": "ST08-005",
-    "name": "梅薩F02型用機雷",
+    "name": "梅薩F02型 佈雷裝備",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -28874,7 +28874,7 @@
   {
     "card_id": "ST08-005_p1",
     "card_no": "ST08-005",
-    "name": "梅薩F02型用機雷",
+    "name": "梅薩F02型 佈雷裝備",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "1",
@@ -28898,7 +28898,7 @@
   {
     "card_id": "ST08-006",
     "card_no": "ST08-006",
-    "name": "潘娜洛普",
+    "name": "潘尼洛普",
     "rarity": "LR",
     "spCol": "",
     "block_icon": "1",
@@ -28922,7 +28922,7 @@
   {
     "card_id": "ST08-006_p1",
     "card_no": "ST08-006",
-    "name": "潘娜洛普",
+    "name": "潘尼洛普",
     "rarity": "LR +",
     "spCol": "",
     "block_icon": "1",
@@ -28946,7 +28946,7 @@
   {
     "card_id": "ST08-007",
     "card_no": "ST08-007",
-    "name": "潘娜洛普",
+    "name": "潘尼洛普",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -28970,7 +28970,7 @@
   {
     "card_id": "ST08-007_p1",
     "card_no": "ST08-007",
-    "name": "潘娜洛普",
+    "name": "潘尼洛普",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "1",
@@ -29042,7 +29042,7 @@
   {
     "card_id": "ST08-009",
     "card_no": "ST08-009",
-    "name": "陸戰用傑鋼A型（獵人頭部隊規格）",
+    "name": "陸戰用積根A型（人類狩獵者規格）",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -29066,7 +29066,7 @@
   {
     "card_id": "ST08-009_p1",
     "card_no": "ST08-009",
-    "name": "陸戰用傑鋼A型（獵人頭部隊規格）",
+    "name": "陸戰用積根A型（人類狩獵者規格）",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "1",
@@ -29090,7 +29090,7 @@
   {
     "card_id": "ST08-010",
     "card_no": "ST08-010",
-    "name": "哈薩威・諾亞",
+    "name": "凱薩衛・諾亞",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -29114,7 +29114,7 @@
   {
     "card_id": "ST08-010_p1",
     "card_no": "ST08-010",
-    "name": "哈薩威・諾亞",
+    "name": "凱薩衛・諾亞",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "1",
@@ -29186,7 +29186,7 @@
   {
     "card_id": "ST08-012",
     "card_no": "ST08-012",
-    "name": "為哈薩威振奮士氣",
+    "name": "給凱薩衛的鼓舞",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -29210,7 +29210,7 @@
   {
     "card_id": "ST08-012_p1",
     "card_no": "ST08-012",
-    "name": "為哈薩威振奮士氣",
+    "name": "給凱薩衛的鼓舞",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "1",
@@ -29330,7 +29330,7 @@
   {
     "card_id": "ST08-015",
     "card_no": "ST08-015",
-    "name": "大堡",
+    "name": "達沃",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -29354,7 +29354,7 @@
   {
     "card_id": "ST08-015_p1",
     "card_no": "ST08-015",
-    "name": "大堡",
+    "name": "達沃",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "1",
@@ -29426,7 +29426,7 @@
   {
     "card_id": "EXR-002",
     "card_no": "EXR-002",
-    "name": "EX能源",
+    "name": "EX資源",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -29450,7 +29450,7 @@
   {
     "card_id": "EXR-002_p1",
     "card_no": "EXR-002",
-    "name": "EX能源",
+    "name": "EX資源",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "1",
@@ -29618,7 +29618,7 @@
   {
     "card_id": "R-030",
     "card_no": "R-030",
-    "name": "能源",
+    "name": "資源",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -29642,7 +29642,7 @@
   {
     "card_id": "R-030_p1",
     "card_no": "R-030",
-    "name": "能源",
+    "name": "資源",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "1",
@@ -29714,7 +29714,7 @@
   {
     "card_id": "ST04-007_p2",
     "card_no": "ST04-007",
-    "name": "神盾高達（MA型態）",
+    "name": "神盾高達（MA形態）",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -29762,7 +29762,7 @@
   {
     "card_id": "ST04-011_p4",
     "card_no": "ST04-011",
-    "name": "阿斯蘭・薩拉",
+    "name": "阿斯蘭・察拉",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -29834,7 +29834,7 @@
   {
     "card_id": "ST09-001",
     "card_no": "ST09-001",
-    "name": "衝擊高達",
+    "name": "脈衝高達",
     "rarity": "LR",
     "spCol": "",
     "block_icon": "1",
@@ -29858,7 +29858,7 @@
   {
     "card_id": "ST09-001_p1",
     "card_no": "ST09-001",
-    "name": "衝擊高達",
+    "name": "脈衝高達",
     "rarity": "LR +",
     "spCol": "",
     "block_icon": "1",
@@ -29882,7 +29882,7 @@
   {
     "card_id": "ST09-002",
     "card_no": "ST09-002",
-    "name": "強攻型衝擊高達",
+    "name": "強攻型脈衝高達",
     "rarity": "LR",
     "spCol": "",
     "block_icon": "1",
@@ -29906,7 +29906,7 @@
   {
     "card_id": "ST09-002_p1",
     "card_no": "ST09-002",
-    "name": "強攻型衝擊高達",
+    "name": "強攻型脈衝高達",
     "rarity": "LR +",
     "spCol": "",
     "block_icon": "1",
@@ -30026,7 +30026,7 @@
   {
     "card_id": "ST09-005",
     "card_no": "ST09-005",
-    "name": "薩克戰士",
+    "name": "渣古戰士",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -30050,7 +30050,7 @@
   {
     "card_id": "ST09-005_p1",
     "card_no": "ST09-005",
-    "name": "薩克戰士",
+    "name": "渣古戰士",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "1",
@@ -30074,7 +30074,7 @@
   {
     "card_id": "ST09-006",
     "card_no": "ST09-006",
-    "name": "雙劍型衝擊高達",
+    "name": "雙劍型脈衝高達",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -30098,7 +30098,7 @@
   {
     "card_id": "ST09-006_p1",
     "card_no": "ST09-006",
-    "name": "雙劍型衝擊高達",
+    "name": "雙劍型脈衝高達",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "1",
@@ -30122,7 +30122,7 @@
   {
     "card_id": "ST09-007",
     "card_no": "ST09-007",
-    "name": "爆破型衝擊高達",
+    "name": "爆破型脈衝高達",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -30146,7 +30146,7 @@
   {
     "card_id": "ST09-007_p1",
     "card_no": "ST09-007",
-    "name": "爆破型衝擊高達",
+    "name": "爆破型脈衝高達",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "1",
@@ -30338,7 +30338,7 @@
   {
     "card_id": "EXR-003",
     "card_no": "EXR-003",
-    "name": "EX能源",
+    "name": "EX資源",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -30362,7 +30362,7 @@
   {
     "card_id": "R-041",
     "card_no": "R-041",
-    "name": "能源",
+    "name": "資源",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -30482,7 +30482,7 @@
   {
     "card_id": "ST10-003",
     "card_no": "ST10-003",
-    "name": "高達Mk-Ⅱ（幽谷規格）",
+    "name": "高達Mk-Ⅱ（奧干規格）",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -30506,7 +30506,7 @@
   {
     "card_id": "ST10-003_p1",
     "card_no": "ST10-003",
-    "name": "高達Mk-Ⅱ（幽谷規格）",
+    "name": "高達Mk-Ⅱ（奧干規格）",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "1",
@@ -30578,7 +30578,7 @@
   {
     "card_id": "ST10-005",
     "card_no": "ST10-005",
-    "name": "尼摩",
+    "name": "雷姆",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -30602,7 +30602,7 @@
   {
     "card_id": "ST10-005_p1",
     "card_no": "ST10-005",
-    "name": "尼摩",
+    "name": "雷姆",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "1",
@@ -30674,7 +30674,7 @@
   {
     "card_id": "ST10-007",
     "card_no": "ST10-007",
-    "name": "高達巴巴托斯（第4型態）",
+    "name": "高達・巴巴托司（第4形態）",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -30698,7 +30698,7 @@
   {
     "card_id": "ST10-007_p1",
     "card_no": "ST10-007",
-    "name": "高達巴巴托斯（第4型態）",
+    "name": "高達・巴巴托司（第4形態）",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "1",
@@ -30722,7 +30722,7 @@
   {
     "card_id": "ST10-008",
     "card_no": "ST10-008",
-    "name": "高達巴巴托斯（第1型態）",
+    "name": "高達・巴巴托司（第1形態）",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -30746,7 +30746,7 @@
   {
     "card_id": "ST10-008_p1",
     "card_no": "ST10-008",
-    "name": "高達巴巴托斯（第1型態）",
+    "name": "高達・巴巴托司（第1形態）",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "1",
@@ -30770,7 +30770,7 @@
   {
     "card_id": "ST10-009",
     "card_no": "ST10-009",
-    "name": "格雷茲（決鬥規格）",
+    "name": "古尼捷（決鬥規格）",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -30794,7 +30794,7 @@
   {
     "card_id": "ST10-009_p1",
     "card_no": "ST10-009",
-    "name": "格雷茲（決鬥規格）",
+    "name": "古尼捷（決鬥規格）",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "1",
@@ -31010,7 +31010,7 @@
   {
     "card_id": "ST10-014",
     "card_no": "ST10-014",
-    "name": "解鎖開發路徑圖",
+    "name": "開發路線圖解放",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -31034,7 +31034,7 @@
   {
     "card_id": "ST10-014_p1",
     "card_no": "ST10-014",
-    "name": "解鎖開發路徑圖",
+    "name": "開發路線圖解放",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "1",
@@ -31154,7 +31154,7 @@
   {
     "card_id": "EB01-001",
     "card_no": "EB01-001",
-    "name": "異端高達紅色機改（EX）",
+    "name": "迷惘高達紅色機改（EX）",
     "rarity": "LR",
     "spCol": "",
     "block_icon": "1",
@@ -31178,7 +31178,7 @@
   {
     "card_id": "EB01-001_p1",
     "card_no": "EB01-001",
-    "name": "異端高達紅色機改（EX）",
+    "name": "迷惘高達紅色機改（EX）",
     "rarity": "LR +",
     "spCol": "",
     "block_icon": "1",
@@ -31298,7 +31298,7 @@
   {
     "card_id": "EB01-004",
     "card_no": "EB01-004",
-    "name": "高達巴巴托司狼王式（EX）",
+    "name": "高達・巴巴托司狼王式（EX）",
     "rarity": "R",
     "spCol": "",
     "block_icon": "1",
@@ -31322,7 +31322,7 @@
   {
     "card_id": "EB01-004_p1",
     "card_no": "EB01-004",
-    "name": "高達巴巴托司狼王式（EX）",
+    "name": "高達・巴巴托司狼王式（EX）",
     "rarity": "R +",
     "spCol": "",
     "block_icon": "1",
@@ -31466,7 +31466,7 @@
   {
     "card_id": "EB01-009",
     "card_no": "EB01-009",
-    "name": "全裝甲型・高達（雷霆宙域版）（EX）",
+    "name": "全裝甲型・高達（雷霆戰線版）（EX）",
     "rarity": "U",
     "spCol": "",
     "block_icon": "1",
@@ -31490,7 +31490,7 @@
   {
     "card_id": "EB01-009_p1",
     "card_no": "EB01-009",
-    "name": "全裝甲型・高達（雷霆宙域版）（EX）",
+    "name": "全裝甲型・高達（雷霆戰線版）（EX）",
     "rarity": "U +",
     "spCol": "",
     "block_icon": "1",
@@ -31514,7 +31514,7 @@
   {
     "card_id": "EB01-010",
     "card_no": "EB01-010",
-    "name": "高達巴巴托司（第6型態）",
+    "name": "高達・巴巴托司（第6形態）",
     "rarity": "U",
     "spCol": "",
     "block_icon": "1",
@@ -31562,7 +31562,7 @@
   {
     "card_id": "EB01-012",
     "card_no": "EB01-012",
-    "name": "德姆無腿型",
+    "name": "大魔無腿型",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -31610,7 +31610,7 @@
   {
     "card_id": "EB01-014",
     "card_no": "EB01-014",
-    "name": "古夫勝利型",
+    "name": "老虎勝利型",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -31634,7 +31634,7 @@
   {
     "card_id": "EB01-015",
     "card_no": "EB01-015",
-    "name": "試作亞席瑪TR-3[基哈爾]",
+    "name": "試作亞斯曼TR-3[基哈爾]",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -31778,7 +31778,7 @@
   {
     "card_id": "EB01-021",
     "card_no": "EB01-021",
-    "name": "創建突擊高達（全裝備型）（EX）",
+    "name": "創戰突擊高達（全裝備型）（EX）",
     "rarity": "LR",
     "spCol": "",
     "block_icon": "1",
@@ -31802,7 +31802,7 @@
   {
     "card_id": "EB01-021_p1",
     "card_no": "EB01-021",
-    "name": "創建突擊高達（全裝備型）（EX）",
+    "name": "創戰突擊高達（全裝備型）（EX）",
     "rarity": "LR +",
     "spCol": "",
     "block_icon": "1",
@@ -31826,7 +31826,7 @@
   {
     "card_id": "EB01-022",
     "card_no": "EB01-022",
-    "name": "能天使高達（EX）",
+    "name": "高達艾斯亞（EX）",
     "rarity": "LR",
     "spCol": "",
     "block_icon": "1",
@@ -31850,7 +31850,7 @@
   {
     "card_id": "EB01-022_p1",
     "card_no": "EB01-022",
-    "name": "能天使高達（EX）",
+    "name": "高達艾斯亞（EX）",
     "rarity": "LR +",
     "spCol": "",
     "block_icon": "1",
@@ -31922,7 +31922,7 @@
   {
     "card_id": "EB01-024",
     "card_no": "EB01-024",
-    "name": "GQuuuuuuX（Ω腦波傳導啟動時）",
+    "name": "GQuuuuuuX（Ω精神感應起動時）",
     "rarity": "R",
     "spCol": "",
     "block_icon": "1",
@@ -31946,7 +31946,7 @@
   {
     "card_id": "EB01-025",
     "card_no": "EB01-025",
-    "name": "托爾吉斯Ⅱ",
+    "name": "多魯基斯Ⅱ",
     "rarity": "R",
     "spCol": "",
     "block_icon": "1",
@@ -31970,7 +31970,7 @@
   {
     "card_id": "EB01-025_p1",
     "card_no": "EB01-025",
-    "name": "托爾吉斯Ⅱ",
+    "name": "多魯基斯Ⅱ",
     "rarity": "R +",
     "spCol": "",
     "block_icon": "1",
@@ -31994,7 +31994,7 @@
   {
     "card_id": "EB01-026",
     "card_no": "EB01-026",
-    "name": "高达·阿斯塔罗特原型",
+    "name": "高達・亞斯塔錄原型",
     "rarity": "U",
     "spCol": "",
     "block_icon": "1",
@@ -32018,7 +32018,7 @@
   {
     "card_id": "EB01-027",
     "card_no": "EB01-027",
-    "name": "托爾吉斯",
+    "name": "多魯基斯",
     "rarity": "U",
     "spCol": "",
     "block_icon": "1",
@@ -32066,7 +32066,7 @@
   {
     "card_id": "EB01-029",
     "card_no": "EB01-029",
-    "name": "高达·阿斯塔罗特重生型（EX）",
+    "name": "高達・亞斯塔錄重生型（EX）",
     "rarity": "U",
     "spCol": "",
     "block_icon": "1",
@@ -32090,7 +32090,7 @@
   {
     "card_id": "EB01-030",
     "card_no": "EB01-030",
-    "name": "畢格・朗格",
+    "name": "比格・朗格",
     "rarity": "U",
     "spCol": "",
     "block_icon": "1",
@@ -32162,7 +32162,7 @@
   {
     "card_id": "EB01-033",
     "card_no": "EB01-033",
-    "name": "陶拉斯（山克王國規格）",
+    "name": "特拉士（山克王國規格）",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -32234,7 +32234,7 @@
   {
     "card_id": "EB01-036",
     "card_no": "EB01-036",
-    "name": "達里巴爾迪",
+    "name": "達里魯巴路迪",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -32258,7 +32258,7 @@
   {
     "card_id": "EB01-037",
     "card_no": "EB01-037",
-    "name": "茲達（1號機）",
+    "name": "積達（1號機）",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -32282,7 +32282,7 @@
   {
     "card_id": "EB01-038",
     "card_no": "EB01-038",
-    "name": "G-叛徒",
+    "name": "G-Self",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -32402,7 +32402,7 @@
   {
     "card_id": "EB01-042",
     "card_no": "EB01-042",
-    "name": "腦波傳導哈囉（EX）",
+    "name": "精神感應哈囉（EX）",
     "rarity": "LR",
     "spCol": "",
     "block_icon": "1",
@@ -32426,7 +32426,7 @@
   {
     "card_id": "EB01-042_p1",
     "card_no": "EB01-042",
-    "name": "腦波傳導哈囉（EX）",
+    "name": "精神感應哈囉（EX）",
     "rarity": "LR +",
     "spCol": "",
     "block_icon": "1",
@@ -32546,7 +32546,7 @@
   {
     "card_id": "EB01-045",
     "card_no": "EB01-045",
-    "name": "腦波傳導型薩克（EX）",
+    "name": "精神感應渣古（EX）",
     "rarity": "R",
     "spCol": "",
     "block_icon": "1",
@@ -32570,7 +32570,7 @@
   {
     "card_id": "EB01-045_p1",
     "card_no": "EB01-045",
-    "name": "腦波傳導型薩克（EX）",
+    "name": "精神感應渣古（EX）",
     "rarity": "R +",
     "spCol": "",
     "block_icon": "1",
@@ -32810,7 +32810,7 @@
   {
     "card_id": "EB01-054",
     "card_no": "EB01-054",
-    "name": "蓋布蘭TR-5[弗萊爾]1號機",
+    "name": "卡博羅TR5[弗萊爾]1號機",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -32834,7 +32834,7 @@
   {
     "card_id": "EB01-055",
     "card_no": "EB01-055",
-    "name": "德姆大刀型",
+    "name": "大魔大刀型",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -32930,7 +32930,7 @@
   {
     "card_id": "EB01-059",
     "card_no": "EB01-059",
-    "name": "腦波傳導型薩克",
+    "name": "精神感應渣古",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -33002,7 +33002,7 @@
   {
     "card_id": "EB01-062",
     "card_no": "EB01-062",
-    "name": "約拿・巴斯特",
+    "name": "約拿・巴斯塔",
     "rarity": "U",
     "spCol": "",
     "block_icon": "1",
@@ -33026,7 +33026,7 @@
   {
     "card_id": "EB01-063",
     "card_no": "EB01-063",
-    "name": "伊歐・弗萊明",
+    "name": "以奧・富林明古",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -33098,7 +33098,7 @@
   {
     "card_id": "EB01-066",
     "card_no": "EB01-066",
-    "name": "嶺司",
+    "name": "澪司",
     "rarity": "U",
     "spCol": "",
     "block_icon": "1",
@@ -33194,7 +33194,7 @@
   {
     "card_id": "EB01-070",
     "card_no": "EB01-070",
-    "name": "戴瑞・羅倫茲",
+    "name": "達里爾・洛倫茲",
     "rarity": "U",
     "spCol": "",
     "block_icon": "1",
@@ -33266,7 +33266,7 @@
   {
     "card_id": "EB01-073",
     "card_no": "EB01-073",
-    "name": "角色請求",
+    "name": "角色招募",
     "rarity": "R",
     "spCol": "",
     "block_icon": "1",
@@ -33362,7 +33362,7 @@
   {
     "card_id": "EB01-077",
     "card_no": "EB01-077",
-    "name": "大師聯盟開戰",
+    "name": "Master League開幕",
     "rarity": "R",
     "spCol": "",
     "block_icon": "1",
@@ -33410,7 +33410,7 @@
   {
     "card_id": "EB01-079",
     "card_no": "EB01-079",
-    "name": "選配零件",
+    "name": "選擇性零件",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -33554,7 +33554,7 @@
   {
     "card_id": "EB01-085",
     "card_no": "EB01-085",
-    "name": "庫德莉雅・藍那・伯恩斯坦＆漁火",
+    "name": "古荻利亞・藍那・伯恩斯坦＆漁火",
     "rarity": "U",
     "spCol": "",
     "block_icon": "1",
@@ -33578,7 +33578,7 @@
   {
     "card_id": "EB01-086",
     "card_no": "EB01-086",
-    "name": "基西莉亞・薩比＆格瓦金",
+    "name": "基絲莉亞・薩比＆格瓦金",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -33602,7 +33602,7 @@
   {
     "card_id": "EB01-087",
     "card_no": "EB01-087",
-    "name": "瑪莉娜・伊士麥＆托勒密號2",
+    "name": "瑪莉娜・伊斯梅爾＆托勒密號2",
     "rarity": "U",
     "spCol": "",
     "block_icon": "1",
@@ -33626,7 +33626,7 @@
   {
     "card_id": "EB01-088",
     "card_no": "EB01-088",
-    "name": "米奧琳涅・連布蘭＆學園艦",
+    "name": "米奧莉奈・連布蘭＆學園艦",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -33650,7 +33650,7 @@
   {
     "card_id": "EB01-089",
     "card_no": "EB01-089",
-    "name": "拉克絲・克萊因＆永恆號",
+    "name": "莉古絲・古蘭爾＆永恆號",
     "rarity": "U",
     "spCol": "",
     "block_icon": "1",
@@ -33674,7 +33674,7 @@
   {
     "card_id": "EB01-090",
     "card_no": "EB01-090",
-    "name": "蒂法・安迪爾＆和平號",
+    "name": "荻花・安迪爾＆自由號",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -33722,7 +33722,7 @@
   {
     "card_id": "T-025",
     "card_no": "T-025",
-    "name": "能天使高達",
+    "name": "高達艾斯亞",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -33842,7 +33842,7 @@
   {
     "card_id": "EXR-001_p7",
     "card_no": "EXR-001",
-    "name": "EX能源",
+    "name": "EX資源",
     "rarity": "C",
     "spCol": "",
     "block_icon": "2",
@@ -33890,7 +33890,7 @@
   {
     "card_id": "GD01-004_p3",
     "card_no": "GD01-004",
-    "name": "鋼加農",
+    "name": "鐳射大砲",
     "rarity": "R",
     "spCol": "",
     "block_icon": "2",
@@ -33938,7 +33938,7 @@
   {
     "card_id": "GD01-008_p3",
     "card_no": "GD01-008",
-    "name": "鋼坦克",
+    "name": "太空坦克",
     "rarity": "U",
     "spCol": "",
     "block_icon": "2",
@@ -34010,7 +34010,7 @@
   {
     "card_id": "GD01-030_p2",
     "card_no": "GD01-030",
-    "name": "里克・德姆",
+    "name": "力奇・大魔",
     "rarity": "U",
     "spCol": "",
     "block_icon": "2",
@@ -34034,7 +34034,7 @@
   {
     "card_id": "GD01-035_p1",
     "card_no": "GD01-035",
-    "name": "薩克Ⅱ",
+    "name": "渣古Ⅱ",
     "rarity": "C",
     "spCol": "",
     "block_icon": "2",
@@ -34082,7 +34082,7 @@
   {
     "card_id": "GD01-052_p1",
     "card_no": "GD01-052",
-    "name": "吉拉・祖魯（親衛隊機）",
+    "name": "居拉・祖魯（親衛隊機）",
     "rarity": "U",
     "spCol": "",
     "block_icon": "2",
@@ -34130,7 +34130,7 @@
   {
     "card_id": "GD01-069_p2",
     "card_no": "GD01-069",
-    "name": "突擊高達・紅",
+    "name": "嫣紅突擊高達",
     "rarity": "R",
     "spCol": "",
     "block_icon": "2",
@@ -34202,7 +34202,7 @@
   {
     "card_id": "GD01-090_p4",
     "card_no": "GD01-090",
-    "name": "迪歐・麥斯威爾",
+    "name": "狄奧・麥斯威爾",
     "rarity": "R",
     "spCol": "",
     "block_icon": "2",
@@ -34250,7 +34250,7 @@
   {
     "card_id": "GD01-096_p3",
     "card_no": "GD01-096",
-    "name": "卡佳里・由拉・阿斯哈",
+    "name": "卡嘉蓮・尤拉・阿斯哈",
     "rarity": "R",
     "spCol": "",
     "block_icon": "2",
@@ -34274,7 +34274,7 @@
   {
     "card_id": "GD01-100_p6",
     "card_no": "GD01-100",
-    "name": "覺悟的表露",
+    "name": "覺悟的表現",
     "rarity": "U",
     "spCol": "",
     "block_icon": "2",
@@ -34442,7 +34442,7 @@
   {
     "card_id": "GD02-058_p2",
     "card_no": "GD02-058",
-    "name": "流星號（格雷茲改貳）",
+    "name": "流星號（古尼捷改貳）",
     "rarity": "R",
     "spCol": "",
     "block_icon": "2",
@@ -34466,7 +34466,7 @@
   {
     "card_id": "GD03-055_p2",
     "card_no": "GD03-055",
-    "name": "端白星高達（第2型態）",
+    "name": "端白星高達（第2形態）",
     "rarity": "R",
     "spCol": "",
     "block_icon": "2",
@@ -34514,7 +34514,7 @@
   {
     "card_id": "GD03-097_p1",
     "card_no": "GD03-097",
-    "name": "威斯塔利歐・阿法姆",
+    "name": "維達利奧・阿凡",
     "rarity": "C",
     "spCol": "",
     "block_icon": "2",
@@ -34562,7 +34562,7 @@
   {
     "card_id": "R-001_p7",
     "card_no": "R-001",
-    "name": "能源",
+    "name": "資源",
     "rarity": "C",
     "spCol": "",
     "block_icon": "2",
@@ -34610,7 +34610,7 @@
   {
     "card_id": "ST01-010_p5",
     "card_no": "ST01-010",
-    "name": "阿姆羅・雷",
+    "name": "阿寶・尼爾",
     "rarity": "C",
     "spCol": "",
     "block_icon": "2",
@@ -34682,7 +34682,7 @@
   {
     "card_id": "ST02-010_p6",
     "card_no": "ST02-010",
-    "name": "希洛・唯",
+    "name": "希羅・尤",
     "rarity": "C",
     "spCol": "",
     "block_icon": "2",
@@ -34778,7 +34778,7 @@
   {
     "card_id": "ST03-015_p2",
     "card_no": "ST03-015",
-    "name": "雷烏路拉",
+    "name": "留露拉號",
     "rarity": "C",
     "spCol": "",
     "block_icon": "2",
@@ -34874,7 +34874,7 @@
   {
     "card_id": "ST05-001_p3",
     "card_no": "ST05-001",
-    "name": "高達巴巴托司(第4形態)",
+    "name": "高達・巴巴托司（第4形態）",
     "rarity": "LR",
     "spCol": "",
     "block_icon": "2",
@@ -34946,7 +34946,7 @@
   {
     "card_id": "ST08-015_p2",
     "card_no": "ST08-015",
-    "name": "大堡",
+    "name": "達沃",
     "rarity": "C",
     "spCol": "",
     "block_icon": "2",
@@ -34970,7 +34970,7 @@
   {
     "card_id": "EXRP-004",
     "card_no": "EXRP-004",
-    "name": "EX能源",
+    "name": "EX資源",
     "rarity": "P",
     "spCol": "",
     "block_icon": "1",
@@ -34994,7 +34994,7 @@
   {
     "card_id": "EXRP-005",
     "card_no": "EXRP-005",
-    "name": "EX能源",
+    "name": "EX資源",
     "rarity": "P",
     "spCol": "",
     "block_icon": "1",
@@ -35018,7 +35018,7 @@
   {
     "card_id": "EXRP-006",
     "card_no": "EXRP-006",
-    "name": "EX能源",
+    "name": "EX資源",
     "rarity": "P",
     "spCol": "",
     "block_icon": "1",
@@ -35042,7 +35042,7 @@
   {
     "card_id": "EXRP-007",
     "card_no": "EXRP-007",
-    "name": "EX能源",
+    "name": "EX資源",
     "rarity": "P",
     "spCol": "",
     "block_icon": "1",
@@ -35066,7 +35066,7 @@
   {
     "card_id": "EXRP-008",
     "card_no": "EXRP-008",
-    "name": "EX能源",
+    "name": "EX資源",
     "rarity": "P",
     "spCol": "",
     "block_icon": "1",
@@ -35090,7 +35090,7 @@
   {
     "card_id": "EXRP-009",
     "card_no": "EXRP-009",
-    "name": "EX能源",
+    "name": "EX資源",
     "rarity": "P",
     "spCol": "",
     "block_icon": "1",
@@ -35114,7 +35114,7 @@
   {
     "card_id": "EXRP-010",
     "card_no": "EXRP-010",
-    "name": "EX能源",
+    "name": "EX資源",
     "rarity": "P",
     "spCol": "",
     "block_icon": "1",
@@ -35138,7 +35138,7 @@
   {
     "card_id": "EXRP-011",
     "card_no": "EXRP-011",
-    "name": "EX能源",
+    "name": "EX資源",
     "rarity": "P",
     "spCol": "",
     "block_icon": "1",
@@ -35162,7 +35162,7 @@
   {
     "card_id": "EXRP-012",
     "card_no": "EXRP-012",
-    "name": "EX能源",
+    "name": "EX資源",
     "rarity": "P",
     "spCol": "",
     "block_icon": "1",
@@ -35186,7 +35186,7 @@
   {
     "card_id": "EXRP-013",
     "card_no": "EXRP-013",
-    "name": "EX能源",
+    "name": "EX資源",
     "rarity": "P",
     "spCol": "",
     "block_icon": "1",
@@ -35210,7 +35210,7 @@
   {
     "card_id": "GD01-068_p2",
     "card_no": "GD01-068",
-    "name": "完美型突擊高達",
+    "name": "完美突擊高達",
     "rarity": "R",
     "spCol": "",
     "block_icon": "1",
@@ -35258,7 +35258,7 @@
   {
     "card_id": "GD01-100_p4",
     "card_no": "GD01-100",
-    "name": "覺悟的表露",
+    "name": "覺悟的表現",
     "rarity": "U +",
     "spCol": "",
     "block_icon": "1",
@@ -35354,7 +35354,7 @@
   {
     "card_id": "GD03-106_p1",
     "card_no": "GD03-106",
-    "name": "M.A.V.戰術",
+    "name": "M・A・V・戰術",
     "rarity": "U",
     "spCol": "",
     "block_icon": "1",
@@ -35378,7 +35378,7 @@
   {
     "card_id": "GD03-117_p1",
     "card_no": "GD03-117",
-    "name": "歐格的號令",
+    "name": "奧加的號令",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -35402,7 +35402,7 @@
   {
     "card_id": "RP-024",
     "card_no": "RP-024",
-    "name": "能源",
+    "name": "資源",
     "rarity": "P",
     "spCol": "",
     "block_icon": "1",
@@ -35426,7 +35426,7 @@
   {
     "card_id": "RP-025",
     "card_no": "RP-025",
-    "name": "能源",
+    "name": "資源",
     "rarity": "P",
     "spCol": "",
     "block_icon": "1",
@@ -35450,7 +35450,7 @@
   {
     "card_id": "RP-026",
     "card_no": "RP-026",
-    "name": "能源",
+    "name": "資源",
     "rarity": "P",
     "spCol": "",
     "block_icon": "1",
@@ -35474,7 +35474,7 @@
   {
     "card_id": "RP-027",
     "card_no": "RP-027",
-    "name": "能源",
+    "name": "資源",
     "rarity": "P",
     "spCol": "",
     "block_icon": "1",
@@ -35498,7 +35498,7 @@
   {
     "card_id": "RP-028",
     "card_no": "RP-028",
-    "name": "能源",
+    "name": "資源",
     "rarity": "P",
     "spCol": "",
     "block_icon": "1",
@@ -35522,7 +35522,7 @@
   {
     "card_id": "RP-029",
     "card_no": "RP-029",
-    "name": "能源",
+    "name": "資源",
     "rarity": "P",
     "spCol": "",
     "block_icon": "1",
@@ -35546,7 +35546,7 @@
   {
     "card_id": "RP-030",
     "card_no": "RP-030",
-    "name": "能源",
+    "name": "資源",
     "rarity": "P",
     "spCol": "",
     "block_icon": "1",
@@ -35570,7 +35570,7 @@
   {
     "card_id": "RP-031",
     "card_no": "RP-031",
-    "name": "能源",
+    "name": "資源",
     "rarity": "P",
     "spCol": "",
     "block_icon": "1",
@@ -35594,7 +35594,7 @@
   {
     "card_id": "RP-032",
     "card_no": "RP-032",
-    "name": "能源",
+    "name": "資源",
     "rarity": "P",
     "spCol": "",
     "block_icon": "1",
@@ -35618,7 +35618,7 @@
   {
     "card_id": "RP-033",
     "card_no": "RP-033",
-    "name": "能源",
+    "name": "資源",
     "rarity": "P",
     "spCol": "",
     "block_icon": "1",
@@ -35642,7 +35642,7 @@
   {
     "card_id": "RP-034",
     "card_no": "RP-034",
-    "name": "能源",
+    "name": "資源",
     "rarity": "P",
     "spCol": "",
     "block_icon": "1",
@@ -35666,7 +35666,7 @@
   {
     "card_id": "RP-035",
     "card_no": "RP-035",
-    "name": "能源",
+    "name": "資源",
     "rarity": "P",
     "spCol": "",
     "block_icon": "1",
@@ -35690,7 +35690,7 @@
   {
     "card_id": "RP-036",
     "card_no": "RP-036",
-    "name": "能源",
+    "name": "資源",
     "rarity": "P",
     "spCol": "",
     "block_icon": "1",
@@ -35714,7 +35714,7 @@
   {
     "card_id": "RP-037",
     "card_no": "RP-037",
-    "name": "能源",
+    "name": "資源",
     "rarity": "P",
     "spCol": "",
     "block_icon": "1",
@@ -35738,7 +35738,7 @@
   {
     "card_id": "RP-038",
     "card_no": "RP-038",
-    "name": "能源",
+    "name": "資源",
     "rarity": "P",
     "spCol": "",
     "block_icon": "1",
@@ -35762,7 +35762,7 @@
   {
     "card_id": "RP-039",
     "card_no": "RP-039",
-    "name": "能源",
+    "name": "資源",
     "rarity": "P",
     "spCol": "",
     "block_icon": "1",
@@ -35786,7 +35786,7 @@
   {
     "card_id": "RP-040",
     "card_no": "RP-040",
-    "name": "能源",
+    "name": "資源",
     "rarity": "P",
     "spCol": "",
     "block_icon": "1",
@@ -35810,7 +35810,7 @@
   {
     "card_id": "RP-041",
     "card_no": "RP-041",
-    "name": "能源",
+    "name": "資源",
     "rarity": "P",
     "spCol": "",
     "block_icon": "1",
@@ -35834,7 +35834,7 @@
   {
     "card_id": "RP-042",
     "card_no": "RP-042",
-    "name": "能源",
+    "name": "資源",
     "rarity": "P",
     "spCol": "",
     "block_icon": "1",
@@ -35858,7 +35858,7 @@
   {
     "card_id": "RP-043",
     "card_no": "RP-043",
-    "name": "能源",
+    "name": "資源",
     "rarity": "P",
     "spCol": "",
     "block_icon": "1",
@@ -35882,7 +35882,7 @@
   {
     "card_id": "RP-045",
     "card_no": "RP-045",
-    "name": "能源",
+    "name": "資源",
     "rarity": "P",
     "spCol": "",
     "block_icon": "1",
@@ -35906,7 +35906,7 @@
   {
     "card_id": "RP-046",
     "card_no": "RP-046",
-    "name": "能源",
+    "name": "資源",
     "rarity": "P",
     "spCol": "",
     "block_icon": "1",
@@ -35930,7 +35930,7 @@
   {
     "card_id": "RP-047",
     "card_no": "RP-047",
-    "name": "能源",
+    "name": "資源",
     "rarity": "P",
     "spCol": "",
     "block_icon": "1",
@@ -35954,7 +35954,7 @@
   {
     "card_id": "RP-048",
     "card_no": "RP-048",
-    "name": "能源",
+    "name": "資源",
     "rarity": "P",
     "spCol": "",
     "block_icon": "1",
@@ -35978,7 +35978,7 @@
   {
     "card_id": "RP-049",
     "card_no": "RP-049",
-    "name": "能源",
+    "name": "資源",
     "rarity": "P",
     "spCol": "",
     "block_icon": "1",
@@ -36002,7 +36002,7 @@
   {
     "card_id": "RP-050",
     "card_no": "RP-050",
-    "name": "能源",
+    "name": "資源",
     "rarity": "P",
     "spCol": "",
     "block_icon": "1",
@@ -36026,7 +36026,7 @@
   {
     "card_id": "RP-051",
     "card_no": "RP-051",
-    "name": "能源",
+    "name": "資源",
     "rarity": "P",
     "spCol": "",
     "block_icon": "1",
@@ -36050,7 +36050,7 @@
   {
     "card_id": "RP-052",
     "card_no": "RP-052",
-    "name": "能源",
+    "name": "資源",
     "rarity": "P",
     "spCol": "",
     "block_icon": "1",
@@ -36074,7 +36074,7 @@
   {
     "card_id": "RP-053",
     "card_no": "RP-053",
-    "name": "能源",
+    "name": "資源",
     "rarity": "P",
     "spCol": "",
     "block_icon": "1",
@@ -36098,7 +36098,7 @@
   {
     "card_id": "RP-054",
     "card_no": "RP-054",
-    "name": "能源",
+    "name": "資源",
     "rarity": "P",
     "spCol": "",
     "block_icon": "1",
@@ -36146,7 +36146,7 @@
   {
     "card_id": "ST02-010_p4",
     "card_no": "ST02-010",
-    "name": "希洛・唯",
+    "name": "希羅・尤",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "1",
@@ -36170,7 +36170,7 @@
   {
     "card_id": "ST03-008_p4",
     "card_no": "ST03-008",
-    "name": "薩克Ⅱ",
+    "name": "渣古Ⅱ",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -36194,7 +36194,7 @@
   {
     "card_id": "ST05-001_p2",
     "card_no": "ST05-001",
-    "name": "高達巴巴托司(第4形態)",
+    "name": "高達・巴巴托司（第4形態）",
     "rarity": "LR",
     "spCol": "",
     "block_icon": "1",
@@ -36218,7 +36218,7 @@
   {
     "card_id": "ST05-002_p3",
     "card_no": "ST05-002",
-    "name": "高達巴巴托司(第2形態)",
+    "name": "高達・巴巴托司（第2形態）",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -36242,7 +36242,7 @@
   {
     "card_id": "ST05-007_p2",
     "card_no": "ST05-007",
-    "name": "燕式格雷茲（麥吉利斯機）",
+    "name": "舒華爾比・古尼捷（麥基利斯機）",
     "rarity": "LR",
     "spCol": "",
     "block_icon": "1",
@@ -36290,7 +36290,7 @@
   {
     "card_id": "ST06-001_p2",
     "card_no": "ST06-001",
-    "name": "GQuuuuuuX（Ω腦波傳導啟動時）",
+    "name": "GQuuuuuuX（Ω精神感應起動時）",
     "rarity": "LR",
     "spCol": "",
     "block_icon": "1",
@@ -36314,7 +36314,7 @@
   {
     "card_id": "ST06-002_p3",
     "card_no": "ST06-002",
-    "name": "GQuuuuuuX（Ω腦波傳導啟動時）",
+    "name": "GQuuuuuuX（Ω精神感應起動時）",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -36386,7 +36386,7 @@
   {
     "card_id": "T-016_p1",
     "card_no": "T-016",
-    "name": "格雷茲改",
+    "name": "古尼捷改",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -36410,7 +36410,7 @@
   {
     "card_id": "T-017_p1",
     "card_no": "T-017",
-    "name": "高達巴巴托司(第4形態)",
+    "name": "高達・巴巴托司（第4形態）",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -36458,7 +36458,7 @@
   {
     "card_id": "T-019_p1",
     "card_no": "T-019",
-    "name": "GQuuuuuuX（Ω腦波傳導啟動時）",
+    "name": "GQuuuuuuX（Ω精神感應起動時）",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -36530,7 +36530,7 @@
   {
     "card_id": "EXR-001_p5",
     "card_no": "EXR-001",
-    "name": "EX能源",
+    "name": "EX資源",
     "rarity": "C",
     "spCol": "",
     "block_icon": "β",
@@ -36554,7 +36554,7 @@
   {
     "card_id": "GD01-004_p1",
     "card_no": "GD01-004",
-    "name": "鋼加農",
+    "name": "鐳射大砲",
     "rarity": "R",
     "spCol": "",
     "block_icon": "β",
@@ -36578,7 +36578,7 @@
   {
     "card_id": "GD01-004_p2",
     "card_no": "GD01-004",
-    "name": "鋼加農",
+    "name": "鐳射大砲",
     "rarity": "R +",
     "spCol": "",
     "block_icon": "β",
@@ -36626,7 +36626,7 @@
   {
     "card_id": "GD01-008_p1",
     "card_no": "GD01-008",
-    "name": "鋼坦克",
+    "name": "太空坦克",
     "rarity": "U",
     "spCol": "",
     "block_icon": "β",
@@ -36746,7 +36746,7 @@
   {
     "card_id": "GD01-016_p1",
     "card_no": "GD01-016",
-    "name": "傑鋼",
+    "name": "積根",
     "rarity": "C",
     "spCol": "",
     "block_icon": "β",
@@ -36794,7 +36794,7 @@
   {
     "card_id": "GD01-026_p1",
     "card_no": "GD01-026",
-    "name": "夏亞專用薩克Ⅱ",
+    "name": "渣古II（馬沙・亞斯洛布機）",
     "rarity": "R",
     "spCol": "",
     "block_icon": "β",
@@ -36818,7 +36818,7 @@
   {
     "card_id": "GD01-026_p2",
     "card_no": "GD01-026",
-    "name": "夏亞專用薩克Ⅱ",
+    "name": "渣古II（馬沙・亞斯洛布機）",
     "rarity": "R +",
     "spCol": "",
     "block_icon": "β",
@@ -36866,7 +36866,7 @@
   {
     "card_id": "GD01-030_p1",
     "card_no": "GD01-030",
-    "name": "里克・德姆",
+    "name": "力奇・大魔",
     "rarity": "U",
     "spCol": "",
     "block_icon": "β",
@@ -36890,7 +36890,7 @@
   {
     "card_id": "GD01-031_p1",
     "card_no": "GD01-031",
-    "name": "傑爾古格",
+    "name": "格魯古古",
     "rarity": "U",
     "spCol": "",
     "block_icon": "β",
@@ -36914,7 +36914,7 @@
   {
     "card_id": "GD01-034_p1",
     "card_no": "GD01-034",
-    "name": "重砲手高達",
+    "name": "重炮手高達",
     "rarity": "U",
     "spCol": "",
     "block_icon": "β",
@@ -36986,7 +36986,7 @@
   {
     "card_id": "GD01-068_p1",
     "card_no": "GD01-068",
-    "name": "完美型突擊高達",
+    "name": "完美突擊高達",
     "rarity": "R",
     "spCol": "",
     "block_icon": "β",
@@ -37058,7 +37058,7 @@
   {
     "card_id": "GD01-072_p1",
     "card_no": "GD01-072",
-    "name": "砲戰型突擊高達",
+    "name": "重炮型突擊高達",
     "rarity": "U",
     "spCol": "",
     "block_icon": "β",
@@ -37082,7 +37082,7 @@
   {
     "card_id": "GD01-075_p1",
     "card_no": "GD01-075",
-    "name": "達里巴爾迪",
+    "name": "達里魯巴路迪",
     "rarity": "U",
     "spCol": "",
     "block_icon": "β",
@@ -37154,7 +37154,7 @@
   {
     "card_id": "GD01-081_p1",
     "card_no": "GD01-081",
-    "name": "M1迷惘高達",
+    "name": "M1迷惘",
     "rarity": "C",
     "spCol": "",
     "block_icon": "β",
@@ -37274,7 +37274,7 @@
   {
     "card_id": "GD01-097_p1",
     "card_no": "GD01-097",
-    "name": "古爾・杰特克",
+    "name": "古爾・傑特克",
     "rarity": "U",
     "spCol": "",
     "block_icon": "β",
@@ -37322,7 +37322,7 @@
   {
     "card_id": "GD01-100_p2",
     "card_no": "GD01-100",
-    "name": "覺悟的表露",
+    "name": "覺悟的表現",
     "rarity": "U",
     "spCol": "",
     "block_icon": "β",
@@ -37346,7 +37346,7 @@
   {
     "card_id": "GD01-100_p3",
     "card_no": "GD01-100",
-    "name": "覺悟的表露",
+    "name": "覺悟的表現",
     "rarity": "U +",
     "spCol": "",
     "block_icon": "β",
@@ -37370,7 +37370,7 @@
   {
     "card_id": "GD01-105_p2",
     "card_no": "GD01-105",
-    "name": "國民們，奮起吧！",
+    "name": "站起來吧國民！",
     "rarity": "R",
     "spCol": "",
     "block_icon": "β",
@@ -37514,7 +37514,7 @@
   {
     "card_id": "GD01-120_p1",
     "card_no": "GD01-120",
-    "name": "艦砲射撃",
+    "name": "艦砲射擊",
     "rarity": "C",
     "spCol": "",
     "block_icon": "β",
@@ -37538,7 +37538,7 @@
   {
     "card_id": "GD01-124_p1",
     "card_no": "GD01-124",
-    "name": "SIDE7",
+    "name": "SIDE 7",
     "rarity": "C",
     "spCol": "",
     "block_icon": "β",
@@ -37562,7 +37562,7 @@
   {
     "card_id": "R-001_p4",
     "card_no": "R-001",
-    "name": "能源",
+    "name": "資源",
     "rarity": "C",
     "spCol": "",
     "block_icon": "β",
@@ -37586,7 +37586,7 @@
   {
     "card_id": "R-001_p5",
     "card_no": "R-001",
-    "name": "能源",
+    "name": "資源",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "β",
@@ -37658,7 +37658,7 @@
   {
     "card_id": "ST01-002_p2",
     "card_no": "ST01-002",
-    "name": "高達（MA型態）",
+    "name": "高達（MA形態）",
     "rarity": "C",
     "spCol": "",
     "block_icon": "β",
@@ -37730,7 +37730,7 @@
   {
     "card_id": "ST01-008_p2",
     "card_no": "ST01-008",
-    "name": "迪米教練機",
+    "name": "學園訓練機",
     "rarity": "C",
     "spCol": "",
     "block_icon": "β",
@@ -37754,7 +37754,7 @@
   {
     "card_id": "ST01-010_p2",
     "card_no": "ST01-010",
-    "name": "阿姆羅・雷",
+    "name": "阿寶・尼爾",
     "rarity": "C",
     "spCol": "",
     "block_icon": "β",
@@ -37826,7 +37826,7 @@
   {
     "card_id": "ST01-012_p2",
     "card_no": "ST01-012",
-    "name": "滿身瘡痍",
+    "name": "滿身創痍",
     "rarity": "C",
     "spCol": "",
     "block_icon": "β",
@@ -37850,7 +37850,7 @@
   {
     "card_id": "ST01-013_p2",
     "card_no": "ST01-013",
-    "name": "凱的決心",
+    "name": "凱的決意",
     "rarity": "C",
     "spCol": "",
     "block_icon": "β",
@@ -37874,7 +37874,7 @@
   {
     "card_id": "ST01-015_p2",
     "card_no": "ST01-015",
-    "name": "白色基地",
+    "name": "木馬號",
     "rarity": "C",
     "spCol": "",
     "block_icon": "β",
@@ -37970,7 +37970,7 @@
   {
     "card_id": "ST02-002_p2",
     "card_no": "ST02-002",
-    "name": "飛翼高達（鳥型型態）",
+    "name": "飛翼高達（鳥形態）",
     "rarity": "C",
     "spCol": "",
     "block_icon": "β",
@@ -38018,7 +38018,7 @@
   {
     "card_id": "ST02-010_p2",
     "card_no": "ST02-010",
-    "name": "希洛・唯",
+    "name": "希羅・尤",
     "rarity": "C",
     "spCol": "",
     "block_icon": "β",
@@ -38066,7 +38066,7 @@
   {
     "card_id": "ST02-013_p2",
     "card_no": "ST02-013",
-    "name": "溫和的音色",
+    "name": "柔和的音色",
     "rarity": "C",
     "spCol": "",
     "block_icon": "β",
@@ -38114,7 +38114,7 @@
   {
     "card_id": "ST03-007_p2",
     "card_no": "ST03-007",
-    "name": "薩克Ⅰ",
+    "name": "渣古I",
     "rarity": "C",
     "spCol": "",
     "block_icon": "β",
@@ -38138,7 +38138,7 @@
   {
     "card_id": "ST03-008_p2",
     "card_no": "ST03-008",
-    "name": "薩克Ⅱ",
+    "name": "渣古Ⅱ",
     "rarity": "C",
     "spCol": "",
     "block_icon": "β",
@@ -38162,7 +38162,7 @@
   {
     "card_id": "ST03-011_p2",
     "card_no": "ST03-011",
-    "name": "夏亞・阿茲那布爾",
+    "name": "馬沙・亞斯洛布",
     "rarity": "C",
     "spCol": "",
     "block_icon": "β",
@@ -38186,7 +38186,7 @@
   {
     "card_id": "ST03-011_p3",
     "card_no": "ST03-011",
-    "name": "夏亞・阿茲那布爾",
+    "name": "馬沙・亞斯洛布",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "β",
@@ -38354,7 +38354,7 @@
   {
     "card_id": "ST04-013_p2",
     "card_no": "ST04-013",
-    "name": "安迪米翁之鷹",
+    "name": "安迪蒙之鷹",
     "rarity": "C",
     "spCol": "",
     "block_icon": "β",
@@ -38426,7 +38426,7 @@
   {
     "card_id": "T-002_p1",
     "card_no": "T-002",
-    "name": "鋼加農",
+    "name": "鐳射大砲",
     "rarity": "C",
     "spCol": "",
     "block_icon": "β",
@@ -38450,7 +38450,7 @@
   {
     "card_id": "T-003_p1",
     "card_no": "T-003",
-    "name": "鋼坦克",
+    "name": "太空坦克",
     "rarity": "C",
     "spCol": "",
     "block_icon": "β",
@@ -38474,7 +38474,7 @@
   {
     "card_id": "T-006_p1",
     "card_no": "T-006",
-    "name": "夏亞專用薩克Ⅱ",
+    "name": "渣古II（馬沙・亞斯洛布機）",
     "rarity": "C",
     "spCol": "",
     "block_icon": "β",
@@ -38522,7 +38522,7 @@
   {
     "card_id": "EXR-001_p6",
     "card_no": "EXR-001",
-    "name": "EX能源",
+    "name": "EX資源",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -38546,7 +38546,7 @@
   {
     "card_id": "R-001_p6",
     "card_no": "R-001",
-    "name": "能源",
+    "name": "資源",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -39002,7 +39002,7 @@
   {
     "card_id": "EXRP-001",
     "card_no": "EXRP-001",
-    "name": "EX能源",
+    "name": "EX資源",
     "rarity": "P",
     "spCol": "",
     "block_icon": "β",
@@ -39026,7 +39026,7 @@
   {
     "card_id": "EXRP-002",
     "card_no": "EXRP-002",
-    "name": "EX能源",
+    "name": "EX資源",
     "rarity": "P",
     "spCol": "",
     "block_icon": "1",
@@ -39050,7 +39050,7 @@
   {
     "card_id": "EXRP-003",
     "card_no": "EXRP-003",
-    "name": "EX能源",
+    "name": "EX資源",
     "rarity": "P",
     "spCol": "",
     "block_icon": "1",
@@ -39074,7 +39074,7 @@
   {
     "card_id": "EXRP-014",
     "card_no": "EXRP-014",
-    "name": "EX能源",
+    "name": "EX資源",
     "rarity": "P",
     "spCol": "",
     "block_icon": "1",
@@ -39122,7 +39122,7 @@
   {
     "card_id": "GD01-008_p2",
     "card_no": "GD01-008",
-    "name": "鋼坦克",
+    "name": "太空坦克",
     "rarity": "U",
     "spCol": "",
     "block_icon": "1",
@@ -39194,7 +39194,7 @@
   {
     "card_id": "GD01-016_p2",
     "card_no": "GD01-016",
-    "name": "傑鋼",
+    "name": "積根",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -39218,7 +39218,7 @@
   {
     "card_id": "GD01-016_p3",
     "card_no": "GD01-016",
-    "name": "傑鋼",
+    "name": "積根",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "1",
@@ -39362,7 +39362,7 @@
   {
     "card_id": "GD01-067_p3",
     "card_no": "GD01-067",
-    "name": "風靈高達（修改型）",
+    "name": "風靈高達（改修型）",
     "rarity": "P",
     "spCol": "",
     "block_icon": "1",
@@ -39458,7 +39458,7 @@
   {
     "card_id": "GD01-087_p2",
     "card_no": "GD01-087",
-    "name": "雪拉・瑪斯",
+    "name": "馬茜・瑪斯",
     "rarity": "R",
     "spCol": "",
     "block_icon": "1",
@@ -39482,7 +39482,7 @@
   {
     "card_id": "GD01-087_p3",
     "card_no": "GD01-087",
-    "name": "雪拉・瑪斯",
+    "name": "馬茜・瑪斯",
     "rarity": "R +",
     "spCol": "",
     "block_icon": "1",
@@ -39554,7 +39554,7 @@
   {
     "card_id": "GD01-090_p2",
     "card_no": "GD01-090",
-    "name": "迪歐・麥斯威爾",
+    "name": "狄奧・麥斯威爾",
     "rarity": "R",
     "spCol": "",
     "block_icon": "1",
@@ -39578,7 +39578,7 @@
   {
     "card_id": "GD01-090_p3",
     "card_no": "GD01-090",
-    "name": "迪歐・麥斯威爾",
+    "name": "狄奧・麥斯威爾",
     "rarity": "R +",
     "spCol": "",
     "block_icon": "1",
@@ -39602,7 +39602,7 @@
   {
     "card_id": "GD01-096_p2",
     "card_no": "GD01-096",
-    "name": "卡佳里・由拉・阿斯哈",
+    "name": "卡嘉蓮・尤拉・阿斯哈",
     "rarity": "R",
     "spCol": "",
     "block_icon": "1",
@@ -39626,7 +39626,7 @@
   {
     "card_id": "GD01-098_p1",
     "card_no": "GD01-098",
-    "name": "伊蘭・凱萊斯（強化人士四號）",
+    "name": "伊蘭・凱萊斯（強化人士4號）",
     "rarity": "C",
     "spCol": "",
     "block_icon": "2",
@@ -39650,7 +39650,7 @@
   {
     "card_id": "GD01-098_p2",
     "card_no": "GD01-098",
-    "name": "伊蘭・凱萊斯（強化人士四號）",
+    "name": "伊蘭・凱萊斯（強化人士4號）",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "2",
@@ -39914,7 +39914,7 @@
   {
     "card_id": "GD02-039_p1",
     "card_no": "GD02-039",
-    "name": "卡薩C（哈曼・坎恩專用機）",
+    "name": "加煞C（哈曼・嘉專用機）",
     "rarity": "R",
     "spCol": "",
     "block_icon": "1",
@@ -39938,7 +39938,7 @@
   {
     "card_id": "GD02-039_p2",
     "card_no": "GD02-039",
-    "name": "卡薩C（哈曼・坎恩專用機）",
+    "name": "加煞C（哈曼・嘉專用機）",
     "rarity": "R +",
     "spCol": "",
     "block_icon": "1",
@@ -39962,7 +39962,7 @@
   {
     "card_id": "GD02-048_p1",
     "card_no": "GD02-048",
-    "name": "薩克古Ⅲ（袖章軍團規格）",
+    "name": "渣古III（帶袖規格）",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -39986,7 +39986,7 @@
   {
     "card_id": "GD02-048_p2",
     "card_no": "GD02-048",
-    "name": "薩克Ⅲ（袖章軍團規格）",
+    "name": "渣古III（帶袖規格）",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "1",
@@ -40010,7 +40010,7 @@
   {
     "card_id": "GD02-056_p1",
     "card_no": "GD02-056",
-    "name": "高達X",
+    "name": "高達DX",
     "rarity": "R",
     "spCol": "",
     "block_icon": "1",
@@ -40034,7 +40034,7 @@
   {
     "card_id": "GD02-056_p2",
     "card_no": "GD02-056",
-    "name": "高達X",
+    "name": "高達DX",
     "rarity": "R +",
     "spCol": "",
     "block_icon": "1",
@@ -40058,7 +40058,7 @@
   {
     "card_id": "GD02-058_p1",
     "card_no": "GD02-058",
-    "name": "流星號（格雷茲改貳）",
+    "name": "流星號（古尼捷改貳）",
     "rarity": "R",
     "spCol": "",
     "block_icon": "1",
@@ -40106,7 +40106,7 @@
   {
     "card_id": "GD02-079_p1",
     "card_no": "GD02-079",
-    "name": "里克・迪亞斯",
+    "name": "力奇・戴亞斯",
     "rarity": "C",
     "spCol": "",
     "block_icon": "2",
@@ -40130,7 +40130,7 @@
   {
     "card_id": "GD02-079_p2",
     "card_no": "GD02-079",
-    "name": "里克・迪亞斯",
+    "name": "力奇・戴亞斯",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "2",
@@ -40178,7 +40178,7 @@
   {
     "card_id": "GD02-090_p1",
     "card_no": "GD02-090",
-    "name": "夏里亞・布爾（GQ）",
+    "name": "沙利亞・布魯（GQ）",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -40202,7 +40202,7 @@
   {
     "card_id": "GD02-090_p2",
     "card_no": "GD02-090",
-    "name": "夏里亞・布爾（GQ）",
+    "name": "沙利亞・布魯（GQ）",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "1",
@@ -40226,7 +40226,7 @@
   {
     "card_id": "GD02-091_p2",
     "card_no": "GD02-091",
-    "name": "哈曼・坎恩",
+    "name": "哈曼・嘉",
     "rarity": "R",
     "spCol": "",
     "block_icon": "1",
@@ -40250,7 +40250,7 @@
   {
     "card_id": "GD02-091_p3",
     "card_no": "GD02-091",
-    "name": "哈曼・坎恩",
+    "name": "哈曼・嘉",
     "rarity": "R",
     "spCol": "",
     "block_icon": "1",
@@ -40274,7 +40274,7 @@
   {
     "card_id": "GD02-095_p1",
     "card_no": "GD02-095",
-    "name": "拉芙特・法蘭克蘭登",
+    "name": "拉芙達・法蘭克蘭度",
     "rarity": "U",
     "spCol": "",
     "block_icon": "2",
@@ -40298,7 +40298,7 @@
   {
     "card_id": "GD02-095_p2",
     "card_no": "GD02-095",
-    "name": "拉芙特・法蘭克蘭登",
+    "name": "拉芙達・法蘭克蘭度",
     "rarity": "U +",
     "spCol": "",
     "block_icon": "2",
@@ -40322,7 +40322,7 @@
   {
     "card_id": "GD02-096_p1",
     "card_no": "GD02-096",
-    "name": "德席爾・加列特",
+    "name": "迪斯路・加列圖",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -40346,7 +40346,7 @@
   {
     "card_id": "GD02-096_p2",
     "card_no": "GD02-096",
-    "name": "德席爾・加列特",
+    "name": "迪斯路・加列圖",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "1",
@@ -40394,7 +40394,7 @@
   {
     "card_id": "GD02-098_p1",
     "card_no": "GD02-098",
-    "name": "克瓦特羅・巴吉納",
+    "name": "古華多羅・巴茲拿",
     "rarity": "U",
     "spCol": "",
     "block_icon": "1",
@@ -40418,7 +40418,7 @@
   {
     "card_id": "GD02-098_p2",
     "card_no": "GD02-098",
-    "name": "克瓦特羅・巴吉納",
+    "name": "古華多羅・巴茲拿",
     "rarity": "U +",
     "spCol": "",
     "block_icon": "1",
@@ -40538,7 +40538,7 @@
   {
     "card_id": "GD02-107_p2",
     "card_no": "GD02-107",
-    "name": "全領域攻擊",
+    "name": "全方位攻擊",
     "rarity": "R",
     "spCol": "",
     "block_icon": "1",
@@ -40562,7 +40562,7 @@
   {
     "card_id": "GD02-112_p2",
     "card_no": "GD02-112",
-    "name": "片刻的休憩時光",
+    "name": "休憩的愜意時光",
     "rarity": "R",
     "spCol": "",
     "block_icon": "1",
@@ -40586,7 +40586,7 @@
   {
     "card_id": "GD02-112_p3",
     "card_no": "GD02-112",
-    "name": "片刻的休憩時光",
+    "name": "休憩的愜意時光",
     "rarity": "R +",
     "spCol": "",
     "block_icon": "1",
@@ -40610,7 +40610,7 @@
   {
     "card_id": "GD02-117_p1",
     "card_no": "GD02-117",
-    "name": "新的脈動",
+    "name": "新的鼓動",
     "rarity": "R",
     "spCol": "",
     "block_icon": "1",
@@ -40682,7 +40682,7 @@
   {
     "card_id": "GD03-010_p2",
     "card_no": "GD03-010",
-    "name": "全裝甲獨角獸高達（破壞模式）",
+    "name": "全武裝獨角獸高達（破壞模式）",
     "rarity": "U",
     "spCol": "",
     "block_icon": "1",
@@ -40706,7 +40706,7 @@
   {
     "card_id": "GD03-010_p3",
     "card_no": "GD03-010",
-    "name": "全裝甲獨角獸高達（破壞模式）",
+    "name": "全武裝獨角獸高達（破壞模式）",
     "rarity": "U +",
     "spCol": "",
     "block_icon": "1",
@@ -40730,7 +40730,7 @@
   {
     "card_id": "GD03-020_p3",
     "card_no": "GD03-020",
-    "name": "薩克Ⅱ改",
+    "name": "渣古Ⅱ改",
     "rarity": "R",
     "spCol": "",
     "block_icon": "1",
@@ -40802,7 +40802,7 @@
   {
     "card_id": "GD03-024_p1",
     "card_no": "GD03-024",
-    "name": "高性能葛克",
+    "name": "高戰蟹",
     "rarity": "U",
     "spCol": "",
     "block_icon": "2",
@@ -40826,7 +40826,7 @@
   {
     "card_id": "GD03-024_p2",
     "card_no": "GD03-024",
-    "name": "高性能葛克",
+    "name": "高戰蟹",
     "rarity": "U +",
     "spCol": "",
     "block_icon": "2",
@@ -40850,7 +40850,7 @@
   {
     "card_id": "GD03-027_p1",
     "card_no": "GD03-027",
-    "name": "茲卡克E",
+    "name": "魔蟹E",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -40874,7 +40874,7 @@
   {
     "card_id": "GD03-034_p2",
     "card_no": "GD03-034",
-    "name": "GQuuuuuuX（Ω腦波傳導啟動時）",
+    "name": "GQuuuuuuX（Ω精神感應起動時）",
     "rarity": "LR",
     "spCol": "",
     "block_icon": "1",
@@ -40898,7 +40898,7 @@
   {
     "card_id": "GD03-050_p3",
     "card_no": "GD03-050",
-    "name": "高達巴巴托司狼式",
+    "name": "高達・巴巴托司狼式",
     "rarity": "LR",
     "spCol": "",
     "block_icon": "1",
@@ -40922,7 +40922,7 @@
   {
     "card_id": "GD03-055_p1",
     "card_no": "GD03-055",
-    "name": "端白星高達（第2型態）",
+    "name": "端白星高達（第2形態）",
     "rarity": "R",
     "spCol": "",
     "block_icon": "1",
@@ -41066,7 +41066,7 @@
   {
     "card_id": "GD03-081_p1",
     "card_no": "GD03-081",
-    "name": "AEU制定式（展示機色）",
+    "name": "AEU依拉古頓（示範機色）",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -41090,7 +41090,7 @@
   {
     "card_id": "GD03-081_p2",
     "card_no": "GD03-081",
-    "name": "AEU制定式（展示機色）",
+    "name": "AEU依拉古頓（示範機色）",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "1",
@@ -41114,7 +41114,7 @@
   {
     "card_id": "GD03-087_p1",
     "card_no": "GD03-087",
-    "name": "莎拉・薩比亞羅夫",
+    "name": "莎拉・薩比洛夫",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -41138,7 +41138,7 @@
   {
     "card_id": "GD03-087_p2",
     "card_no": "GD03-087",
-    "name": "莎拉・薩比亞羅夫",
+    "name": "莎拉・薩比洛夫",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "1",
@@ -41186,7 +41186,7 @@
   {
     "card_id": "GD03-092_p1",
     "card_no": "GD03-092",
-    "name": "涅安",
+    "name": "娜安",
     "rarity": "U",
     "spCol": "",
     "block_icon": "1",
@@ -41210,7 +41210,7 @@
   {
     "card_id": "GD03-092_p2",
     "card_no": "GD03-092",
-    "name": "涅安",
+    "name": "娜安",
     "rarity": "U +",
     "spCol": "",
     "block_icon": "1",
@@ -41234,7 +41234,7 @@
   {
     "card_id": "GD03-100_p1",
     "card_no": "GD03-100",
-    "name": "索瑪・皮利斯",
+    "name": "索瑪・皮里斯",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -41474,7 +41474,7 @@
   {
     "card_id": "GD04-024_p1",
     "card_no": "GD04-024",
-    "name": "風靈高達（修改型）",
+    "name": "風靈高達（改修型）",
     "rarity": "U",
     "spCol": "",
     "block_icon": "1",
@@ -41666,7 +41666,7 @@
   {
     "card_id": "RP-001",
     "card_no": "RP-001",
-    "name": "能源",
+    "name": "資源",
     "rarity": "P",
     "spCol": "",
     "block_icon": "β",
@@ -41690,7 +41690,7 @@
   {
     "card_id": "RP-002",
     "card_no": "RP-002",
-    "name": "能源",
+    "name": "資源",
     "rarity": "P",
     "spCol": "",
     "block_icon": "1",
@@ -41714,7 +41714,7 @@
   {
     "card_id": "RP-003",
     "card_no": "RP-003",
-    "name": "能源",
+    "name": "資源",
     "rarity": "P",
     "spCol": "",
     "block_icon": "1",
@@ -41738,7 +41738,7 @@
   {
     "card_id": "RP-004",
     "card_no": "RP-004",
-    "name": "能源",
+    "name": "資源",
     "rarity": "P",
     "spCol": "",
     "block_icon": "1",
@@ -41762,7 +41762,7 @@
   {
     "card_id": "RP-005",
     "card_no": "RP-005",
-    "name": "能源",
+    "name": "資源",
     "rarity": "P",
     "spCol": "",
     "block_icon": "1",
@@ -41786,7 +41786,7 @@
   {
     "card_id": "RP-006",
     "card_no": "RP-006",
-    "name": "能源",
+    "name": "資源",
     "rarity": "P",
     "spCol": "",
     "block_icon": "1",
@@ -41810,7 +41810,7 @@
   {
     "card_id": "RP-007",
     "card_no": "RP-007",
-    "name": "能源",
+    "name": "資源",
     "rarity": "P",
     "spCol": "",
     "block_icon": "1",
@@ -41834,7 +41834,7 @@
   {
     "card_id": "RP-008",
     "card_no": "RP-008",
-    "name": "能源",
+    "name": "資源",
     "rarity": "P",
     "spCol": "",
     "block_icon": "1",
@@ -41858,7 +41858,7 @@
   {
     "card_id": "RP-009",
     "card_no": "RP-009",
-    "name": "能源",
+    "name": "資源",
     "rarity": "P",
     "spCol": "",
     "block_icon": "1",
@@ -41882,7 +41882,7 @@
   {
     "card_id": "RP-010",
     "card_no": "RP-010",
-    "name": "能源",
+    "name": "資源",
     "rarity": "P",
     "spCol": "",
     "block_icon": "1",
@@ -41906,7 +41906,7 @@
   {
     "card_id": "RP-011",
     "card_no": "RP-011",
-    "name": "能源",
+    "name": "資源",
     "rarity": "P",
     "spCol": "",
     "block_icon": "1",
@@ -41930,7 +41930,7 @@
   {
     "card_id": "RP-012",
     "card_no": "RP-012",
-    "name": "能源",
+    "name": "資源",
     "rarity": "P",
     "spCol": "",
     "block_icon": "1",
@@ -41954,7 +41954,7 @@
   {
     "card_id": "RP-013",
     "card_no": "RP-013",
-    "name": "能源",
+    "name": "資源",
     "rarity": "P",
     "spCol": "",
     "block_icon": "1",
@@ -41978,7 +41978,7 @@
   {
     "card_id": "RP-014",
     "card_no": "RP-014",
-    "name": "能源",
+    "name": "資源",
     "rarity": "P",
     "spCol": "",
     "block_icon": "1",
@@ -42002,7 +42002,7 @@
   {
     "card_id": "RP-015",
     "card_no": "RP-015",
-    "name": "能源",
+    "name": "資源",
     "rarity": "P",
     "spCol": "",
     "block_icon": "1",
@@ -42026,7 +42026,7 @@
   {
     "card_id": "RP-016",
     "card_no": "RP-016",
-    "name": "能源",
+    "name": "資源",
     "rarity": "P",
     "spCol": "",
     "block_icon": "1",
@@ -42050,7 +42050,7 @@
   {
     "card_id": "RP-017",
     "card_no": "RP-017",
-    "name": "能源",
+    "name": "資源",
     "rarity": "P",
     "spCol": "",
     "block_icon": "1",
@@ -42074,7 +42074,7 @@
   {
     "card_id": "RP-018",
     "card_no": "RP-018",
-    "name": "能源",
+    "name": "資源",
     "rarity": "P",
     "spCol": "",
     "block_icon": "1",
@@ -42098,7 +42098,7 @@
   {
     "card_id": "RP-019",
     "card_no": "RP-019",
-    "name": "能源",
+    "name": "資源",
     "rarity": "P",
     "spCol": "",
     "block_icon": "1",
@@ -42122,7 +42122,7 @@
   {
     "card_id": "RP-020",
     "card_no": "RP-020",
-    "name": "能源",
+    "name": "資源",
     "rarity": "P",
     "spCol": "",
     "block_icon": "1",
@@ -42146,7 +42146,7 @@
   {
     "card_id": "RP-021",
     "card_no": "RP-021",
-    "name": "能源",
+    "name": "資源",
     "rarity": "P",
     "spCol": "",
     "block_icon": "1",
@@ -42170,7 +42170,7 @@
   {
     "card_id": "RP-022",
     "card_no": "RP-022",
-    "name": "能源",
+    "name": "資源",
     "rarity": "P",
     "spCol": "",
     "block_icon": "1",
@@ -42194,7 +42194,7 @@
   {
     "card_id": "RP-023",
     "card_no": "RP-023",
-    "name": "能源",
+    "name": "資源",
     "rarity": "P",
     "spCol": "",
     "block_icon": "1",
@@ -42218,7 +42218,7 @@
   {
     "card_id": "RP-044",
     "card_no": "RP-044",
-    "name": "能源",
+    "name": "資源",
     "rarity": "P",
     "spCol": "",
     "block_icon": "1",
@@ -42242,7 +42242,7 @@
   {
     "card_id": "RP-055",
     "card_no": "RP-055",
-    "name": "能源",
+    "name": "資源",
     "rarity": "P",
     "spCol": "",
     "block_icon": "1",
@@ -42266,7 +42266,7 @@
   {
     "card_id": "RP-056",
     "card_no": "RP-056",
-    "name": "能源",
+    "name": "資源",
     "rarity": "P",
     "spCol": "",
     "block_icon": "1",
@@ -42290,7 +42290,7 @@
   {
     "card_id": "RP-057",
     "card_no": "RP-057",
-    "name": "能源",
+    "name": "資源",
     "rarity": "P",
     "spCol": "",
     "block_icon": "1",
@@ -42314,7 +42314,7 @@
   {
     "card_id": "RP-058",
     "card_no": "RP-058",
-    "name": "能源",
+    "name": "資源",
     "rarity": "P",
     "spCol": "",
     "block_icon": "1",
@@ -42338,7 +42338,7 @@
   {
     "card_id": "RP-059",
     "card_no": "RP-059",
-    "name": "能源",
+    "name": "資源",
     "rarity": "P",
     "spCol": "",
     "block_icon": "1",
@@ -42362,7 +42362,7 @@
   {
     "card_id": "RP-060",
     "card_no": "RP-060",
-    "name": "能源",
+    "name": "資源",
     "rarity": "P",
     "spCol": "",
     "block_icon": "1",
@@ -42386,7 +42386,7 @@
   {
     "card_id": "RP-061",
     "card_no": "RP-061",
-    "name": "能源",
+    "name": "資源",
     "rarity": "P",
     "spCol": "",
     "block_icon": "1",
@@ -42410,7 +42410,7 @@
   {
     "card_id": "RP-062",
     "card_no": "RP-062",
-    "name": "能源",
+    "name": "資源",
     "rarity": "P",
     "spCol": "",
     "block_icon": "1",
@@ -42434,7 +42434,7 @@
   {
     "card_id": "RP-063",
     "card_no": "RP-063",
-    "name": "能源",
+    "name": "資源",
     "rarity": "P",
     "spCol": "",
     "block_icon": "1",
@@ -42458,7 +42458,7 @@
   {
     "card_id": "RP-064",
     "card_no": "RP-064",
-    "name": "能源",
+    "name": "資源",
     "rarity": "P",
     "spCol": "",
     "block_icon": "1",
@@ -42482,7 +42482,7 @@
   {
     "card_id": "RP-065",
     "card_no": "RP-065",
-    "name": "能源",
+    "name": "資源",
     "rarity": "P",
     "spCol": "",
     "block_icon": "1",
@@ -42506,7 +42506,7 @@
   {
     "card_id": "RP-067",
     "card_no": "RP-067",
-    "name": "能源",
+    "name": "資源",
     "rarity": "P",
     "spCol": "",
     "block_icon": "2",
@@ -42602,7 +42602,7 @@
   {
     "card_id": "ST01-010_p3",
     "card_no": "ST01-010",
-    "name": "阿姆羅・雷",
+    "name": "阿寶・尼爾",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -42722,7 +42722,7 @@
   {
     "card_id": "ST02-002_p3",
     "card_no": "ST02-002",
-    "name": "飛翼高達（鳥型型態）",
+    "name": "飛翼高達（鳥形態）",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -42746,7 +42746,7 @@
   {
     "card_id": "ST02-002_p4",
     "card_no": "ST02-002",
-    "name": "飛翼高達（鳥型型態）",
+    "name": "飛翼高達（鳥形態）",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "1",
@@ -42770,7 +42770,7 @@
   {
     "card_id": "ST02-010_p3",
     "card_no": "ST02-010",
-    "name": "希洛・唯",
+    "name": "希羅・尤",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -42794,7 +42794,7 @@
   {
     "card_id": "ST02-011_p2",
     "card_no": "ST02-011",
-    "name": "傑克斯・馬吉斯",
+    "name": "薩古斯・瑪基斯",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -42818,7 +42818,7 @@
   {
     "card_id": "ST03-006_p2",
     "card_no": "ST03-006",
-    "name": "夏亞專用薩克Ⅱ",
+    "name": "渣古II（馬沙・亞斯洛布機）",
     "rarity": "LR",
     "spCol": "",
     "block_icon": "1",
@@ -42842,7 +42842,7 @@
   {
     "card_id": "ST03-008_p3",
     "card_no": "ST03-008",
-    "name": "薩克Ⅱ",
+    "name": "渣古Ⅱ",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -42962,7 +42962,7 @@
   {
     "card_id": "ST04-011_p2",
     "card_no": "ST04-011",
-    "name": "阿斯蘭・薩拉",
+    "name": "阿斯蘭・察拉",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -42986,7 +42986,7 @@
   {
     "card_id": "ST04-011_p3",
     "card_no": "ST04-011",
-    "name": "阿斯蘭・薩拉",
+    "name": "阿斯蘭・察拉",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "1",
@@ -43058,7 +43058,7 @@
   {
     "card_id": "ST05-002_p2",
     "card_no": "ST05-002",
-    "name": "高達巴巴托司(第2形態)",
+    "name": "高達・巴巴托司（第2形態）",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -43154,7 +43154,7 @@
   {
     "card_id": "ST06-002_p2",
     "card_no": "ST06-002",
-    "name": "GQuuuuuuX（Ω腦波傳導啟動時）",
+    "name": "GQuuuuuuX（Ω精神感應起動時）",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -43274,7 +43274,7 @@
   {
     "card_id": "ST06-010_p2",
     "card_no": "ST06-010",
-    "name": "修司伊藤",
+    "name": "修治・伊藤",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -43298,7 +43298,7 @@
   {
     "card_id": "ST06-010_p3",
     "card_no": "ST06-010",
-    "name": "修司伊藤",
+    "name": "修治・伊藤",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "1",
@@ -43322,7 +43322,7 @@
   {
     "card_id": "ST07-002_p2",
     "card_no": "ST07-002",
-    "name": "能天使高達",
+    "name": "高達艾斯亞",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -43346,7 +43346,7 @@
   {
     "card_id": "ST07-005_p2",
     "card_no": "ST07-005",
-    "name": "力天使高達",
+    "name": "高達戴勒米",
     "rarity": "LR",
     "spCol": "",
     "block_icon": "1",
@@ -43370,7 +43370,7 @@
   {
     "card_id": "ST07-009_p2",
     "card_no": "ST07-009",
-    "name": "剎那・F・塞耶",
+    "name": "剎那・F・清榮",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -43394,7 +43394,7 @@
   {
     "card_id": "ST07-010_p2",
     "card_no": "ST07-010",
-    "name": "提耶利亞・厄德",
+    "name": "迪尼亞・艾迪",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -43418,7 +43418,7 @@
   {
     "card_id": "ST07-010_p3",
     "card_no": "ST07-010",
-    "name": "提耶利亞・厄德",
+    "name": "迪尼亞・艾迪",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "1",
@@ -43442,7 +43442,7 @@
   {
     "card_id": "ST07-011_p2",
     "card_no": "ST07-011",
-    "name": "洛克昂・史特拉托斯（尼爾・狄蘭迪）",
+    "name": "洛奧・史當斯（尼爾）",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -43466,7 +43466,7 @@
   {
     "card_id": "ST07-014_p2",
     "card_no": "ST07-014",
-    "name": "戰術預報員",
+    "name": "戰術預報士",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
@@ -43490,7 +43490,7 @@
   {
     "card_id": "ST07-014_p3",
     "card_no": "ST07-014",
-    "name": "戰術預報員",
+    "name": "戰術預報士",
     "rarity": "C +",
     "spCol": "",
     "block_icon": "1",
@@ -43538,7 +43538,7 @@
   {
     "card_id": "ST08-010_p2",
     "card_no": "ST08-010",
-    "name": "哈薩威・諾亞",
+    "name": "凱薩衛・諾亞",
     "rarity": "C",
     "spCol": "",
     "block_icon": "1",
