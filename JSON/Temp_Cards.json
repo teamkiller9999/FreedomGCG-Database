@@ -970,7 +970,7 @@
     "cost": "4",
     "color": "Red",
     "type": "UNIT",
-    "effect": "【起動．主要】【回合1次】破壞我方1張機體Token：本回合中，此機體獲得《突破3》 (我方回合中，此機體以戰鬥傷害破壞對手機體時，給予該對手護盾區最前面的1張卡指定數值的傷害)。",
+    "effect": "【起動．主要】【回合1次】破壞我方1張機體Token：本回合中，此機體獲得《突破3》 (以攻擊破壞對手機體時，給予該對手的護盾區最前面的1張卡指定數值的傷害)。",
     "effect_en": "【Activate Main】【Once per Turn】 Destroy 1 friendly Unit token: This Unit gains 【Breach 3】 during this turn. (During this turn, when this Unit destroys an enemy Unit with battle damage, deal the specified amount of damage to the first card in that opponent's shield area.)",
     "zone": "",
     "trait": "〔自護〕",
