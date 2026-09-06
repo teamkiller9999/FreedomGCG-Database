@@ -297,7 +297,7 @@
     "package_from": "[GD01] Newtype Rising",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD01-006_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/gd01/10012",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/645364/Delta Plus Rplus"
   },
   {
     "card_id": "GD01-007",
@@ -335,7 +335,7 @@
     "cost": "1",
     "color": "Blue",
     "type": "UNIT",
-    "effect": "【配置時】選擇對方1張休息狀態的機體。給予其1點傷害。",
+    "effect": "【配備時】選擇對方1張休息狀態的機體。給予其1點傷害。",
     "zone": "宇宙 地球",
     "trait": "〔地球聯邦〕 〔WB隊〕",
     "link": "",
@@ -360,7 +360,7 @@
     "cost": "2",
     "color": "Blue",
     "type": "UNIT",
-    "effect": "【配置時】選擇我方1張〔WB隊〕的機體。本回合中，其獲得《高機動》效果。\n（此機體不會被阻擋）",
+    "effect": "【配備時】選擇我方1張〔WB隊〕的機體。本回合中，其獲得《高機動》效果。\n（此機體不會被阻擋）",
     "zone": "宇宙 地球",
     "trait": "〔地球聯邦〕 〔WB隊〕",
     "link": "特徵〔WB隊〕",
@@ -485,7 +485,7 @@
     "cost": "2",
     "color": "Blue",
     "type": "UNIT",
-    "effect": "【共鳴中】【啟動・瞬動】【每回合1次】選擇1張機體。使其回復1點。",
+    "effect": "【共鳴中】【起動・瞬動】【每回合1次】選擇1張機體。使其回復1點。",
     "zone": "宇宙 地球",
     "trait": "〔地球聯邦〕 〔WB隊〕",
     "link": "特徵〔WB隊〕",
@@ -572,7 +572,7 @@
     "package_from": "[GD01] Newtype Rising",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD01-017.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/gd01/10023",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/643166/Stark Jegan"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "GD01-018",
@@ -635,7 +635,7 @@
     "cost": "2",
     "color": "Blue",
     "type": "UNIT",
-    "effect": "【配置時】選擇對方1張休息狀態的機體。給予其1點傷害。",
+    "effect": "【配備時】選擇對方1張休息狀態的機體。給予其1點傷害。",
     "zone": "地球",
     "trait": "〔地球聯邦〕",
     "link": "",
@@ -710,7 +710,7 @@
     "cost": "4",
     "color": "Green",
     "type": "UNIT",
-    "effect": "【啟動・主要】丟棄我方手牌中1張〔吉翁〕/〔新吉翁〕的機體卡牌：若此機體沒有被機師搭乘，則選擇我方廢棄區中1張等級不高於Lv.3的〔新人類〕的機師卡牌。將其搭乘此機體。",
+    "effect": "【起動・主要】丟棄我方手牌中1張〔吉翁〕/〔新吉翁〕的機體卡牌：若此機體沒有被機師搭乘，則選擇我方廢棄區中1張等級不高於Lv.3的〔新人類〕的機師卡牌。將其搭乘此機體。",
     "zone": "宇宙 地球",
     "trait": "〔吉翁〕",
     "link": "夏亞・阿茲那布爾",
@@ -735,7 +735,7 @@
     "cost": "4",
     "color": "Green",
     "type": "UNIT",
-    "effect": "【啟動・主要】丟棄我方手牌中1張〔吉翁〕/〔新吉翁〕的機體卡牌：若此機體沒有被機師搭乘，則選擇我方廢棄區中1張等級不高於Lv.3的〔新人類〕的機師卡牌。將其搭乘此機體。",
+    "effect": "【起動・主要】丟棄我方手牌中1張〔吉翁〕/〔新吉翁〕的機體卡牌：若此機體沒有被機師搭乘，則選擇我方廢棄區中1張等級不高於Lv.3的〔新人類〕的機師卡牌。將其搭乘此機體。",
     "zone": "宇宙 地球",
     "trait": "〔吉翁〕",
     "link": "夏亞・阿茲那布爾",
@@ -760,7 +760,7 @@
     "cost": "8",
     "color": "Green",
     "type": "UNIT",
-    "effect": "《高機動》（此機體不會被阻擋）\n【配置時】給予所有等級不高於Lv.5的機體3點傷害。",
+    "effect": "《高機動》（此機體不會被阻擋）\n【配備時】給予所有等級不高於Lv.5的機體3點傷害。",
     "zone": "宇宙 地球",
     "trait": "〔G小隊〕",
     "link": "希洛・唯",
@@ -785,7 +785,7 @@
     "cost": "8",
     "color": "Green",
     "type": "UNIT",
-    "effect": "《高機動》（此機體不會被阻擋）\n【配置時】給予所有等級不高於Lv.5的機體3點傷害。",
+    "effect": "《高機動》（此機體不會被阻擋）\n【配備時】給予所有等級不高於Lv.5的機體3點傷害。",
     "zone": "宇宙 地球",
     "trait": "〔G小隊〕",
     "link": "希洛・唯",
@@ -885,7 +885,7 @@
     "cost": "5",
     "color": "Green",
     "type": "UNIT",
-    "effect": "《突破4》（當透過攻擊破壞對方的機體時，給予該方護盾區最前方的1張卡牌指定數值的傷害）\n【配置時】若我方廢棄區中有10張或更多〔吉翁〕/〔新吉翁〕的機體卡牌，則給予所有擁有《阻擋者》效果的機體4點傷害。",
+    "effect": "《突破4》（當透過攻擊破壞對方的機體時，給予該方護盾區最前方的1張卡牌指定數值的傷害）\n【配備時】若我方廢棄區中有10張或更多〔吉翁〕/〔新吉翁〕的機體卡牌，則給予所有擁有《阻擋者》效果的機體4點傷害。",
     "zone": "宇宙 地球",
     "trait": "〔吉翁〕",
     "link": "德茲爾・薩比",
@@ -910,7 +910,7 @@
     "cost": "5",
     "color": "Green",
     "type": "UNIT",
-    "effect": "《突破4》（當透過攻擊破壞對方的機體時，給予該方護盾區最前方的1張卡牌指定數值的傷害）\n【配置時】若我方廢棄區中有10張或更多〔吉翁〕/〔新吉翁〕的機體卡牌，則給予所有擁有《阻擋者》效果的機體4點傷害。",
+    "effect": "《突破4》（當透過攻擊破壞對方的機體時，給予該方護盾區最前方的1張卡牌指定數值的傷害）\n【配備時】若我方廢棄區中有10張或更多〔吉翁〕/〔新吉翁〕的機體卡牌，則給予所有擁有《阻擋者》效果的機體4點傷害。",
     "zone": "宇宙 地球",
     "trait": "〔吉翁〕",
     "link": "德茲爾・薩比",
@@ -935,7 +935,7 @@
     "cost": "3",
     "color": "Green",
     "type": "UNIT",
-    "effect": "【配置時】可以配置我方手牌中1張〔馬格亞那克隊〕的機體卡牌。",
+    "effect": "【配備時】可以配置我方手牌中1張〔馬格亞那克隊〕的機體卡牌。",
     "zone": "地球",
     "trait": "〔流星作戰〕",
     "link": "卡特爾・拉巴伯・溫拿",
@@ -1197,7 +1197,7 @@
     "package_from": "[GD01] Newtype Rising",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD01-037.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/gd01/10048",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/643186/Gogg"
   },
   {
     "card_id": "GD01-038",
@@ -1210,7 +1210,7 @@
     "cost": "4",
     "color": "Green",
     "type": "UNIT",
-    "effect": "【配置時】若對方戰鬥區中存在5張或更多機體，則給予對方的所有機體1點傷害。",
+    "effect": "【配備時】若對方戰鬥區中存在5張或更多機體，則給予對方的所有機體1點傷害。",
     "zone": "地球",
     "trait": "〔吉翁〕",
     "link": "特徵〔吉翁〕",
@@ -1235,7 +1235,7 @@
     "cost": "1",
     "color": "Green",
     "type": "UNIT",
-    "effect": "【配置時】確認我方卡組最上方的1張卡牌，將其放回到卡組最上方或最下方。",
+    "effect": "【配備時】確認我方卡組最上方的1張卡牌，將其放回到卡組最上方或最下方。",
     "zone": "地球",
     "trait": "〔吉翁〕",
     "link": "",
@@ -1335,7 +1335,7 @@
     "cost": "2",
     "color": "Green",
     "type": "UNIT",
-    "effect": "【配置時】選擇我方1張綠色機體。本回合中，其可以選擇對方活躍狀態且AP不高於4的機體作為攻擊對象。",
+    "effect": "【配備時】選擇我方1張綠色機體。本回合中，其可以選擇對方活躍狀態且AP不高於4的機體作為攻擊對象。",
     "zone": "宇宙 地球",
     "trait": "〔馬格亞那克隊〕",
     "link": "特徵〔馬格亞那克隊〕",
@@ -1422,7 +1422,7 @@
     "package_from": "[GD01] Newtype Rising",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD01-045.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/gd01/10057",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/643194/Duel Gundam Assault Shroud"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "GD01-045_p1",
@@ -1460,7 +1460,7 @@
     "cost": "2",
     "color": "Red",
     "type": "UNIT",
-    "effect": "【啟動・主要】《支援3》（可轉為休息狀態，且本回合中，使另1張友方機體的AP+指定數值）\n【搭乘中・〔調整者〕的機師】【每回合1次】當透過此機體的《支援》效果使〔札夫特〕的機體AP+時，將此機體轉為活躍狀態。",
+    "effect": "【起動・主要】《援護3》（可轉為休息狀態，且本回合中，使另1張友方機體的AP+指定數值）\n【搭乘中・〔調整者〕的機師】【每回合1次】當透過此機體的《援護》效果使〔札夫特〕的機體AP+時，將此機體轉為活躍狀態。",
     "zone": "宇宙 地球",
     "trait": "〔札夫特〕",
     "link": "迪安卡・艾斯曼",
@@ -1485,7 +1485,7 @@
     "cost": "2",
     "color": "Red",
     "type": "UNIT",
-    "effect": "【啟動・主要】《支援3》（可轉為休息狀態，且本回合中，使另1張友方機體的AP+指定數值）\n【搭乘中・〔調整者〕的機師】【每回合1次】當透過此機體的《支援》效果使〔札夫特〕的機體AP+時，將此機體轉為活躍狀態。",
+    "effect": "【起動・主要】《援護3》（可轉為休息狀態，且本回合中，使另1張友方機體的AP+指定數值）\n【搭乘中・〔調整者〕的機師】【每回合1次】當透過此機體的《援護》效果使〔札夫特〕的機體AP+時，將此機體轉為活躍狀態。",
     "zone": "宇宙 地球",
     "trait": "〔札夫特〕",
     "link": "迪安卡・艾斯曼",
@@ -1547,7 +1547,7 @@
     "package_from": "[GD01] Newtype Rising",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD01-047_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/gd01/10062",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/645361/Shamblo Rplus"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "GD01-048",
@@ -1560,7 +1560,7 @@
     "cost": "2",
     "color": "Red",
     "type": "UNIT",
-    "effect": "【啟動・主要】《支援1》（可轉為休息狀態，且本回合中，使另1張友方機體的AP+指定數值）\n【配置時】確認我方卡組最上方的1張卡牌。若其為〔吉翁〕/〔新吉翁〕的機體卡牌，則可以將其公開並加入手牌。剩餘的卡牌放回到卡組最下方。",
+    "effect": "【起動・主要】《援護1》（可轉為休息狀態，且本回合中，使另1張友方機體的AP+指定數值）\n【配備時】確認我方卡組最上方的1張卡牌。若其為〔吉翁〕/〔新吉翁〕的機體卡牌，則可以將其公開並加入手牌。剩餘的卡牌放回到卡組最下方。",
     "zone": "宇宙 地球",
     "trait": "〔吉翁〕",
     "link": "特徵〔吉翁〕",
@@ -1585,7 +1585,7 @@
     "cost": "3",
     "color": "Red",
     "type": "UNIT",
-    "effect": "【配置時】選擇我方1張AP為5或更高的〔札夫特〕的機體。本回合中，使其獲得《先制攻擊》效果。\n（攻擊中的此機體，會比對方優先給予傷害）",
+    "effect": "【配備時】選擇我方1張AP為5或更高的〔札夫特〕的機體。本回合中，使其獲得《先制攻擊》效果。\n（攻擊中的此機體，會比對方優先給予傷害）",
     "zone": "宇宙 地球",
     "trait": "〔札夫特〕",
     "link": "尼可・阿瑪菲",
@@ -1685,7 +1685,7 @@
     "cost": "3",
     "color": "Red",
     "type": "UNIT",
-    "effect": "【配置時】選擇對方的1張機體。給予其1點傷害。",
+    "effect": "【配備時】選擇對方的1張機體。給予其1點傷害。",
     "zone": "宇宙 地球",
     "trait": "〔新吉翁〕",
     "link": "",
@@ -1710,7 +1710,7 @@
     "cost": "3",
     "color": "Red",
     "type": "UNIT",
-    "effect": "【啟動・主要】【每回合1次】①：選擇對方1張AP不高於2的機體。給予其1點傷害。",
+    "effect": "【起動・主要】【每回合1次】①：選擇對方1張AP不高於2的機體。給予其1點傷害。",
     "zone": "宇宙 地球",
     "trait": "〔新吉翁〕",
     "link": "",
@@ -1760,7 +1760,7 @@
     "cost": "2",
     "color": "Red",
     "type": "UNIT",
-    "effect": "【啟動・主要】《支援2》（可轉為休息狀態，且本回合中，使另1張友方機體的AP+指定數值）",
+    "effect": "【起動・主要】《援護2》（可轉為休息狀態，且本回合中，使另1張友方機體的AP+指定數值）",
     "zone": "地球",
     "trait": "〔札夫特〕",
     "link": "",
@@ -1835,7 +1835,7 @@
     "cost": "2",
     "color": "Red",
     "type": "UNIT",
-    "effect": "【啟動・瞬動】【每回合1次】①：選擇1張Lv.4或更高等級的機體。本次戰鬥中，使其AP+1。",
+    "effect": "【起動・瞬動】【每回合1次】①：選擇1張Lv.4或更高等級的機體。本次戰鬥中，使其AP+1。",
     "zone": "宇宙 地球",
     "trait": "〔吉翁〕",
     "link": "",
@@ -1910,7 +1910,7 @@
     "cost": "1",
     "color": "Red",
     "type": "UNIT",
-    "effect": "【啟動・主要】《支援1》（可轉為休息狀態，且本回合中，使另1張友方機體的AP+指定數值）",
+    "effect": "【起動・主要】《援護1》（可轉為休息狀態，且本回合中，使另1張友方機體的AP+指定數值）",
     "zone": "地球",
     "trait": "〔札夫特〕",
     "link": "",
@@ -2060,7 +2060,7 @@
     "cost": "5",
     "color": "White",
     "type": "UNIT",
-    "effect": "【配置時】配置1張「命運-00」（〔三艦同盟〕・AP2・HP2・《阻擋者》）的機體替代卡。\n【搭乘中】【攻擊時】選擇我方1張〔三艦同盟〕的機體替代卡。使其可以在配置的回合中攻擊。",
+    "effect": "【配備時】配置1張「命運-00」（〔三艦同盟〕・AP2・HP2・《阻擋者》）的機體替代卡。\n【搭乘中】【攻擊時】選擇我方1張〔三艦同盟〕的機體替代卡。使其可以在配置的回合中攻擊。",
     "zone": "宇宙 地球",
     "trait": "〔三艦同盟〕",
     "link": "阿斯蘭・薩拉",
@@ -2085,7 +2085,7 @@
     "cost": "5",
     "color": "White",
     "type": "UNIT",
-    "effect": "【配置時】配置1張「命運-00」（〔三艦同盟〕・AP2・HP2・《阻擋者》）的機體替代卡。\n【搭乘中】【攻擊時】選擇我方1張〔三艦同盟〕的機體替代卡。使其可以在配置的回合中攻擊。",
+    "effect": "【配備時】配置1張「命運-00」（〔三艦同盟〕・AP2・HP2・《阻擋者》）的機體替代卡。\n【搭乘中】【攻擊時】選擇我方1張〔三艦同盟〕的機體替代卡。使其可以在配置的回合中攻擊。",
     "zone": "宇宙 地球",
     "trait": "〔三艦同盟〕",
     "link": "阿斯蘭・薩拉",
@@ -2185,7 +2185,7 @@
     "cost": "3",
     "color": "White",
     "type": "UNIT",
-    "effect": "《阻擋者》（可轉換為休息狀態並將攻擊對象改為此機體）\n【配置時】選擇對方1張HP1的機體。將其放回到持有者的手牌中。",
+    "effect": "《阻擋者》（可轉換為休息狀態並將攻擊對象改為此機體）\n【配備時】選擇對方1張HP1的機體。將其放回到持有者的手牌中。",
     "zone": "宇宙 地球",
     "trait": "〔三艦同盟〕",
     "link": "特徵〔地球聯合〕",
@@ -2210,7 +2210,7 @@
     "cost": "2",
     "color": "White",
     "type": "UNIT",
-    "effect": "【啟動・主要】【每回合1次】①：選擇我方1張休息狀態且擁有《阻擋者》效果的白色的機體。將其轉為活躍狀態，且本回合中，其無法攻擊。",
+    "effect": "【起動・主要】【每回合1次】①：選擇我方1張休息狀態且擁有《阻擋者》效果的白色的機體。將其轉為活躍狀態，且本回合中，其無法攻擊。",
     "zone": "宇宙 地球",
     "trait": "〔三艦同盟〕",
     "link": "特徵〔歐普〕",
@@ -2235,7 +2235,7 @@
     "cost": "2",
     "color": "White",
     "type": "UNIT",
-    "effect": "【啟動・主要】【每回合1次】①：選擇我方1張休息狀態且擁有《阻擋者》效果的白色的機體。將其轉為活躍狀態，且本回合中，其無法攻擊。",
+    "effect": "【起動・主要】【每回合1次】①：選擇我方1張休息狀態且擁有《阻擋者》效果的白色的機體。將其轉為活躍狀態，且本回合中，其無法攻擊。",
     "zone": "宇宙 地球",
     "trait": "〔三艦同盟〕",
     "link": "特徵〔歐普〕",
@@ -2397,7 +2397,7 @@
     "package_from": "[GD01] Newtype Rising",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD01-074.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/gd01/10096",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/654588/Chuchus Demi Trainer Judge Pack 01"
+    "TCGPlayer_URL": "https://www.tcgplayer.com/search/gundam-card-game/product?productLineName=gundam-card-game&view=grid&q=GD01-074%20R"
   },
   {
     "card_id": "GD01-075",
@@ -2410,7 +2410,7 @@
     "cost": "2",
     "color": "White",
     "type": "UNIT",
-    "effect": "【配置時】選擇對方1張HP1的機體。將其放回到持有者的手牌中。",
+    "effect": "【配備時】選擇對方1張HP1的機體。將其放回到持有者的手牌中。",
     "zone": "宇宙 地球",
     "trait": "〔學園〕",
     "link": "特徵〔學園〕",
@@ -2485,7 +2485,7 @@
     "cost": "1",
     "color": "White",
     "type": "UNIT",
-    "effect": "【配置時】選擇對方的1張機體。本回合中，使其AP-1。",
+    "effect": "【配備時】選擇對方的1張機體。本回合中，使其AP-1。",
     "zone": "宇宙",
     "trait": "〔地球聯合〕",
     "link": "",
@@ -2522,7 +2522,7 @@
     "package_from": "[GD01] Newtype Rising",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD01-079.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/gd01/10101",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/643228/Skygrasper"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "GD01-080",
@@ -2585,7 +2585,7 @@
     "cost": "3",
     "color": "White",
     "type": "UNIT",
-    "effect": "【搭乘中】【啟動・瞬動】【每回合1次】②：選擇對方的1張機體。本次戰鬥中，使其AP-1。",
+    "effect": "【搭乘中】【起動・瞬動】【每回合1次】②：選擇對方的1張機體。本次戰鬥中，使其AP-1。",
     "zone": "宇宙 地球",
     "trait": "〔學園〕",
     "link": "蘇萊塔・墨丘利",
@@ -3060,7 +3060,7 @@
     "cost": "1",
     "color": "White",
     "type": "PILOT",
-    "effect": "【爆發】此卡牌加入手牌。\n【啟動・主要】【每回合1次】若對方擁有8張或更多手牌，則將此機體轉為活躍狀態，且本回合中，此機體無法攻擊。",
+    "effect": "【爆發】此卡牌加入手牌。\n【起動・主要】【每回合1次】若對方擁有8張或更多手牌，則將此機體轉為活躍狀態，且本回合中，此機體無法攻擊。",
     "zone": "-",
     "trait": "〔學園〕",
     "link": "",
@@ -3085,7 +3085,7 @@
     "cost": "1",
     "color": "White",
     "type": "PILOT",
-    "effect": "【爆發】此卡牌加入手牌。\n【啟動・瞬動】【每回合1次】若對方場上存在AP不高於1的機體，則此機體回復1點。",
+    "effect": "【爆發】此卡牌加入手牌。\n【起動・瞬動】【每回合1次】若對方場上存在AP不高於1的機體，則此機體回復1點。",
     "zone": "-",
     "trait": "〔學園〕",
     "link": "",
@@ -3822,7 +3822,7 @@
     "package_from": "[GD01] Newtype Rising",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD01-122.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/gd01/10153",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/643271/Covert Operative"
   },
   {
     "card_id": "GD01-123",
@@ -3835,7 +3835,7 @@
     "cost": "2",
     "color": "Blue",
     "type": "BASE",
-    "effect": "【爆發】配置此卡牌。\n【配置時】將我方的1張護盾加入手牌。此後，選擇對方1張HP不高於3的機體。將其轉為休息狀態。",
+    "effect": "【爆發】配置此卡牌。\n【配備時】將我方的1張護盾加入手牌。此後，選擇對方1張HP不高於3的機體。將其轉為休息狀態。",
     "zone": "宇宙 地球",
     "trait": "〔地球聯邦〕 〔艦船〕",
     "link": "",
@@ -3860,7 +3860,7 @@
     "cost": "1",
     "color": "Blue",
     "type": "BASE",
-    "effect": "【爆發】配置此卡牌。\n【配置時】將我方的1張護盾加入手牌。\n【啟動・主要】將此基地轉為休息狀態：選擇友方的1張機體。使其回復1點。",
+    "effect": "【爆發】配置此卡牌。\n【配備時】將我方的1張護盾加入手牌。\n【起動・主要】將此基地轉為休息狀態：選擇友方的1張機體。使其回復1點。",
     "zone": "宇宙",
     "trait": "〔地球聯邦〕 〔據點〕",
     "link": "",
@@ -3885,7 +3885,7 @@
     "cost": "2",
     "color": "Green",
     "type": "BASE",
-    "effect": "【爆發】配置此卡牌。\n【配置時】將我方的1張護盾加入手牌。此後，若是我方的回合，則可以配置我方手牌中1張等級不高於Lv.4的〔吉翁〕的機體卡牌。",
+    "effect": "【爆發】配置此卡牌。\n【配備時】將我方的1張護盾加入手牌。此後，若是我方的回合，則可以配置我方手牌中1張等級不高於Lv.4的〔吉翁〕的機體卡牌。",
     "zone": "宇宙 地球",
     "trait": "〔吉翁〕 〔艦船〕",
     "link": "",
@@ -3910,7 +3910,7 @@
     "cost": "1",
     "color": "Green",
     "type": "BASE",
-    "effect": "【爆發】配置此卡牌。\n【配置時】將我方的1張護盾加入手牌。",
+    "effect": "【爆發】配置此卡牌。\n【配備時】將我方的1張護盾加入手牌。",
     "zone": "地球",
     "trait": "〔馬格亞那克隊〕 〔據點〕",
     "link": "",
@@ -3922,7 +3922,7 @@
     "package_from": "[GD01] Newtype Rising",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD01-126.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/gd01/10157",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/search/gundam-card-game/product?productLineName=gundam-card-game&view=grid&q=GD01-126%20C"
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/643275/Underground Desert Base"
   },
   {
     "card_id": "GD01-127",
@@ -3935,7 +3935,7 @@
     "cost": "1",
     "color": "Red",
     "type": "BASE",
-    "effect": "【爆發】配置此卡牌。\n【配置時】將我方的1張護盾加入手牌。\n【啟動・瞬動】將此基地轉為休息狀態：選擇友方1張AP為5或更高的〔札夫特〕的機體。本次戰鬥中，其獲得《突破3》效果。\n（當透過攻擊破壞對方的機體時，給予該方護盾區最前方的1張卡牌指定數值的傷害）",
+    "effect": "【爆發】配置此卡牌。\n【配備時】將我方的1張護盾加入手牌。\n【起動・瞬動】將此基地轉為休息狀態：選擇友方1張AP為5或更高的〔札夫特〕的機體。本次戰鬥中，其獲得《突破3》效果。\n（當透過攻擊破壞對方的機體時，給予該方護盾區最前方的1張卡牌指定數值的傷害）",
     "zone": "宇宙",
     "trait": "〔札夫特〕 〔艦船〕",
     "link": "",
@@ -3960,7 +3960,7 @@
     "cost": "1",
     "color": "Red",
     "type": "BASE",
-    "effect": "【爆發】配置此卡牌。\n【配置時】將我方的1張護盾加入手牌。",
+    "effect": "【爆發】配置此卡牌。\n【配備時】將我方的1張護盾加入手牌。",
     "zone": "宇宙",
     "trait": "〔新吉翁〕 〔據點〕",
     "link": "",
@@ -3985,7 +3985,7 @@
     "cost": "2",
     "color": "White",
     "type": "BASE",
-    "effect": "【爆發】配置此卡牌。\n【配置時】將我方的1張護盾加入手牌。此後，選擇對方1張HP不高於3的機體。將其放回到持有者的手牌中。",
+    "effect": "【爆發】配置此卡牌。\n【配備時】將我方的1張護盾加入手牌。此後，選擇對方1張HP不高於3的機體。將其放回到持有者的手牌中。",
     "zone": "宇宙",
     "trait": "〔三艦同盟〕 〔艦船〕",
     "link": "",
@@ -4010,7 +4010,7 @@
     "cost": "1",
     "color": "White",
     "type": "BASE",
-    "effect": "【爆發】配置此卡牌。\n【配置時】將我方的1張護盾加入手牌。\n【啟動・主要】將此基地轉為休息狀態：若友方戰鬥區中存在〔學園〕的機體，則選擇對方的1張機體。本回合中，使其AP-1。",
+    "effect": "【爆發】配置此卡牌。\n【配備時】將我方的1張護盾加入手牌。\n【起動・主要】將此基地轉為休息狀態：若友方戰鬥區中存在〔學園〕的機體，則選擇對方的1張機體。本回合中，使其AP-1。",
     "zone": "宇宙",
     "trait": "〔學園〕 〔據點〕",
     "link": "",
@@ -4047,7 +4047,7 @@
     "package_from": "[GD01] Newtype Rising",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/R-002.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/reto/10015",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/643292/Resource R 002"
   },
   {
     "card_id": "R-002_p1",
@@ -4097,7 +4097,7 @@
     "package_from": "[GD01] Newtype Rising",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/R-002_p2.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/reto/10017",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/645374/Resource R 002 Cplusplus"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "R-003",
@@ -4422,7 +4422,7 @@
     "package_from": "[GD01] Newtype Rising",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/R-009.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/reto/10030",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/643299/Resource R 009"
   },
   {
     "card_id": "R-009_p1",
@@ -4835,7 +4835,7 @@
     "cost": "2",
     "color": "Blue",
     "type": "UNIT",
-    "effect": "【啟動・瞬動】將此機體破壞：給予正在與此機體戰鬥的對方1張基地/對方1張護盾6點傷害。",
+    "effect": "【起動・瞬動】將此機體破壞：給予正在與此機體戰鬥的對方1張基地/對方1張護盾6點傷害。",
     "zone": "宇宙",
     "trait": "〔地球聯合〕",
     "link": "",
@@ -4910,7 +4910,7 @@
     "cost": "2",
     "color": "Blue",
     "type": "UNIT",
-    "effect": "【配置時】選擇我方的1張〔泰坦斯〕機體。本回合中，使其AP+1。",
+    "effect": "【配備時】選擇我方的1張〔泰坦斯〕機體。本回合中，使其AP+1。",
     "zone": "宇宙 地球",
     "trait": "〔泰坦斯〕",
     "link": "",
@@ -4960,7 +4960,7 @@
     "cost": "2",
     "color": "Blue",
     "type": "UNIT",
-    "effect": "【配置時】選擇我方的1張〔泰坦斯〕機體。本回合中，使其AP+1。",
+    "effect": "【配備時】選擇我方的1張〔泰坦斯〕機體。本回合中，使其AP+1。",
     "zone": "宇宙 地球",
     "trait": "〔泰坦斯〕",
     "link": "",
@@ -5060,7 +5060,7 @@
     "cost": "5",
     "color": "Green",
     "type": "UNIT",
-    "effect": "【配置時】確認我方卡組最上方的5張卡牌，可以公開其中1張綠色〔吉翁〕的機師卡牌並加入手牌。剩餘的卡牌隨機放回到卡組最下方。\n【共鳴中】此機體的AP+2。",
+    "effect": "【配備時】確認我方卡組最上方的5張卡牌，可以公開其中1張綠色〔吉翁〕的機師卡牌並加入手牌。剩餘的卡牌隨機放回到卡組最下方。\n【共鳴中】此機體的AP+2。",
     "zone": "宇宙",
     "trait": "〔吉翁〕",
     "link": "拉拉・遜",
@@ -5085,7 +5085,7 @@
     "cost": "5",
     "color": "Green",
     "type": "UNIT",
-    "effect": "【配置時】確認我方卡組最上方的5張卡牌，可以公開其中1張綠色〔吉翁〕的機師卡牌並加入手牌。剩餘的卡牌隨機放回到卡組最下方。\n【共鳴中】此機體的AP+2。",
+    "effect": "【配備時】確認我方卡組最上方的5張卡牌，可以公開其中1張綠色〔吉翁〕的機師卡牌並加入手牌。剩餘的卡牌隨機放回到卡組最下方。\n【共鳴中】此機體的AP+2。",
     "zone": "宇宙",
     "trait": "〔吉翁〕",
     "link": "拉拉・遜",
@@ -5110,7 +5110,7 @@
     "cost": "2",
     "color": "Green",
     "type": "UNIT",
-    "effect": "【配置時】可以丟棄我方手牌中1張綠色〔地球聯邦〕的機體卡牌。若那樣做的話，則我方放置1張EX能源。此後，若我方等級為Lv.7或更高，則我方抽取1張卡牌。",
+    "effect": "【配備時】可以丟棄我方手牌中1張綠色〔地球聯邦〕的機體卡牌。若那樣做的話，則我方放置1張EX能源。此後，若我方等級為Lv.7或更高，則我方抽取1張卡牌。",
     "zone": "宇宙 地球",
     "trait": "〔地球聯邦〕 〔AGE系統〕",
     "link": "特徵〔明日野家〕",
@@ -5135,7 +5135,7 @@
     "cost": "2",
     "color": "Green",
     "type": "UNIT",
-    "effect": "【配置時】可以丟棄我方手牌中1張綠色〔地球聯邦〕的機體卡牌。若那樣做的話，則我方放置1張EX能源。此後，若我方等級為Lv.7或更高，則我方抽取1張卡牌。",
+    "effect": "【配備時】可以丟棄我方手牌中1張綠色〔地球聯邦〕的機體卡牌。若那樣做的話，則我方放置1張EX能源。此後，若我方等級為Lv.7或更高，則我方抽取1張卡牌。",
     "zone": "宇宙 地球",
     "trait": "〔地球聯邦〕 〔AGE系統〕",
     "link": "特徵〔明日野家〕",
@@ -5285,7 +5285,7 @@
     "cost": "3",
     "color": "Green",
     "type": "UNIT",
-    "effect": "【配置時】確認我方卡組最上方的1張卡牌，將其放回到卡組最上方或最下方。",
+    "effect": "【配備時】確認我方卡組最上方的1張卡牌，將其放回到卡組最上方或最下方。",
     "zone": "地球",
     "trait": "〔流星作戰〕",
     "link": "特徵〔流星作戰〕",
@@ -5310,7 +5310,7 @@
     "cost": "2",
     "color": "Green",
     "type": "UNIT",
-    "effect": "【配置時】若我方等級為Lv.7或更高，則選擇我方的1張〔AGE系統〕機體。本回合中，使其AP+2。",
+    "effect": "【配備時】若我方等級為Lv.7或更高，則選擇我方的1張〔AGE系統〕機體。本回合中，使其AP+2。",
     "zone": "宇宙 地球",
     "trait": "〔地球聯邦〕",
     "link": "沃爾夫・艾尼亞克爾",
@@ -5560,7 +5560,7 @@
     "cost": "5",
     "color": "Red",
     "type": "UNIT",
-    "effect": "【共鳴時】本回合中，此機體獲得《壓制》效果。\n（透過攻擊對護盾造成的傷害，將被同時分配至最上方的2張）\n【搭乘中・〔新吉翁〕的機師】【攻擊時】選擇對方1張受到過傷害的機體。給予其2點傷害。",
+    "effect": "【共鳴時】本回合中，此機體獲得《制壓》效果。\n（透過攻擊對護盾造成的傷害，將被同時分配至最上方的2張）\n【搭乘中・〔新吉翁〕的機師】【攻擊時】選擇對方1張受到過傷害的機體。給予其2點傷害。",
     "zone": "宇宙 地球",
     "trait": "〔新吉翁〕",
     "link": "哈曼・坎恩",
@@ -5585,7 +5585,7 @@
     "cost": "5",
     "color": "Red",
     "type": "UNIT",
-    "effect": "【共鳴時】本回合中，此機體獲得《壓制》效果。\n（透過攻擊對護盾造成的傷害，將被同時分配至最上方的2張）\n【搭乘中・〔新吉翁〕的機師】【攻擊時】選擇對方1張受到過傷害的機體。給予其2點傷害。",
+    "effect": "【共鳴時】本回合中，此機體獲得《制壓》效果。\n（透過攻擊對護盾造成的傷害，將被同時分配至最上方的2張）\n【搭乘中・〔新吉翁〕的機師】【攻擊時】選擇對方1張受到過傷害的機體。給予其2點傷害。",
     "zone": "宇宙 地球",
     "trait": "〔新吉翁〕",
     "link": "哈曼・坎恩",
@@ -5610,7 +5610,7 @@
     "cost": "4",
     "color": "Red",
     "type": "UNIT",
-    "effect": "《突破1》（當透過攻擊破壞對方的機體時，給予該方護盾區最上方的1張卡牌指定數值的傷害）\n【配置時】若對方的護盾不多於3張，則選擇對方1張AP不高於5的機體。給予其2點傷害。",
+    "effect": "《突破1》（當透過攻擊破壞對方的機體時，給予該方護盾區最上方的1張卡牌指定數值的傷害）\n【配備時】若對方的護盾不多於3張，則選擇對方1張AP不高於5的機體。給予其2點傷害。",
     "zone": "宇宙 地球",
     "trait": "〔新聯邦〕",
     "link": "夏基亞・佛羅斯特",
@@ -5635,7 +5635,7 @@
     "cost": "4",
     "color": "Red",
     "type": "UNIT",
-    "effect": "《突破1》（當透過攻擊破壞對方的機體時，給予該方護盾區最上方的1張卡牌指定數值的傷害）\n【配置時】若對方的護盾不多於3張，則選擇對方1張AP不高於5的機體。給予其2點傷害。",
+    "effect": "《突破1》（當透過攻擊破壞對方的機體時，給予該方護盾區最上方的1張卡牌指定數值的傷害）\n【配備時】若對方的護盾不多於3張，則選擇對方1張AP不高於5的機體。給予其2點傷害。",
     "zone": "宇宙 地球",
     "trait": "〔新聯邦〕",
     "link": "夏基亞・佛羅斯特",
@@ -5660,7 +5660,7 @@
     "cost": "5",
     "color": "Red",
     "type": "UNIT",
-    "effect": "【配置時】確認我方卡組最上方的3張卡牌，可以配置其中1張等級不高於Lv.4的〔戰團〕的機體卡牌。剩餘的卡牌隨機放回到卡組最下方。",
+    "effect": "【配備時】確認我方卡組最上方的3張卡牌，可以配置其中1張等級不高於Lv.4的〔戰團〕的機體卡牌。剩餘的卡牌隨機放回到卡組最下方。",
     "zone": "宇宙 地球",
     "trait": "〔戰團〕",
     "link": "天手讓葉（瑪秋）",
@@ -5685,7 +5685,7 @@
     "cost": "5",
     "color": "Red",
     "type": "UNIT",
-    "effect": "【配置時】確認我方卡組最上方的3張卡牌，可以配置其中1張等級不高於Lv.4的〔戰團〕的機體卡牌。剩餘的卡牌隨機放回到卡組最下方。",
+    "effect": "【配備時】確認我方卡組最上方的3張卡牌，可以配置其中1張等級不高於Lv.4的〔戰團〕的機體卡牌。剩餘的卡牌隨機放回到卡組最下方。",
     "zone": "宇宙 地球",
     "trait": "〔戰團〕",
     "link": "天手讓葉（瑪秋）",
@@ -5697,7 +5697,7 @@
     "package_from": "[GD02] Dual Impact",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD02-038_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/gd02/10049",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/659278/GQuuuuuuX Omega Psycommu LRplus"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "GD02-038_p2",
@@ -5710,7 +5710,7 @@
     "cost": "5",
     "color": "Red",
     "type": "UNIT",
-    "effect": "【配置時】確認我方卡組最上方的3張卡牌，可以配置其中1張等級不高於Lv.4的〔戰團〕的機體卡牌。剩餘的卡牌隨機放回到卡組最下方。",
+    "effect": "【配備時】確認我方卡組最上方的3張卡牌，可以配置其中1張等級不高於Lv.4的〔戰團〕的機體卡牌。剩餘的卡牌隨機放回到卡組最下方。",
     "zone": "宇宙 地球",
     "trait": "〔戰團〕",
     "link": "天手讓葉（瑪秋）",
@@ -5760,7 +5760,7 @@
     "cost": "3",
     "color": "Red",
     "type": "UNIT",
-    "effect": "【啟動・主要】《支援2》（可轉為休息狀態，且本回合中，使另1張友方機體的AP+指定數值）\n【配置時】選擇此機體以外的我方1張〔新聯邦〕機體。本回合中，選擇的機體不會受到來自對方HP不高於2的機體的戰鬥傷害。",
+    "effect": "【起動・主要】《援護2》（可轉為休息狀態，且本回合中，使另1張友方機體的AP+指定數值）\n【配備時】選擇此機體以外的我方1張〔新聯邦〕機體。本回合中，選擇的機體不會受到來自對方HP不高於2的機體的戰鬥傷害。",
     "zone": "宇宙 地球",
     "trait": "〔新聯邦〕",
     "link": "特徵〔新聯邦〕",
@@ -5772,7 +5772,7 @@
     "package_from": "[GD02] Dual Impact",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD02-040.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/gd02/10052",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/659281/Gundam Ashtaron"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "GD02-040_p1",
@@ -5785,7 +5785,7 @@
     "cost": "3",
     "color": "Red",
     "type": "UNIT",
-    "effect": "【啟動・主要】《支援2》（可轉為休息狀態，且本回合中，使另1張友方機體的AP+指定數值）\n【配置時】選擇此機體以外的我方1張〔新聯邦〕機體。本回合中，選擇的機體不會受到來自對方HP不高於2的機體的戰鬥傷害。",
+    "effect": "【起動・主要】《援護2》（可轉為休息狀態，且本回合中，使另1張友方機體的AP+指定數值）\n【配備時】選擇此機體以外的我方1張〔新聯邦〕機體。本回合中，選擇的機體不會受到來自對方HP不高於2的機體的戰鬥傷害。",
     "zone": "宇宙 地球",
     "trait": "〔新聯邦〕",
     "link": "特徵〔新聯邦〕",
@@ -5810,7 +5810,7 @@
     "cost": "4",
     "color": "Red",
     "type": "UNIT",
-    "effect": "【配置時】選擇對方1張Lv.5或更高等級的機體。給予其2點傷害。",
+    "effect": "【配備時】選擇對方1張Lv.5或更高等級的機體。給予其2點傷害。",
     "zone": "宇宙 地球",
     "trait": "〔戰團〕",
     "link": "詩子・菅井",
@@ -5835,7 +5835,7 @@
     "cost": "4",
     "color": "Red",
     "type": "UNIT",
-    "effect": "【配置時】選擇對方1張Lv.5或更高等級的機體。給予其2點傷害。",
+    "effect": "【配備時】選擇對方1張Lv.5或更高等級的機體。給予其2點傷害。",
     "zone": "宇宙 地球",
     "trait": "〔戰團〕",
     "link": "詩子・菅井",
@@ -5860,7 +5860,7 @@
     "cost": "2",
     "color": "Red",
     "type": "UNIT",
-    "effect": "【配置時】選擇我方的1張〔新聯邦〕機體。本回合中，其獲得《高機動》效果。\n（此機體不會被阻擋）",
+    "effect": "【配備時】選擇我方的1張〔新聯邦〕機體。本回合中，其獲得《高機動》效果。\n（此機體不會被阻擋）",
     "zone": "宇宙 地球",
     "trait": "〔新聯邦〕",
     "link": "歐爾巴・佛羅斯特",
@@ -5885,7 +5885,7 @@
     "cost": "2",
     "color": "Red",
     "type": "UNIT",
-    "effect": "【配置時】若我方戰鬥區中存在此機體以外的〔新聯邦〕機體，則配置1張休息狀態的「德特雷斯」（〔新聯邦〕・AP0・HP1）的機體替代卡。",
+    "effect": "【配備時】若我方戰鬥區中存在此機體以外的〔新聯邦〕機體，則配置1張休息狀態的「德特雷斯」（〔新聯邦〕・AP0・HP1）的機體替代卡。",
     "zone": "宇宙 地球",
     "trait": "〔新聯邦〕",
     "link": "",
@@ -5960,7 +5960,7 @@
     "cost": "2",
     "color": "Red",
     "type": "UNIT",
-    "effect": "【配置時】選擇對方的1張機體替代卡。給予其2點傷害。",
+    "effect": "【配備時】選擇對方的1張機體替代卡。給予其2點傷害。",
     "zone": "宇宙 地球",
     "trait": "〔地球聯邦〕",
     "link": "雪拉・瑪斯",
@@ -5985,7 +5985,7 @@
     "cost": "1",
     "color": "Red",
     "type": "UNIT",
-    "effect": "【啟動・主要】將此機體轉為休息狀態：將其破壞，選擇對方1張等級不高於Lv.5的機體。給予其1點傷害。",
+    "effect": "【起動・主要】將此機體轉為休息狀態：將其破壞，選擇對方1張等級不高於Lv.5的機體。給予其1點傷害。",
     "zone": "宇宙 地球",
     "trait": "〔新吉翁〕",
     "link": "",
@@ -6022,7 +6022,7 @@
     "package_from": "[GD02] Dual Impact",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD02-048.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/gd02/10062",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/search/gundam-card-game/product?productLineName=gundam-card-game&view=grid&q=GD02-048%20C"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "GD02-049",
@@ -6035,7 +6035,7 @@
     "cost": "1",
     "color": "Red",
     "type": "UNIT",
-    "effect": "【啟動・主要】《支援1》（可轉為休息狀態，且本回合中，使另1張友方機體的AP+指定數值）",
+    "effect": "【起動・主要】《援護1》（可轉為休息狀態，且本回合中，使另1張友方機體的AP+指定數值）",
     "zone": "宇宙 地球",
     "trait": "〔新聯邦〕",
     "link": "",
@@ -6135,7 +6135,7 @@
     "cost": "5",
     "color": "Purple",
     "type": "UNIT",
-    "effect": "《壓制》（透過攻擊對護盾造成的傷害，將被同時分配至最上方的2張）\n【共鳴中】我方的回合中，我方廢棄區中有7張或更多卡牌的期間，此機體以外的我方所有〔禿鷹〕機體的AP+2。",
+    "effect": "《制壓》（透過攻擊對護盾造成的傷害，將被同時分配至最上方的2張）\n【共鳴中】我方的回合中，我方廢棄區中有7張或更多卡牌的期間，此機體以外的我方所有〔禿鷹〕機體的AP+2。",
     "zone": "宇宙 地球",
     "trait": "〔禿鷹〕",
     "link": "嘉羅德・蘭",
@@ -6160,7 +6160,7 @@
     "cost": "5",
     "color": "Purple",
     "type": "UNIT",
-    "effect": "《壓制》（透過攻擊對護盾造成的傷害，將被同時分配至最上方的2張）\n【共鳴中】我方的回合中，我方廢棄區中有7張或更多卡牌的期間，此機體以外的我方所有〔禿鷹〕機體的AP+2。",
+    "effect": "《制壓》（透過攻擊對護盾造成的傷害，將被同時分配至最上方的2張）\n【共鳴中】我方的回合中，我方廢棄區中有7張或更多卡牌的期間，此機體以外的我方所有〔禿鷹〕機體的AP+2。",
     "zone": "宇宙 地球",
     "trait": "〔禿鷹〕",
     "link": "嘉羅德・蘭",
@@ -6222,7 +6222,7 @@
     "package_from": "[GD02] Dual Impact",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD02-054_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/gd02/10070",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/659291/Gundam Barbatos 1st Form LRplus"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "GD02-054_p2",
@@ -6260,7 +6260,7 @@
     "cost": "4",
     "color": "Purple",
     "type": "UNIT",
-    "effect": "《阻擋者》（可轉換為休息狀態並將攻擊對象改為此機體）\n【配置時】選擇我方的1張機體和對方的1張機體。給予其1點傷害。",
+    "effect": "《阻擋者》（可轉換為休息狀態並將攻擊對象改為此機體）\n【配備時】選擇我方的1張機體和對方的1張機體。給予其1點傷害。",
     "zone": "宇宙 地球",
     "trait": "〔鐵華團〕 〔高達骨架〕",
     "link": "昭弘・亞特蘭大",
@@ -6285,7 +6285,7 @@
     "cost": "4",
     "color": "Purple",
     "type": "UNIT",
-    "effect": "《阻擋者》（可轉換為休息狀態並將攻擊對象改為此機體）\n【配置時】選擇我方的1張機體和對方的1張機體。給予其1點傷害。",
+    "effect": "《阻擋者》（可轉換為休息狀態並將攻擊對象改為此機體）\n【配備時】選擇我方的1張機體和對方的1張機體。給予其1點傷害。",
     "zone": "宇宙 地球",
     "trait": "〔鐵華團〕 〔高達骨架〕",
     "link": "昭弘・亞特蘭大",
@@ -6347,7 +6347,7 @@
     "package_from": "[GD02] Dual Impact",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD02-057.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/gd02/10075",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/659295/Zedas"
   },
   {
     "card_id": "GD02-058",
@@ -6360,7 +6360,7 @@
     "cost": "2",
     "color": "Purple",
     "type": "UNIT",
-    "effect": "【配置時】選擇我方的1張機體。給予其1點傷害。若那樣做的話，則我方抽取1張卡牌。此後，丟棄我方的1張手牌。",
+    "effect": "【配備時】選擇我方的1張機體。給予其1點傷害。若那樣做的話，則我方抽取1張卡牌。此後，丟棄我方的1張手牌。",
     "zone": "宇宙 地球",
     "trait": "〔鐵華團〕",
     "link": "特徵〔鐵華團〕",
@@ -6435,7 +6435,7 @@
     "cost": "4",
     "color": "Purple",
     "type": "UNIT",
-    "effect": "【配置時】若我方廢棄區中有7張或更多卡牌，則選擇對方1張等級不高於Lv.4的機體。將其轉為休息狀態。",
+    "effect": "【配備時】若我方廢棄區中有7張或更多卡牌，則選擇對方1張等級不高於Lv.4的機體。將其轉為休息狀態。",
     "zone": "宇宙 地球",
     "trait": "〔禿鷹〕",
     "link": "羅亞比・洛伊",
@@ -6460,7 +6460,7 @@
     "cost": "4",
     "color": "Purple",
     "type": "UNIT",
-    "effect": "【配置時】若我方廢棄區中有7張或更多卡牌，則選擇對方1張等級不高於Lv.4的機體。將其轉為休息狀態。",
+    "effect": "【配備時】若我方廢棄區中有7張或更多卡牌，則選擇對方1張等級不高於Lv.4的機體。將其轉為休息狀態。",
     "zone": "宇宙 地球",
     "trait": "〔禿鷹〕",
     "link": "羅亞比・洛伊",
@@ -6660,7 +6660,7 @@
     "cost": "5",
     "color": "White",
     "type": "UNIT",
-    "effect": "【共鳴中】【啟動・主要】【每回合1次】選擇友方1張活躍狀態的基地。將其轉為休息狀態。若那樣做的話，則將此機體轉為活躍狀態，且本回合中，此機體無法選擇對方玩家作為攻擊對象。",
+    "effect": "【共鳴中】【起動・主要】【每回合1次】選擇友方1張活躍狀態的基地。將其轉為休息狀態。若那樣做的話，則將此機體轉為活躍狀態，且本回合中，此機體無法選擇對方玩家作為攻擊對象。",
     "zone": "宇宙 地球",
     "trait": "〔幽谷〕",
     "link": "嘉美尤・維達",
@@ -6685,7 +6685,7 @@
     "cost": "5",
     "color": "White",
     "type": "UNIT",
-    "effect": "【共鳴中】【啟動・主要】【每回合1次】選擇友方1張活躍狀態的基地。將其轉為休息狀態。若那樣做的話，則將此機體轉為活躍狀態，且本回合中，此機體無法選擇對方玩家作為攻擊對象。",
+    "effect": "【共鳴中】【起動・主要】【每回合1次】選擇友方1張活躍狀態的基地。將其轉為休息狀態。若那樣做的話，則將此機體轉為活躍狀態，且本回合中，此機體無法選擇對方玩家作為攻擊對象。",
     "zone": "宇宙 地球",
     "trait": "〔幽谷〕",
     "link": "嘉美尤・維達",
@@ -6710,7 +6710,7 @@
     "cost": "4",
     "color": "White",
     "type": "UNIT",
-    "effect": "【配置時】若我方廢棄區中有4張或更多〔末日號角士官〕卡牌，則我方抽取2張卡牌。若那樣做的話，則丟棄我方的2張手牌。",
+    "effect": "【配備時】若我方廢棄區中有4張或更多〔末日號角士官〕卡牌，則我方抽取2張卡牌。若那樣做的話，則丟棄我方的2張手牌。",
     "zone": "宇宙 地球",
     "trait": "〔末日號角士官〕 〔高達骨架〕",
     "link": "蓋里歐・鮑德溫",
@@ -6735,7 +6735,7 @@
     "cost": "4",
     "color": "White",
     "type": "UNIT",
-    "effect": "【配置時】若我方廢棄區中有4張或更多〔末日號角士官〕卡牌，則我方抽取2張卡牌。若那樣做的話，則丟棄我方的2張手牌。",
+    "effect": "【配備時】若我方廢棄區中有4張或更多〔末日號角士官〕卡牌，則我方抽取2張卡牌。若那樣做的話，則丟棄我方的2張手牌。",
     "zone": "宇宙 地球",
     "trait": "〔末日號角士官〕 〔高達骨架〕",
     "link": "蓋里歐・鮑德溫",
@@ -6760,7 +6760,7 @@
     "cost": "3",
     "color": "White",
     "type": "UNIT",
-    "effect": "【配置時】若存在白色友方基地，則可以將我方手牌中的1張〔幽谷〕機師卡牌搭乘至此機體上。",
+    "effect": "【配備時】若存在白色友方基地，則可以將我方手牌中的1張〔幽谷〕機師卡牌搭乘至此機體上。",
     "zone": "宇宙 地球",
     "trait": "〔幽谷〕",
     "link": "特徵〔幽谷〕",
@@ -6897,7 +6897,7 @@
     "package_from": "[GD02] Dual Impact",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD02-074.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/gd02/10098",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/652425/Gundam Aerial Rebuild"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "GD02-075",
@@ -7060,7 +7060,7 @@
     "cost": "2",
     "color": "White",
     "type": "UNIT",
-    "effect": "【配置時】若存在白色友方基地，則選擇對方的1張機體。本回合中，使其AP-2。",
+    "effect": "【配備時】若存在白色友方基地，則選擇對方的1張機體。本回合中，使其AP-2。",
     "zone": "宇宙 地球",
     "trait": "〔幽谷〕",
     "link": "花・園麗",
@@ -7097,7 +7097,7 @@
     "package_from": "[GD02] Dual Impact",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD02-082.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/gd02/10106",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/659318/Gaelios Schwalbe Graze"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "GD02-083",
@@ -7447,7 +7447,7 @@
     "package_from": "[GD02] Dual Impact",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD02-093.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/gd02/10120",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/659329/Olba Frost"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "GD02-094",
@@ -7597,7 +7597,7 @@
     "package_from": "[GD02] Dual Impact",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD02-097_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/gd02/10126",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/659332/Kamille Bidan Rplus"
   },
   {
     "card_id": "GD02-098",
@@ -8310,7 +8310,7 @@
     "cost": "1",
     "color": "Blue",
     "type": "BASE",
-    "effect": "【爆發】配置此卡牌。\n【配置時】將我方的1張護盾加入手牌。此後，選擇藍色友方的1張機體。使其回復2點。",
+    "effect": "【爆發】配置此卡牌。\n【配備時】將我方的1張護盾加入手牌。此後，選擇藍色友方的1張機體。使其回復2點。",
     "zone": "宇宙 地球",
     "trait": "〔地球聯合〕 〔艦船〕",
     "link": "",
@@ -8335,7 +8335,7 @@
     "cost": "2",
     "color": "Blue",
     "type": "BASE",
-    "effect": "【爆發】配置此卡牌。\n【配置時】將我方的1張護盾加入手牌。此後，選擇對方1張休息狀態且等級不高於Lv.4的機體。給予其1點傷害。",
+    "effect": "【爆發】配置此卡牌。\n【配備時】將我方的1張護盾加入手牌。此後，選擇對方1張休息狀態且等級不高於Lv.4的機體。給予其1點傷害。",
     "zone": "宇宙",
     "trait": "〔泰坦斯〕 〔艦船〕",
     "link": "",
@@ -8360,7 +8360,7 @@
     "cost": "2",
     "color": "Green",
     "type": "BASE",
-    "effect": "【爆發】配置此卡牌。\n【配置時】將我方的1張護盾加入手牌。此後，選擇友方的1張機體替代卡。本回合中，其可以選擇對方活躍狀態且AP不高於5的機體作為攻擊對象。",
+    "effect": "【爆發】配置此卡牌。\n【配備時】將我方的1張護盾加入手牌。此後，選擇友方的1張機體替代卡。本回合中，其可以選擇對方活躍狀態且AP不高於5的機體作為攻擊對象。",
     "zone": "宇宙 地球",
     "trait": "〔吉翁〕 〔艦船〕",
     "link": "",
@@ -8372,7 +8372,7 @@
     "package_from": "[GD02] Dual Impact",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD02-123.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/gd02/10157",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/659353/Sodon"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "GD02-124",
@@ -8385,7 +8385,7 @@
     "cost": "1",
     "color": "Green",
     "type": "BASE",
-    "effect": "【爆發】配置此卡牌。\n【配置時】將我方的1張護盾加入手牌。\n我方的回合中，我方等級為Lv.7或更高期間，友方所有綠色〔地球聯邦〕 機體的AP+1。",
+    "effect": "【爆發】配置此卡牌。\n【配備時】將我方的1張護盾加入手牌。\n我方的回合中，我方等級為Lv.7或更高期間，友方所有綠色〔地球聯邦〕 機體的AP+1。",
     "zone": "宇宙 地球",
     "trait": "〔地球聯邦〕 〔艦船〕",
     "link": "",
@@ -8410,7 +8410,7 @@
     "cost": "2",
     "color": "Red",
     "type": "BASE",
-    "effect": "【爆發】配置此卡牌。\n【配置時】將我方的1張護盾加入手牌。此後，若是我方的回合，則可以丟棄我方手牌中1張紅色的卡牌。若那樣做的話，則我方抽取1張卡牌。",
+    "effect": "【爆發】配置此卡牌。\n【配備時】將我方的1張護盾加入手牌。此後，若是我方的回合，則可以丟棄我方手牌中1張紅色的卡牌。若那樣做的話，則我方抽取1張卡牌。",
     "zone": "宇宙",
     "trait": "〔新吉翁〕 〔艦船〕",
     "link": "",
@@ -8435,7 +8435,7 @@
     "cost": "1",
     "color": "Red",
     "type": "BASE",
-    "effect": "【爆發】配置此卡牌。\n【配置時】將我方的1張護盾加入手牌。\n【破壞時】選擇對方1張等級不高於Lv.4的機體。給予其1點傷害。",
+    "effect": "【爆發】配置此卡牌。\n【配備時】將我方的1張護盾加入手牌。\n【破壞時】選擇對方1張等級不高於Lv.4的機體。給予其1點傷害。",
     "zone": "宇宙",
     "trait": "〔戰團〕 〔據點〕",
     "link": "",
@@ -8460,7 +8460,7 @@
     "cost": "1",
     "color": "Purple",
     "type": "BASE",
-    "effect": "【爆發】配置此卡牌。\n【配置時】將我方的1張護盾加入手牌。\n【破壞時】確認我方卡組最上方的2張卡牌，並置於我方廢棄區。",
+    "effect": "【爆發】配置此卡牌。\n【配備時】將我方的1張護盾加入手牌。\n【破壞時】確認我方卡組最上方的2張卡牌，並置於我方廢棄區。",
     "zone": "地球",
     "trait": "〔禿鷹〕 〔艦船〕",
     "link": "",
@@ -8485,7 +8485,7 @@
     "cost": "2",
     "color": "Purple",
     "type": "BASE",
-    "effect": "【爆發】配置此卡牌。\n【配置時】將我方的1張護盾加入手牌。此後，在我方的回合，若友方戰鬥區中存在〔迪瓦茲〕的共鳴機體，則選擇對方1張AP不高於2的機體。將其破壞。",
+    "effect": "【爆發】配置此卡牌。\n【配備時】將我方的1張護盾加入手牌。此後，在我方的回合，若友方戰鬥區中存在〔迪瓦茲〕的共鳴機體，則選擇對方1張AP不高於2的機體。將其破壞。",
     "zone": "宇宙",
     "trait": "〔迪瓦茲〕 〔艦船〕",
     "link": "",
@@ -8510,7 +8510,7 @@
     "cost": "1",
     "color": "White",
     "type": "BASE",
-    "effect": "【爆發】配置此卡牌。\n【配置時】將我方的1張護盾加入手牌。\n此基地不會受到來自對方的效果傷害。",
+    "effect": "【爆發】配置此卡牌。\n【配備時】將我方的1張護盾加入手牌。\n此基地不會受到來自對方的效果傷害。",
     "zone": "宇宙 地球",
     "trait": "〔幽谷〕 〔艦船〕",
     "link": "",
@@ -8535,7 +8535,7 @@
     "cost": "1",
     "color": "White",
     "type": "BASE",
-    "effect": "【爆發】配置此卡牌。\n【配置時】將我方的1張護盾加入手牌。\n此基地不會受到來自對方的效果傷害。",
+    "effect": "【爆發】配置此卡牌。\n【配備時】將我方的1張護盾加入手牌。\n此基地不會受到來自對方的效果傷害。",
     "zone": "宇宙 地球",
     "trait": "〔幽谷〕 〔艦船〕",
     "link": "",
@@ -8560,7 +8560,7 @@
     "cost": "2",
     "color": "White",
     "type": "BASE",
-    "effect": "【爆發】配置此卡牌。\n【配置時】將我方的1張護盾加入手牌。此後，若友方戰鬥區中存在〔末日號角士官〕機體，則選擇對方的1張機體。本回合中，使其AP-2。",
+    "effect": "【爆發】配置此卡牌。\n【配備時】將我方的1張護盾加入手牌。此後，若友方戰鬥區中存在〔末日號角士官〕機體，則選擇對方的1張機體。本回合中，使其AP-2。",
     "zone": "宇宙",
     "trait": "〔末日號角士官〕 〔艦船〕",
     "link": "",
@@ -8597,7 +8597,7 @@
     "package_from": "[GD02] Dual Impact",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/R-010.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/reto/10033",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/659361/Resource R 010"
   },
   {
     "card_id": "R-010_p1",
@@ -8672,7 +8672,7 @@
     "package_from": "[GD02] Dual Impact",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/R-011_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/reto/10036",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/659364/Resource R 011 Cplus"
   },
   {
     "card_id": "R-012",
@@ -8697,7 +8697,7 @@
     "package_from": "[GD02] Dual Impact",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/R-012.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/reto/10037",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/659365/Resource R 012"
   },
   {
     "card_id": "R-012_p1",
@@ -8722,7 +8722,7 @@
     "package_from": "[GD02] Dual Impact",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/R-012_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/reto/10038",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/659366/Resource R 012 Cplus"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "R-013",
@@ -8997,7 +8997,7 @@
     "package_from": "[GD02] Dual Impact",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/R-017_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/reto/10049",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/659377/Resource R 017 Cplus"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "R-018",
@@ -9410,7 +9410,7 @@
     "cost": "5",
     "color": "Blue",
     "type": "UNIT",
-    "effect": "《修復1》（當我方的回合結束時，此機體回復指定數值）\n【配置時】我方抽取1張卡牌。",
+    "effect": "《修復1》（當我方的回合結束時，此機體回復指定數值）\n【配備時】我方抽取1張卡牌。",
     "zone": "宇宙 地球",
     "trait": "〔新吉翁〕",
     "link": "瑪莉妲・庫魯斯",
@@ -9435,7 +9435,7 @@
     "cost": "5",
     "color": "Blue",
     "type": "UNIT",
-    "effect": "【配置時】選擇對方1~2張HP不高於3的機體。將其轉為休息狀態",
+    "effect": "【配備時】選擇對方1~2張HP不高於3的機體。將其轉為休息狀態",
     "zone": "宇宙 地球",
     "trait": "〔地球聯邦〕",
     "link": "雷恩・艾姆",
@@ -9510,7 +9510,7 @@
     "cost": "3",
     "color": "Blue",
     "type": "UNIT",
-    "effect": "【配置時】可以選擇我方廢棄區中2張〔泰坦斯〕的卡牌。將其從遊戲中移除。若那樣做的話，則選擇對方1張等級不高於Lv.4的機體。將其轉為休息狀態。",
+    "effect": "【配備時】可以選擇我方廢棄區中2張〔泰坦斯〕的卡牌。將其從遊戲中移除。若那樣做的話，則選擇對方1張等級不高於Lv.4的機體。將其轉為休息狀態。",
     "zone": "宇宙 地球",
     "trait": "〔泰坦斯〕 〔丘比特里斯號〕",
     "link": "蕾柯亞・隆德",
@@ -9672,7 +9672,7 @@
     "package_from": "[GD03] Steel Requiem",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD03-014.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/gd03/10018",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/670494/Hizack Custom"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "GD03-015",
@@ -9685,7 +9685,7 @@
     "cost": "5",
     "color": "Blue",
     "type": "UNIT",
-    "effect": "【啟動・主要】【每回合1次】將我方廢棄區中3張〔泰坦斯〕的卡牌從遊戲中移除：本回合中，此機體獲得《突破4》效果。\n（當透過攻擊破壞對方的機體時，給予該方護盾區最上方的1張卡牌指定數值的傷害）",
+    "effect": "【起動・主要】【每回合1次】將我方廢棄區中3張〔泰坦斯〕的卡牌從遊戲中移除：本回合中，此機體獲得《突破4》效果。\n（當透過攻擊破壞對方的機體時，給予該方護盾區最上方的1張卡牌指定數值的傷害）",
     "zone": "宇宙 地球",
     "trait": "〔泰坦斯〕",
     "link": "傑利特・梅薩",
@@ -9722,7 +9722,7 @@
     "package_from": "[GD03] Steel Requiem",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD03-016.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/gd03/10020",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/670496/Full Armor Unicorn Gundam Unicorn Mode"
   },
   {
     "card_id": "GD03-017",
@@ -9872,7 +9872,7 @@
     "package_from": "[GD03] Steel Requiem",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD03-019.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/gd03/10026",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/673460/Gundam AGE 2 Normal"
   },
   {
     "card_id": "GD03-019_p1",
@@ -9960,7 +9960,7 @@
     "cost": "7",
     "color": "Green",
     "type": "UNIT",
-    "effect": "【配置時】選擇我方1張〔流星作戰〕/〔G小隊〕的機體。本回合中，其可以選擇對方活躍狀態的機體作為攻擊對象。",
+    "effect": "【配備時】選擇我方1張〔流星作戰〕/〔G小隊〕的機體。本回合中，其可以選擇對方活躍狀態的機體作為攻擊對象。",
     "zone": "宇宙 地球",
     "trait": "〔G小隊〕",
     "link": "迪歐・麥斯威爾",
@@ -9997,7 +9997,7 @@
     "package_from": "[GD03] Steel Requiem",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD03-022.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/gd03/10031",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/670500/Gundam Kyrios"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "GD03-022_p1",
@@ -10047,7 +10047,7 @@
     "package_from": "[GD03] Steel Requiem",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD03-023.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/gd03/10033",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/670501/G Bouncer"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "GD03-024",
@@ -10272,7 +10272,7 @@
     "package_from": "[GD03] Steel Requiem",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD03-032.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/gd03/10042",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/673465/Zaku Four Snake Eyes YETI GQ"
   },
   {
     "card_id": "GD03-033",
@@ -10335,7 +10335,7 @@
     "cost": "7",
     "color": "Red",
     "type": "UNIT",
-    "effect": "《壓制》（透過攻擊對護盾造成的傷害，將被同時分配至最上方的2張）\n【配置時】選擇對方的1張機體。給予其3點傷害。",
+    "effect": "《制壓》（透過攻擊對護盾造成的傷害，將被同時分配至最上方的2張）\n【配備時】選擇對方的1張機體。給予其3點傷害。",
     "zone": "宇宙 地球",
     "trait": "〔戰團〕",
     "link": "天手讓葉（瑪秋） / 涅安",
@@ -10360,7 +10360,7 @@
     "cost": "7",
     "color": "Red",
     "type": "UNIT",
-    "effect": "《壓制》（透過攻擊對護盾造成的傷害，將被同時分配至最上方的2張）\n【配置時】選擇對方的1張機體。給予其3點傷害。",
+    "effect": "《制壓》（透過攻擊對護盾造成的傷害，將被同時分配至最上方的2張）\n【配備時】選擇對方的1張機體。給予其3點傷害。",
     "zone": "宇宙 地球",
     "trait": "〔戰團〕",
     "link": "天手讓葉（瑪秋） / 涅安",
@@ -10385,7 +10385,7 @@
     "cost": "4",
     "color": "Red",
     "type": "UNIT",
-    "effect": "【啟動・主要】【每回合1次】①,將我方廢棄區中1張機師卡牌從遊戲中移除：給予對方的所有機體1點傷害。\n【共鳴時】本回合中，此機體可以選擇對方活躍狀態且AP不高於此機體的機體作為攻擊對象。",
+    "effect": "【起動・主要】【每回合1次】①,將我方廢棄區中1張機師卡牌從遊戲中移除：給予對方的所有機體1點傷害。\n【共鳴時】本回合中，此機體可以選擇對方活躍狀態且AP不高於此機體的機體作為攻擊對象。",
     "zone": "宇宙 地球",
     "trait": "〔吉翁〕",
     "link": "涅安",
@@ -10410,7 +10410,7 @@
     "cost": "4",
     "color": "Red",
     "type": "UNIT",
-    "effect": "【啟動・主要】【每回合1次】①,將我方廢棄區中1張機師卡牌從遊戲中移除：給予對方的所有機體1點傷害。\n【共鳴時】本回合中，此機體可以選擇對方活躍狀態且AP不高於此機體的機體作為攻擊對象。",
+    "effect": "【起動・主要】【每回合1次】①,將我方廢棄區中1張機師卡牌從遊戲中移除：給予對方的所有機體1點傷害。\n【共鳴時】本回合中，此機體可以選擇對方活躍狀態且AP不高於此機體的機體作為攻擊對象。",
     "zone": "宇宙 地球",
     "trait": "〔吉翁〕",
     "link": "涅安",
@@ -10435,7 +10435,7 @@
     "cost": "4",
     "color": "Red",
     "type": "UNIT",
-    "effect": "【啟動・主要】【每回合1次】①,將我方廢棄區中1張機師卡牌從遊戲中移除：給予對方的所有機體1點傷害。\n【共鳴時】本回合中，此機體可以選擇對方活躍狀態且AP不高於此機體的機體作為攻擊對象。",
+    "effect": "【起動・主要】【每回合1次】①,將我方廢棄區中1張機師卡牌從遊戲中移除：給予對方的所有機體1點傷害。\n【共鳴時】本回合中，此機體可以選擇對方活躍狀態且AP不高於此機體的機體作為攻擊對象。",
     "zone": "宇宙 地球",
     "trait": "〔吉翁〕",
     "link": "涅安",
@@ -10472,7 +10472,7 @@
     "package_from": "[GD03] Steel Requiem",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD03-036.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/gd03/10050",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/670507/Xi Gundam Flight Form"
   },
   {
     "card_id": "GD03-036_p1",
@@ -10560,7 +10560,7 @@
     "cost": "3",
     "color": "Red",
     "type": "UNIT",
-    "effect": "【啟動・主要】《支援1》（可轉為休息狀態，且本回合中，使另1張友方機體的AP+指定數值）\n我方的回合中，當此機體因效果轉為休息狀態時，選擇我方1張〔札夫特〕的機體。本回合中，使其AP+2。",
+    "effect": "【起動・主要】《援護1》（可轉為休息狀態，且本回合中，使另1張友方機體的AP+指定數值）\n我方的回合中，當此機體因效果轉為休息狀態時，選擇我方1張〔札夫特〕的機體。本回合中，使其AP+2。",
     "zone": "宇宙 地球",
     "trait": "〔札夫特〕",
     "link": "拉烏・魯・克魯澤",
@@ -10585,7 +10585,7 @@
     "cost": "2",
     "color": "Red",
     "type": "UNIT",
-    "effect": "【配置時】選擇友方1張此機體以外且活躍狀態的〔戰團〕機體。將其轉為休息狀態。若那樣做的話，則選擇對方1張AP不高於2的機體。給予其2點傷害。",
+    "effect": "【配備時】選擇友方1張此機體以外且活躍狀態的〔戰團〕機體。將其轉為休息狀態。若那樣做的話，則選擇對方1張AP不高於2的機體。給予其2點傷害。",
     "zone": "宇宙 地球",
     "trait": "〔戰團〕",
     "link": "特徵〔戰團〕",
@@ -10635,7 +10635,7 @@
     "cost": "6",
     "color": "Red",
     "type": "UNIT",
-    "effect": "【配置時】給予所有基地3點傷害。",
+    "effect": "【配備時】給予所有基地3點傷害。",
     "zone": "宇宙 地球",
     "trait": "〔宇宙革命軍〕",
     "link": "卡利斯・羅迪拉斯",
@@ -10710,7 +10710,7 @@
     "cost": "2",
     "color": "Red",
     "type": "UNIT",
-    "effect": "【配置時】配置1張休息狀態的「德特雷斯」（〔新聯邦〕・AP0・HP1）的機體替代卡。",
+    "effect": "【配備時】配置1張休息狀態的「德特雷斯」（〔新聯邦〕・AP0・HP1）的機體替代卡。",
     "zone": "宇宙 地球",
     "trait": "〔新聯邦〕",
     "link": "",
@@ -10835,7 +10835,7 @@
     "cost": "6",
     "color": "Purple",
     "type": "UNIT",
-    "effect": "《壓制》（透過攻擊對護盾造成的傷害，將被同時分配至最上方的2張）\n當此機體透過戰鬥傷害破壞對方護盾區中的卡牌時，若我方廢棄區中有10張或更多〔CB〕的卡牌，則選擇對方1張HP最低的機體。將其破壞。",
+    "effect": "《制壓》（透過攻擊對護盾造成的傷害，將被同時分配至最上方的2張）\n當此機體透過戰鬥傷害破壞對方護盾區中的卡牌時，若我方廢棄區中有10張或更多〔CB〕的卡牌，則選擇對方1張HP最低的機體。將其破壞。",
     "zone": "宇宙 地球",
     "trait": "〔CB〕 〔GN動力裝置〕",
     "link": "剎那・F・塞耶",
@@ -10860,7 +10860,7 @@
     "cost": "6",
     "color": "Purple",
     "type": "UNIT",
-    "effect": "《壓制》（透過攻擊對護盾造成的傷害，將被同時分配至最上方的2張）\n當此機體透過戰鬥傷害破壞對方護盾區中的卡牌時，若我方廢棄區中有10張或更多〔CB〕的卡牌，則選擇對方1張HP最低的機體。將其破壞。",
+    "effect": "《制壓》（透過攻擊對護盾造成的傷害，將被同時分配至最上方的2張）\n當此機體透過戰鬥傷害破壞對方護盾區中的卡牌時，若我方廢棄區中有10張或更多〔CB〕的卡牌，則選擇對方1張HP最低的機體。將其破壞。",
     "zone": "宇宙 地球",
     "trait": "〔CB〕 〔GN動力裝置〕",
     "link": "剎那・F・塞耶",
@@ -10885,7 +10885,7 @@
     "cost": "6",
     "color": "Purple",
     "type": "UNIT",
-    "effect": "【啟動・主要】選擇我方廢棄區中3張〔鐵華團〕/〔迪瓦茲〕的機體卡牌。將其從遊戲中移除。若那樣做的話，則選擇對方的1張機體。給予其2點傷害。",
+    "effect": "【起動・主要】選擇我方廢棄區中3張〔鐵華團〕/〔迪瓦茲〕的機體卡牌。將其從遊戲中移除。若那樣做的話，則選擇對方的1張機體。給予其2點傷害。",
     "zone": "宇宙 地球",
     "trait": "〔鐵華團〕 〔高達骨架〕",
     "link": "三日月・奧古斯",
@@ -10910,7 +10910,7 @@
     "cost": "6",
     "color": "Purple",
     "type": "UNIT",
-    "effect": "【啟動・主要】選擇我方廢棄區中3張〔鐵華團〕/〔迪瓦茲〕的機體卡牌。將其從遊戲中移除。若那樣做的話，則選擇對方的1張機體。給予其2點傷害。",
+    "effect": "【起動・主要】選擇我方廢棄區中3張〔鐵華團〕/〔迪瓦茲〕的機體卡牌。將其從遊戲中移除。若那樣做的話，則選擇對方的1張機體。給予其2點傷害。",
     "zone": "宇宙 地球",
     "trait": "〔鐵華團〕 〔高達骨架〕",
     "link": "三日月・奧古斯",
@@ -10960,7 +10960,7 @@
     "cost": "4",
     "color": "Purple",
     "type": "UNIT",
-    "effect": "【啟動・主要】《支援2》（可轉為休息狀態，且本回合中，使另1張友方機體的AP+指定數值）\n當此機體給予對方等級不高於Lv.5的機體戰鬥傷害時，若我方戰鬥區中存在〔CB〕的機師，則破壞對方的該機體。",
+    "effect": "【起動・主要】《援護2》（可轉為休息狀態，且本回合中，使另1張友方機體的AP+指定數值）\n當此機體給予對方等級不高於Lv.5的機體戰鬥傷害時，若我方戰鬥區中存在〔CB〕的機師，則破壞對方的該機體。",
     "zone": "宇宙 地球",
     "trait": "〔CB〕 〔GN動力裝置〕",
     "link": "提耶利亞・厄德",
@@ -10985,7 +10985,7 @@
     "cost": "4",
     "color": "Purple",
     "type": "UNIT",
-    "effect": "【啟動・主要】《支援2》（可轉為休息狀態，且本回合中，使另1張友方機體的AP+指定數值）\n當此機體給予對方等級不高於Lv.5的機體戰鬥傷害時，若我方戰鬥區中存在〔CB〕的機師，則破壞對方的該機體。",
+    "effect": "【起動・主要】《援護2》（可轉為休息狀態，且本回合中，使另1張友方機體的AP+指定數值）\n當此機體給予對方等級不高於Lv.5的機體戰鬥傷害時，若我方戰鬥區中存在〔CB〕的機師，則破壞對方的該機體。",
     "zone": "宇宙 地球",
     "trait": "〔CB〕 〔GN動力裝置〕",
     "link": "提耶利亞・厄德",
@@ -11072,7 +11072,7 @@
     "package_from": "[GD03] Steel Requiem",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD03-054.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/gd03/10074",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/673478/Zeydra"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "GD03-055",
@@ -11110,7 +11110,7 @@
     "cost": "2",
     "color": "Purple",
     "type": "UNIT",
-    "effect": "【配置時】選擇我方的1張機體和對方的1張機體。給予其1點傷害。",
+    "effect": "【配備時】選擇我方的1張機體和對方的1張機體。給予其1點傷害。",
     "zone": "宇宙 地球",
     "trait": "〔鐵華團〕 〔高達骨架〕",
     "link": "三日月・奧古斯",
@@ -11260,7 +11260,7 @@
     "cost": "2",
     "color": "Purple",
     "type": "UNIT",
-    "effect": "【配置時】若此機體是從廢棄區中配置的，則選擇對方1張AP不高於4的機體。給予其2點傷害。",
+    "effect": "【配備時】若此機體是從廢棄區中配置的，則選擇對方1張AP不高於4的機體。給予其2點傷害。",
     "zone": "宇宙 地球",
     "trait": "〔舊聯邦〕 〔禿鷹〕",
     "link": "",
@@ -11310,7 +11310,7 @@
     "cost": "4",
     "color": "Purple",
     "type": "UNIT",
-    "effect": "【配置時】可以選擇我方廢棄區中1張〔X行者〕的卡牌。將其加入手牌。若那樣做的話，則丟棄我方的1張手牌。",
+    "effect": "【配備時】可以選擇我方廢棄區中1張〔X行者〕的卡牌。將其加入手牌。若那樣做的話，則丟棄我方的1張手牌。",
     "zone": "宇宙 地球",
     "trait": "〔UE〕 〔維根〕",
     "link": "",
@@ -11322,7 +11322,7 @@
     "package_from": "[GD03] Steel Requiem",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD03-064.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/gd03/10084",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/670518/Defurse"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "GD03-065",
@@ -11385,7 +11385,7 @@
     "cost": "3",
     "color": "Purple",
     "type": "UNIT",
-    "effect": "【配置時】可以選擇我方的1張機體。給予其1點傷害，且本回合中，使其AP+1。",
+    "effect": "【配備時】可以選擇我方的1張機體。給予其1點傷害，且本回合中，使其AP+1。",
     "zone": "地球",
     "trait": "〔迪瓦茲〕 〔鐵華團〕",
     "link": "特徵〔迪瓦茲〕 / 特徵〔鐵華團〕",
@@ -11397,7 +11397,7 @@
     "package_from": "[GD03] Steel Requiem",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD03-067.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/gd03/10087",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/670519/Rouei"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "GD03-068",
@@ -11535,7 +11535,7 @@
     "cost": "5",
     "color": "White",
     "type": "UNIT",
-    "effect": "【配置時】選擇對方的1張機體。我方廢棄區中每有1張〔幽谷〕的機體卡牌，本回合中，使其AP-1。",
+    "effect": "【配備時】選擇對方的1張機體。我方廢棄區中每有1張〔幽谷〕的機體卡牌，本回合中，使其AP-1。",
     "zone": "宇宙 地球",
     "trait": "〔幽谷〕",
     "link": "卡密兒・維丹",
@@ -11560,7 +11560,7 @@
     "cost": "5",
     "color": "White",
     "type": "UNIT",
-    "effect": "【配置時】選擇對方的1張機體。我方廢棄區中每有1張〔幽谷〕的機體卡牌，本回合中，使其AP-1。",
+    "effect": "【配備時】選擇對方的1張機體。我方廢棄區中每有1張〔幽谷〕的機體卡牌，本回合中，使其AP-1。",
     "zone": "宇宙 地球",
     "trait": "〔幽谷〕",
     "link": "卡密兒・維丹",
@@ -11585,7 +11585,7 @@
     "cost": "3",
     "color": "White",
     "type": "UNIT",
-    "effect": "《阻擋者》（可轉換為休息狀態並將攻擊對象改為此機體）\n【配置時】若我方戰鬥區中存在此機體以外的〔三艦同盟〕機體，則我方抽取1張卡牌。此後，丟棄我方的1張手牌。",
+    "effect": "《阻擋者》（可轉換為休息狀態並將攻擊對象改為此機體）\n【配備時】若我方戰鬥區中存在此機體以外的〔三艦同盟〕機體，則我方抽取1張卡牌。此後，丟棄我方的1張手牌。",
     "zone": "宇宙 地球",
     "trait": "〔三艦同盟〕",
     "link": "穆・拉・福拉卡",
@@ -11610,7 +11610,7 @@
     "cost": "5",
     "color": "White",
     "type": "UNIT",
-    "effect": "《阻擋者》（可轉換為休息狀態並將攻擊對象改為此機體）\n【共鳴中】【啟動・瞬動】【每回合1次】若我方廢棄區中有6張或更多〔末日號角士官〕的卡牌，則選擇對方1張與此機體進行戰鬥的機體。本次戰鬥中，使其AP-3。",
+    "effect": "《阻擋者》（可轉換為休息狀態並將攻擊對象改為此機體）\n【共鳴中】【起動・瞬動】【每回合1次】若我方廢棄區中有6張或更多〔末日號角士官〕的卡牌，則選擇對方1張與此機體進行戰鬥的機體。本次戰鬥中，使其AP-3。",
     "zone": "宇宙 地球",
     "trait": "〔末日號角士官〕",
     "link": "艾因・達爾頓",
@@ -11635,7 +11635,7 @@
     "cost": "5",
     "color": "White",
     "type": "UNIT",
-    "effect": "《阻擋者》（可轉換為休息狀態並將攻擊對象改為此機體）\n【共鳴中】【啟動・瞬動】【每回合1次】若我方廢棄區中有6張或更多〔末日號角士官〕的卡牌，則選擇對方1張與此機體進行戰鬥的機體。本次戰鬥中，使其AP-3。",
+    "effect": "《阻擋者》（可轉換為休息狀態並將攻擊對象改為此機體）\n【共鳴中】【起動・瞬動】【每回合1次】若我方廢棄區中有6張或更多〔末日號角士官〕的卡牌，則選擇對方1張與此機體進行戰鬥的機體。本次戰鬥中，使其AP-3。",
     "zone": "宇宙 地球",
     "trait": "〔末日號角士官〕",
     "link": "艾因・達爾頓",
@@ -11872,7 +11872,7 @@
     "package_from": "[GD03] Steel Requiem",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD03-082.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/gd03/10106",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/673491/Union Flag"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "GD03-083",
@@ -11997,7 +11997,7 @@
     "package_from": "[GD03] Steel Requiem",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD03-086.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/gd03/10111",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/670532/Yazan Gable"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "GD03-087",
@@ -12347,7 +12347,7 @@
     "package_from": "[GD03] Steel Requiem",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD03-097.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/gd03/10125",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/705695/Wistario Afam"
+    "TCGPlayer_URL": "https://www.tcgplayer.com/search/gundam-card-game/product?productLineName=gundam-card-game&view=grid&q=GD03-097%20C"
   },
   {
     "card_id": "GD03-098",
@@ -12747,7 +12747,7 @@
     "package_from": "[GD03] Steel Requiem",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD03-109_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/gd03/10141",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/675701/Improved Technique Rplus"
   },
   {
     "card_id": "GD03-110",
@@ -13135,7 +13135,7 @@
     "cost": "1",
     "color": "Blue",
     "type": "BASE",
-    "effect": "【爆發】配置此卡牌。\n【配置時】將我方的1張護盾加入手牌。此後，若友方戰鬥區中存在〔丘比特里斯號〕的機體，則選擇對方1張等級不高於Lv.3的機體。將其轉為休息狀態。",
+    "effect": "【爆發】配置此卡牌。\n【配備時】將我方的1張護盾加入手牌。此後，若友方戰鬥區中存在〔丘比特里斯號〕的機體，則選擇對方1張等級不高於Lv.3的機體。將其轉為休息狀態。",
     "zone": "宇宙",
     "trait": "〔泰坦斯〕 〔丘比特里斯號〕 〔艦船〕",
     "link": "",
@@ -13160,7 +13160,7 @@
     "cost": "1",
     "color": "Blue",
     "type": "BASE",
-    "effect": "【爆發】配置此卡牌。\n【配置時】將我方的1張護盾加入手牌。\n【每回合1次】當我方的機體被等級不高於Lv.3的機師搭乘時，選擇對方1張HP不高於3的機體。將其轉為休息狀態。",
+    "effect": "【爆發】配置此卡牌。\n【配備時】將我方的1張護盾加入手牌。\n【每回合1次】當我方的機體被等級不高於Lv.3的機師搭乘時，選擇對方1張HP不高於3的機體。將其轉為休息狀態。",
     "zone": "宇宙",
     "trait": "〔地球聯邦〕 〔據點〕",
     "link": "",
@@ -13185,7 +13185,7 @@
     "cost": "1",
     "color": "Green",
     "type": "BASE",
-    "effect": "【爆發】配置此卡牌。\n【配置時】將我方的1張護盾加入手牌。\n【每回合1次】我方的回合中，當友方戰鬥區中Lv.6或更高等級的〔流星作戰〕/〔G小隊〕機體透過戰鬥傷害破壞對方的機體時，友方的該機體可以回復2點。",
+    "effect": "【爆發】配置此卡牌。\n【配備時】將我方的1張護盾加入手牌。\n【每回合1次】我方的回合中，當友方戰鬥區中Lv.6或更高等級的〔流星作戰〕/〔G小隊〕機體透過戰鬥傷害破壞對方的機體時，友方的該機體可以回復2點。",
     "zone": "宇宙",
     "trait": "〔G小隊〕 〔艦船〕",
     "link": "",
@@ -13210,7 +13210,7 @@
     "cost": "1",
     "color": "Green",
     "type": "BASE",
-    "effect": "【爆發】配置此卡牌。\n【配置時】將我方的1張護盾加入手牌。\n對方的回合中，友方所有機體替代卡的AP+1。",
+    "effect": "【爆發】配置此卡牌。\n【配備時】將我方的1張護盾加入手牌。\n對方的回合中，友方所有機體替代卡的AP+1。",
     "zone": "地球",
     "trait": "〔吉翁〕 〔獨眼巨人隊〕",
     "link": "",
@@ -13235,7 +13235,7 @@
     "cost": "1",
     "color": "Red",
     "type": "BASE",
-    "effect": "【爆發】配置此卡牌。\n【配置時】將我方的1張護盾加入手牌。此後，選擇友方1張〔札夫特〕的機體。本回合中，使其AP+3。",
+    "effect": "【爆發】配置此卡牌。\n【配備時】將我方的1張護盾加入手牌。此後，選擇友方1張〔札夫特〕的機體。本回合中，使其AP+3。",
     "zone": "宇宙",
     "trait": "〔札夫特〕 〔據點〕",
     "link": "",
@@ -13260,7 +13260,7 @@
     "cost": "1",
     "color": "Red",
     "type": "BASE",
-    "effect": "【爆發】配置此卡牌。\n【配置時】將我方的1張護盾加入手牌。\n【每回合1次】對方的回合中，當我方的機體因對方的效果而轉為休息狀態時，選擇對方的1張機體。給予其1點傷害。",
+    "effect": "【爆發】配置此卡牌。\n【配備時】將我方的1張護盾加入手牌。\n【每回合1次】對方的回合中，當我方的機體因對方的效果而轉為休息狀態時，選擇對方的1張機體。給予其1點傷害。",
     "zone": "地球",
     "trait": "〔新聯邦〕 〔艦船〕",
     "link": "",
@@ -13272,7 +13272,7 @@
     "package_from": "[GD03] Steel Requiem",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD03-128.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/gd03/10162",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/673517/Doritea"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "GD03-129",
@@ -13285,7 +13285,7 @@
     "cost": "1",
     "color": "Purple",
     "type": "BASE",
-    "effect": "【爆發】配置此卡牌。\n【配置時】將我方的1張護盾加入手牌。\n我方的回合中，當友方〔鐵華團〕/〔迪瓦茲〕的機體受到效果傷害時，可以將此基地轉為休息狀態。若那樣做的話，則將我方卡組最上方的1張卡牌，置於我方的廢棄區中。",
+    "effect": "【爆發】配置此卡牌。\n【配備時】將我方的1張護盾加入手牌。\n我方的回合中，當友方〔鐵華團〕/〔迪瓦茲〕的機體受到效果傷害時，可以將此基地轉為休息狀態。若那樣做的話，則將我方卡組最上方的1張卡牌，置於我方的廢棄區中。",
     "zone": "宇宙",
     "trait": "〔鐵華團〕 〔艦船〕",
     "link": "",
@@ -13310,7 +13310,7 @@
     "cost": "2",
     "color": "Purple",
     "type": "BASE",
-    "effect": "【爆發】配置此卡牌。\n【配置時】將我方的1張護盾加入手牌。此後，若是我方的回合，則可以選擇我方廢棄區中1張等級不高於Lv.4的〔維根〕機體卡牌。支付費用後將其配置。",
+    "effect": "【爆發】配置此卡牌。\n【配備時】將我方的1張護盾加入手牌。此後，若是我方的回合，則可以選擇我方廢棄區中1張等級不高於Lv.4的〔維根〕機體卡牌。支付費用後將其配置。",
     "zone": "宇宙",
     "trait": "〔維根〕 〔據點〕",
     "link": "",
@@ -13335,7 +13335,7 @@
     "cost": "2",
     "color": "White",
     "type": "BASE",
-    "effect": "【爆發】配置此卡牌。\n【配置時】將我方的1張護盾加入手牌。此後，若我方戰鬥區中存在2張或更多〔三艦同盟〕的機體，則選擇對方1張等級不高於Lv.4的機體。將其放回到持有者的手牌中。",
+    "effect": "【爆發】配置此卡牌。\n【配備時】將我方的1張護盾加入手牌。此後，若我方戰鬥區中存在2張或更多〔三艦同盟〕的機體，則選擇對方1張等級不高於Lv.4的機體。將其放回到持有者的手牌中。",
     "zone": "宇宙",
     "trait": "〔三艦同盟〕 〔艦船〕",
     "link": "",
@@ -13360,7 +13360,7 @@
     "cost": "1",
     "color": "White",
     "type": "BASE",
-    "effect": "【爆發】配置此卡牌。\n【配置時】將我方的1張護盾加入手牌。\n【破壞時】若我方戰鬥區中存在〔幽谷〕的共鳴機體，則選擇對方1張HP不高於4的機體。將其轉為休息狀態。",
+    "effect": "【爆發】配置此卡牌。\n【配備時】將我方的1張護盾加入手牌。\n【破壞時】若我方戰鬥區中存在〔幽谷〕的共鳴機體，則選擇對方1張HP不高於4的機體。將其轉為休息狀態。",
     "zone": "宇宙",
     "trait": "〔幽谷〕 〔艦船〕",
     "link": "",
@@ -14022,7 +14022,7 @@
     "package_from": "[GD03] Steel Requiem",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/T-014.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/reto/10055",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/670550/Ad Balloon T 014 Token"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "T-015",
@@ -14235,7 +14235,7 @@
     "cost": "2",
     "color": "Red",
     "type": "UNIT",
-    "effect": "【配置時】選擇友方1張此機體以外且活躍狀態的〔戰團〕機體。將其轉為休息狀態。若那樣做的話，則選擇對方1張AP不高於2的機體。給予其2點傷害。",
+    "effect": "【配備時】選擇友方1張此機體以外且活躍狀態的〔戰團〕機體。將其轉為休息狀態。若那樣做的話，則選擇對方1張AP不高於2的機體。給予其2點傷害。",
     "zone": "宇宙 地球",
     "trait": "〔戰團〕",
     "link": "特徵〔戰團〕",
@@ -14260,7 +14260,7 @@
     "cost": "2",
     "color": "Purple",
     "type": "UNIT",
-    "effect": "【配置時】選擇我方的1張機體和對方的1張機體。給予其1點傷害。",
+    "effect": "【配備時】選擇我方的1張機體和對方的1張機體。給予其1點傷害。",
     "zone": "宇宙 地球",
     "trait": "〔鐵華團〕 〔高達骨架〕",
     "link": "三日月・奧古斯",
@@ -14335,7 +14335,7 @@
     "cost": "5",
     "color": "Blue",
     "type": "UNIT",
-    "effect": "我方的回合中，我方所有〔地球聯邦〕機體的AP+1。\n【配置時】本回合中，當我方的〔地球聯邦〕機體透過戰鬥傷害破壞對方的機體時，選擇對方1張HP不高於5的機體。將其轉為休息狀態。",
+    "effect": "我方的回合中，我方所有〔地球聯邦〕機體的AP+1。\n【配備時】本回合中，當我方的〔地球聯邦〕機體透過戰鬥傷害破壞對方的機體時，選擇對方1張HP不高於5的機體。將其轉為休息狀態。",
     "zone": "宇宙 地球",
     "trait": "〔地球聯邦〕",
     "link": "雷恩・艾姆",
@@ -14360,7 +14360,7 @@
     "cost": "5",
     "color": "Blue",
     "type": "UNIT",
-    "effect": "我方的回合中，我方所有〔地球聯邦〕機體的AP+1。\n【配置時】本回合中，當我方的〔地球聯邦〕機體透過戰鬥傷害破壞對方的機體時，選擇對方1張HP不高於5的機體。將其轉為休息狀態。",
+    "effect": "我方的回合中，我方所有〔地球聯邦〕機體的AP+1。\n【配備時】本回合中，當我方的〔地球聯邦〕機體透過戰鬥傷害破壞對方的機體時，選擇對方1張HP不高於5的機體。將其轉為休息狀態。",
     "zone": "宇宙 地球",
     "trait": "〔地球聯邦〕",
     "link": "雷恩・艾姆",
@@ -14447,7 +14447,7 @@
     "package_from": "[GD04] Phantom Aria",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD04-004.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/gd04/10007",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/689648/Psycho Gundam Mk II"
   },
   {
     "card_id": "GD04-005",
@@ -14485,7 +14485,7 @@
     "cost": "4",
     "color": "Blue",
     "type": "UNIT",
-    "effect": "《突破3》（當透過攻擊破壞對方的機體時，給予該方護盾區最上方的1張卡牌指定數值的傷害）\n【啟動・主要】【每回合1次】將此機體以外的我方1張〔神聖軍事同盟〕轉為休息狀態：選擇對方1張HP不高於4的機體。將其轉為休息狀態。",
+    "effect": "《突破3》（當透過攻擊破壞對方的機體時，給予該方護盾區最上方的1張卡牌指定數值的傷害）\n【起動・主要】【每回合1次】將此機體以外的我方1張〔神聖軍事同盟〕轉為休息狀態：選擇對方1張HP不高於4的機體。將其轉為休息狀態。",
     "zone": "宇宙 地球",
     "trait": "〔神聖軍事同盟〕 〔勝利型〕",
     "link": "胡索・艾溫",
@@ -14510,7 +14510,7 @@
     "cost": "4",
     "color": "Blue",
     "type": "UNIT",
-    "effect": "《突破3》（當透過攻擊破壞對方的機體時，給予該方護盾區最上方的1張卡牌指定數值的傷害）\n【啟動・主要】【每回合1次】將此機體以外的我方1張〔神聖軍事同盟〕轉為休息狀態：選擇對方1張HP不高於4的機體。將其轉為休息狀態。",
+    "effect": "《突破3》（當透過攻擊破壞對方的機體時，給予該方護盾區最上方的1張卡牌指定數值的傷害）\n【起動・主要】【每回合1次】將此機體以外的我方1張〔神聖軍事同盟〕轉為休息狀態：選擇對方1張HP不高於4的機體。將其轉為休息狀態。",
     "zone": "宇宙 地球",
     "trait": "〔神聖軍事同盟〕 〔勝利型〕",
     "link": "胡索・艾溫",
@@ -14760,7 +14760,7 @@
     "cost": "2",
     "color": "Blue",
     "type": "UNIT",
-    "effect": "【配置時】選擇我方1張活躍狀態的〔神聖軍事同盟〕機體和對方1張等級不高於Lv.3的機體。將其轉為休息狀態。",
+    "effect": "【配備時】選擇我方1張活躍狀態的〔神聖軍事同盟〕機體和對方1張等級不高於Lv.3的機體。將其轉為休息狀態。",
     "zone": "宇宙 地球",
     "trait": "〔神聖軍事同盟〕 〔伯勞隊〕",
     "link": "特徵〔伯勞隊〕",
@@ -14847,7 +14847,7 @@
     "package_from": "[GD04] Phantom Aria",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD04-017_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/gd04/10023",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/691957/Zeong LRplus"
   },
   {
     "card_id": "GD04-017_p2",
@@ -15085,7 +15085,7 @@
     "cost": "4",
     "color": "Green",
     "type": "UNIT",
-    "effect": "【配置時】選擇我方1張被〔超兵〕機師搭乘的機體。本回合中，其可以選擇對方活躍狀態且等級不高於Lv.4的機體作為攻擊對象。",
+    "effect": "【配備時】選擇我方1張被〔超兵〕機師搭乘的機體。本回合中，其可以選擇對方活躍狀態且等級不高於Lv.4的機體作為攻擊對象。",
     "zone": "宇宙 地球",
     "trait": "〔CB〕 〔GN動力裝置〕",
     "link": "阿雷路亞・帕普提茲姆 / 哈雷路亞・帕普提茲姆",
@@ -15110,7 +15110,7 @@
     "cost": "5",
     "color": "Green",
     "type": "UNIT",
-    "effect": "【配置時】確認我方卡組最上方的3張卡牌，可以公開其中1張〔學園〕的機體卡牌/1張〔學園〕的指令卡牌並加入手牌。剩餘的卡牌隨機放回卡組最下方。",
+    "effect": "【配備時】確認我方卡組最上方的3張卡牌，可以公開其中1張〔學園〕的機體卡牌/1張〔學園〕的指令卡牌並加入手牌。剩餘的卡牌隨機放回卡組最下方。",
     "zone": "宇宙 地球",
     "trait": "〔學園〕",
     "link": "蘇萊塔・墨丘利",
@@ -15160,7 +15160,7 @@
     "cost": "1",
     "color": "Green",
     "type": "UNIT",
-    "effect": "【配置時】確認我方卡組最上方的1張卡牌，將其放回到卡組最上方或置於我方廢棄區中。",
+    "effect": "【配備時】確認我方卡組最上方的1張卡牌，將其放回到卡組最上方或置於我方廢棄區中。",
     "zone": "地球",
     "trait": "〔吉翁〕",
     "link": "卡爾馬・薩比",
@@ -15172,7 +15172,7 @@
     "package_from": "[GD04] Phantom Aria",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD04-026.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/gd04/10036",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/689669/Garmas Dopp"
   },
   {
     "card_id": "GD04-027",
@@ -15435,7 +15435,7 @@
     "cost": "4",
     "color": "Red",
     "type": "UNIT",
-    "effect": "【配置時】選擇我方的1張〔馬法狄〕機體。本回合中，當其透過戰鬥傷害破壞對方的機體時，若我方的手牌不多於3張，則我方抽取1張卡牌。",
+    "effect": "【配備時】選擇我方的1張〔馬法狄〕機體。本回合中，當其透過戰鬥傷害破壞對方的機體時，若我方的手牌不多於3張，則我方抽取1張卡牌。",
     "zone": "宇宙 地球",
     "trait": "〔馬法狄〕",
     "link": "哈薩威・諾亞",
@@ -15460,7 +15460,7 @@
     "cost": "4",
     "color": "Red",
     "type": "UNIT",
-    "effect": "【配置時】可以選擇我方1~2張此機體以外且活躍狀態的〔CB〕機體。將其轉為休息狀態。若那樣做的話，則給予對方所有等級不高於Lv.6的機體等同於因此效果轉為休息狀態的機體數量的傷害。",
+    "effect": "【配備時】可以選擇我方1~2張此機體以外且活躍狀態的〔CB〕機體。將其轉為休息狀態。若那樣做的話，則給予對方所有等級不高於Lv.6的機體等同於因此效果轉為休息狀態的機體數量的傷害。",
     "zone": "宇宙 地球",
     "trait": "〔CB〕 〔崔尼提〕",
     "link": "特徵〔崔尼提〕",
@@ -15485,7 +15485,7 @@
     "cost": "4",
     "color": "Red",
     "type": "UNIT",
-    "effect": "【配置時】可以選擇我方1~2張此機體以外且活躍狀態的〔CB〕機體。將其轉為休息狀態。若那樣做的話，則給予對方所有等級不高於Lv.6的機體等同於因此效果轉為休息狀態的機體數量的傷害。",
+    "effect": "【配備時】可以選擇我方1~2張此機體以外且活躍狀態的〔CB〕機體。將其轉為休息狀態。若那樣做的話，則給予對方所有等級不高於Lv.6的機體等同於因此效果轉為休息狀態的機體數量的傷害。",
     "zone": "宇宙 地球",
     "trait": "〔CB〕 〔崔尼提〕",
     "link": "特徵〔崔尼提〕",
@@ -15497,7 +15497,7 @@
     "package_from": "[GD04] Phantom Aria",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD04-036_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/gd04/10049",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/691955/Gundam Throne Eins Rplus"
   },
   {
     "card_id": "GD04-037",
@@ -15535,7 +15535,7 @@
     "cost": "2",
     "color": "Red",
     "type": "UNIT",
-    "effect": "【配置時】若對方戰鬥區中存在2張或更多機體，則選擇對方1張等級不高於Lv.2的機體。給予其2點傷害。",
+    "effect": "【配備時】若對方戰鬥區中存在2張或更多機體，則選擇對方1張等級不高於Lv.2的機體。給予其2點傷害。",
     "zone": "宇宙 地球",
     "trait": "〔CB〕 〔GN動力裝置〕",
     "link": "剎那・F・塞耶",
@@ -15560,7 +15560,7 @@
     "cost": "6",
     "color": "Red",
     "type": "UNIT",
-    "effect": "若我方廢棄區中有8張或更多〔新吉翁〕的卡牌，則手牌中的此卡牌費用-4。\n【配置時】選擇對方的1張機體。給予其1點傷害。若其擁有《修復》效果，則改為給予其3點傷害。",
+    "effect": "若我方廢棄區中有8張或更多〔新吉翁〕的卡牌，則手牌中的此卡牌費用-4。\n【配備時】選擇對方的1張機體。給予其1點傷害。若其擁有《修復》效果，則改為給予其3點傷害。",
     "zone": "宇宙 地球",
     "trait": "〔新吉翁〕",
     "link": "安傑羅・梭斐",
@@ -15685,7 +15685,7 @@
     "cost": "2",
     "color": "Red",
     "type": "UNIT",
-    "effect": "【配置時】選擇對方的1張基地。給予其1點傷害。",
+    "effect": "【配備時】選擇對方的1張基地。給予其1點傷害。",
     "zone": "宇宙 地球",
     "trait": "〔新吉翁〕",
     "link": "",
@@ -15760,7 +15760,7 @@
     "cost": "4",
     "color": "Red",
     "type": "UNIT",
-    "effect": "【配置時】可以將此機體轉為休息狀態。若那樣做的話，則選擇對方1張等級不高於Lv.3的機體。給予其2點傷害。",
+    "effect": "【配備時】可以將此機體轉為休息狀態。若那樣做的話，則選擇對方1張等級不高於Lv.3的機體。給予其2點傷害。",
     "zone": "宇宙 地球",
     "trait": "〔CB〕 〔GN動力裝置〕",
     "link": "洛克昂・史特拉托斯",
@@ -15835,7 +15835,7 @@
     "cost": "7",
     "color": "Purple",
     "type": "UNIT",
-    "effect": "《壓制》（透過攻擊對護盾造成的傷害，將被同時分配至最上方的2張）\n【搭乘中】【攻擊時】若正在攻擊對方玩家，則可以選擇我方廢棄區中7張〔禿鷹〕的卡牌。將選擇的卡牌從遊戲中移除。若那樣做的話，則選擇對方1張等級不高於Lv.8的機體/1張等級不高於Lv.8的基地。將其破壞。",
+    "effect": "《制壓》（透過攻擊對護盾造成的傷害，將被同時分配至最上方的2張）\n【搭乘中】【攻擊時】若正在攻擊對方玩家，則可以選擇我方廢棄區中7張〔禿鷹〕的卡牌。將選擇的卡牌從遊戲中移除。若那樣做的話，則選擇對方1張等級不高於Lv.8的機體/1張等級不高於Lv.8的基地。將其破壞。",
     "zone": "宇宙 地球",
     "trait": "〔禿鷹〕",
     "link": "嘉羅德・蘭",
@@ -15860,7 +15860,7 @@
     "cost": "7",
     "color": "Purple",
     "type": "UNIT",
-    "effect": "《壓制》（透過攻擊對護盾造成的傷害，將被同時分配至最上方的2張）\n【搭乘中】【攻擊時】若正在攻擊對方玩家，則可以選擇我方廢棄區中7張〔禿鷹〕的卡牌。將選擇的卡牌從遊戲中移除。若那樣做的話，則選擇對方1張等級不高於Lv.8的機體/1張等級不高於Lv.8的基地。將其破壞。",
+    "effect": "《制壓》（透過攻擊對護盾造成的傷害，將被同時分配至最上方的2張）\n【搭乘中】【攻擊時】若正在攻擊對方玩家，則可以選擇我方廢棄區中7張〔禿鷹〕的卡牌。將選擇的卡牌從遊戲中移除。若那樣做的話，則選擇對方1張等級不高於Lv.8的機體/1張等級不高於Lv.8的基地。將其破壞。",
     "zone": "宇宙 地球",
     "trait": "〔禿鷹〕",
     "link": "嘉羅德・蘭",
@@ -16022,7 +16022,7 @@
     "package_from": "[GD04] Phantom Aria",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD04-053.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/gd04/10070",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/689696/Reys Blaze Zaku Phantom"
   },
   {
     "card_id": "GD04-053_p1",
@@ -16110,7 +16110,7 @@
     "cost": "2",
     "color": "Purple",
     "type": "UNIT",
-    "effect": "【配置時】給予此機體1點傷害。若那樣做的話，則選擇對方1張AP不高於3的機體。將其轉為休息狀態。",
+    "effect": "【配備時】給予此機體1點傷害。若那樣做的話，則選擇對方1張AP不高於3的機體。將其轉為休息狀態。",
     "zone": "宇宙 地球",
     "trait": "〔札夫特〕 〔智慧女神號隊〕",
     "link": "真・飛鳥 / 露娜瑪莉亞・霍克",
@@ -16135,7 +16135,7 @@
     "cost": "3",
     "color": "Purple",
     "type": "UNIT",
-    "effect": "【配置時】選擇對方1張等級不高於Lv.6的機體。本回合中，使其AP-等同於我方廢棄區中卡牌名稱中包含「德天使高達」的機體卡牌的數量的數值。",
+    "effect": "【配備時】選擇對方1張等級不高於Lv.6的機體。本回合中，使其AP-等同於我方廢棄區中卡牌名稱中包含「德天使高達」的機體卡牌的數量的數值。",
     "zone": "宇宙 地球",
     "trait": "〔CB〕 〔GN動力裝置〕",
     "link": "提耶利亞・厄德",
@@ -16210,7 +16210,7 @@
     "cost": "2",
     "color": "Purple",
     "type": "UNIT",
-    "effect": "【配置時】若此機體是從廢棄區中配置的，則我方抽取1張卡牌。",
+    "effect": "【配備時】若此機體是從廢棄區中配置的，則我方抽取1張卡牌。",
     "zone": "地球",
     "trait": "〔禿鷹〕",
     "link": "艾妮爾・愛爾",
@@ -16285,7 +16285,7 @@
     "cost": "2",
     "color": "Purple",
     "type": "UNIT",
-    "effect": "【配置時】選擇對方1張等級不高於Lv.1/1張AP不高於1的機體。將其破壞。",
+    "effect": "【配備時】選擇對方1張等級不高於Lv.1/1張AP不高於1的機體。將其破壞。",
     "zone": "宇宙 地球",
     "trait": "〔CB〕 〔GN動力裝置〕",
     "link": "剎那・F・塞耶",
@@ -16335,7 +16335,7 @@
     "cost": "5",
     "color": "White",
     "type": "UNIT",
-    "effect": "【共鳴中】【啟動・主要】將我方廢棄區中3張藍色的卡牌從遊戲中移除：將此機體轉為活躍狀態，且本回合中，此機體無法選擇對方玩家作為攻擊對象。\n【攻擊時】本回合中，對方所有機體的AP-1。",
+    "effect": "【共鳴中】【起動・主要】將我方廢棄區中3張藍色的卡牌從遊戲中移除：將此機體轉為活躍狀態，且本回合中，此機體無法選擇對方玩家作為攻擊對象。\n【攻擊時】本回合中，對方所有機體的AP-1。",
     "zone": "宇宙 地球",
     "trait": "〔地球聯邦〕",
     "link": "利迪・馬瑟納斯",
@@ -16360,7 +16360,7 @@
     "cost": "5",
     "color": "White",
     "type": "UNIT",
-    "effect": "【共鳴中】【啟動・主要】將我方廢棄區中3張藍色的卡牌從遊戲中移除：將此機體轉為活躍狀態，且本回合中，此機體無法選擇對方玩家作為攻擊對象。\n【攻擊時】本回合中，對方所有機體的AP-1。",
+    "effect": "【共鳴中】【起動・主要】將我方廢棄區中3張藍色的卡牌從遊戲中移除：將此機體轉為活躍狀態，且本回合中，此機體無法選擇對方玩家作為攻擊對象。\n【攻擊時】本回合中，對方所有機體的AP-1。",
     "zone": "宇宙 地球",
     "trait": "〔地球聯邦〕",
     "link": "利迪・馬瑟納斯",
@@ -16372,7 +16372,7 @@
     "package_from": "[GD04] Phantom Aria",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD04-065_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/gd04/10084",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/691968/Unicorn Gundam 02 Banshee Norn Destroy Mode LRplus"
   },
   {
     "card_id": "GD04-066",
@@ -16385,7 +16385,7 @@
     "cost": "5",
     "color": "White",
     "type": "UNIT",
-    "effect": "《壓制》（透過攻擊對護盾造成的傷害，將被同時分配至最上方的2張）\n當我方發動指令的【主要】/【瞬動】效果時，選擇對方的1張機體。本回合中，使其AP-2。",
+    "effect": "《制壓》（透過攻擊對護盾造成的傷害，將被同時分配至最上方的2張）\n當我方發動指令的【主要】/【瞬動】效果時，選擇對方的1張機體。本回合中，使其AP-2。",
     "zone": "宇宙 地球",
     "trait": "〔民間〕",
     "link": "巴納吉・林克斯",
@@ -16410,7 +16410,7 @@
     "cost": "5",
     "color": "White",
     "type": "UNIT",
-    "effect": "《壓制》（透過攻擊對護盾造成的傷害，將被同時分配至最上方的2張）\n當我方發動指令的【主要】/【瞬動】效果時，選擇對方的1張機體。本回合中，使其AP-2。",
+    "effect": "《制壓》（透過攻擊對護盾造成的傷害，將被同時分配至最上方的2張）\n當我方發動指令的【主要】/【瞬動】效果時，選擇對方的1張機體。本回合中，使其AP-2。",
     "zone": "宇宙 地球",
     "trait": "〔民間〕",
     "link": "巴納吉・林克斯",
@@ -16435,7 +16435,7 @@
     "cost": "3",
     "color": "White",
     "type": "UNIT",
-    "effect": "【啟動・主要】【每回合1次】①：選擇廢棄區中1張擁有《修復》/《突破》/《先制攻擊》/《支援》/《高機動》/《壓制》/《阻擋者》的機體卡牌。本回合中，此機體的AP+1，並獲得其擁有的所有《修復》/《突破》/《先制攻擊》/《支援》/《高機動》/《壓制》/《阻擋者》效果。",
+    "effect": "【起動・主要】【每回合1次】①：選擇廢棄區中1張擁有《修復》/《突破》/《先制攻擊》/《援護》/《高機動》/《制壓》/《阻擋者》的機體卡牌。本回合中，此機體的AP+1，並獲得其擁有的所有《修復》/《突破》/《先制攻擊》/《援護》/《高機動》/《制壓》/《阻擋者》效果。",
     "zone": "宇宙 地球",
     "trait": "〔民兵團〕",
     "link": "羅蘭・謝亞克",
@@ -16460,7 +16460,7 @@
     "cost": "3",
     "color": "White",
     "type": "UNIT",
-    "effect": "【啟動・主要】【每回合1次】①：選擇廢棄區中1張擁有《修復》/《突破》/《先制攻擊》/《支援》/《高機動》/《壓制》/《阻擋者》的機體卡牌。本回合中，此機體的AP+1，並獲得其擁有的所有《修復》/《突破》/《先制攻擊》/《支援》/《高機動》/《壓制》/《阻擋者》效果。",
+    "effect": "【起動・主要】【每回合1次】①：選擇廢棄區中1張擁有《修復》/《突破》/《先制攻擊》/《援護》/《高機動》/《制壓》/《阻擋者》的機體卡牌。本回合中，此機體的AP+1，並獲得其擁有的所有《修復》/《突破》/《先制攻擊》/《援護》/《高機動》/《制壓》/《阻擋者》效果。",
     "zone": "宇宙 地球",
     "trait": "〔民兵團〕",
     "link": "羅蘭・謝亞克",
@@ -16522,7 +16522,7 @@
     "package_from": "[GD04] Phantom Aria",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD04-068_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/gd04/10090",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/691967/Silver Bullet Rplus"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "GD04-069",
@@ -16560,7 +16560,7 @@
     "cost": "2",
     "color": "White",
     "type": "UNIT",
-    "effect": "【配置時】可以將我方手牌中1張卡牌名稱中包含「阿里・亞爾・沙瑟斯」的機師卡牌搭乘此機體。",
+    "effect": "【配備時】可以將我方手牌中1張卡牌名稱中包含「阿里・亞爾・沙瑟斯」的機師卡牌搭乘此機體。",
     "zone": "宇宙 地球",
     "trait": "〔超大國群〕",
     "link": "阿里・亞爾・沙瑟斯",
@@ -16585,7 +16585,7 @@
     "cost": "3",
     "color": "White",
     "type": "UNIT",
-    "effect": "【爆發】若對方戰鬥區中存在〔CB〕的機體，則此卡牌加入手牌。\n【啟動・主要】選擇我方廢棄區中1張〔超大國群〕的卡牌和我方廢棄區中1張〔國聯〕的卡牌。將選擇的卡牌從遊戲中移除。若那樣做的話，則將此機體轉為活躍狀態，且本回合中，此機體無法攻擊。",
+    "effect": "【爆發】若對方戰鬥區中存在〔CB〕的機體，則此卡牌加入手牌。\n【起動・主要】選擇我方廢棄區中1張〔超大國群〕的卡牌和我方廢棄區中1張〔國聯〕的卡牌。將選擇的卡牌從遊戲中移除。若那樣做的話，則將此機體轉為活躍狀態，且本回合中，此機體無法攻擊。",
     "zone": "宇宙 地球",
     "trait": "〔國聯〕",
     "link": "葛拉漢・耶卡",
@@ -16597,7 +16597,7 @@
     "package_from": "[GD04] Phantom Aria",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD04-071.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/gd04/10093",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/689713/Grahams Union Flag Custom II GN Flag"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "GD04-071_p1",
@@ -16610,7 +16610,7 @@
     "cost": "3",
     "color": "White",
     "type": "UNIT",
-    "effect": "【爆發】若對方戰鬥區中存在〔CB〕的機體，則此卡牌加入手牌。\n【啟動・主要】選擇我方廢棄區中1張〔超大國群〕的卡牌和我方廢棄區中1張〔國聯〕的卡牌。將選擇的卡牌從遊戲中移除。若那樣做的話，則將此機體轉為活躍狀態，且本回合中，此機體無法攻擊。",
+    "effect": "【爆發】若對方戰鬥區中存在〔CB〕的機體，則此卡牌加入手牌。\n【起動・主要】選擇我方廢棄區中1張〔超大國群〕的卡牌和我方廢棄區中1張〔國聯〕的卡牌。將選擇的卡牌從遊戲中移除。若那樣做的話，則將此機體轉為活躍狀態，且本回合中，此機體無法攻擊。",
     "zone": "宇宙 地球",
     "trait": "〔國聯〕",
     "link": "葛拉漢・耶卡",
@@ -16660,7 +16660,7 @@
     "cost": "2",
     "color": "White",
     "type": "UNIT",
-    "effect": "【啟動・主要】【每回合1次】①：本回合中，此機體的AP+2。",
+    "effect": "【起動・主要】【每回合1次】①：本回合中，此機體的AP+2。",
     "zone": "宇宙 地球",
     "trait": "〔民兵團〕",
     "link": "特徵〔民兵團〕 / 特徵〔月之民〕",
@@ -16747,7 +16747,7 @@
     "package_from": "[GD04] Phantom Aria",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD04-076.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/gd04/10099",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/689718/Hipheavy"
   },
   {
     "card_id": "GD04-077",
@@ -16872,7 +16872,7 @@
     "package_from": "[GD04] Phantom Aria",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD04-081.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/gd04/10104",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/689723/Uso Ewin"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "GD04-081_p1",
@@ -17110,7 +17110,7 @@
     "cost": "1",
     "color": "Red",
     "type": "PILOT",
-    "effect": "【爆發】此卡牌加入手牌。\n【啟動・主要】《支援2》（可轉為休息狀態，且本回合中，使另1張友方機體的AP+指定數值）",
+    "effect": "【爆發】此卡牌加入手牌。\n【起動・主要】《援護2》（可轉為休息狀態，且本回合中，使另1張友方機體的AP+指定數值）",
     "zone": "-",
     "trait": "〔CB〕 〔崔尼提〕",
     "link": "",
@@ -17135,7 +17135,7 @@
     "cost": "1",
     "color": "Red",
     "type": "PILOT",
-    "effect": "【爆發】此卡牌加入手牌。\n【啟動・主要】《支援2》（可轉為休息狀態，且本回合中，使另1張友方機體的AP+指定數值）",
+    "effect": "【爆發】此卡牌加入手牌。\n【起動・主要】《援護2》（可轉為休息狀態，且本回合中，使另1張友方機體的AP+指定數值）",
     "zone": "-",
     "trait": "〔CB〕 〔崔尼提〕",
     "link": "",
@@ -17272,7 +17272,7 @@
     "package_from": "[GD04] Phantom Aria",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD04-093_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/gd04/10120",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/691951/Rey Za Burrel Rplus"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "GD04-094",
@@ -17285,7 +17285,7 @@
     "cost": "1",
     "color": "Purple",
     "type": "PILOT",
-    "effect": "【爆發】此卡牌加入手牌。\n【共鳴時】選擇我方廢棄區中1張擁有《壓制》效果的紫色的機體卡牌。將其加入手牌。將其加入手牌。",
+    "effect": "【爆發】此卡牌加入手牌。\n【共鳴時】選擇我方廢棄區中1張擁有《制壓》效果的紫色的機體卡牌。將其加入手牌。將其加入手牌。",
     "zone": "-",
     "trait": "〔墮落〕 〔禿鷹〕",
     "link": "",
@@ -17597,7 +17597,7 @@
     "package_from": "[GD04] Phantom Aria",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD04-103.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/gd04/10133",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/689745/Spiritual Support"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "GD04-104",
@@ -17722,7 +17722,7 @@
     "package_from": "[GD04] Phantom Aria",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD04-107.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/gd04/10138",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/689749/Destined Battle"
   },
   {
     "card_id": "GD04-108",
@@ -17822,7 +17822,7 @@
     "package_from": "[GD04] Phantom Aria",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD04-110_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/gd04/10142",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/691961/Financier Uplus"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "GD04-111",
@@ -18135,7 +18135,7 @@
     "cost": "1",
     "color": "Blue",
     "type": "BASE",
-    "effect": "【爆發】配置此卡牌。\n【配置時】將我方的1張護盾加入手牌。【配置時】將我方的1張護盾加入手牌。此後，在我方的回合，若友方戰鬥區中存在〔神聖軍事同盟〕的機體，則配置1張「零件」（〔神聖軍事同盟〕・AP1・HP1・此機體無法選擇對方玩家作為攻擊對象）的機體替代卡。",
+    "effect": "【爆發】配置此卡牌。\n【配備時】將我方的1張護盾加入手牌。【配備時】將我方的1張護盾加入手牌。此後，在我方的回合，若友方戰鬥區中存在〔神聖軍事同盟〕的機體，則配置1張「零件」（〔神聖軍事同盟〕・AP1・HP1・此機體無法選擇對方玩家作為攻擊對象）的機體替代卡。",
     "zone": "宇宙 地球",
     "trait": "〔神聖軍事同盟〕 〔艦船〕",
     "link": "",
@@ -18160,7 +18160,7 @@
     "cost": "1",
     "color": "Blue",
     "type": "BASE",
-    "effect": "【爆發】配置此卡牌。\n【配置時】將我方的1張護盾加入手牌。\n【啟動・主要】【每回合1次】將我方1張〔地球聯邦〕的機體轉為休息狀態：選擇對方1張等級不高於Lv.3的機體。將其轉為休息狀態。",
+    "effect": "【爆發】配置此卡牌。\n【配備時】將我方的1張護盾加入手牌。\n【起動・主要】【每回合1次】將我方1張〔地球聯邦〕的機體轉為休息狀態：選擇對方1張等級不高於Lv.3的機體。將其轉為休息狀態。",
     "zone": "地球",
     "trait": "〔地球聯邦〕 〔據點〕",
     "link": "",
@@ -18185,7 +18185,7 @@
     "cost": "1",
     "color": "Green",
     "type": "BASE",
-    "effect": "【爆發】配置此卡牌。\n【配置時】將我方的1張護盾加入手牌。\n我方戰鬥區中存在休息狀態的〔吉翁〕機體期間，此基地不會受到來自對方等級不高於Lv.4的機體的戰鬥傷害。",
+    "effect": "【爆發】配置此卡牌。\n【配備時】將我方的1張護盾加入手牌。\n我方戰鬥區中存在休息狀態的〔吉翁〕機體期間，此基地不會受到來自對方等級不高於Lv.4的機體的戰鬥傷害。",
     "zone": "宇宙",
     "trait": "〔吉翁〕 〔據點〕",
     "link": "",
@@ -18210,7 +18210,7 @@
     "cost": "1",
     "color": "Green",
     "type": "BASE",
-    "effect": "【爆發】配置此卡牌。\n【配置時】將我方的1張護盾加入手牌。\n當我方放置EX能源時，選擇友方1張〔學園〕的機體。本回合中，使其AP+2。",
+    "effect": "【爆發】配置此卡牌。\n【配備時】將我方的1張護盾加入手牌。\n當我方放置EX能源時，選擇友方1張〔學園〕的機體。本回合中，使其AP+2。",
     "zone": "宇宙",
     "trait": "〔學園〕 〔據點〕",
     "link": "",
@@ -18235,7 +18235,7 @@
     "cost": "1",
     "color": "Red",
     "type": "BASE",
-    "effect": "【爆發】配置此卡牌。\n【配置時】將我方的1張護盾加入手牌。\n【啟動・主要】【每回合1次】①,將友方1張〔CB〕的機體轉為休息狀態：選擇對方1張等級不高於Lv.5的機體。給予其1點傷害。",
+    "effect": "【爆發】配置此卡牌。\n【配備時】將我方的1張護盾加入手牌。\n【起動・主要】【每回合1次】①,將友方1張〔CB〕的機體轉為休息狀態：選擇對方1張等級不高於Lv.5的機體。給予其1點傷害。",
     "zone": "宇宙",
     "trait": "〔CB〕 〔艦船〕",
     "link": "",
@@ -18260,7 +18260,7 @@
     "cost": "1",
     "color": "Red",
     "type": "BASE",
-    "effect": "【爆發】配置此卡牌。\n【配置時】將我方的1張護盾加入手牌。\n當此基地受到來自對方AP不高於3的機體的戰鬥傷害時，給予該機體1點傷害。",
+    "effect": "【爆發】配置此卡牌。\n【配備時】將我方的1張護盾加入手牌。\n當此基地受到來自對方AP不高於3的機體的戰鬥傷害時，給予該機體1點傷害。",
     "zone": "宇宙",
     "trait": "〔戰團〕 〔據點〕",
     "link": "",
@@ -18285,7 +18285,7 @@
     "cost": "1",
     "color": "Purple",
     "type": "BASE",
-    "effect": "【爆發】配置此卡牌。\n【配置時】將我方的1張護盾加入手牌。此後，若我方廢棄區中有7張或更多〔禿鷹〕的卡牌，則選擇對方1張AP不高於2的機體。將其破壞。",
+    "effect": "【爆發】配置此卡牌。\n【配備時】將我方的1張護盾加入手牌。此後，若我方廢棄區中有7張或更多〔禿鷹〕的卡牌，則選擇對方1張AP不高於2的機體。將其破壞。",
     "zone": "宇宙",
     "trait": "〔禿鷹〕 〔艦船〕",
     "link": "",
@@ -18310,7 +18310,7 @@
     "cost": "1",
     "color": "Purple",
     "type": "BASE",
-    "effect": "【爆發】配置此卡牌。\n【配置時】將我方的1張護盾加入手牌。\n【破壞時】所有玩家抽取1張卡牌。",
+    "effect": "【爆發】配置此卡牌。\n【配備時】將我方的1張護盾加入手牌。\n【破壞時】所有玩家抽取1張卡牌。",
     "zone": "宇宙",
     "trait": "〔札夫特〕 〔據點〕",
     "link": "",
@@ -18335,7 +18335,7 @@
     "cost": "1",
     "color": "White",
     "type": "BASE",
-    "effect": "【爆發】配置此卡牌。\n【配置時】將我方的1張護盾加入手牌。此後，給予此基地3點傷害。\n【每回合1次】我方的回合中，當因友方機體的效果支付①或更多費用時，此基地回復2點。",
+    "effect": "【爆發】配置此卡牌。\n【配備時】將我方的1張護盾加入手牌。此後，給予此基地3點傷害。\n【每回合1次】我方的回合中，當因友方機體的效果支付①或更多費用時，此基地回復2點。",
     "zone": "宇宙 地球",
     "trait": "〔民兵團〕 〔艦船〕",
     "link": "",
@@ -18360,7 +18360,7 @@
     "cost": "1",
     "color": "White",
     "type": "BASE",
-    "effect": "【爆發】配置此卡牌。\n【配置時】將我方的1張護盾加入手牌。\n【啟動・主要】【每回合1次】將我方廢棄區中1張指令卡牌從遊戲中移除：選擇對方的1張機體。本回合中，使其AP-1。",
+    "effect": "【爆發】配置此卡牌。\n【配備時】將我方的1張護盾加入手牌。\n【起動・主要】【每回合1次】將我方廢棄區中1張指令卡牌從遊戲中移除：選擇對方的1張機體。本回合中，使其AP-1。",
     "zone": "宇宙",
     "trait": "〔民間〕 〔據點〕",
     "link": "",
@@ -18722,7 +18722,7 @@
     "package_from": "[GD04] Phantom Aria",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/R-037_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/reto/10106",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/689793/Resource R 037 Cplus"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "R-038",
@@ -18847,7 +18847,7 @@
     "package_from": "[GD04] Phantom Aria",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/R-039_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/reto/10111",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/689795/Resource R 039 Cplus"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "R-040",
@@ -19260,7 +19260,7 @@
     "cost": "4",
     "color": "Blue",
     "type": "UNIT",
-    "effect": "《修復2》（當我方的回合結束時，此機體回復指定數值）\n【啟動・主要】【每回合1次】將我方2張機體轉為休息狀態：將此機體轉為活躍狀態。",
+    "effect": "《修復2》（當我方的回合結束時，此機體回復指定數值）\n【起動・主要】【每回合1次】將我方2張機體轉為休息狀態：將此機體轉為活躍狀態。",
     "zone": "宇宙 地球",
     "trait": "〔神聖軍事同盟〕 〔勝利型〕",
     "link": "胡索・艾溫",
@@ -19285,7 +19285,7 @@
     "cost": "4",
     "color": "Blue",
     "type": "UNIT",
-    "effect": "《修復2》\n【啟動・主要】【每回合1次】將我方2張機體轉為休息狀態：將此機體轉為活躍狀態。",
+    "effect": "《修復2》\n【起動・主要】【每回合1次】將我方2張機體轉為休息狀態：將此機體轉為活躍狀態。",
     "zone": "宇宙 地球",
     "trait": "〔神聖軍事同盟〕 〔勝利型〕",
     "link": "胡索・艾溫",
@@ -19297,7 +19297,7 @@
     "package_from": "[GD05] Freedom Ascension",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD05-001_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/gd05/10002",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/707541/V2 Gundam LRplus"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "GD05-002",
@@ -19310,7 +19310,7 @@
     "cost": "6",
     "color": "Blue",
     "type": "UNIT",
-    "effect": "【配置時】選擇我方的1~2張機體。本回合中，當選擇的機體透過戰鬥傷害破壞對方的卡牌時，我方抽取1張卡牌。\n【搭乘中】【攻擊時】可以丟棄我方的2張手牌。若那樣做的話，則選擇對方1張等級最低的機體。將其放回到其持有者的卡組最下方。",
+    "effect": "【配備時】選擇我方的1~2張機體。本回合中，當選擇的機體透過戰鬥傷害破壞對方的卡牌時，我方抽取1張卡牌。\n【搭乘中】【攻擊時】可以丟棄我方的2張手牌。若那樣做的話，則選擇對方1張等級最低的機體。將其放回到其持有者的卡組最下方。",
     "zone": "宇宙 地球",
     "trait": "〔歐普〕",
     "link": "基拉・大和",
@@ -19335,7 +19335,7 @@
     "cost": "6",
     "color": "Blue",
     "type": "UNIT",
-    "effect": "【配置時】選擇我方的1~2張機體。本回合中，當選擇的機體透過戰鬥傷害破壞對方的卡牌時，我方抽取1張卡牌。\n【搭乘中】【攻擊時】可以丟棄我方的2張手牌。若那樣做的話，則選擇對方1張等級最低的機體。將其放回到其持有者的卡組最下方。",
+    "effect": "【配備時】選擇我方的1~2張機體。本回合中，當選擇的機體透過戰鬥傷害破壞對方的卡牌時，我方抽取1張卡牌。\n【搭乘中】【攻擊時】可以丟棄我方的2張手牌。若那樣做的話，則選擇對方1張等級最低的機體。將其放回到其持有者的卡組最下方。",
     "zone": "宇宙 地球",
     "trait": "〔歐普〕",
     "link": "基拉・大和",
@@ -19360,7 +19360,7 @@
     "cost": "6",
     "color": "Blue",
     "type": "UNIT",
-    "effect": "【配置時】選擇我方的1~2張機體。本回合中，當選擇的機體透過戰鬥傷害破壞對方的卡牌時，我方抽取1張卡牌。\n【搭乘中】【攻擊時】可以丟棄我方的2張手牌。若那樣做的話，則選擇對方1張等級最低的機體。將其放回到其持有者的卡組最下方。",
+    "effect": "【配備時】選擇我方的1~2張機體。本回合中，當選擇的機體透過戰鬥傷害破壞對方的卡牌時，我方抽取1張卡牌。\n【搭乘中】【攻擊時】可以丟棄我方的2張手牌。若那樣做的話，則選擇對方1張等級最低的機體。將其放回到其持有者的卡組最下方。",
     "zone": "宇宙 地球",
     "trait": "〔歐普〕",
     "link": "基拉・大和",
@@ -19447,7 +19447,7 @@
     "package_from": "[GD05] Freedom Ascension",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD05-004.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/gd05/10008",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/705540/Akatsuki Oowashi"
   },
   {
     "card_id": "GD05-004_p1",
@@ -19685,7 +19685,7 @@
     "cost": "4",
     "color": "Blue",
     "type": "UNIT",
-    "effect": "【配置時】可以選擇我方1張此機體以外且活躍狀態的〔地球聯合〕機體。將其轉為休息狀態。若那樣做的話，則選擇對方1張休息狀態的機體。給予其2點傷害。",
+    "effect": "【配備時】可以選擇我方1張此機體以外且活躍狀態的〔地球聯合〕機體。將其轉為休息狀態。若那樣做的話，則選擇對方1張休息狀態的機體。給予其2點傷害。",
     "zone": "宇宙 地球",
     "trait": "〔地球聯合〕",
     "link": "特徵〔生體CPU〕",
@@ -19785,7 +19785,7 @@
     "cost": "1",
     "color": "Blue",
     "type": "UNIT",
-    "effect": "【配置時】選擇對方1張休息狀態的機體。給予其1點傷害。",
+    "effect": "【配備時】選擇對方1張休息狀態的機體。給予其1點傷害。",
     "zone": "宇宙 地球",
     "trait": "〔歐普〕",
     "link": "",
@@ -19797,7 +19797,7 @@
     "package_from": "[GD05] Freedom Ascension",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD05-015.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/gd05/10022",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/705551/M1 Astray Shrike"
   },
   {
     "card_id": "GD05-016",
@@ -19910,7 +19910,7 @@
     "cost": "7",
     "color": "Green",
     "type": "UNIT",
-    "effect": "當我方的EX能源從遊戲中被移除時，可以選擇我方的1張機體。本回合中，當其受到來自對方的傷害時，該傷害減輕3點。\n【配置時】我方放置3張EX能源。",
+    "effect": "當我方的EX能源從遊戲中被移除時，可以選擇我方的1張機體。本回合中，當其受到來自對方的傷害時，該傷害減輕3點。\n【配備時】我方放置3張EX能源。",
     "zone": "宇宙 地球",
     "trait": "〔學園〕",
     "link": "蘇萊塔・墨丘利",
@@ -19935,7 +19935,7 @@
     "cost": "7",
     "color": "Green",
     "type": "UNIT",
-    "effect": "當我方的EX能源從遊戲中被移除時，可以選擇我方的1張機體。本回合中，當其受到來自對方的傷害時，該傷害減輕3點。\n【配置時】我方放置3張EX能源。",
+    "effect": "當我方的EX能源從遊戲中被移除時，可以選擇我方的1張機體。本回合中，當其受到來自對方的傷害時，該傷害減輕3點。\n【配備時】我方放置3張EX能源。",
     "zone": "宇宙 地球",
     "trait": "〔學園〕",
     "link": "蘇萊塔・墨丘利",
@@ -19985,7 +19985,7 @@
     "cost": "4",
     "color": "Green",
     "type": "UNIT",
-    "effect": "【搭乘中】此機體獲得《突破3》效果。\n（我方的回合中，當此機體透過戰鬥傷害破壞對方的機體時，給予該方護盾區最前方的1張卡牌指定數值的傷害）\n【配置時】若我方廢棄區中有2張或更多〔隆德・貝爾〕的卡牌，則我方放置1張EX能源。",
+    "effect": "【搭乘中】此機體獲得《突破3》效果。\n（我方的回合中，當此機體透過戰鬥傷害破壞對方的機體時，給予該方護盾區最前方的1張卡牌指定數值的傷害）\n【配備時】若我方廢棄區中有2張或更多〔隆德・貝爾〕的卡牌，則我方放置1張EX能源。",
     "zone": "宇宙 地球",
     "trait": "〔地球聯邦〕 〔隆德・貝爾〕",
     "link": "阿姆羅・雷",
@@ -20010,7 +20010,7 @@
     "cost": "4",
     "color": "Green",
     "type": "UNIT",
-    "effect": "【搭乘中】此機體獲得《突破3》效果。\n（我方的回合中，當此機體透過戰鬥傷害破壞對方的機體時，給予該方護盾區最前方的1張卡牌指定數值的傷害）\n【配置時】若我方廢棄區中有2張或更多〔隆德・貝爾〕的卡牌，則我方放置1張EX能源。",
+    "effect": "【搭乘中】此機體獲得《突破3》效果。\n（我方的回合中，當此機體透過戰鬥傷害破壞對方的機體時，給予該方護盾區最前方的1張卡牌指定數值的傷害）\n【配備時】若我方廢棄區中有2張或更多〔隆德・貝爾〕的卡牌，則我方放置1張EX能源。",
     "zone": "宇宙 地球",
     "trait": "〔地球聯邦〕 〔隆德・貝爾〕",
     "link": "阿姆羅・雷",
@@ -20035,7 +20035,7 @@
     "cost": "5",
     "color": "Green",
     "type": "UNIT",
-    "effect": "【啟動・瞬動】【每回合1次】①：本次戰鬥中，此機體的AP+4。\n【每回合1次】若我方戰鬥區中存在〔地球聯邦〕的機師，則當此機體受到來自對方的傷害時，該傷害減輕2點。",
+    "effect": "【起動・瞬動】【每回合1次】①：本次戰鬥中，此機體的AP+4。\n【每回合1次】若我方戰鬥區中存在〔地球聯邦〕的機師，則當此機體受到來自對方的傷害時，該傷害減輕2點。",
     "zone": "宇宙 地球",
     "trait": "〔地球聯邦〕 〔AGE系統〕",
     "link": "阿瑟姆・明日野",
@@ -20047,7 +20047,7 @@
     "package_from": "[GD05] Freedom Ascension",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD05-021.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/gd05/10032",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/705557/Gundam AGE 2 Double Bullet"
   },
   {
     "card_id": "GD05-021_p1",
@@ -20060,7 +20060,7 @@
     "cost": "5",
     "color": "Green",
     "type": "UNIT",
-    "effect": "【啟動・瞬動】【每回合1次】①：本次戰鬥中，此機體的AP+4。\n【每回合1次】若我方戰鬥區中存在〔地球聯邦〕的機師，則當此機體受到來自對方的傷害時，該傷害減輕2點。",
+    "effect": "【起動・瞬動】【每回合1次】①：本次戰鬥中，此機體的AP+4。\n【每回合1次】若我方戰鬥區中存在〔地球聯邦〕的機師，則當此機體受到來自對方的傷害時，該傷害減輕2點。",
     "zone": "宇宙 地球",
     "trait": "〔地球聯邦〕 〔AGE系統〕",
     "link": "阿瑟姆・明日野",
@@ -20085,7 +20085,7 @@
     "cost": "5",
     "color": "Green",
     "type": "UNIT",
-    "effect": "《突破3》（我方的回合中，當此機體透過戰鬥傷害破壞對方的機體時，給予該方護盾區最前方的1張卡牌指定數值的傷害）\n【啟動・瞬動】將我方廢棄區中2張指令卡牌從遊戲中移除：本次戰鬥中，當此機體受到來自對方的傷害時，該傷害減輕2點。",
+    "effect": "《突破3》（我方的回合中，當此機體透過戰鬥傷害破壞對方的機體時，給予該方護盾區最前方的1張卡牌指定數值的傷害）\n【起動・瞬動】將我方廢棄區中2張指令卡牌從遊戲中移除：本次戰鬥中，當此機體受到來自對方的傷害時，該傷害減輕2點。",
     "zone": "宇宙 地球",
     "trait": "〔學園〕",
     "link": "特徵〔學園〕",
@@ -20110,7 +20110,7 @@
     "cost": "3",
     "color": "Green",
     "type": "UNIT",
-    "effect": "【配置時】我方放置1張EX能源。",
+    "effect": "【配備時】我方放置1張EX能源。",
     "zone": "宇宙 地球",
     "trait": "〔地球聯邦〕 〔隆德・貝爾〕",
     "link": "特徵〔隆德・貝爾〕 / 阿姆羅・雷",
@@ -20160,7 +20160,7 @@
     "cost": "2",
     "color": "Green",
     "type": "UNIT",
-    "effect": "【配置時】確認我方卡組最上方的3張卡牌，可以公開其中1張指令卡牌並加入手牌。剩餘的卡牌隨機放回卡組最下方。",
+    "effect": "【配備時】確認我方卡組最上方的3張卡牌，可以公開其中1張指令卡牌並加入手牌。剩餘的卡牌隨機放回卡組最下方。",
     "zone": "宇宙 地球",
     "trait": "〔學園〕",
     "link": "雀丘利・潘蘭杞",
@@ -20185,7 +20185,7 @@
     "cost": "2",
     "color": "Green",
     "type": "UNIT",
-    "effect": "【配置時】確認我方卡組最上方的3張卡牌，可以公開其中1張指令卡牌並加入手牌。剩餘的卡牌隨機放回卡組最下方。",
+    "effect": "【配備時】確認我方卡組最上方的3張卡牌，可以公開其中1張指令卡牌並加入手牌。剩餘的卡牌隨機放回卡組最下方。",
     "zone": "宇宙 地球",
     "trait": "〔學園〕",
     "link": "雀丘利・潘蘭杞",
@@ -20260,7 +20260,7 @@
     "cost": "2",
     "color": "Green",
     "type": "UNIT",
-    "effect": "【配置時】選擇我方的1張〔隆德・貝爾〕機體。本回合中，其可以選擇對方活躍狀態且AP不高於4的機體作為攻擊對象。",
+    "effect": "【配備時】選擇我方的1張〔隆德・貝爾〕機體。本回合中，其可以選擇對方活躍狀態且AP不高於4的機體作為攻擊對象。",
     "zone": "宇宙 地球",
     "trait": "〔地球聯邦〕 〔隆德・貝爾〕",
     "link": "凱拉・蘇",
@@ -20285,7 +20285,7 @@
     "cost": "2",
     "color": "Green",
     "type": "UNIT",
-    "effect": "【配置時】確認我方卡組最上方的1張卡牌，將其放回到卡組最上方或最下方。",
+    "effect": "【配備時】確認我方卡組最上方的1張卡牌，將其放回到卡組最上方或最下方。",
     "zone": "宇宙 地球",
     "trait": "〔地球聯邦〕 〔隆德・貝爾〕",
     "link": "凱拉・蘇",
@@ -20310,7 +20310,7 @@
     "cost": "2",
     "color": "Green",
     "type": "UNIT",
-    "effect": "【配置時】確認我方卡組最上方的1張卡牌，將其放回到卡組最上方或最下方。",
+    "effect": "【配備時】確認我方卡組最上方的1張卡牌，將其放回到卡組最上方或最下方。",
     "zone": "宇宙 地球",
     "trait": "〔地球聯邦〕 〔隆德・貝爾〕",
     "link": "凱拉・蘇",
@@ -20347,7 +20347,7 @@
     "package_from": "[GD05] Freedom Ascension",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD05-030.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/gd05/10044",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/705566/Michaelis"
   },
   {
     "card_id": "GD05-031",
@@ -20372,7 +20372,7 @@
     "package_from": "[GD05] Freedom Ascension",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD05-031.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/gd05/10045",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/705567/Guels Dilanza"
   },
   {
     "card_id": "GD05-032",
@@ -20685,7 +20685,7 @@
     "cost": "5",
     "color": "Red",
     "type": "UNIT",
-    "effect": "【共鳴中】此機體獲得《壓制》效果。\n（透過攻擊對護盾造成的傷害，將被同時分配至最前方的2張）\n【啟動・主要】【每回合1次】將我方3張〔CB〕的機體轉為休息狀態：選擇對方的1張機體。給予其4點傷害。",
+    "effect": "【共鳴中】此機體獲得《制壓》效果。\n（透過攻擊對護盾造成的傷害，將被同時分配至最前方的2張）\n【起動・主要】【每回合1次】將我方3張〔CB〕的機體轉為休息狀態：選擇對方的1張機體。給予其4點傷害。",
     "zone": "宇宙 地球",
     "trait": "〔CB〕 〔崔尼提〕",
     "link": "特徵〔崔尼提〕",
@@ -20735,7 +20735,7 @@
     "cost": "2",
     "color": "Red",
     "type": "UNIT",
-    "effect": "【啟動・主要】《支援2》（可轉為休息狀態，且本回合中，使另1張友方機體的AP+指定數值）",
+    "effect": "【起動・主要】《援護2》（可轉為休息狀態，且本回合中，使另1張友方機體的AP+指定數值）",
     "zone": "宇宙 地球",
     "trait": "〔地球聯合〕 〔幻痛〕",
     "link": "奧爾・尼達",
@@ -21010,7 +21010,7 @@
     "cost": "5",
     "color": "Purple",
     "type": "UNIT",
-    "effect": "《壓制》（透過攻擊對護盾造成的傷害，將被同時分配至最前方的2張）\n【攻擊時】可以選擇我方的1張機體。將其破壞。若那樣做的話，則所有對方玩家分別選擇自己1張沒有在戰鬥中的機體。將其破壞。",
+    "effect": "《制壓》（透過攻擊對護盾造成的傷害，將被同時分配至最前方的2張）\n【攻擊時】可以選擇我方的1張機體。將其破壞。若那樣做的話，則所有對方玩家分別選擇自己1張沒有在戰鬥中的機體。將其破壞。",
     "zone": "宇宙 地球",
     "trait": "〔新吉翁〕",
     "link": "夏亞・阿茲那布爾",
@@ -21035,7 +21035,7 @@
     "cost": "5",
     "color": "Purple",
     "type": "UNIT",
-    "effect": "《壓制》（透過攻擊對護盾造成的傷害，將被同時分配至最前方的2張）\n【攻擊時】可以選擇我方的1張機體。將其破壞。若那樣做的話，則所有對方玩家分別選擇自己1張沒有在戰鬥中的機體。將其破壞。",
+    "effect": "《制壓》（透過攻擊對護盾造成的傷害，將被同時分配至最前方的2張）\n【攻擊時】可以選擇我方的1張機體。將其破壞。若那樣做的話，則所有對方玩家分別選擇自己1張沒有在戰鬥中的機體。將其破壞。",
     "zone": "宇宙 地球",
     "trait": "〔新吉翁〕",
     "link": "夏亞・阿茲那布爾",
@@ -21060,7 +21060,7 @@
     "cost": "5",
     "color": "Purple",
     "type": "UNIT",
-    "effect": "《壓制》（透過攻擊對護盾造成的傷害，將被同時分配至最前方的2張）\n【攻擊時】可以選擇我方的1張機體。將其破壞。若那樣做的話，則所有對方玩家分別選擇自己1張沒有在戰鬥中的機體。將其破壞。",
+    "effect": "《制壓》（透過攻擊對護盾造成的傷害，將被同時分配至最前方的2張）\n【攻擊時】可以選擇我方的1張機體。將其破壞。若那樣做的話，則所有對方玩家分別選擇自己1張沒有在戰鬥中的機體。將其破壞。",
     "zone": "宇宙 地球",
     "trait": "〔新吉翁〕",
     "link": "夏亞・阿茲那布爾",
@@ -21072,7 +21072,7 @@
     "package_from": "[GD05] Freedom Ascension",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD05-049_p2.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/gd05/10073",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/707603/Sazabi LRplusplus"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "GD05-050",
@@ -21385,7 +21385,7 @@
     "cost": "3",
     "color": "Purple",
     "type": "UNIT",
-    "effect": "【啟動・主要】【每回合1次】選擇我方1張此機體以外的機體。將其破壞。若那樣做的話，則將此機體轉為活躍狀態，且本回合中，此機體無法選擇對方玩家作為攻擊對象。",
+    "effect": "【起動・主要】【每回合1次】選擇我方1張此機體以外的機體。將其破壞。若那樣做的話，則將此機體轉為活躍狀態，且本回合中，此機體無法選擇對方玩家作為攻擊對象。",
     "zone": "宇宙 地球",
     "trait": "〔新吉翁〕",
     "link": "裘尼・韓斯",
@@ -21485,7 +21485,7 @@
     "cost": "4",
     "color": "Purple",
     "type": "UNIT",
-    "effect": "【配置時】/【攻擊時】選擇對方1張等級不高於Lv.2的機體。將其破壞。",
+    "effect": "【配備時】/【攻擊時】選擇對方1張等級不高於Lv.2的機體。將其破壞。",
     "zone": "宇宙 地球",
     "trait": "〔鐵華團〕 〔高達骨架〕",
     "link": "特徵〔鐵華團〕",
@@ -21585,7 +21585,7 @@
     "cost": "3",
     "color": "Purple",
     "type": "UNIT",
-    "effect": "【配置時】若此機體是從廢棄區中配置的，則選擇我方廢棄區中1張卡牌名稱中包含「真・飛鳥」的機師卡牌。將其加入手牌。",
+    "effect": "【配備時】若此機體是從廢棄區中配置的，則選擇我方廢棄區中1張卡牌名稱中包含「真・飛鳥」的機師卡牌。將其加入手牌。",
     "zone": "宇宙 地球",
     "trait": "〔札夫特〕 〔智慧女神號隊〕",
     "link": "露娜瑪莉亞・霍克",
@@ -21610,7 +21610,7 @@
     "cost": "3",
     "color": "Purple",
     "type": "UNIT",
-    "effect": "【配置時】若此機體是從廢棄區中配置的，則選擇我方廢棄區中1張卡牌名稱中包含「真・飛鳥」的機師卡牌。將其加入手牌。",
+    "effect": "【配備時】若此機體是從廢棄區中配置的，則選擇我方廢棄區中1張卡牌名稱中包含「真・飛鳥」的機師卡牌。將其加入手牌。",
     "zone": "宇宙 地球",
     "trait": "〔札夫特〕 〔智慧女神號隊〕",
     "link": "露娜瑪莉亞・霍克",
@@ -21660,7 +21660,7 @@
     "cost": "3",
     "color": "White",
     "type": "UNIT",
-    "effect": "【配置時】可以選擇我方廢棄區中2張〔MF〕的機體卡牌。將選擇的卡牌從遊戲中移除。若那樣做的話，則選擇我方廢棄區中1張〔必殺技〕的指令卡牌。將其加入手牌。\n【攻擊時】【每回合1次】選擇我方1張休息狀態的能源。將其轉為活躍狀態。",
+    "effect": "【配備時】可以選擇我方廢棄區中2張〔MF〕的機體卡牌。將選擇的卡牌從遊戲中移除。若那樣做的話，則選擇我方廢棄區中1張〔必殺技〕的指令卡牌。將其加入手牌。\n【攻擊時】【每回合1次】選擇我方1張休息狀態的能源。將其轉為活躍狀態。",
     "zone": "宇宙 地球",
     "trait": "〔MF〕 〔洗牌同盟〕",
     "link": "多門・火州",
@@ -21685,7 +21685,7 @@
     "cost": "3",
     "color": "White",
     "type": "UNIT",
-    "effect": "【配置時】可以選擇我方廢棄區中2張〔MF〕的機體卡牌。將選擇的卡牌從遊戲中移除。若那樣做的話，則選擇我方廢棄區中1張〔必殺技〕的指令卡牌。將其加入手牌。\n【攻擊時】【每回合1次】選擇我方1張休息狀態的能源。將其轉為活躍狀態。",
+    "effect": "【配備時】可以選擇我方廢棄區中2張〔MF〕的機體卡牌。將選擇的卡牌從遊戲中移除。若那樣做的話，則選擇我方廢棄區中1張〔必殺技〕的指令卡牌。將其加入手牌。\n【攻擊時】【每回合1次】選擇我方1張休息狀態的能源。將其轉為活躍狀態。",
     "zone": "宇宙 地球",
     "trait": "〔MF〕 〔洗牌同盟〕",
     "link": "多門・火州",
@@ -21710,7 +21710,7 @@
     "cost": "5",
     "color": "White",
     "type": "UNIT",
-    "effect": "對方戰鬥區中存在休息狀態的機體期間，此機體獲得《壓制》效果。\n（透過攻擊對護盾造成的傷害，將被同時分配至最前方的2張）\n【攻擊時】選擇對方的1張機體。將其轉為休息狀態。",
+    "effect": "對方戰鬥區中存在休息狀態的機體期間，此機體獲得《制壓》效果。\n（透過攻擊對護盾造成的傷害，將被同時分配至最前方的2張）\n【攻擊時】選擇對方的1張機體。將其轉為休息狀態。",
     "zone": "宇宙 地球",
     "trait": "〔G小隊〕",
     "link": "希洛・唯",
@@ -21735,7 +21735,7 @@
     "cost": "5",
     "color": "White",
     "type": "UNIT",
-    "effect": "對方戰鬥區中存在休息狀態的機體期間，此機體獲得《壓制》效果。\n（透過攻擊對護盾造成的傷害，將被同時分配至最前方的2張）\n【攻擊時】選擇對方的1張機體。將其轉為休息狀態。",
+    "effect": "對方戰鬥區中存在休息狀態的機體期間，此機體獲得《制壓》效果。\n（透過攻擊對護盾造成的傷害，將被同時分配至最前方的2張）\n【攻擊時】選擇對方的1張機體。將其轉為休息狀態。",
     "zone": "宇宙 地球",
     "trait": "〔G小隊〕",
     "link": "希洛・唯",
@@ -21760,7 +21760,7 @@
     "cost": "5",
     "color": "White",
     "type": "UNIT",
-    "effect": "對方戰鬥區中存在休息狀態的機體期間，此機體獲得《壓制》效果。\n（透過攻擊對護盾造成的傷害，將被同時分配至最前方的2張）\n【攻擊時】選擇對方的1張機體。將其轉為休息狀態。",
+    "effect": "對方戰鬥區中存在休息狀態的機體期間，此機體獲得《制壓》效果。\n（透過攻擊對護盾造成的傷害，將被同時分配至最前方的2張）\n【攻擊時】選擇對方的1張機體。將其轉為休息狀態。",
     "zone": "宇宙 地球",
     "trait": "〔G小隊〕",
     "link": "希洛・唯",
@@ -21785,7 +21785,7 @@
     "cost": "5",
     "color": "White",
     "type": "UNIT",
-    "effect": "當我方發動〔必殺技〕指令的【主要】/【瞬動】效果時，本回合中，此機體獲得《壓制》效果。\n（透過攻擊對護盾造成的傷害，將被同時分配至最前方的2張）\n【共鳴中】【攻擊時】本次戰鬥中，此機體的AP+2。",
+    "effect": "當我方發動〔必殺技〕指令的【主要】/【瞬動】效果時，本回合中，此機體獲得《制壓》效果。\n（透過攻擊對護盾造成的傷害，將被同時分配至最前方的2張）\n【共鳴中】【攻擊時】本次戰鬥中，此機體的AP+2。",
     "zone": "宇宙 地球",
     "trait": "〔MF〕 〔洗牌同盟〕",
     "link": "多門・火州",
@@ -21810,7 +21810,7 @@
     "cost": "5",
     "color": "White",
     "type": "UNIT",
-    "effect": "當我方發動〔必殺技〕指令的【主要】/【瞬動】效果時，本回合中，此機體獲得《壓制》效果。\n（透過攻擊對護盾造成的傷害，將被同時分配至最前方的2張）\n【共鳴中】【攻擊時】本次戰鬥中，此機體的AP+2。",
+    "effect": "當我方發動〔必殺技〕指令的【主要】/【瞬動】效果時，本回合中，此機體獲得《制壓》效果。\n（透過攻擊對護盾造成的傷害，將被同時分配至最前方的2張）\n【共鳴中】【攻擊時】本次戰鬥中，此機體的AP+2。",
     "zone": "宇宙 地球",
     "trait": "〔MF〕 〔洗牌同盟〕",
     "link": "多門・火州",
@@ -21822,7 +21822,7 @@
     "package_from": "[GD05] Freedom Ascension",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD05-068_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/gd05/10103",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/707575/Shining Gundam Super Mode Rplus"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "GD05-069",
@@ -21897,7 +21897,7 @@
     "package_from": "[GD05] Freedom Ascension",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD05-070_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/gd05/10106",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/707583/Tallgeese III Rplus"
   },
   {
     "card_id": "GD05-071",
@@ -21985,7 +21985,7 @@
     "cost": "5",
     "color": "White",
     "type": "UNIT",
-    "effect": "【配置時】選擇對方1張休息狀態的機體。其在下個對方回合的起始階段中無法轉為活躍狀態。",
+    "effect": "【配備時】選擇對方1張休息狀態的機體。其在下個對方回合的起始階段中無法轉為活躍狀態。",
     "zone": "宇宙 地球",
     "trait": "〔G小隊〕 〔瑪莉梅亞軍〕",
     "link": "張五飛",
@@ -22135,7 +22135,7 @@
     "cost": "2",
     "color": "White",
     "type": "UNIT",
-    "effect": "【啟動・主要】【每回合1次】若我方戰鬥區中存在此機體以外的〔G小隊〕/〔預防者〕機體，則選擇對方1張等級不高於Lv.4的機體。本回合中，使其AP-1。",
+    "effect": "【起動・主要】【每回合1次】若我方戰鬥區中存在此機體以外的〔G小隊〕/〔預防者〕機體，則選擇對方1張等級不高於Lv.4的機體。本回合中，使其AP-1。",
     "zone": "宇宙 地球",
     "trait": "〔G小隊〕",
     "link": "特洛瓦・巴頓",
@@ -22160,7 +22160,7 @@
     "cost": "2",
     "color": "White",
     "type": "UNIT",
-    "effect": "【啟動・主要】【每回合1次】若我方戰鬥區中存在此機體以外的〔G小隊〕/〔預防者〕機體，則選擇對方1張等級不高於Lv.4的機體。本回合中，使其AP-1。",
+    "effect": "【起動・主要】【每回合1次】若我方戰鬥區中存在此機體以外的〔G小隊〕/〔預防者〕機體，則選擇對方1張等級不高於Lv.4的機體。本回合中，使其AP-1。",
     "zone": "宇宙 地球",
     "trait": "〔G小隊〕",
     "link": "特洛瓦・巴頓",
@@ -22322,7 +22322,7 @@
     "package_from": "[GD05] Freedom Ascension",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD05-084.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/gd05/10123",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/705620/Odelo Henrik"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "GD05-085",
@@ -22347,7 +22347,7 @@
     "package_from": "[GD05] Freedom Ascension",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD05-085.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/gd05/10124",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/705621/Amuro Ray"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "GD05-085_p1",
@@ -22697,7 +22697,7 @@
     "package_from": "[GD05] Freedom Ascension",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD05-095.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/gd05/10138",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/705631/Gyunei Guss"
   },
   {
     "card_id": "GD05-096",
@@ -22772,7 +22772,7 @@
     "package_from": "[GD05] Freedom Ascension",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD05-097_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/gd05/10141",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/707574/Domon Kasshu Rplus"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "GD05-098",
@@ -22897,7 +22897,7 @@
     "package_from": "[GD05] Freedom Ascension",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD05-101.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/gd05/10146",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/705637/Gavane Goonny"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "GD05-102",
@@ -23247,7 +23247,7 @@
     "package_from": "[GD05] Freedom Ascension",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD05-113.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/gd05/10160",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/705649/Rose Screamer"
   },
   {
     "card_id": "GD05-114",
@@ -23422,7 +23422,7 @@
     "package_from": "[GD05] Freedom Ascension",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD05-119.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/gd05/10167",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/705655/A Wind Against Fires"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "GD05-119_p1",
@@ -23535,7 +23535,7 @@
     "cost": "1",
     "color": "Blue",
     "type": "BASE",
-    "effect": "【爆發】配置此卡牌。\n【配置時】將我方的1張護盾加入手牌。\n對方的回合中，友方所有〔歐普〕的機體，不會受到來自對方不高於2點的效果傷害。",
+    "effect": "【爆發】配置此卡牌。\n【配備時】將我方的1張護盾加入手牌。\n對方的回合中，友方所有〔歐普〕的機體，不會受到來自對方不高於2點的效果傷害。",
     "zone": "宇宙 地球",
     "trait": "〔歐普〕 〔艦船〕",
     "link": "",
@@ -23560,7 +23560,7 @@
     "cost": "1",
     "color": "Blue",
     "type": "BASE",
-    "effect": "【爆發】配置此卡牌。\n【配置時】將我方的1張護盾加入手牌。\n我方的回合中，當機體因友方〔神聖軍事同盟〕的機體效果轉為休息狀態時，則可以改為將此基地轉為休息狀態。",
+    "effect": "【爆發】配置此卡牌。\n【配備時】將我方的1張護盾加入手牌。\n我方的回合中，當機體因友方〔神聖軍事同盟〕的機體效果轉為休息狀態時，則可以改為將此基地轉為休息狀態。",
     "zone": "宇宙 地球",
     "trait": "〔神聖軍事同盟〕 〔艦船〕",
     "link": "",
@@ -23585,7 +23585,7 @@
     "cost": "1",
     "color": "Green",
     "type": "BASE",
-    "effect": "【爆發】配置此卡牌。\n【配置時】將我方的1張護盾加入手牌。\n【啟動・主要】將此基地轉為休息狀態：選擇友方1張〔隆德・貝爾〕的機體。本回合中，當其受到來自對方的傷害時，該傷害減輕1點。",
+    "effect": "【爆發】配置此卡牌。\n【配備時】將我方的1張護盾加入手牌。\n【起動・主要】將此基地轉為休息狀態：選擇友方1張〔隆德・貝爾〕的機體。本回合中，當其受到來自對方的傷害時，該傷害減輕1點。",
     "zone": "宇宙",
     "trait": "〔地球聯邦〕 〔隆德・貝爾〕 〔艦船〕",
     "link": "",
@@ -23610,7 +23610,7 @@
     "cost": "1",
     "color": "Green",
     "type": "BASE",
-    "effect": "【爆發】配置此卡牌。\n【配置時】將我方的1張護盾加入手牌。\n【啟動・主要】【每回合1次】②：若我方戰鬥區中存在卡牌名稱中包含「風靈高達」且Lv.5或更高等級的機體，則配置1張「GUND節點機」（〔靜寂・零〕・AP2・HP2・《突破1》）的機體替代卡。",
+    "effect": "【爆發】配置此卡牌。\n【配備時】將我方的1張護盾加入手牌。\n【起動・主要】【每回合1次】②：若我方戰鬥區中存在卡牌名稱中包含「風靈高達」且Lv.5或更高等級的機體，則配置1張「GUND節點機」（〔靜寂・零〕・AP2・HP2・《突破1》）的機體替代卡。",
     "zone": "宇宙",
     "trait": "〔靜寂・零〕 〔據點〕",
     "link": "",
@@ -23635,7 +23635,7 @@
     "cost": "1",
     "color": "Red",
     "type": "BASE",
-    "effect": "【爆發】配置此卡牌。\n【配置時】將我方的1張護盾加入手牌。\n【每回合1次】當友方〔幻痛〕的機體共鳴時，選擇對方的1張機體。本回合中，使其無法發動《阻擋者》效果。",
+    "effect": "【爆發】配置此卡牌。\n【配備時】將我方的1張護盾加入手牌。\n【每回合1次】當友方〔幻痛〕的機體共鳴時，選擇對方的1張機體。本回合中，使其無法發動《阻擋者》效果。",
     "zone": "宇宙",
     "trait": "〔地球聯合〕 〔幻痛〕 〔艦船〕",
     "link": "",
@@ -23660,7 +23660,7 @@
     "cost": "1",
     "color": "Red",
     "type": "BASE",
-    "effect": "【爆發】配置此卡牌。\n【配置時】將我方的1張護盾加入手牌。\n【啟動・主要】將此基地轉為休息狀態：若友方戰鬥區中存在〔MF〕的共鳴機體，則選擇友方的1張機體。本回合中，使其AP+2。",
+    "effect": "【爆發】配置此卡牌。\n【配備時】將我方的1張護盾加入手牌。\n【起動・主要】將此基地轉為休息狀態：若友方戰鬥區中存在〔MF〕的共鳴機體，則選擇友方的1張機體。本回合中，使其AP+2。",
     "zone": "地球",
     "trait": "〔據點〕",
     "link": "",
@@ -23685,7 +23685,7 @@
     "cost": "1",
     "color": "Purple",
     "type": "BASE",
-    "effect": "【爆發】配置此卡牌。\n【配置時】將我方的1張護盾加入手牌。\n【啟動・主要】將此基地轉為休息狀態：本回合中，若我方的機體因我方〔新吉翁〕卡牌的效果被破壞過，則配置我方手牌中1張等級不高於Lv.3的〔新吉翁〕機體卡牌。",
+    "effect": "【爆發】配置此卡牌。\n【配備時】將我方的1張護盾加入手牌。\n【起動・主要】將此基地轉為休息狀態：本回合中，若我方的機體因我方〔新吉翁〕卡牌的效果被破壞過，則配置我方手牌中1張等級不高於Lv.3的〔新吉翁〕機體卡牌。",
     "zone": "宇宙",
     "trait": "〔新吉翁〕 〔據點〕",
     "link": "",
@@ -23710,7 +23710,7 @@
     "cost": "1",
     "color": "White",
     "type": "BASE",
-    "effect": "【爆發】配置此卡牌。\n【配置時】將我方的1張護盾加入手牌。\n【破壞時】可以將廢棄區中的此卡牌從遊戲中移除。若那樣做的話，則可以配置我方手牌中1張卡牌名稱中包含「總統府」的基地卡牌。",
+    "effect": "【爆發】配置此卡牌。\n【配備時】將我方的1張護盾加入手牌。\n【破壞時】可以將廢棄區中的此卡牌從遊戲中移除。若那樣做的話，則可以配置我方手牌中1張卡牌名稱中包含「總統府」的基地卡牌。",
     "zone": "地球",
     "trait": "〔地球圈統一國家〕 〔據點〕",
     "link": "",
@@ -23847,7 +23847,7 @@
     "package_from": "[GD05] Freedom Ascension",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/ST03-011_p4.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/gd05/10184",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/707598/Char Aznable Cplus SP"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "ST04-010_p6",
@@ -24097,7 +24097,7 @@
     "package_from": "[ST01] Heroic Beginnings",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/ST01-003_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st01/10006",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/641454/Guncannon Cplus"
   },
   {
     "card_id": "ST01-004",
@@ -24110,7 +24110,7 @@
     "cost": "2",
     "color": "Blue",
     "type": "UNIT",
-    "effect": "【配置時】選擇對方1張HP不高於2的機體。將其轉為休息狀態。",
+    "effect": "【配備時】選擇對方1張HP不高於2的機體。將其轉為休息狀態。",
     "zone": "宇宙 地球",
     "trait": "〔地球聯邦〕 〔WB隊〕",
     "link": "隼人・小林",
@@ -24135,7 +24135,7 @@
     "cost": "2",
     "color": "Blue",
     "type": "UNIT",
-    "effect": "【配置時】選擇對方1張HP不高於2的機體。將其轉為休息狀態。",
+    "effect": "【配備時】選擇對方1張HP不高於2的機體。將其轉為休息狀態。",
     "zone": "宇宙 地球",
     "trait": "〔地球聯邦〕 〔WB隊〕",
     "link": "隼人・小林",
@@ -24147,7 +24147,7 @@
     "package_from": "[ST01] Heroic Beginnings",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/ST01-004_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st01/10008",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/641455/Guntank Cplus"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "ST01-005",
@@ -24547,7 +24547,7 @@
     "package_from": "[ST01] Heroic Beginnings",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/ST01-012_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st01/10024",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/641463/Thoroughly Damaged Cplus"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "ST01-013",
@@ -24597,7 +24597,7 @@
     "package_from": "[ST01] Heroic Beginnings",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/ST01-013_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st01/10026",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/641464/Kais Resolve Cplus"
   },
   {
     "card_id": "ST01-014",
@@ -24660,7 +24660,7 @@
     "cost": "2",
     "color": "Blue",
     "type": "BASE",
-    "effect": "【爆發】配置此卡牌。\n【配置時】將我方的1張護盾加入手牌。\n【啟動・主要】【每回合1次】②：若我方戰鬥區中不存在機體，則配置1張「高達」（〔WB隊〕・AP3・HP3）的機體替代卡；若只存在1張機體，則配置1張「鋼加農」（〔WB隊〕・AP2・HP2）的機體替代卡；若存在2張或更多機體，則配置1張「鋼坦克」（〔WB隊〕・AP1・HP1）的機體替代卡。",
+    "effect": "【爆發】配置此卡牌。\n【配備時】將我方的1張護盾加入手牌。\n【起動・主要】【每回合1次】②：若我方戰鬥區中不存在機體，則配置1張「高達」（〔WB隊〕・AP3・HP3）的機體替代卡；若只存在1張機體，則配置1張「鋼加農」（〔WB隊〕・AP2・HP2）的機體替代卡；若存在2張或更多機體，則配置1張「鋼坦克」（〔WB隊〕・AP1・HP1）的機體替代卡。",
     "zone": "宇宙 地球",
     "trait": "〔地球聯邦〕 〔WB隊〕 〔艦船〕",
     "link": "",
@@ -24685,7 +24685,7 @@
     "cost": "2",
     "color": "Blue",
     "type": "BASE",
-    "effect": "【爆發】配置此卡牌。\n【配置時】將我方的1張護盾加入手牌。\n【啟動・主要】【每回合1次】②：若我方戰鬥區中不存在機體，則配置1張「高達」（〔WB隊〕・AP3・HP3）的機體替代卡；若只存在1張機體，則配置1張「鋼加農」（〔WB隊〕・AP2・HP2）的機體替代卡；若存在2張或更多機體，則配置1張「鋼坦克」（〔WB隊〕・AP1・HP1）的機體替代卡。",
+    "effect": "【爆發】配置此卡牌。\n【配備時】將我方的1張護盾加入手牌。\n【起動・主要】【每回合1次】②：若我方戰鬥區中不存在機體，則配置1張「高達」（〔WB隊〕・AP3・HP3）的機體替代卡；若只存在1張機體，則配置1張「鋼加農」（〔WB隊〕・AP2・HP2）的機體替代卡；若存在2張或更多機體，則配置1張「鋼坦克」（〔WB隊〕・AP1・HP1）的機體替代卡。",
     "zone": "宇宙 地球",
     "trait": "〔地球聯邦〕 〔WB隊〕 〔艦船〕",
     "link": "",
@@ -24710,7 +24710,7 @@
     "cost": "1",
     "color": "White",
     "type": "BASE",
-    "effect": "【爆發】配置此卡牌。\n【配置時】將我方的1張護盾加入手牌。\n【啟動・主要】將此基地轉為休息狀態：本回合中，友方所有共鳴機體的AP+1。",
+    "effect": "【爆發】配置此卡牌。\n【配備時】將我方的1張護盾加入手牌。\n【起動・主要】將此基地轉為休息狀態：本回合中，友方所有共鳴機體的AP+1。",
     "zone": "宇宙",
     "trait": "〔學園〕 〔據點〕",
     "link": "",
@@ -24735,7 +24735,7 @@
     "cost": "1",
     "color": "White",
     "type": "BASE",
-    "effect": "【爆發】配置此卡牌。\n【配置時】將我方的1張護盾加入手牌。\n【啟動・主要】將此基地轉為休息狀態：本回合中，友方所有共鳴機體的AP+1。",
+    "effect": "【爆發】配置此卡牌。\n【配備時】將我方的1張護盾加入手牌。\n【起動・主要】將此基地轉為休息狀態：本回合中，友方所有共鳴機體的AP+1。",
     "zone": "宇宙",
     "trait": "〔學園〕 〔據點〕",
     "link": "",
@@ -24885,7 +24885,7 @@
     "cost": "3",
     "color": "Green",
     "type": "UNIT",
-    "effect": "【配置時】我方放置1張EX能源。",
+    "effect": "【配備時】我方放置1張EX能源。",
     "zone": "宇宙 地球",
     "trait": "〔流星作戰〕",
     "link": "希洛・唯",
@@ -24910,7 +24910,7 @@
     "cost": "3",
     "color": "Green",
     "type": "UNIT",
-    "effect": "【配置時】我方放置1張EX能源。",
+    "effect": "【配備時】我方放置1張EX能源。",
     "zone": "宇宙 地球",
     "trait": "〔流星作戰〕",
     "link": "希洛・唯",
@@ -25022,7 +25022,7 @@
     "package_from": "[ST02] Wings of Advance",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/ST02-004_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st02/10008",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/641487/Gundam Sandrock Cplus"
   },
   {
     "card_id": "ST02-005",
@@ -25085,7 +25085,7 @@
     "cost": "4",
     "color": "Blue",
     "type": "UNIT",
-    "effect": "【啟動・主要】【每回合1次】④：將此機體轉為活躍狀態。",
+    "effect": "【起動・主要】【每回合1次】④：將此機體轉為活躍狀態。",
     "zone": "宇宙 地球",
     "trait": "〔OZ〕",
     "link": "傑克斯・馬吉斯",
@@ -25110,7 +25110,7 @@
     "cost": "4",
     "color": "Blue",
     "type": "UNIT",
-    "effect": "【啟動・主要】【每回合1次】④：將此機體轉為活躍狀態。",
+    "effect": "【起動・主要】【每回合1次】④：將此機體轉為活躍狀態。",
     "zone": "宇宙 地球",
     "trait": "〔OZ〕",
     "link": "傑克斯・馬吉斯",
@@ -25147,7 +25147,7 @@
     "package_from": "[ST02] Wings of Advance",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/ST02-007.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st02/10013",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/641474/Leo"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "ST02-007_p1",
@@ -25222,7 +25222,7 @@
     "package_from": "[ST02] Wings of Advance",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/ST02-008_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st02/10016",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/641491/Aries Cplus"
   },
   {
     "card_id": "ST02-009",
@@ -25372,7 +25372,7 @@
     "package_from": "[ST02] Wings of Advance",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/ST02-011_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st02/10022",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/641494/Zechs Merquise Cplus"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "ST02-012",
@@ -25535,7 +25535,7 @@
     "cost": "2",
     "color": "Green",
     "type": "BASE",
-    "effect": "【爆發】配置此卡牌。\n【配置時】將我方的1張護盾加入手牌。此後，確認我方卡組最上方的2張卡牌，將其中的1張卡牌放回卡組最上方。剩餘的卡牌放回卡組最下方。",
+    "effect": "【爆發】配置此卡牌。\n【配備時】將我方的1張護盾加入手牌。此後，確認我方卡組最上方的2張卡牌，將其中的1張卡牌放回卡組最上方。剩餘的卡牌放回卡組最下方。",
     "zone": "地球",
     "trait": "〔學園〕 〔據點〕",
     "link": "",
@@ -25560,7 +25560,7 @@
     "cost": "2",
     "color": "Green",
     "type": "BASE",
-    "effect": "【爆發】配置此卡牌。\n【配置時】將我方的1張護盾加入手牌。此後，確認我方卡組最上方的2張卡牌，將其中的1張卡牌放回卡組最上方。剩餘的卡牌放回卡組最下方。",
+    "effect": "【爆發】配置此卡牌。\n【配備時】將我方的1張護盾加入手牌。此後，確認我方卡組最上方的2張卡牌，將其中的1張卡牌放回卡組最上方。剩餘的卡牌放回卡組最下方。",
     "zone": "宇宙",
     "trait": "〔學園〕 〔據點〕",
     "link": "",
@@ -25585,7 +25585,7 @@
     "cost": "3",
     "color": "Blue",
     "type": "BASE",
-    "effect": "【爆發】配置此卡牌。\n【配置時】將我方的1張護盾加入手牌。此後，若是我方的回合，則配置1張「托爾吉斯」（〔OZ〕・AP4・HP2）的機體替代卡。在我方的回合，若我方廢棄區中有卡牌名稱中包含「科西嘉基地」的卡牌，則改為配置2張「里歐」（〔OZ〕・AP1・HP1）的機體替代卡。",
+    "effect": "【爆發】配置此卡牌。\n【配備時】將我方的1張護盾加入手牌。此後，若是我方的回合，則配置1張「托爾吉斯」（〔OZ〕・AP4・HP2）的機體替代卡。在我方的回合，若我方廢棄區中有卡牌名稱中包含「科西嘉基地」的卡牌，則改為配置2張「里歐」（〔OZ〕・AP1・HP1）的機體替代卡。",
     "zone": "地球",
     "trait": "〔OZ〕 〔據點〕",
     "link": "",
@@ -25610,7 +25610,7 @@
     "cost": "3",
     "color": "Blue",
     "type": "BASE",
-    "effect": "【爆發】配置此卡牌。\n【配置時】將我方的1張護盾加入手牌。此後，若是我方的回合，則配置1張「托爾吉斯」（〔OZ〕・AP4・HP2）的機體替代卡。在我方的回合，若我方廢棄區中有卡牌名稱中包含「科西嘉基地」的卡牌，則改為配置2張「里歐」（〔OZ〕・AP1・HP1）的機體替代卡。",
+    "effect": "【爆發】配置此卡牌。\n【配備時】將我方的1張護盾加入手牌。此後，若是我方的回合，則配置1張「托爾吉斯」（〔OZ〕・AP4・HP2）的機體替代卡。在我方的回合，若我方廢棄區中有卡牌名稱中包含「科西嘉基地」的卡牌，則改為配置2張「里歐」（〔OZ〕・AP1・HP1）的機體替代卡。",
     "zone": "宇宙",
     "trait": "〔OZ〕 〔據點〕",
     "link": "",
@@ -25722,7 +25722,7 @@
     "package_from": "[ST03] Zeon's Rush",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/ST03-001_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st03/10002",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/641516/Sinanju LRplus"
   },
   {
     "card_id": "ST03-002",
@@ -25735,7 +25735,7 @@
     "cost": "3",
     "color": "Red",
     "type": "UNIT",
-    "effect": "【啟動・主要】《支援2》（可轉為休息狀態，且本回合中，使另1張友方機體的AP+指定數值）",
+    "effect": "【起動・主要】《援護2》（可轉為休息狀態，且本回合中，使另1張友方機體的AP+指定數值）",
     "zone": "宇宙 地球",
     "trait": "〔新吉翁〕",
     "link": "安傑羅・梭斐",
@@ -25760,7 +25760,7 @@
     "cost": "3",
     "color": "Red",
     "type": "UNIT",
-    "effect": "【啟動・主要】《支援2》（可轉為休息狀態，且本回合中，使另1張友方機體的AP+指定數值）",
+    "effect": "【起動・主要】《援護2》（可轉為休息狀態，且本回合中，使另1張友方機體的AP+指定數值）",
     "zone": "宇宙 地球",
     "trait": "〔新吉翁〕",
     "link": "安傑羅・梭斐",
@@ -25835,7 +25835,7 @@
     "cost": "2",
     "color": "Red",
     "type": "UNIT",
-    "effect": "【啟動・主要】《支援2》（可轉為休息狀態，且本回合中，使另1張友方機體的AP+指定數值）",
+    "effect": "【起動・主要】《援護2》（可轉為休息狀態，且本回合中，使另1張友方機體的AP+指定數值）",
     "zone": "宇宙 地球",
     "trait": "〔新吉翁〕",
     "link": "",
@@ -25860,7 +25860,7 @@
     "cost": "2",
     "color": "Red",
     "type": "UNIT",
-    "effect": "【啟動・主要】《支援2》（可轉為休息狀態，且本回合中，使另1張友方機體的AP+指定數值）",
+    "effect": "【起動・主要】《援護2》（可轉為休息狀態，且本回合中，使另1張友方機體的AP+指定數值）",
     "zone": "宇宙 地球",
     "trait": "〔新吉翁〕",
     "link": "",
@@ -25872,7 +25872,7 @@
     "package_from": "[ST03] Zeon's Rush",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/ST03-004_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st03/10008",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/641519/Gaza D Sleeves Cplus"
   },
   {
     "card_id": "ST03-005",
@@ -26085,7 +26085,7 @@
     "cost": "3",
     "color": "Green",
     "type": "UNIT",
-    "effect": "【配置時】配置1張休息狀態的「薩克Ⅱ」（〔吉翁〕・AP1・HP1）的機體替代卡。",
+    "effect": "【配備時】配置1張休息狀態的「薩克Ⅱ」（〔吉翁〕・AP1・HP1）的機體替代卡。",
     "zone": "地球",
     "trait": "〔吉翁〕",
     "link": "蘭巴・拉爾",
@@ -26110,7 +26110,7 @@
     "cost": "3",
     "color": "Green",
     "type": "UNIT",
-    "effect": "【配置時】配置1張休息狀態的「薩克Ⅱ」（〔吉翁〕・AP1・HP1）的機體替代卡。",
+    "effect": "【配備時】配置1張休息狀態的「薩克Ⅱ」（〔吉翁〕・AP1・HP1）的機體替代卡。",
     "zone": "地球",
     "trait": "〔吉翁〕",
     "link": "蘭巴・拉爾",
@@ -26272,7 +26272,7 @@
     "package_from": "[ST03] Zeon's Rush",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/ST03-012_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st03/10024",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/641527/Indignation Cplus"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "ST03-013",
@@ -26347,7 +26347,7 @@
     "package_from": "[ST03] Zeon's Rush",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/ST03-014.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st03/10027",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/641513/The Blue Giant"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "ST03-014_p1",
@@ -26385,7 +26385,7 @@
     "cost": "2",
     "color": "Red",
     "type": "BASE",
-    "effect": "【爆發】配置此卡牌。\n【配置時】將我方的1張護盾加入手牌。此後，選擇對方1張AP不高於5的機體。給予其1點傷害。",
+    "effect": "【爆發】配置此卡牌。\n【配備時】將我方的1張護盾加入手牌。此後，選擇對方1張AP不高於5的機體。給予其1點傷害。",
     "zone": "宇宙",
     "trait": "〔新吉翁〕 〔艦船〕",
     "link": "",
@@ -26410,7 +26410,7 @@
     "cost": "2",
     "color": "Red",
     "type": "BASE",
-    "effect": "【爆發】配置此卡牌。\n【配置時】將我方的1張護盾加入手牌。此後，選擇對方1張AP不高於5的機體。給予其1點傷害。",
+    "effect": "【爆發】配置此卡牌。\n【配備時】將我方的1張護盾加入手牌。此後，選擇對方1張AP不高於5的機體。給予其1點傷害。",
     "zone": "宇宙",
     "trait": "〔新吉翁〕 〔艦船〕",
     "link": "",
@@ -26435,7 +26435,7 @@
     "cost": "2",
     "color": "Green",
     "type": "BASE",
-    "effect": "【爆發】配置此卡牌。\n【配置時】將我方的1張護盾加入手牌。此後，若是我方的回合，則配置1張休息狀態的「夏亞專用薩克Ⅱ」（〔吉翁〕・AP3・HP1）的機體替代卡。",
+    "effect": "【爆發】配置此卡牌。\n【配備時】將我方的1張護盾加入手牌。此後，若是我方的回合，則配置1張休息狀態的「夏亞專用薩克Ⅱ」（〔吉翁〕・AP3・HP1）的機體替代卡。",
     "zone": "宇宙",
     "trait": "〔吉翁〕 〔艦船〕",
     "link": "",
@@ -26460,7 +26460,7 @@
     "cost": "2",
     "color": "Green",
     "type": "BASE",
-    "effect": "【爆發】配置此卡牌。\n【配置時】將我方的1張護盾加入手牌。此後，若是我方的回合，則配置1張休息狀態的「夏亞專用薩克Ⅱ」（〔吉翁〕・AP3・HP1）的機體替代卡。",
+    "effect": "【爆發】配置此卡牌。\n【配備時】將我方的1張護盾加入手牌。此後，若是我方的回合，則配置1張休息狀態的「夏亞專用薩克Ⅱ」（〔吉翁〕・AP3・HP1）的機體替代卡。",
     "zone": "宇宙",
     "trait": "〔吉翁〕 〔艦船〕",
     "link": "",
@@ -26472,7 +26472,7 @@
     "package_from": "[ST03] Zeon's Rush",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/ST03-016_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st03/10032",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/641531/Falmel Cplus"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "T-006",
@@ -26585,7 +26585,7 @@
     "cost": "2",
     "color": "White",
     "type": "UNIT",
-    "effect": "【配置時】我方抽取1張卡牌。此後，丟棄我方的1張手牌。",
+    "effect": "【配備時】我方抽取1張卡牌。此後，丟棄我方的1張手牌。",
     "zone": "宇宙 地球",
     "trait": "〔地球聯合〕",
     "link": "基拉・大和",
@@ -26610,7 +26610,7 @@
     "cost": "2",
     "color": "White",
     "type": "UNIT",
-    "effect": "【配置時】我方抽取1張卡牌。此後，丟棄我方的1張手牌。",
+    "effect": "【配備時】我方抽取1張卡牌。此後，丟棄我方的1張手牌。",
     "zone": "宇宙 地球",
     "trait": "〔地球聯合〕",
     "link": "基拉・大和",
@@ -26697,7 +26697,7 @@
     "package_from": "[ST04] SEED Strike",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/ST04-004.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st04/10007",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/641535/Moebius"
   },
   {
     "card_id": "ST04-004_p1",
@@ -26722,7 +26722,7 @@
     "package_from": "[ST04] SEED Strike",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/ST04-004_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st04/10008",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/641551/Moebius Cplus"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "ST04-005",
@@ -26947,7 +26947,7 @@
     "package_from": "[ST04] SEED Strike",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/ST04-009.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st04/10017",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/641540/Miguels Ginn"
   },
   {
     "card_id": "ST04-009_p1",
@@ -27147,7 +27147,7 @@
     "package_from": "[ST04] SEED Strike",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/ST04-013.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st04/10025",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/616628/Hawk of Endymion"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "ST04-013_p1",
@@ -27235,7 +27235,7 @@
     "cost": "1",
     "color": "White",
     "type": "BASE",
-    "effect": "【爆發】配置此卡牌。\n【配置時】將我方的1張護盾加入手牌。\n【啟動・主要】【每回合1次】②：選擇友方1張擁有《阻擋者》效果的機體。將其轉為活躍狀態，且本回合中，其無法攻擊。",
+    "effect": "【爆發】配置此卡牌。\n【配備時】將我方的1張護盾加入手牌。\n【起動・主要】【每回合1次】②：選擇友方1張擁有《阻擋者》效果的機體。將其轉為活躍狀態，且本回合中，其無法攻擊。",
     "zone": "宇宙 地球",
     "trait": "〔地球聯合〕 〔艦船〕",
     "link": "",
@@ -27260,7 +27260,7 @@
     "cost": "1",
     "color": "White",
     "type": "BASE",
-    "effect": "【爆發】配置此卡牌。\n【配置時】將我方的1張護盾加入手牌。\n【啟動・主要】【每回合1次】②：選擇友方1張擁有《阻擋者》效果的機體。將其轉為活躍狀態，且本回合中，其無法攻擊。",
+    "effect": "【爆發】配置此卡牌。\n【配備時】將我方的1張護盾加入手牌。\n【起動・主要】【每回合1次】②：選擇友方1張擁有《阻擋者》效果的機體。將其轉為活躍狀態，且本回合中，其無法攻擊。",
     "zone": "宇宙 地球",
     "trait": "〔地球聯合〕 〔艦船〕",
     "link": "",
@@ -27285,7 +27285,7 @@
     "cost": "1",
     "color": "Red",
     "type": "BASE",
-    "effect": "【爆發】配置此卡牌。\n【配置時】將我方的1張護盾加入手牌。\n【啟動・主要】將此基地轉為休息狀態：選擇友方的1張機體。本回合中，使其AP+1。",
+    "effect": "【爆發】配置此卡牌。\n【配備時】將我方的1張護盾加入手牌。\n【起動・主要】將此基地轉為休息狀態：選擇友方的1張機體。本回合中，使其AP+1。",
     "zone": "宇宙",
     "trait": "〔札夫特〕 〔艦船〕",
     "link": "",
@@ -27310,7 +27310,7 @@
     "cost": "1",
     "color": "Red",
     "type": "BASE",
-    "effect": "【爆發】配置此卡牌。\n【配置時】將我方的1張護盾加入手牌。\n【啟動・主要】將此基地轉為休息狀態：選擇友方的1張機體。本回合中，使其AP+1。",
+    "effect": "【爆發】配置此卡牌。\n【配備時】將我方的1張護盾加入手牌。\n【起動・主要】將此基地轉為休息狀態：選擇友方的1張機體。本回合中，使其AP+1。",
     "zone": "宇宙",
     "trait": "〔札夫特〕 〔艦船〕",
     "link": "",
@@ -27460,7 +27460,7 @@
     "cost": "4",
     "color": "Purple",
     "type": "UNIT",
-    "effect": "【配置時】選擇此機體以外的我方的1張機體。給予其1點傷害，且本回合中，使其AP+1。\n此機體受到傷害的期間，此機體獲得《壓制》效果。\n（透過攻擊對護盾造成的傷害，將被同時分配至最前方的兩張）",
+    "effect": "【配備時】選擇此機體以外的我方的1張機體。給予其1點傷害，且本回合中，使其AP+1。\n此機體受到傷害的期間，此機體獲得《制壓》效果。\n（透過攻擊對護盾造成的傷害，將被同時分配至最前方的兩張）",
     "zone": "宇宙 地球",
     "trait": "〔鐵華團〕 〔高達骨架〕",
     "link": "三日月・奧古斯",
@@ -27485,7 +27485,7 @@
     "cost": "4",
     "color": "Purple",
     "type": "UNIT",
-    "effect": "【配置時】選擇此機體以外的我方的1張機體。給予其1點傷害，且本回合中，使其AP+1。\n此機體受到傷害的期間，此機體獲得《壓制》效果。\n（透過攻擊對護盾造成的傷害，將被同時分配至最前方的兩張）",
+    "effect": "【配備時】選擇此機體以外的我方的1張機體。給予其1點傷害，且本回合中，使其AP+1。\n此機體受到傷害的期間，此機體獲得《制壓》效果。\n（透過攻擊對護盾造成的傷害，將被同時分配至最前方的兩張）",
     "zone": "宇宙 地球",
     "trait": "〔鐵華團〕 〔高達骨架〕",
     "link": "三日月・奧古斯",
@@ -27560,7 +27560,7 @@
     "cost": "1",
     "color": "Purple",
     "type": "UNIT",
-    "effect": "【啟動・主要】將此機體轉為休息狀態：選擇我方的1張機體。給予其1點傷害，且本回合中，使其AP+1。",
+    "effect": "【起動・主要】將此機體轉為休息狀態：選擇我方的1張機體。給予其1點傷害，且本回合中，使其AP+1。",
     "zone": "地球",
     "trait": "〔鐵華團〕",
     "link": "",
@@ -27585,7 +27585,7 @@
     "cost": "1",
     "color": "Purple",
     "type": "UNIT",
-    "effect": "【啟動・主要】將此機體轉為休息狀態：選擇我方的1張機體。給予其1點傷害，且本回合中，使其AP+1。",
+    "effect": "【起動・主要】將此機體轉為休息狀態：選擇我方的1張機體。給予其1點傷害，且本回合中，使其AP+1。",
     "zone": "地球",
     "trait": "〔鐵華團〕",
     "link": "",
@@ -27797,7 +27797,7 @@
     "package_from": "[ST05] Iron Bloom",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/ST05-007_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st05/10016",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/653643/McGillis Schwalbe Graze LRplus"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "ST05-008",
@@ -28022,7 +28022,7 @@
     "package_from": "[ST05] Iron Bloom",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/ST05-012.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st05/10025",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/652311/McGillis Fareed"
   },
   {
     "card_id": "ST05-012_p1",
@@ -28160,7 +28160,7 @@
     "cost": "1",
     "color": "Purple",
     "type": "BASE",
-    "effect": "【爆發】配置此卡牌。\n【配置時】將我方的1張護盾加入手牌。\n【啟動・主要】將此基地轉為休息狀態：選擇我方1張受到過傷害的機體。本回合中，使其AP+2。",
+    "effect": "【爆發】配置此卡牌。\n【配備時】將我方的1張護盾加入手牌。\n【起動・主要】將此基地轉為休息狀態：選擇我方1張受到過傷害的機體。本回合中，使其AP+2。",
     "zone": "宇宙",
     "trait": "〔鐵華團〕 〔艦船〕",
     "link": "",
@@ -28185,7 +28185,7 @@
     "cost": "1",
     "color": "Purple",
     "type": "BASE",
-    "effect": "【爆發】配置此卡牌。\n【配置時】將我方的1張護盾加入手牌。\n【啟動・主要】將此基地轉為休息狀態：選擇我方1張受到過傷害的機體。本回合中，使其AP+2。",
+    "effect": "【爆發】配置此卡牌。\n【配備時】將我方的1張護盾加入手牌。\n【起動・主要】將此基地轉為休息狀態：選擇我方1張受到過傷害的機體。本回合中，使其AP+2。",
     "zone": "宇宙",
     "trait": "〔鐵華團〕 〔艦船〕",
     "link": "",
@@ -28297,7 +28297,7 @@
     "package_from": "[ST06] Clan Unity",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/ST06-001_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st06/10004",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/659094/GQuuuuuuX Omega Psycommu LRplus"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "ST06-002",
@@ -28310,7 +28310,7 @@
     "cost": "3",
     "color": "Red",
     "type": "UNIT",
-    "effect": "【配置時】若我方戰鬥區中存在此機體以外的友方的〔戰團〕機體，則選擇對方的1張機體。給予其1點傷害。",
+    "effect": "【配備時】若我方戰鬥區中存在此機體以外的友方的〔戰團〕機體，則選擇對方的1張機體。給予其1點傷害。",
     "zone": "宇宙 地球",
     "trait": "〔戰團〕",
     "link": "天手讓葉（瑪秋）",
@@ -28335,7 +28335,7 @@
     "cost": "3",
     "color": "Red",
     "type": "UNIT",
-    "effect": "【配置時】若我方戰鬥區中存在此機體以外的友方的〔戰團〕機體，則選擇對方的1張機體。給予其1點傷害。",
+    "effect": "【配備時】若我方戰鬥區中存在此機體以外的友方的〔戰團〕機體，則選擇對方的1張機體。給予其1點傷害。",
     "zone": "宇宙 地球",
     "trait": "〔戰團〕",
     "link": "天手讓葉（瑪秋）",
@@ -28360,7 +28360,7 @@
     "cost": "2",
     "color": "Red",
     "type": "UNIT",
-    "effect": "【啟動・主要】《支援1》（可轉為休息狀態，且本回合中，使另1張友方機體的AP+指定數值）",
+    "effect": "【起動・主要】《援護1》（可轉為休息狀態，且本回合中，使另1張友方機體的AP+指定數值）",
     "zone": "宇宙",
     "trait": "〔戰團〕",
     "link": "蓋亞",
@@ -28385,7 +28385,7 @@
     "cost": "2",
     "color": "Red",
     "type": "UNIT",
-    "effect": "【啟動・主要】《支援1》（可轉為休息狀態，且本回合中，使另1張友方機體的AP+指定數值）",
+    "effect": "【起動・主要】《援護1》（可轉為休息狀態，且本回合中，使另1張友方機體的AP+指定數值）",
     "zone": "宇宙",
     "trait": "〔戰團〕",
     "link": "蓋亞",
@@ -28560,7 +28560,7 @@
     "cost": "2",
     "color": "Green",
     "type": "UNIT",
-    "effect": "【配置時】選擇此機體以外的我方1張〔戰團〕的機體。本回合中，其可以選擇對方活躍狀態且AP不高於3的機體作為攻擊對象。",
+    "effect": "【配備時】選擇此機體以外的我方1張〔戰團〕的機體。本回合中，其可以選擇對方活躍狀態且AP不高於3的機體作為攻擊對象。",
     "zone": "宇宙",
     "trait": "〔戰團〕",
     "link": "奧爾迪加",
@@ -28585,7 +28585,7 @@
     "cost": "2",
     "color": "Green",
     "type": "UNIT",
-    "effect": "【配置時】選擇此機體以外的我方1張〔戰團〕的機體。本回合中，其可以選擇對方活躍狀態且AP不高於3的機體作為攻擊對象。",
+    "effect": "【配備時】選擇此機體以外的我方1張〔戰團〕的機體。本回合中，其可以選擇對方活躍狀態且AP不高於3的機體作為攻擊對象。",
     "zone": "宇宙",
     "trait": "〔戰團〕",
     "link": "奧爾迪加",
@@ -28647,7 +28647,7 @@
     "package_from": "[ST06] Clan Unity",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/ST06-008_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st06/10018",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/659105/Sugais Gelgoog GQ Cplus"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "ST06-009",
@@ -28847,7 +28847,7 @@
     "package_from": "[ST06] Clan Unity",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/ST06-012_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st06/10026",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/659112/Schoolgirl and Smuggler Cplus"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "ST06-013",
@@ -28897,7 +28897,7 @@
     "package_from": "[ST06] Clan Unity",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/ST06-013_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st06/10028",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/659114/Fierce Unity Cplus"
   },
   {
     "card_id": "ST06-014",
@@ -28910,7 +28910,7 @@
     "cost": "1",
     "color": "Red",
     "type": "BASE",
-    "effect": "【爆發】配置此卡牌。\n【配置時】將我方的1張護盾加入手牌。\n【啟動・主要】將此基地轉為休息狀態：若我方戰鬥區中存在友方的〔戰團〕共鳴機體，則選擇友方的1張機體。本回合中，使其AP+2。",
+    "effect": "【爆發】配置此卡牌。\n【配備時】將我方的1張護盾加入手牌。\n【起動・主要】將此基地轉為休息狀態：若我方戰鬥區中存在友方的〔戰團〕共鳴機體，則選擇友方的1張機體。本回合中，使其AP+2。",
     "zone": "宇宙",
     "trait": "〔戰團〕 〔據點〕",
     "link": "",
@@ -28935,7 +28935,7 @@
     "cost": "1",
     "color": "Red",
     "type": "BASE",
-    "effect": "【爆發】配置此卡牌。\n【配置時】將我方的1張護盾加入手牌。\n【啟動・主要】將此基地轉為休息狀態：若我方戰鬥區中存在友方的〔戰團〕共鳴機體，則選擇友方的1張機體。本回合中，使其AP+2。",
+    "effect": "【爆發】配置此卡牌。\n【配備時】將我方的1張護盾加入手牌。\n【起動・主要】將此基地轉為休息狀態：若我方戰鬥區中存在友方的〔戰團〕共鳴機體，則選擇友方的1張機體。本回合中，使其AP+2。",
     "zone": "宇宙",
     "trait": "〔戰團〕 〔據點〕",
     "link": "",
@@ -28960,7 +28960,7 @@
     "cost": "2",
     "color": "Green",
     "type": "BASE",
-    "effect": "【爆發】配置此卡牌。\n【配置時】將我方的1張護盾加入手牌。\n【每回合1次】友方的〔戰團〕機體共鳴時，本回合中，其獲得《突破3》效果。\n（當透過攻擊破壞對方的機體時，給予該方護盾區最前方的1張卡牌指定數值的傷害）",
+    "effect": "【爆發】配置此卡牌。\n【配備時】將我方的1張護盾加入手牌。\n【每回合1次】友方的〔戰團〕機體共鳴時，本回合中，其獲得《突破3》效果。\n（當透過攻擊破壞對方的機體時，給予該方護盾區最前方的1張卡牌指定數值的傷害）",
     "zone": "宇宙",
     "trait": "〔戰團〕 〔據點〕",
     "link": "",
@@ -28972,7 +28972,7 @@
     "package_from": "[ST06] Clan Unity",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/ST06-015.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st06/10031",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/659117/Kaneban Co Ltd"
   },
   {
     "card_id": "ST06-015_p1",
@@ -28985,7 +28985,7 @@
     "cost": "2",
     "color": "Green",
     "type": "BASE",
-    "effect": "【爆發】配置此卡牌。\n【配置時】將我方的1張護盾加入手牌。\n【每回合1次】友方的〔戰團〕機體共鳴時，本回合中，其獲得《突破3》效果。\n（當透過攻擊破壞對方的機體時，給予該方護盾區最前方的1張卡牌指定數值的傷害）",
+    "effect": "【爆發】配置此卡牌。\n【配備時】將我方的1張護盾加入手牌。\n【每回合1次】友方的〔戰團〕機體共鳴時，本回合中，其獲得《突破3》效果。\n（當透過攻擊破壞對方的機體時，給予該方護盾區最前方的1張卡牌指定數值的傷害）",
     "zone": "宇宙",
     "trait": "〔戰團〕 〔據點〕",
     "link": "",
@@ -29297,7 +29297,7 @@
     "package_from": "[ST07] Celestial Drive",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/ST07-005_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st07/10012",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/671996/Gundam Dynames LRplus"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "ST07-006",
@@ -29647,7 +29647,7 @@
     "package_from": "[ST07] Celestial Drive",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/ST07-012_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st07/10026",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/671994/Allelujah Haptism Cplus"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "ST07-013",
@@ -29760,7 +29760,7 @@
     "cost": "1",
     "color": "Purple",
     "type": "BASE",
-    "effect": "【爆發】配置此卡牌。\n【配置時】將我方的1張護盾加入手牌。\n友方戰鬥區中存在休息狀態的〔CB〕機體期間，此基地不會受到來自對方機體替代卡以外的等級不高於Lv.3的機體的傷害。",
+    "effect": "【爆發】配置此卡牌。\n【配備時】將我方的1張護盾加入手牌。\n友方戰鬥區中存在休息狀態的〔CB〕機體期間，此基地不會受到來自對方機體替代卡以外的等級不高於Lv.3的機體的傷害。",
     "zone": "宇宙",
     "trait": "〔CB〕 〔艦船〕",
     "link": "",
@@ -29785,7 +29785,7 @@
     "cost": "1",
     "color": "Purple",
     "type": "BASE",
-    "effect": "【爆發】配置此卡牌。\n【配置時】將我方的1張護盾加入手牌。\n友方戰鬥區中存在休息狀態的〔CB〕機體期間，此基地不會受到來自對方機體替代卡以外的等級不高於Lv.3的機體的傷害。",
+    "effect": "【爆發】配置此卡牌。\n【配備時】將我方的1張護盾加入手牌。\n友方戰鬥區中存在休息狀態的〔CB〕機體期間，此基地不會受到來自對方機體替代卡以外的等級不高於Lv.3的機體的傷害。",
     "zone": "宇宙",
     "trait": "〔CB〕 〔艦船〕",
     "link": "",
@@ -29910,7 +29910,7 @@
     "cost": "4",
     "color": "Red",
     "type": "UNIT",
-    "effect": "【配置時】選擇對方的1張機體。給予其1點傷害。",
+    "effect": "【配備時】選擇對方的1張機體。給予其1點傷害。",
     "zone": "宇宙 地球",
     "trait": "〔馬法狄〕",
     "link": "哈薩威・諾亞",
@@ -29935,7 +29935,7 @@
     "cost": "4",
     "color": "Red",
     "type": "UNIT",
-    "effect": "【配置時】選擇對方的1張機體。給予其1點傷害。",
+    "effect": "【配備時】選擇對方的1張機體。給予其1點傷害。",
     "zone": "宇宙 地球",
     "trait": "〔馬法狄〕",
     "link": "哈薩威・諾亞",
@@ -30022,7 +30022,7 @@
     "package_from": "[ST08] Flash of Radiance",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/ST08-004.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st08/10009",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/670554/Messer Type F01"
   },
   {
     "card_id": "ST08-004_p1",
@@ -30047,7 +30047,7 @@
     "package_from": "[ST08] Flash of Radiance",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/ST08-004_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st08/10010",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/671971/Messer Type F01 Cplus"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "ST08-005",
@@ -30260,7 +30260,7 @@
     "cost": "1",
     "color": "Blue",
     "type": "UNIT",
-    "effect": "【配置時】選擇對方1張休息狀態且等級不高於Lv.2的機體。該機體在對方下個回合的起始階段就不會變為活躍狀態。",
+    "effect": "【配備時】選擇對方1張休息狀態且等級不高於Lv.2的機體。該機體在對方下個回合的起始階段就不會變為活躍狀態。",
     "zone": "地球",
     "trait": "〔地球聯邦〕",
     "link": "",
@@ -30285,7 +30285,7 @@
     "cost": "1",
     "color": "Blue",
     "type": "UNIT",
-    "effect": "【配置時】選擇對方1張休息狀態且等級不高於Lv.2的機體。該機體在對方下個回合的起始階段就不會變為活躍狀態。",
+    "effect": "【配備時】選擇對方1張休息狀態且等級不高於Lv.2的機體。該機體在對方下個回合的起始階段就不會變為活躍狀態。",
     "zone": "地球",
     "trait": "〔地球聯邦〕",
     "link": "",
@@ -30447,7 +30447,7 @@
     "package_from": "[ST08] Flash of Radiance",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/ST08-012_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st08/10026",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/671983/Words for Hathaway Cplus"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "ST08-013",
@@ -30497,7 +30497,7 @@
     "package_from": "[ST08] Flash of Radiance",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/ST08-013_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st08/10028",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/671976/Lady Luck Cplus"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "ST08-014",
@@ -30510,7 +30510,7 @@
     "cost": "1",
     "color": "Red",
     "type": "BASE",
-    "effect": "【爆發】配置此卡牌。\n【配置時】將我方的1張護盾加入手牌。此後，選擇我方的1張機體。本回合中，使其AP+2。",
+    "effect": "【爆發】配置此卡牌。\n【配備時】將我方的1張護盾加入手牌。此後，選擇我方的1張機體。本回合中，使其AP+2。",
     "zone": "地球",
     "trait": "〔馬法狄〕 〔艦船〕",
     "link": "",
@@ -30535,7 +30535,7 @@
     "cost": "1",
     "color": "Red",
     "type": "BASE",
-    "effect": "【爆發】配置此卡牌。\n【配置時】將我方的1張護盾加入手牌。此後，選擇我方的1張機體。本回合中，使其AP+2。",
+    "effect": "【爆發】配置此卡牌。\n【配備時】將我方的1張護盾加入手牌。此後，選擇我方的1張機體。本回合中，使其AP+2。",
     "zone": "地球",
     "trait": "〔馬法狄〕 〔艦船〕",
     "link": "",
@@ -30560,7 +30560,7 @@
     "cost": "1",
     "color": "Blue",
     "type": "BASE",
-    "effect": "【爆發】配置此卡牌。\n【配置時】將我方的1張護盾加入手牌。\n【啟動・主要】【每回合1次】②：選擇我方的1張機體。使其回復2點。",
+    "effect": "【爆發】配置此卡牌。\n【配備時】將我方的1張護盾加入手牌。\n【起動・主要】【每回合1次】②：選擇我方的1張機體。使其回復2點。",
     "zone": "地球",
     "trait": "〔地球聯邦〕 〔據點〕",
     "link": "",
@@ -30585,7 +30585,7 @@
     "cost": "1",
     "color": "Blue",
     "type": "BASE",
-    "effect": "【爆發】配置此卡牌。\n【配置時】將我方的1張護盾加入手牌。\n【啟動・主要】【每回合1次】②：選擇我方的1張機體。使其回復2點。",
+    "effect": "【爆發】配置此卡牌。\n【配備時】將我方的1張護盾加入手牌。\n【起動・主要】【每回合1次】②：選擇我方的1張機體。使其回復2點。",
     "zone": "地球",
     "trait": "〔地球聯邦〕 〔據點〕",
     "link": "",
@@ -30710,7 +30710,7 @@
     "cost": "3",
     "color": "Red",
     "type": "UNIT",
-    "effect": "【配置時】選擇我方1張AP為5或更高的〔札夫特〕機體。本回合中，其獲得《先制攻擊》效果。\n（攻擊中的此機體，會比對方優先給予傷害）",
+    "effect": "【配備時】選擇我方1張AP為5或更高的〔札夫特〕機體。本回合中，其獲得《先制攻擊》效果。\n（攻擊中的此機體，會比對方優先給予傷害）",
     "zone": "宇宙 地球",
     "trait": "〔札夫特〕",
     "link": "尼可・阿瑪菲",
@@ -30897,7 +30897,7 @@
     "package_from": "[ST09] Destiny Ignition",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/R-030_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/reto/10084",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/684036/Resource R 030 Cplus"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "ST01-014_p6",
@@ -30935,7 +30935,7 @@
     "cost": "2",
     "color": "White",
     "type": "UNIT",
-    "effect": "【配置時】我方抽取1張卡牌。此後，丟棄我方的1張手牌。",
+    "effect": "【配備時】我方抽取1張卡牌。此後，丟棄我方的1張手牌。",
     "zone": "宇宙 地球",
     "trait": "〔地球聯合〕",
     "link": "基拉・大和",
@@ -31035,7 +31035,7 @@
     "cost": "1",
     "color": "White",
     "type": "BASE",
-    "effect": "【爆發】配置此卡牌。\n【配置時】將我方的1張護盾加入手牌。\n【啟動・主要】【每回合1次】②：選擇友方1張擁有《阻擋者》效果的機體。將其轉為活躍狀態，且本回合中，其無法攻擊。",
+    "effect": "【爆發】配置此卡牌。\n【配備時】將我方的1張護盾加入手牌。\n【起動・主要】【每回合1次】②：選擇友方1張擁有《阻擋者》效果的機體。將其轉為活躍狀態，且本回合中，其無法攻擊。",
     "zone": "宇宙 地球",
     "trait": "〔地球聯合〕 〔艦船〕",
     "link": "",
@@ -31060,7 +31060,7 @@
     "cost": "1",
     "color": "Red",
     "type": "BASE",
-    "effect": "【爆發】配置此卡牌。\n【配置時】將我方的1張護盾加入手牌。\n【啟動・主要】將此基地轉為休息狀態：選擇友方的1張機體。本回合中，使其AP+1。",
+    "effect": "【爆發】配置此卡牌。\n【配備時】將我方的1張護盾加入手牌。\n【起動・主要】將此基地轉為休息狀態：選擇友方的1張機體。本回合中，使其AP+1。",
     "zone": "宇宙",
     "trait": "〔札夫特〕 〔艦船〕",
     "link": "",
@@ -31085,7 +31085,7 @@
     "cost": "2",
     "color": "Purple",
     "type": "UNIT",
-    "effect": "【啟動・主要】②，將此機體放回到其持有者的卡組最下方：選擇我方廢棄區中1張Lv.4或更高等級的卡牌名稱中包含「衝擊高達」的機體卡牌。將其配置。",
+    "effect": "【起動・主要】②，將此機體放回到其持有者的卡組最下方：選擇我方廢棄區中1張Lv.4或更高等級的卡牌名稱中包含「衝擊高達」的機體卡牌。將其配置。",
     "zone": "宇宙 地球",
     "trait": "〔札夫特〕 〔智慧女神號隊〕",
     "link": "真・飛鳥",
@@ -31097,7 +31097,7 @@
     "package_from": "[ST09] Destiny Ignition",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/ST09-001.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st09/10008",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/684000/Impulse Gundam"
   },
   {
     "card_id": "ST09-001_p1",
@@ -31110,7 +31110,7 @@
     "cost": "2",
     "color": "Purple",
     "type": "UNIT",
-    "effect": "【啟動・主要】②，將此機體放回到其持有者的卡組最下方：選擇我方廢棄區中1張Lv.4或更高等級的卡牌名稱中包含「衝擊高達」的機體卡牌。將其配置。",
+    "effect": "【起動・主要】②，將此機體放回到其持有者的卡組最下方：選擇我方廢棄區中1張Lv.4或更高等級的卡牌名稱中包含「衝擊高達」的機體卡牌。將其配置。",
     "zone": "宇宙 地球",
     "trait": "〔札夫特〕 〔智慧女神號隊〕",
     "link": "真・飛鳥",
@@ -31235,7 +31235,7 @@
     "cost": "5",
     "color": "White",
     "type": "UNIT",
-    "effect": "《阻擋者》（可轉換為休息狀態並將攻擊對象改為此機體）\n友方護盾區中存在基地的期間，此機體獲得《壓制》效果。\n（透過攻擊對護盾造成的傷害，將被同時分配至最前方的2張）",
+    "effect": "《阻擋者》（可轉換為休息狀態並將攻擊對象改為此機體）\n友方護盾區中存在基地的期間，此機體獲得《制壓》效果。\n（透過攻擊對護盾造成的傷害，將被同時分配至最前方的2張）",
     "zone": "宇宙 地球",
     "trait": "〔歐普〕",
     "link": "基拉・大和",
@@ -31260,7 +31260,7 @@
     "cost": "5",
     "color": "White",
     "type": "UNIT",
-    "effect": "《阻擋者》（可轉換為休息狀態並將攻擊對象改為此機體）\n友方護盾區中存在基地的期間，此機體獲得《壓制》效果。\n（透過攻擊對護盾造成的傷害，將被同時分配至最前方的2張）",
+    "effect": "《阻擋者》（可轉換為休息狀態並將攻擊對象改為此機體）\n友方護盾區中存在基地的期間，此機體獲得《制壓》效果。\n（透過攻擊對護盾造成的傷害，將被同時分配至最前方的2張）",
     "zone": "宇宙 地球",
     "trait": "〔歐普〕",
     "link": "基拉・大和",
@@ -31335,7 +31335,7 @@
     "cost": "2",
     "color": "Purple",
     "type": "UNIT",
-    "effect": "【配置時】若此機體是從廢棄區中配置的，則選擇對方1張等級不高於Lv.3的機體。將其破壞。",
+    "effect": "【配備時】若此機體是從廢棄區中配置的，則選擇對方1張等級不高於Lv.3的機體。將其破壞。",
     "zone": "宇宙 地球",
     "trait": "〔札夫特〕 〔智慧女神號隊〕",
     "link": "特徵〔調整者〕 / 特徵〔智慧女神號隊〕",
@@ -31360,7 +31360,7 @@
     "cost": "2",
     "color": "Purple",
     "type": "UNIT",
-    "effect": "【配置時】若此機體是從廢棄區中配置的，則選擇對方1張等級不高於Lv.3的機體。將其破壞。",
+    "effect": "【配備時】若此機體是從廢棄區中配置的，則選擇對方1張等級不高於Lv.3的機體。將其破壞。",
     "zone": "宇宙 地球",
     "trait": "〔札夫特〕 〔智慧女神號隊〕",
     "link": "特徵〔調整者〕 / 特徵〔智慧女神號隊〕",
@@ -31522,7 +31522,7 @@
     "package_from": "[ST09] Destiny Ignition",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/ST09-009_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st09/10025",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/684034/Giant Killing Cplus"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "ST09-010",
@@ -31535,7 +31535,7 @@
     "cost": "1",
     "color": "Purple",
     "type": "BASE",
-    "effect": "【爆發】配置此卡牌。\n【配置時】將我方的1張護盾加入手牌。此後，若是我方的回合，則確認我方卡組最上方的2張卡牌，將其中的1張卡牌放回卡組最上方。剩餘的卡牌置於我方的廢棄區中。",
+    "effect": "【爆發】配置此卡牌。\n【配備時】將我方的1張護盾加入手牌。此後，若是我方的回合，則確認我方卡組最上方的2張卡牌，將其中的1張卡牌放回卡組最上方。剩餘的卡牌置於我方的廢棄區中。",
     "zone": "宇宙 地球",
     "trait": "〔札夫特〕 〔智慧女神號隊〕 〔艦船〕",
     "link": "",
@@ -31560,7 +31560,7 @@
     "cost": "1",
     "color": "Purple",
     "type": "BASE",
-    "effect": "【爆發】配置此卡牌。\n【配置時】將我方的1張護盾加入手牌。此後，若是我方的回合，則確認我方卡組最上方的2張卡牌，將其中的1張卡牌放回卡組最上方。剩餘的卡牌置於我方的廢棄區中。",
+    "effect": "【爆發】配置此卡牌。\n【配備時】將我方的1張護盾加入手牌。此後，若是我方的回合，則確認我方卡組最上方的2張卡牌，將其中的1張卡牌放回卡組最上方。剩餘的卡牌置於我方的廢棄區中。",
     "zone": "宇宙 地球",
     "trait": "〔札夫特〕 〔智慧女神號隊〕 〔艦船〕",
     "link": "",
@@ -31622,7 +31622,7 @@
     "package_from": "[ST10] Generation Pulse",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/EXR-003.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/reto/10116",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/701021/EX Resource EXR 003"
   },
   {
     "card_id": "R-041",
@@ -31697,7 +31697,7 @@
     "package_from": "[ST10] Generation Pulse",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/ST10-001_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st10/10002",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/702832/Zeta Gundam EX LRplus"
   },
   {
     "card_id": "ST10-002",
@@ -31710,7 +31710,7 @@
     "cost": "4",
     "color": "Blue",
     "type": "UNIT",
-    "effect": "【配置時・開發2】可以將我方廢棄區中指定數量的〔G世代〕卡牌從遊戲中移除。若那樣做的話，則發動以下效果。\n選擇對方1張HP不高於4的機體。將其轉為休息狀態。",
+    "effect": "【配備時・開発2】可以將我方廢棄區中指定數量的〔G世代〕卡牌從遊戲中移除。若那樣做的話，則發動以下效果。\n選擇對方1張HP不高於4的機體。將其轉為休息狀態。",
     "zone": "宇宙 地球",
     "trait": "〔G世代〕",
     "link": "特徵〔支援型〕 / 嘉美尤・維達",
@@ -31735,7 +31735,7 @@
     "cost": "4",
     "color": "Blue",
     "type": "UNIT",
-    "effect": "【配置時・開發2】可以將我方廢棄區中指定數量的〔G世代〕卡牌從遊戲中移除。若那樣做的話，則發動以下效果。\n選擇對方1張HP不高於4的機體。將其轉為休息狀態。",
+    "effect": "【配備時・開発2】可以將我方廢棄區中指定數量的〔G世代〕卡牌從遊戲中移除。若那樣做的話，則發動以下效果。\n選擇對方1張HP不高於4的機體。將其轉為休息狀態。",
     "zone": "宇宙 地球",
     "trait": "〔G世代〕",
     "link": "特徵〔支援型〕 / 嘉美尤・維達",
@@ -32010,7 +32010,7 @@
     "cost": "3",
     "color": "White",
     "type": "UNIT",
-    "effect": "【配置時・開發2】可以將我方廢棄區中指定數量的〔G世代〕卡牌從遊戲中移除。若那樣做的話，則發動以下效果。\n我方抽取等同於對方玩家人數的卡牌。此後，丟棄我方等同於透過此效果抽取的張數的手牌。",
+    "effect": "【配備時・開発2】可以將我方廢棄區中指定數量的〔G世代〕卡牌從遊戲中移除。若那樣做的話，則發動以下效果。\n我方抽取等同於對方玩家人數的卡牌。此後，丟棄我方等同於透過此效果抽取的張數的手牌。",
     "zone": "宇宙 地球",
     "trait": "〔G世代〕",
     "link": "特徵〔G世代〕",
@@ -32035,7 +32035,7 @@
     "cost": "3",
     "color": "White",
     "type": "UNIT",
-    "effect": "【配置時・開發2】可以將我方廢棄區中指定數量的〔G世代〕卡牌從遊戲中移除。若那樣做的話，則發動以下效果。\n我方抽取等同於對方玩家人數的卡牌。此後，丟棄我方等同於透過此效果抽取的張數的手牌。",
+    "effect": "【配備時・開発2】可以將我方廢棄區中指定數量的〔G世代〕卡牌從遊戲中移除。若那樣做的話，則發動以下效果。\n我方抽取等同於對方玩家人數的卡牌。此後，丟棄我方等同於透過此效果抽取的張數的手牌。",
     "zone": "宇宙 地球",
     "trait": "〔G世代〕",
     "link": "特徵〔G世代〕",
@@ -32047,7 +32047,7 @@
     "package_from": "[ST10] Generation Pulse",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/ST10-008_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st10/10016",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/702839/Gundam Barbatos 1st Form Cplus"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "ST10-009",
@@ -32397,7 +32397,7 @@
     "package_from": "[ST10] Generation Pulse",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/ST10-015_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st10/10030",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/702846/Diffuse Beam Cannon Cplus"
   },
   {
     "card_id": "ST10-016",
@@ -32410,7 +32410,7 @@
     "cost": "1",
     "color": "Blue",
     "type": "BASE",
-    "effect": "【爆發】配置此卡牌。\n【配置時】將我方的1張護盾加入手牌。此後，友方所有〔G世代〕的機體回復1點。",
+    "effect": "【爆發】配置此卡牌。\n【配備時】將我方的1張護盾加入手牌。此後，友方所有〔G世代〕的機體回復1點。",
     "zone": "宇宙 地球",
     "trait": "〔G世代〕 〔艦船〕",
     "link": "",
@@ -32435,7 +32435,7 @@
     "cost": "1",
     "color": "Blue",
     "type": "BASE",
-    "effect": "【爆發】配置此卡牌。\n【配置時】將我方的1張護盾加入手牌。此後，友方所有〔G世代〕的機體回復1點。",
+    "effect": "【爆發】配置此卡牌。\n【配備時】將我方的1張護盾加入手牌。此後，友方所有〔G世代〕的機體回復1點。",
     "zone": "宇宙 地球",
     "trait": "〔G世代〕 〔艦船〕",
     "link": "",
@@ -32460,7 +32460,7 @@
     "cost": "5",
     "color": "Blue",
     "type": "UNIT",
-    "effect": "【啟動・主要】【每回合1次】將我方廢棄區中2張指令卡牌從遊戲中移除：選擇對方1張受到過傷害且等級不高於Lv.7的機體。將其轉為休息狀態，且其在下個對方回合的起始階段中無法轉為活躍狀態。",
+    "effect": "【起動・主要】【每回合1次】將我方廢棄區中2張指令卡牌從遊戲中移除：選擇對方1張受到過傷害且等級不高於Lv.7的機體。將其轉為休息狀態，且其在下個對方回合的起始階段中無法轉為活躍狀態。",
     "zone": "宇宙 地球",
     "trait": "〔G世代〕",
     "link": "羅・裘爾",
@@ -32485,7 +32485,7 @@
     "cost": "5",
     "color": "Blue",
     "type": "UNIT",
-    "effect": "【啟動・主要】【每回合1次】將我方廢棄區中2張指令卡牌從遊戲中移除：選擇對方1張受到過傷害且等級不高於Lv.7的機體。將其轉為休息狀態，且其在下個對方回合的起始階段中無法轉為活躍狀態。",
+    "effect": "【起動・主要】【每回合1次】將我方廢棄區中2張指令卡牌從遊戲中移除：選擇對方1張受到過傷害且等級不高於Lv.7的機體。將其轉為休息狀態，且其在下個對方回合的起始階段中無法轉為活躍狀態。",
     "zone": "宇宙 地球",
     "trait": "〔G世代〕",
     "link": "羅・裘爾",
@@ -32510,7 +32510,7 @@
     "cost": "7",
     "color": "Blue",
     "type": "UNIT",
-    "effect": "【配置時】若友方戰鬥區中存在此機體以外的〔G世代〕機體，則選擇各對方玩家的1張機體。將其轉為休息狀態。\n【共鳴中】【攻擊時】【每回合1次】若戰鬥區中存在3張或更多此機體以外且休息狀態的機體，則將此機體轉為活躍狀態。",
+    "effect": "【配備時】若友方戰鬥區中存在此機體以外的〔G世代〕機體，則選擇各對方玩家的1張機體。將其轉為休息狀態。\n【共鳴中】【攻擊時】【每回合1次】若戰鬥區中存在3張或更多此機體以外且休息狀態的機體，則將此機體轉為活躍狀態。",
     "zone": "宇宙 地球",
     "trait": "〔G世代〕",
     "link": "特徵〔G世代〕",
@@ -32535,7 +32535,7 @@
     "cost": "7",
     "color": "Blue",
     "type": "UNIT",
-    "effect": "【配置時】若友方戰鬥區中存在此機體以外的〔G世代〕機體，則選擇各對方玩家的1張機體。將其轉為休息狀態。\n【共鳴中】【攻擊時】【每回合1次】若戰鬥區中存在3張或更多此機體以外且休息狀態的機體，則將此機體轉為活躍狀態。",
+    "effect": "【配備時】若友方戰鬥區中存在此機體以外的〔G世代〕機體，則選擇各對方玩家的1張機體。將其轉為休息狀態。\n【共鳴中】【攻擊時】【每回合1次】若戰鬥區中存在3張或更多此機體以外且休息狀態的機體，則將此機體轉為活躍狀態。",
     "zone": "宇宙 地球",
     "trait": "〔G世代〕",
     "link": "特徵〔G世代〕",
@@ -32647,7 +32647,7 @@
     "package_from": "[EB01] Eternal Nexus",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/EB01-004_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/eb01/10008",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/702819/Gundam Barbatos Lupus Rex EX Rplus"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "EB01-005",
@@ -32660,7 +32660,7 @@
     "cost": "6",
     "color": "Blue",
     "type": "UNIT",
-    "effect": "【配置時】選擇其他玩家1張休息狀態的機體。將其轉為活躍狀態，且我方抽取1張卡牌。",
+    "effect": "【配備時】選擇其他玩家1張休息狀態的機體。將其轉為活躍狀態，且我方抽取1張卡牌。",
     "zone": "宇宙 地球",
     "trait": "〔G世代〕",
     "link": "特徵〔支援型〕",
@@ -32685,7 +32685,7 @@
     "cost": "3",
     "color": "Blue",
     "type": "UNIT",
-    "effect": "【配置時】選擇我方的1張機體。本回合中，其獲得《修復1》效果。\n（當我方的回合結束時，此機體回復指定數值）",
+    "effect": "【配備時】選擇我方的1張機體。本回合中，其獲得《修復1》效果。\n（當我方的回合結束時，此機體回復指定數值）",
     "zone": "宇宙 地球",
     "trait": "〔G世代〕",
     "link": "特徵〔攻擊型〕",
@@ -32710,7 +32710,7 @@
     "cost": "3",
     "color": "Blue",
     "type": "UNIT",
-    "effect": "【配置時】選擇我方的1張機體。本回合中，其獲得《修復1》效果。\n（當我方的回合結束時，此機體回復指定數值）",
+    "effect": "【配備時】選擇我方的1張機體。本回合中，其獲得《修復1》效果。\n（當我方的回合結束時，此機體回復指定數值）",
     "zone": "宇宙 地球",
     "trait": "〔G世代〕",
     "link": "特徵〔攻擊型〕",
@@ -32760,7 +32760,7 @@
     "cost": "4",
     "color": "Blue",
     "type": "UNIT",
-    "effect": "【配置時・開發1】可以將我方廢棄區中指定數量的〔G世代〕卡牌從遊戲中移除。若那樣做的話，則發動以下效果。\n選擇友方的1張機體。使其回復2點。",
+    "effect": "【配備時・開発1】可以將我方廢棄區中指定數量的〔G世代〕卡牌從遊戲中移除。若那樣做的話，則發動以下效果。\n選擇友方的1張機體。使其回復2點。",
     "zone": "宇宙 地球",
     "trait": "〔G世代〕",
     "link": "特徵〔G世代〕",
@@ -32785,7 +32785,7 @@
     "cost": "4",
     "color": "Blue",
     "type": "UNIT",
-    "effect": "【配置時】所有對方玩家分別選擇自己1張活躍狀態的機體。將其轉為休息狀態。",
+    "effect": "【配備時】所有對方玩家分別選擇自己1張活躍狀態的機體。將其轉為休息狀態。",
     "zone": "宇宙 地球",
     "trait": "〔G世代〕",
     "link": "伊歐・弗萊明",
@@ -32810,7 +32810,7 @@
     "cost": "4",
     "color": "Blue",
     "type": "UNIT",
-    "effect": "【配置時】所有對方玩家分別選擇自己1張活躍狀態的機體。將其轉為休息狀態。",
+    "effect": "【配備時】所有對方玩家分別選擇自己1張活躍狀態的機體。將其轉為休息狀態。",
     "zone": "宇宙 地球",
     "trait": "〔G世代〕",
     "link": "伊歐・弗萊明",
@@ -32822,7 +32822,7 @@
     "package_from": "[EB01] Eternal Nexus",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/EB01-009_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/eb01/10015",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/702821/Gundam Full Armor Thunderbolt EX Uplus"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "EB01-010",
@@ -32835,7 +32835,7 @@
     "cost": "4",
     "color": "Blue",
     "type": "UNIT",
-    "effect": "【配置時・開發3】可以將我方廢棄區中指定數量的〔G世代〕卡牌從遊戲中移除。若那樣做的話，則發動以下效果。\n選擇對方1張休息狀態的機體。給予其2點傷害。",
+    "effect": "【配備時・開発3】可以將我方廢棄區中指定數量的〔G世代〕卡牌從遊戲中移除。若那樣做的話，則發動以下效果。\n選擇對方1張休息狀態的機體。給予其2點傷害。",
     "zone": "宇宙 地球",
     "trait": "〔G世代〕",
     "link": "",
@@ -32947,7 +32947,7 @@
     "package_from": "[EB01] Eternal Nexus",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/EB01-014.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/eb01/10020",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/700922/Gouf Vijayanta"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "EB01-015",
@@ -32997,7 +32997,7 @@
     "package_from": "[EB01] Eternal Nexus",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/EB01-016.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/eb01/10022",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/700924/Tornado Gundam"
   },
   {
     "card_id": "EB01-017",
@@ -33072,7 +33072,7 @@
     "package_from": "[EB01] Eternal Nexus",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/EB01-019.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/eb01/10025",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/700927/Gundam Pixy"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "EB01-020",
@@ -33085,7 +33085,7 @@
     "cost": "3",
     "color": "Blue",
     "type": "UNIT",
-    "effect": "【共鳴中】【啟動・瞬動】【每回合1次】選擇1張機體。使其回復1點。",
+    "effect": "【共鳴中】【起動・瞬動】【每回合1次】選擇1張機體。使其回復1點。",
     "zone": "宇宙 地球",
     "trait": "〔G世代〕",
     "link": "特徵〔耐久型〕",
@@ -33147,7 +33147,7 @@
     "package_from": "[EB01] Eternal Nexus",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/EB01-021_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/eb01/10028",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/702822/Build Strike Gundam Full Package EX LRplus"
   },
   {
     "card_id": "EB01-022",
@@ -33285,7 +33285,7 @@
     "cost": "5",
     "color": "Green",
     "type": "UNIT",
-    "effect": "【配置時・開發2】可以將我方廢棄區中指定數量的〔G世代〕卡牌從遊戲中移除。若那樣做的話，則發動以下效果。\n所有玩家放置1張EX能源。\n【搭乘中】對方能源區中存在EX能源的期間，此機體不會受到來自對方等級不高於Lv.5的機體的戰鬥傷害。",
+    "effect": "【配備時・開発2】可以將我方廢棄區中指定數量的〔G世代〕卡牌從遊戲中移除。若那樣做的話，則發動以下效果。\n所有玩家放置1張EX能源。\n【搭乘中】對方能源區中存在EX能源的期間，此機體不會受到來自對方等級不高於Lv.5的機體的戰鬥傷害。",
     "zone": "宇宙 地球",
     "trait": "〔G世代〕",
     "link": "特徵〔G世代〕",
@@ -33310,7 +33310,7 @@
     "cost": "5",
     "color": "Green",
     "type": "UNIT",
-    "effect": "【配置時・開發2】可以將我方廢棄區中指定數量的〔G世代〕卡牌從遊戲中移除。若那樣做的話，則發動以下效果。\n所有玩家放置1張EX能源。\n【搭乘中】對方能源區中存在EX能源的期間，此機體不會受到來自對方等級不高於Lv.5的機體的戰鬥傷害。",
+    "effect": "【配備時・開発2】可以將我方廢棄區中指定數量的〔G世代〕卡牌從遊戲中移除。若那樣做的話，則發動以下效果。\n所有玩家放置1張EX能源。\n【搭乘中】對方能源區中存在EX能源的期間，此機體不會受到來自對方等級不高於Lv.5的機體的戰鬥傷害。",
     "zone": "宇宙 地球",
     "trait": "〔G世代〕",
     "link": "特徵〔G世代〕",
@@ -33360,7 +33360,7 @@
     "cost": "3",
     "color": "Green",
     "type": "UNIT",
-    "effect": "【配置時・開發2】可以將我方廢棄區中指定數量的〔G世代〕卡牌從遊戲中移除。若那樣做的話，則發動以下效果。\n選擇友方1張〔G世代〕的機體。本回合中，其獲得《突破1》效果。\n（當透過攻擊破壞對方的機體時，給予該方護盾區最前方的1張卡牌指定數值的傷害）",
+    "effect": "【配備時・開発2】可以將我方廢棄區中指定數量的〔G世代〕卡牌從遊戲中移除。若那樣做的話，則發動以下效果。\n選擇友方1張〔G世代〕的機體。本回合中，其獲得《突破1》效果。\n（當透過攻擊破壞對方的機體時，給予該方護盾區最前方的1張卡牌指定數值的傷害）",
     "zone": "宇宙 地球",
     "trait": "〔G世代〕",
     "link": "特徵〔G世代〕",
@@ -33410,7 +33410,7 @@
     "cost": "4",
     "color": "Green",
     "type": "UNIT",
-    "effect": "【配置時】若對方戰鬥區中存在5張或更多機體，則給予所有擁有《阻擋者》效果且等級不高於Lv.4的機體2點傷害。",
+    "effect": "【配備時】若對方戰鬥區中存在5張或更多機體，則給予所有擁有《阻擋者》效果且等級不高於Lv.4的機體2點傷害。",
     "zone": "宇宙 地球",
     "trait": "〔G世代〕",
     "link": "特徵〔支援型〕",
@@ -33435,7 +33435,7 @@
     "cost": "4",
     "color": "Green",
     "type": "UNIT",
-    "effect": "【配置時】確認我方卡組最上方的3張卡牌，可以公開其中1張Lv.3的〔G世代〕機體卡牌並加入手牌。剩餘的卡牌隨機放回卡組最下方。",
+    "effect": "【配備時】確認我方卡組最上方的3張卡牌，可以公開其中1張Lv.3的〔G世代〕機體卡牌並加入手牌。剩餘的卡牌隨機放回卡組最下方。",
     "zone": "宇宙",
     "trait": "〔G世代〕",
     "link": "",
@@ -33510,7 +33510,7 @@
     "cost": "2",
     "color": "Green",
     "type": "UNIT",
-    "effect": "【啟動・瞬動】【每回合1次】①：選擇1張此機體以外的正在被攻擊的機體。本次戰鬥中，使其AP+1。",
+    "effect": "【起動・瞬動】【每回合1次】①：選擇1張此機體以外的正在被攻擊的機體。本次戰鬥中，使其AP+1。",
     "zone": "宇宙 地球",
     "trait": "〔G世代〕",
     "link": "",
@@ -33635,7 +33635,7 @@
     "cost": "3",
     "color": "Green",
     "type": "UNIT",
-    "effect": "【配置時】我方放置1張EX能源。",
+    "effect": "【配備時】我方放置1張EX能源。",
     "zone": "宇宙 地球",
     "trait": "〔G世代〕",
     "link": "",
@@ -33672,7 +33672,7 @@
     "package_from": "[EB01] Eternal Nexus",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/EB01-039.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/eb01/10049",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/700947/Rising Freedom Gundam"
   },
   {
     "card_id": "EB01-040",
@@ -33685,7 +33685,7 @@
     "cost": "7",
     "color": "Green",
     "type": "UNIT",
-    "effect": "【配置時】若對方玩家存在2名或更多，則選擇友方的1~3張機體。本回合中，其獲得《突破3》效果。\n（當透過攻擊破壞對方的機體時，給予該方護盾區最前方的1張卡牌指定數值的傷害）",
+    "effect": "【配備時】若對方玩家存在2名或更多，則選擇友方的1~3張機體。本回合中，其獲得《突破3》效果。\n（當透過攻擊破壞對方的機體時，給予該方護盾區最前方的1張卡牌指定數值的傷害）",
     "zone": "宇宙 地球",
     "trait": "〔G世代〕",
     "link": "特徵〔攻擊型〕",
@@ -33710,7 +33710,7 @@
     "cost": "6",
     "color": "White",
     "type": "UNIT",
-    "effect": "《高機動》（此機體不會被阻擋）\n【配置時】選擇各對方玩家1張HP不高於4的機體。將其放回到其持有者的手牌中。",
+    "effect": "《高機動》（此機體不會被阻擋）\n【配備時】選擇各對方玩家1張HP不高於4的機體。將其放回到其持有者的手牌中。",
     "zone": "宇宙 地球",
     "trait": "〔G世代〕",
     "link": "特徵〔攻擊型〕",
@@ -33735,7 +33735,7 @@
     "cost": "6",
     "color": "White",
     "type": "UNIT",
-    "effect": "《高機動》（此機體不會被阻擋）\n【配置時】選擇各對方玩家1張HP不高於4的機體。將其放回到其持有者的手牌中。",
+    "effect": "《高機動》（此機體不會被阻擋）\n【配備時】選擇各對方玩家1張HP不高於4的機體。將其放回到其持有者的手牌中。",
     "zone": "宇宙 地球",
     "trait": "〔G世代〕",
     "link": "特徵〔攻擊型〕",
@@ -33860,7 +33860,7 @@
     "cost": "5",
     "color": "White",
     "type": "UNIT",
-    "effect": "《阻擋者》（可轉換為休息狀態並將攻擊對象改為此機體）\n【配置時】若對方玩家存在2名或更多，則選擇機體數量最多的對方玩家的1張機體。將其放回到其持有者的手牌中。",
+    "effect": "《阻擋者》（可轉換為休息狀態並將攻擊對象改為此機體）\n【配備時】若對方玩家存在2名或更多，則選擇機體數量最多的對方玩家的1張機體。將其放回到其持有者的手牌中。",
     "zone": "宇宙 地球",
     "trait": "〔G世代〕",
     "link": "特徵〔耐久型〕",
@@ -33885,7 +33885,7 @@
     "cost": "5",
     "color": "White",
     "type": "UNIT",
-    "effect": "《阻擋者》（可轉換為休息狀態並將攻擊對象改為此機體）\n【配置時】若對方玩家存在2名或更多，則選擇機體數量最多的對方玩家的1張機體。將其放回到其持有者的手牌中。",
+    "effect": "《阻擋者》（可轉換為休息狀態並將攻擊對象改為此機體）\n【配備時】若對方玩家存在2名或更多，則選擇機體數量最多的對方玩家的1張機體。將其放回到其持有者的手牌中。",
     "zone": "宇宙 地球",
     "trait": "〔G世代〕",
     "link": "特徵〔耐久型〕",
@@ -33910,7 +33910,7 @@
     "cost": "5",
     "color": "White",
     "type": "UNIT",
-    "effect": "《壓制》（透過攻擊對護盾造成的傷害，將被同時分配至最前方的2張）\n【搭乘時】選擇對方1張擁有《修復》效果的機體。將其放回到其持有者的手牌中。",
+    "effect": "《制壓》（透過攻擊對護盾造成的傷害，將被同時分配至最前方的2張）\n【搭乘時】選擇對方1張擁有《修復》效果的機體。將其放回到其持有者的手牌中。",
     "zone": "宇宙 地球",
     "trait": "〔G世代〕",
     "link": "戴瑞・羅倫茲",
@@ -33935,7 +33935,7 @@
     "cost": "5",
     "color": "White",
     "type": "UNIT",
-    "effect": "《壓制》（透過攻擊對護盾造成的傷害，將被同時分配至最前方的2張）\n【搭乘時】選擇對方1張擁有《修復》效果的機體。將其放回到其持有者的手牌中。",
+    "effect": "《制壓》（透過攻擊對護盾造成的傷害，將被同時分配至最前方的2張）\n【搭乘時】選擇對方1張擁有《修復》效果的機體。將其放回到其持有者的手牌中。",
     "zone": "宇宙 地球",
     "trait": "〔G世代〕",
     "link": "戴瑞・羅倫茲",
@@ -34060,7 +34060,7 @@
     "cost": "4",
     "color": "White",
     "type": "UNIT",
-    "effect": "友方戰鬥區中存在擁有《阻擋者》效果的〔G世代〕機體期間，此機體獲得《壓制》效果。\n（透過攻擊對護盾造成的傷害，將被同時分配至最前方的2張）",
+    "effect": "友方戰鬥區中存在擁有《阻擋者》效果的〔G世代〕機體期間，此機體獲得《制壓》效果。\n（透過攻擊對護盾造成的傷害，將被同時分配至最前方的2張）",
     "zone": "地球",
     "trait": "〔G世代〕",
     "link": "",
@@ -34135,7 +34135,7 @@
     "cost": "2",
     "color": "White",
     "type": "UNIT",
-    "effect": "【配置時】若對方戰鬥區中存在3張或更多機體，則選擇對方1張HP不高於2的機體。將其放回到其持有者的手牌中。",
+    "effect": "【配備時】若對方戰鬥區中存在3張或更多機體，則選擇對方1張HP不高於2的機體。將其放回到其持有者的手牌中。",
     "zone": "地球",
     "trait": "〔G世代〕",
     "link": "特徵〔G世代〕",
@@ -34260,7 +34260,7 @@
     "cost": "2",
     "color": "White",
     "type": "UNIT",
-    "effect": "【配置時】可以選擇友方1張活躍狀態且Lv.3的機體。將其轉為休息狀態。若那樣做的話，則選擇對方1張等級不高於Lv.2的機體。將其放回到其持有者的手牌中。",
+    "effect": "【配備時】可以選擇友方1張活躍狀態且Lv.3的機體。將其轉為休息狀態。若那樣做的話，則選擇對方1張等級不高於Lv.2的機體。將其放回到其持有者的手牌中。",
     "zone": "宇宙 地球",
     "trait": "〔G世代〕",
     "link": "",
@@ -34372,7 +34372,7 @@
     "package_from": "[EB01] Eternal Nexus",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/EB01-061.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/eb01/10077",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/700969/Ellis Claude"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "EB01-062",
@@ -34422,7 +34422,7 @@
     "package_from": "[EB01] Eternal Nexus",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/EB01-063.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/eb01/10079",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/700971/Io Fleming"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "EB01-064",
@@ -34585,7 +34585,7 @@
     "cost": "1",
     "color": "White",
     "type": "PILOT",
-    "effect": "【爆發】此卡牌加入手牌。\n【共鳴中】【啟動・瞬動】【每回合1次】①：若是對方的回合，則選擇1張機體。本次戰鬥中，使其AP+1。",
+    "effect": "【爆發】此卡牌加入手牌。\n【共鳴中】【起動・瞬動】【每回合1次】①：若是對方的回合，則選擇1張機體。本次戰鬥中，使其AP+1。",
     "zone": "-",
     "trait": "〔G世代〕 〔支援型〕",
     "link": "",
@@ -34672,7 +34672,7 @@
     "package_from": "[EB01] Eternal Nexus",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/EB01-073.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/eb01/10089",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/700981/Character Requests"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "EB01-074",
@@ -34722,7 +34722,7 @@
     "package_from": "[EB01] Eternal Nexus",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/EB01-075.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/eb01/10091",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/700983/Fierce Enemy Assault"
   },
   {
     "card_id": "EB01-076",
@@ -34872,7 +34872,7 @@
     "package_from": "[EB01] Eternal Nexus",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/EB01-081.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/eb01/10097",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/700989/MAP Weapon"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "EB01-082",
@@ -34960,7 +34960,7 @@
     "cost": "1",
     "color": "Blue",
     "type": "BASE",
-    "effect": "【爆發】配置此卡牌。\n【配置時】將我方的1張護盾加入手牌。此後，可以選擇友方1張活躍狀態且藍色的〔G世代〕機體和對方的1張機體。將其轉為休息狀態。",
+    "effect": "【爆發】配置此卡牌。\n【配備時】將我方的1張護盾加入手牌。此後，可以選擇友方1張活躍狀態且藍色的〔G世代〕機體和對方的1張機體。將其轉為休息狀態。",
     "zone": "宇宙",
     "trait": "〔G世代〕 〔艦船〕",
     "link": "",
@@ -34985,7 +34985,7 @@
     "cost": "2",
     "color": "Blue",
     "type": "BASE",
-    "effect": "【爆發】配置此卡牌。\n【配置時】將我方的1張護盾加入手牌。\n【每回合1次】當友方〔G世代〕的機體共鳴時，本回合中，使其獲得《修復2》效果。\n（當我方的回合結束時，此機體回復指定數值）",
+    "effect": "【爆發】配置此卡牌。\n【配備時】將我方的1張護盾加入手牌。\n【每回合1次】當友方〔G世代〕的機體共鳴時，本回合中，使其獲得《修復2》效果。\n（當我方的回合結束時，此機體回復指定數值）",
     "zone": "宇宙",
     "trait": "〔G世代〕 〔艦船〕",
     "link": "",
@@ -34997,7 +34997,7 @@
     "package_from": "[EB01] Eternal Nexus",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/EB01-086.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/eb01/10102",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/700994/Kycilia Zabi and Gwazine"
   },
   {
     "card_id": "EB01-087",
@@ -35010,7 +35010,7 @@
     "cost": "2",
     "color": "Green",
     "type": "BASE",
-    "effect": "【爆發】配置此卡牌。\n【配置時】將我方的1張護盾加入手牌。\n【每回合1次】我方的回合中，當友方綠色的〔G世代〕機體透過戰鬥傷害破壞對方的機體時，選擇友方的1張機體。使其回復2點。",
+    "effect": "【爆發】配置此卡牌。\n【配備時】將我方的1張護盾加入手牌。\n【每回合1次】我方的回合中，當友方綠色的〔G世代〕機體透過戰鬥傷害破壞對方的機體時，選擇友方的1張機體。使其回復2點。",
     "zone": "宇宙 地球",
     "trait": "〔G世代〕 〔艦船〕",
     "link": "",
@@ -35035,7 +35035,7 @@
     "cost": "1",
     "color": "Green",
     "type": "BASE",
-    "effect": "【爆發】配置此卡牌。\n【配置時】將我方的1張護盾加入手牌。\n對方的回合中，友方所有Lv.3的〔G世代〕機體的AP+1。",
+    "effect": "【爆發】配置此卡牌。\n【配備時】將我方的1張護盾加入手牌。\n對方的回合中，友方所有Lv.3的〔G世代〕機體的AP+1。",
     "zone": "宇宙",
     "trait": "〔G世代〕 〔艦船〕",
     "link": "",
@@ -35060,7 +35060,7 @@
     "cost": "2",
     "color": "White",
     "type": "BASE",
-    "effect": "【爆發】配置此卡牌。\n【配置時】將我方的1張護盾加入手牌。此後，選擇友方1張休息狀態且白色的〔G世代〕機體。將其轉為活躍狀態，且本回合中，其無法攻擊。",
+    "effect": "【爆發】配置此卡牌。\n【配備時】將我方的1張護盾加入手牌。此後，選擇友方1張休息狀態且白色的〔G世代〕機體。將其轉為活躍狀態，且本回合中，其無法攻擊。",
     "zone": "宇宙",
     "trait": "〔G世代〕 〔艦船〕",
     "link": "",
@@ -35085,7 +35085,7 @@
     "cost": "2",
     "color": "White",
     "type": "BASE",
-    "effect": "【爆發】配置此卡牌。\n【配置時】將我方的1張護盾加入手牌。此後，若是我方的回合，則選擇各對方玩家1張HP不高於2的機體。將其放回到其持有者的手牌中。",
+    "effect": "【爆發】配置此卡牌。\n【配備時】將我方的1張護盾加入手牌。此後，若是我方的回合，則選擇各對方玩家1張HP不高於2的機體。將其放回到其持有者的手牌中。",
     "zone": "地球",
     "trait": "〔G世代〕 〔艦船〕",
     "link": "",
@@ -35147,7 +35147,7 @@
     "package_from": "[EB01] Eternal Nexus",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/T-025.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/reto/10117",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/701025/Gundam Exia T 025 Token"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "EXB-001_p7",
@@ -35360,7 +35360,7 @@
     "cost": "1",
     "color": "Blue",
     "type": "UNIT",
-    "effect": "【配置時】選擇對方1張休息狀態的機體。給予其1點傷害。",
+    "effect": "【配備時】選擇對方1張休息狀態的機體。給予其1點傷害。",
     "zone": "宇宙 地球",
     "trait": "〔地球聯邦〕 〔WB隊〕",
     "link": "",
@@ -35510,7 +35510,7 @@
     "cost": "3",
     "color": "Red",
     "type": "UNIT",
-    "effect": "【配置時】選擇對方的1張機體。給予其1點傷害。",
+    "effect": "【配備時】選擇對方的1張機體。給予其1點傷害。",
     "zone": "宇宙 地球",
     "trait": "〔新吉翁〕",
     "link": "",
@@ -35560,7 +35560,7 @@
     "cost": "2",
     "color": "White",
     "type": "UNIT",
-    "effect": "【啟動・主要】【每回合1次】①：選擇我方1張休息狀態且擁有《阻擋者》效果的白色的機體。將其轉為活躍狀態，且本回合中，其無法攻擊。",
+    "effect": "【起動・主要】【每回合1次】①：選擇我方1張休息狀態且擁有《阻擋者》效果的白色的機體。將其轉為活躍狀態，且本回合中，其無法攻擊。",
     "zone": "宇宙 地球",
     "trait": "〔三艦同盟〕",
     "link": "特徵〔歐普〕",
@@ -35810,7 +35810,7 @@
     "cost": "1",
     "color": "Green",
     "type": "BASE",
-    "effect": "【爆發】配置此卡牌。\n【配置時】將我方的1張護盾加入手牌。",
+    "effect": "【爆發】配置此卡牌。\n【配備時】將我方的1張護盾加入手牌。",
     "zone": "地球",
     "trait": "〔馬格亞那克隊〕 〔據點〕",
     "link": "",
@@ -35822,7 +35822,7 @@
     "package_from": "[SC01] 客製牌組盒 Freedom Ascension",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD01-126_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/gd01/10157",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/search/gundam-card-game/product?productLineName=gundam-card-game&view=grid&q=GD01-126%20C"
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/643275/Underground Desert Base"
   },
   {
     "card_id": "GD02-037_p2",
@@ -35835,7 +35835,7 @@
     "cost": "4",
     "color": "Red",
     "type": "UNIT",
-    "effect": "《突破1》（我方的回合中，當此機體透過戰鬥傷害破壞對方的機體時，給予該方護盾區最前方的1張卡牌指定數值的傷害）\n【配置時】若對方的護盾不多於3張，則選擇對方1張AP不高於5的機體。給予其2點傷害。",
+    "effect": "《突破1》（我方的回合中，當此機體透過戰鬥傷害破壞對方的機體時，給予該方護盾區最前方的1張卡牌指定數值的傷害）\n【配備時】若對方的護盾不多於3張，則選擇對方1張AP不高於5的機體。給予其2點傷害。",
     "zone": "宇宙 地球",
     "trait": "〔新聯邦〕",
     "link": "夏基亞・佛羅斯特",
@@ -35860,7 +35860,7 @@
     "cost": "4",
     "color": "Purple",
     "type": "UNIT",
-    "effect": "《阻擋者》（可轉換為休息狀態並將攻擊對象改為此機體）\n【配置時】選擇我方的1張機體和對方的1張機體。給予其1點傷害。",
+    "effect": "《阻擋者》（可轉換為休息狀態並將攻擊對象改為此機體）\n【配備時】選擇我方的1張機體和對方的1張機體。給予其1點傷害。",
     "zone": "宇宙 地球",
     "trait": "〔鐵華團〕 〔高達骨架〕",
     "link": "昭弘・亞特蘭大",
@@ -35885,7 +35885,7 @@
     "cost": "2",
     "color": "Purple",
     "type": "UNIT",
-    "effect": "【配置時】選擇我方的1張機體。給予其1點傷害。若那樣做的話，則我方抽取1張卡牌。此後，丟棄我方的1張手牌。",
+    "effect": "【配備時】選擇我方的1張機體。給予其1點傷害。若那樣做的話，則我方抽取1張卡牌。此後，丟棄我方的1張手牌。",
     "zone": "宇宙 地球",
     "trait": "〔鐵華團〕",
     "link": "特徵〔鐵華團〕",
@@ -35972,7 +35972,7 @@
     "package_from": "[SC01] 客製牌組盒 Freedom Ascension",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD03-097_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/gd03/10125",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/705695/Wistario Afam"
+    "TCGPlayer_URL": "https://www.tcgplayer.com/search/gundam-card-game/product?productLineName=gundam-card-game&view=grid&q=GD03-097%20C"
   },
   {
     "card_id": "GD03-129_p1",
@@ -35985,7 +35985,7 @@
     "cost": "1",
     "color": "Purple",
     "type": "BASE",
-    "effect": "【爆發】配置此卡牌。\n【配置時】將我方的1張護盾加入手牌。\n我方的回合中，當友方〔鐵華團〕/〔迪瓦茲〕的機體受到效果傷害時，可以將此基地轉為休息狀態。若那樣做的話，則將我方卡組最上方的1張卡牌，置於我方的廢棄區中。",
+    "effect": "【爆發】配置此卡牌。\n【配備時】將我方的1張護盾加入手牌。\n我方的回合中，當友方〔鐵華團〕/〔迪瓦茲〕的機體受到效果傷害時，可以將此基地轉為休息狀態。若那樣做的話，則將我方卡組最上方的1張卡牌，置於我方的廢棄區中。",
     "zone": "宇宙",
     "trait": "〔鐵華團〕 〔艦船〕",
     "link": "",
@@ -36235,7 +36235,7 @@
     "cost": "2",
     "color": "Red",
     "type": "BASE",
-    "effect": "【爆發】配置此卡牌。\n【配置時】將我方的1張護盾加入手牌。此後，選擇對方1張AP不高於5的機體。給予其1點傷害。",
+    "effect": "【爆發】配置此卡牌。\n【配備時】將我方的1張護盾加入手牌。此後，選擇對方1張AP不高於5的機體。給予其1點傷害。",
     "zone": "宇宙",
     "trait": "〔新吉翁〕 〔艦船〕",
     "link": "",
@@ -36310,7 +36310,7 @@
     "cost": "1",
     "color": "White",
     "type": "BASE",
-    "effect": "【爆發】配置此卡牌。\n【配置時】將我方的1張護盾加入手牌。\n【啟動・主要】【每回合1次】②：選擇友方1張擁有《阻擋者》效果的機體。將其轉為活躍狀態，且本回合中，其無法攻擊。",
+    "effect": "【爆發】配置此卡牌。\n【配備時】將我方的1張護盾加入手牌。\n【起動・主要】【每回合1次】②：選擇友方1張擁有《阻擋者》效果的機體。將其轉為活躍狀態，且本回合中，其無法攻擊。",
     "zone": "宇宙 地球",
     "trait": "〔地球聯合〕 〔艦船〕",
     "link": "",
@@ -36335,7 +36335,7 @@
     "cost": "4",
     "color": "Purple",
     "type": "UNIT",
-    "effect": "此機體受到傷害的期間，此機體獲得《壓制》效果。\n（透過攻擊對護盾造成的傷害，將被同時分配至最前方的2張）\n【配置時】選擇我方1張此機體以外的機體。給予其1點傷害，且本回合中，使其AP+1。",
+    "effect": "此機體受到傷害的期間，此機體獲得《制壓》效果。\n（透過攻擊對護盾造成的傷害，將被同時分配至最前方的2張）\n【配備時】選擇我方1張此機體以外的機體。給予其1點傷害，且本回合中，使其AP+1。",
     "zone": "宇宙 地球",
     "trait": "〔鐵華團〕 〔高達骨架〕",
     "link": "三日月・奧古斯",
@@ -36410,7 +36410,7 @@
     "cost": "1",
     "color": "Blue",
     "type": "BASE",
-    "effect": "【爆發】配置此卡牌。\n【配置時】將我方的1張護盾加入手牌。\n【啟動・主要】【每回合1次】②：選擇我方的1張機體。使其回復2點。",
+    "effect": "【爆發】配置此卡牌。\n【配備時】將我方的1張護盾加入手牌。\n【起動・主要】【每回合1次】②：選擇我方的1張機體。使其回復2點。",
     "zone": "地球",
     "trait": "〔地球聯邦〕 〔據點〕",
     "link": "",
@@ -36472,7 +36472,7 @@
     "package_from": "限定商品收錄卡牌",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/EXRP-005.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/exrp-100/10005",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/680937/EX Resource EXRP 005 Premium Card Collection Gundam Assemble PC01A"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "EXRP-006",
@@ -36522,7 +36522,7 @@
     "package_from": "限定商品收錄卡牌",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/EXRP-007.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/exrp-100/10007",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/680939/EX Resource EXRP 007 Premium Card Collection Gundam Assemble PC01A"
   },
   {
     "card_id": "EXRP-008",
@@ -36547,7 +36547,7 @@
     "package_from": "限定商品收錄卡牌",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/EXRP-008.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/exrp-100/10008",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/680940/EX Resource EXRP 008 Premium Card Collection Gundam Assemble PC01A"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "EXRP-009",
@@ -36685,7 +36685,7 @@
     "cost": "3",
     "color": "White",
     "type": "UNIT",
-    "effect": "《阻擋者》（可轉換為休息狀態並將攻擊對象改為此機體）\n【配置時】選擇對方1張HP1的機體。將其放回到持有者的手牌中。",
+    "effect": "《阻擋者》（可轉換為休息狀態並將攻擊對象改為此機體）\n【配備時】選擇對方1張HP1的機體。將其放回到持有者的手牌中。",
     "zone": "宇宙 地球",
     "trait": "〔三艦同盟〕",
     "link": "特徵〔地球聯合〕",
@@ -36922,7 +36922,7 @@
     "package_from": "限定商品收錄卡牌",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/RP-025.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/rp-100/10022",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/681971/Resource RP 025 Premium Accessory Set Mobile Suit Gundam Wing"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "RP-026",
@@ -36997,7 +36997,7 @@
     "package_from": "限定商品收錄卡牌",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/RP-028.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/rp-100/10025",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/681975/Resource RP 028 Premium Accessory Set Mobile Suit Gundam Wing"
   },
   {
     "card_id": "RP-029",
@@ -37047,7 +37047,7 @@
     "package_from": "限定商品收錄卡牌",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/RP-030.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/rp-100/10027",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/681977/Resource RP 030 Premium Accessory Set Mobile Suit Gundam Wing"
   },
   {
     "card_id": "RP-031",
@@ -37172,7 +37172,7 @@
     "package_from": "限定商品收錄卡牌",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/RP-035.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/rp-100/10034",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/698136/Resource RP 035 Premium Accessory Set Mobile Suit Gundam Iron Blooded Orphans"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "RP-036",
@@ -37222,7 +37222,7 @@
     "package_from": "限定商品收錄卡牌",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/RP-037.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/rp-100/10036",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/698138/Resource RP 037 Premium Accessory Set Mobile Suit Gundam Iron Blooded Orphans"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "RP-038",
@@ -37247,7 +37247,7 @@
     "package_from": "限定商品收錄卡牌",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/RP-038.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/rp-100/10037",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/698139/Resource RP 038 Premium Accessory Set Mobile Suit Gundam Iron Blooded Orphans"
   },
   {
     "card_id": "RP-039",
@@ -37347,7 +37347,7 @@
     "package_from": "限定商品收錄卡牌",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/RP-042.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/rp-100/10041",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/698143/Resource RP 042 Premium Accessory Set Mobile Suit Gundam Iron Blooded Orphans"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "RP-043",
@@ -37472,7 +37472,7 @@
     "package_from": "限定商品收錄卡牌",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/RP-048.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/rp-100/10060",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/708436/Resource RP 048 EVX07 Resource Set"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "RP-049",
@@ -37710,7 +37710,7 @@
     "cost": "4",
     "color": "Purple",
     "type": "UNIT",
-    "effect": "【配置時】選擇此機體以外的我方的1張機體。給予其1點傷害，且本回合中，使其AP+1。\n此機體受到傷害的期間，此機體獲得《壓制》效果。\n（透過攻擊對護盾造成的傷害，將被同時分配至最前方的兩張）",
+    "effect": "【配備時】選擇此機體以外的我方的1張機體。給予其1點傷害，且本回合中，使其AP+1。\n此機體受到傷害的期間，此機體獲得《制壓》效果。\n（透過攻擊對護盾造成的傷害，將被同時分配至最前方的兩張）",
     "zone": "宇宙 地球",
     "trait": "〔鐵華團〕 〔高達骨架〕",
     "link": "三日月・奧古斯",
@@ -37835,7 +37835,7 @@
     "cost": "3",
     "color": "Red",
     "type": "UNIT",
-    "effect": "【配置時】若我方戰鬥區中存在此機體以外的友方的〔戰團〕機體，則選擇對方的1張機體。給予其1點傷害。",
+    "effect": "【配備時】若我方戰鬥區中存在此機體以外的友方的〔戰團〕機體，則選擇對方的1張機體。給予其1點傷害。",
     "zone": "宇宙 地球",
     "trait": "〔戰團〕",
     "link": "天手讓葉（瑪秋）",
@@ -38160,7 +38160,7 @@
     "cost": "1",
     "color": "Blue",
     "type": "UNIT",
-    "effect": "【配置時】選擇對方1張休息狀態的機體。給予其1點傷害。",
+    "effect": "【配備時】選擇對方1張休息狀態的機體。給予其1點傷害。",
     "zone": "宇宙 地球",
     "trait": "〔地球聯邦〕 〔WB隊〕",
     "link": "",
@@ -38185,7 +38185,7 @@
     "cost": "2",
     "color": "Blue",
     "type": "UNIT",
-    "effect": "【配置時】選擇我方1張〔WB隊〕的機體。本回合中，其獲得《高機動》效果。\n（此機體不會被阻擋）",
+    "effect": "【配備時】選擇我方1張〔WB隊〕的機體。本回合中，其獲得《高機動》效果。\n（此機體不會被阻擋）",
     "zone": "宇宙 地球",
     "trait": "〔地球聯邦〕 〔WB隊〕",
     "link": "特徵〔WB隊〕",
@@ -38385,7 +38385,7 @@
     "cost": "3",
     "color": "Green",
     "type": "UNIT",
-    "effect": "【配置時】可以配置我方手牌中1張〔馬格亞那克隊〕的機體卡牌。",
+    "effect": "【配備時】可以配置我方手牌中1張〔馬格亞那克隊〕的機體卡牌。",
     "zone": "地球",
     "trait": "〔流星作戰〕",
     "link": "卡特爾・拉巴伯・溫拿",
@@ -38535,7 +38535,7 @@
     "cost": "3",
     "color": "White",
     "type": "UNIT",
-    "effect": "《阻擋者》（可轉換為休息狀態並將攻擊對象改為此機體）\n【配置時】選擇對方1張HP1的機體。將其放回到持有者的手牌中。",
+    "effect": "《阻擋者》（可轉換為休息狀態並將攻擊對象改為此機體）\n【配備時】選擇對方1張HP1的機體。將其放回到持有者的手牌中。",
     "zone": "宇宙 地球",
     "trait": "〔三艦同盟〕",
     "link": "特徵〔地球聯合〕",
@@ -38635,7 +38635,7 @@
     "cost": "2",
     "color": "White",
     "type": "UNIT",
-    "effect": "【配置時】選擇對方1張HP1的機體。將其放回到持有者的手牌中。",
+    "effect": "【配備時】選擇對方1張HP1的機體。將其放回到持有者的手牌中。",
     "zone": "宇宙 地球",
     "trait": "〔學園〕",
     "link": "特徵〔學園〕",
@@ -38835,7 +38835,7 @@
     "cost": "1",
     "color": "White",
     "type": "PILOT",
-    "effect": "【爆發】此卡牌加入手牌。\n【啟動・主要】【每回合1次】若對方擁有8張或更多手牌，則將此機體轉為活躍狀態，本回合中，此機體無法攻擊。",
+    "effect": "【爆發】此卡牌加入手牌。\n【起動・主要】【每回合1次】若對方擁有8張或更多手牌，則將此機體轉為活躍狀態，本回合中，此機體無法攻擊。",
     "zone": "-",
     "trait": "〔學園〕",
     "link": "",
@@ -39110,7 +39110,7 @@
     "cost": "1",
     "color": "Blue",
     "type": "BASE",
-    "effect": "【爆發】配置此卡牌。\n【配置時】將我方的1張盾牌加入手牌。\n【啟動・主要】將此基地轉為休息狀態：選擇友方的1張機體。使其回復1點。",
+    "effect": "【爆發】配置此卡牌。\n【配備時】將我方的1張盾牌加入手牌。\n【起動・主要】將此基地轉為休息狀態：選擇友方的1張機體。使其回復1點。",
     "zone": "宇宙",
     "trait": "〔地球聯邦〕 〔據點〕",
     "link": "",
@@ -39172,7 +39172,7 @@
     "package_from": "LIMITED BOX Ver.β",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/R-001_p5.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/limited1.0/10083",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/616677/Resource Cplus"
   },
   {
     "card_id": "ST01-001_p2",
@@ -39460,7 +39460,7 @@
     "cost": "2",
     "color": "Blue",
     "type": "BASE",
-    "effect": "【爆發】配置此卡牌。\n【配置時】將我方的1張盾牌加入手牌。\n【啟動・主要】【每回合1次】②：若我方戰鬥區中不存在機體，則配置1張「高達」（〔WB隊〕・AP3・HP3）的機體替代卡；若只存在1張機體，則配置1張「鋼加農」(〔WB隊〕・AP2・HP2)的機體替代卡；若存在2張或更多機體，則配置1張「鋼坦克」（〔WB隊〕・AP1・HP1）的機體替代卡。",
+    "effect": "【爆發】配置此卡牌。\n【配備時】將我方的1張盾牌加入手牌。\n【起動・主要】【每回合1次】②：若我方戰鬥區中不存在機體，則配置1張「高達」（〔WB隊〕・AP3・HP3）的機體替代卡；若只存在1張機體，則配置1張「鋼加農」(〔WB隊〕・AP2・HP2)的機體替代卡；若存在2張或更多機體，則配置1張「鋼坦克」（〔WB隊〕・AP1・HP1）的機體替代卡。",
     "zone": "宇宙 地球",
     "trait": "〔地球聯邦〕 〔WB隊〕 〔艦船〕",
     "link": "",
@@ -39485,7 +39485,7 @@
     "cost": "1",
     "color": "White",
     "type": "BASE",
-    "effect": "【爆發】配置此卡牌。\n【配置時】將我方的1張盾牌加入手牌。\n【啟動・主要】將此基地轉為休息狀態：本回合中，友方所有共鳴機體的AP+1。",
+    "effect": "【爆發】配置此卡牌。\n【配備時】將我方的1張盾牌加入手牌。\n【起動・主要】將此基地轉為休息狀態：本回合中，友方所有共鳴機體的AP+1。",
     "zone": "宇宙",
     "trait": "〔學園〕 〔據點〕",
     "link": "",
@@ -39560,7 +39560,7 @@
     "cost": "3",
     "color": "Green",
     "type": "UNIT",
-    "effect": "【配置時】我方放置1張EX能源。",
+    "effect": "【配備時】我方放置1張EX能源。",
     "zone": "宇宙 地球",
     "trait": "〔流星作戰〕",
     "link": "希洛・唯",
@@ -39685,7 +39685,7 @@
     "cost": "2",
     "color": "Green",
     "type": "BASE",
-    "effect": "【爆發】配置此卡牌。\n【配置時】將我方的1張盾牌加入手牌。此後，確認我方卡組最上方的2張卡牌，將其中各1張卡牌分別放回到最上方和最下方。",
+    "effect": "【爆發】配置此卡牌。\n【配備時】將我方的1張盾牌加入手牌。此後，確認我方卡組最上方的2張卡牌，將其中各1張卡牌分別放回到最上方和最下方。",
     "zone": "地球",
     "trait": "〔學園〕 〔據點〕",
     "link": "",
@@ -39810,7 +39810,7 @@
     "cost": "2",
     "color": "Green",
     "type": "BASE",
-    "effect": "【爆發】配置此卡牌。\n【配置時】將我方的1張盾牌加入手牌。此後，若是我方的回合，則配置1張「夏亞專用薩克Ⅱ」（〔吉翁〕・AP3・HP1）的休息狀態的機體替代卡。",
+    "effect": "【爆發】配置此卡牌。\n【配備時】將我方的1張盾牌加入手牌。此後，若是我方的回合，則配置1張「夏亞專用薩克Ⅱ」（〔吉翁〕・AP3・HP1）的休息狀態的機體替代卡。",
     "zone": "宇宙",
     "trait": "〔吉翁〕 〔艦船〕",
     "link": "",
@@ -39885,7 +39885,7 @@
     "cost": "2",
     "color": "White",
     "type": "UNIT",
-    "effect": "【配置時】我方抽取1張卡牌。此後，丟棄我方的1張手牌。",
+    "effect": "【配備時】我方抽取1張卡牌。此後，丟棄我方的1張手牌。",
     "zone": "宇宙 地球",
     "trait": "〔地球聯合〕",
     "link": "基拉・大和",
@@ -39972,7 +39972,7 @@
     "package_from": "LIMITED BOX Ver.β",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/ST04-013_p2.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st04/10025",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/616628/Hawk of Endymion"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "ST04-015_p2",
@@ -39985,7 +39985,7 @@
     "cost": "1",
     "color": "White",
     "type": "BASE",
-    "effect": "【爆發】配置此卡牌。\n【配置時】將我方的1張盾牌加入手牌。\n【啟動・主要】【每回合1次】②：選擇友方1張擁有《阻擋者》效果的機體。將其轉為活躍狀態，本回合中，其無法攻擊。",
+    "effect": "【爆發】配置此卡牌。\n【配備時】將我方的1張盾牌加入手牌。\n【起動・主要】【每回合1次】②：選擇友方1張擁有《阻擋者》效果的機體。將其轉為活躍狀態，本回合中，其無法攻擊。",
     "zone": "宇宙 地球",
     "trait": "〔地球聯合〕 〔艦船〕",
     "link": "",
@@ -40297,7 +40297,7 @@
     "package_from": "推廣卡",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/EXBP-005.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/exbp-100/10005",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/641568/EX Base EXBP 005 Bandai Card Games Fest 25 26"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "EXBP-006",
@@ -40347,7 +40347,7 @@
     "package_from": "推廣卡",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/EXBP-007.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/exbp-100/10007",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/653359/EX Base EXBP 007 G Generation Eternal Collaboration Pack"
   },
   {
     "card_id": "EXBP-008",
@@ -40547,7 +40547,7 @@
     "package_from": "推廣卡",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/EXBP-022.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/exbp-100/10015",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/691177/EX Base EXBP 022 Starter Deck Battle Event"
   },
   {
     "card_id": "EXBP-023",
@@ -40597,7 +40597,7 @@
     "package_from": "推廣卡",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/EXBP-024.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/exbp-100/10017",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/691179/EX Base EXBP 024 Starter Deck Battle Event"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "EXBP-029",
@@ -40622,7 +40622,7 @@
     "package_from": "推廣卡",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/EXBP-029.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=EXBP-029",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/709691/EX Base EXBP 029 SDCC 2026"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "EXBP-030",
@@ -40910,7 +40910,7 @@
     "cost": "1",
     "color": "Blue",
     "type": "UNIT",
-    "effect": "【配置時】選擇對方1張休息狀態的機體。給予其1點傷害。",
+    "effect": "【配備時】選擇對方1張休息狀態的機體。給予其1點傷害。",
     "zone": "宇宙 地球",
     "trait": "〔地球聯邦〕 〔WB隊〕",
     "link": "",
@@ -41035,7 +41035,7 @@
     "cost": "4",
     "color": "Green",
     "type": "UNIT",
-    "effect": "【啟動・主要】丟棄我方手牌中1張〔吉翁〕/〔新吉翁〕的機體卡牌：若此機體沒有被機師搭乘，則選擇我方廢棄區中1張等級不高於Lv.3的〔新人類〕的機師卡牌。將其搭乘此機體。",
+    "effect": "【起動・主要】丟棄我方手牌中1張〔吉翁〕/〔新吉翁〕的機體卡牌：若此機體沒有被機師搭乘，則選擇我方廢棄區中1張等級不高於Lv.3的〔新人類〕的機師卡牌。將其搭乘此機體。",
     "zone": "宇宙 地球",
     "trait": "〔吉翁〕",
     "link": "夏亞・阿茲那布爾",
@@ -41047,7 +41047,7 @@
     "package_from": "推廣卡",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD01-023_p2.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD01-023",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/643172/Chars Gelgoog"
   },
   {
     "card_id": "GD01-024_p2",
@@ -41060,7 +41060,7 @@
     "cost": "8",
     "color": "Green",
     "type": "UNIT",
-    "effect": "《高機動》（此機體不會被阻擋）\n【配置時】給予所有等級不高於Lv.5的機體3點傷害。",
+    "effect": "《高機動》（此機體不會被阻擋）\n【配備時】給予所有等級不高於Lv.5的機體3點傷害。",
     "zone": "宇宙 地球",
     "trait": "〔G小隊〕",
     "link": "希洛・唯",
@@ -41510,7 +41510,7 @@
     "cost": "1",
     "color": "White",
     "type": "PILOT",
-    "effect": "【爆發】此卡牌加入手牌。\n【啟動・瞬動】【每回合1次】若對方場上存在AP不高於1的機體，則此機體回復1點。",
+    "effect": "【爆發】此卡牌加入手牌。\n【起動・瞬動】【每回合1次】若對方場上存在AP不高於1的機體，則此機體回復1點。",
     "zone": "-",
     "trait": "〔學園〕",
     "link": "",
@@ -41535,7 +41535,7 @@
     "cost": "1",
     "color": "White",
     "type": "PILOT",
-    "effect": "【爆發】此卡牌加入手牌。\n【啟動・瞬動】【每回合1次】若對方場上存在AP不高於1的機體，則此機體回復1點。",
+    "effect": "【爆發】此卡牌加入手牌。\n【起動・瞬動】【每回合1次】若對方場上存在AP不高於1的機體，則此機體回復1點。",
     "zone": "-",
     "trait": "〔學園〕",
     "link": "",
@@ -41722,7 +41722,7 @@
     "package_from": "推廣卡",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD02-006_p2.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/promo-gd10/10073",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/688536/Forbidden Gundam Store Tournament Winner Pack 04"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "GD02-029_p1",
@@ -41810,7 +41810,7 @@
     "cost": "5",
     "color": "Red",
     "type": "UNIT",
-    "effect": "【共鳴時】本回合中，此機體獲得《壓制》效果。\n（透過攻擊對護盾造成的傷害，將被同時分配至最上方的2張）\n【搭乘中・〔新吉翁〕的機師】【攻擊時】選擇對方1張受到過傷害的機體。給予其2點傷害。",
+    "effect": "【共鳴時】本回合中，此機體獲得《制壓》效果。\n（透過攻擊對護盾造成的傷害，將被同時分配至最上方的2張）\n【搭乘中・〔新吉翁〕的機師】【攻擊時】選擇對方1張受到過傷害的機體。給予其2點傷害。",
     "zone": "宇宙 地球",
     "trait": "〔新吉翁〕",
     "link": "哈曼・坎恩",
@@ -41872,7 +41872,7 @@
     "package_from": "推廣卡",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD02-039_p2.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/promo-gd10/10075",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/688534/Haman Karns Gaza C Store Tournament Winner Pack 04"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "GD02-048_p1",
@@ -41897,7 +41897,7 @@
     "package_from": "推廣卡",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD02-048_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/gd02/10062",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/search/gundam-card-game/product?productLineName=gundam-card-game&view=grid&q=GD02-048%20C"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "GD02-048_p2",
@@ -41985,7 +41985,7 @@
     "cost": "2",
     "color": "Purple",
     "type": "UNIT",
-    "effect": "【配置時】選擇我方的1張機體。給予其1點傷害。若那樣做的話，則我方抽取1張卡牌。此後，丟棄我方的1張手牌。",
+    "effect": "【配備時】選擇我方的1張機體。給予其1點傷害。若那樣做的話，則我方抽取1張卡牌。此後，丟棄我方的1張手牌。",
     "zone": "宇宙 地球",
     "trait": "〔鐵華團〕",
     "link": "特徵〔鐵華團〕",
@@ -42010,7 +42010,7 @@
     "cost": "5",
     "color": "White",
     "type": "UNIT",
-    "effect": "【共鳴中】【啟動・主要】【每回合1次】選擇友方1張活躍狀態的基地。將其轉為休息狀態。若那樣做的話，則將此機體轉為活躍狀態，且本回合中，此機體無法選擇對方玩家作為攻擊對象。",
+    "effect": "【共鳴中】【起動・主要】【每回合1次】選擇友方1張活躍狀態的基地。將其轉為休息狀態。若那樣做的話，則將此機體轉為活躍狀態，且本回合中，此機體無法選擇對方玩家作為攻擊對象。",
     "zone": "宇宙 地球",
     "trait": "〔幽谷〕",
     "link": "嘉美尤・維達",
@@ -42585,7 +42585,7 @@
     "cost": "5",
     "color": "Blue",
     "type": "UNIT",
-    "effect": "《修復1》（當我方的回合結束時，此機體回復指定數值）\n【配置時】我方抽取1張卡牌。",
+    "effect": "《修復1》（當我方的回合結束時，此機體回復指定數值）\n【配備時】我方抽取1張卡牌。",
     "zone": "宇宙 地球",
     "trait": "〔新吉翁〕",
     "link": "瑪莉妲・庫魯斯",
@@ -42610,7 +42610,7 @@
     "cost": "5",
     "color": "Blue",
     "type": "UNIT",
-    "effect": "《修復1》（當我方的回合結束時，此機體回復指定數值）\n【配置時】我方抽取1張卡牌。",
+    "effect": "《修復1》（當我方的回合結束時，此機體回復指定數值）\n【配備時】我方抽取1張卡牌。",
     "zone": "宇宙 地球",
     "trait": "〔新吉翁〕",
     "link": "瑪莉妲・庫魯斯",
@@ -42622,7 +42622,7 @@
     "package_from": "推廣卡",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD03-005_p2.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD03-005",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/703782/Kshatriya Besserung Store Tournament Winner Pack 05"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "GD03-010_p2",
@@ -42710,7 +42710,7 @@
     "cost": "7",
     "color": "Green",
     "type": "UNIT",
-    "effect": "【配置時】選擇我方1張〔流星作戰〕/〔G小隊〕的機體。本回合中，其可以選擇對方活躍狀態的機體作為攻擊對象。",
+    "effect": "【配備時】選擇我方1張〔流星作戰〕/〔G小隊〕的機體。本回合中，其可以選擇對方活躍狀態的機體作為攻擊對象。",
     "zone": "宇宙 地球",
     "trait": "〔G小隊〕",
     "link": "迪歐・麥斯威爾",
@@ -42735,7 +42735,7 @@
     "cost": "7",
     "color": "Green",
     "type": "UNIT",
-    "effect": "【配置時】選擇我方1張〔流星作戰〕/〔G小隊〕的機體。本回合中，其可以選擇對方活躍狀態的機體作為攻擊對象。",
+    "effect": "【配備時】選擇我方1張〔流星作戰〕/〔G小隊〕的機體。本回合中，其可以選擇對方活躍狀態的機體作為攻擊對象。",
     "zone": "宇宙 地球",
     "trait": "〔G小隊〕",
     "link": "迪歐・麥斯威爾",
@@ -42797,7 +42797,7 @@
     "package_from": "推廣卡",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD03-024_p2.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD03-024",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/703784/Hy Gogg Store Tournament Winner Pack 05"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "GD03-027_p1",
@@ -42835,7 +42835,7 @@
     "cost": "7",
     "color": "Red",
     "type": "UNIT",
-    "effect": "《壓制》（透過攻擊對護盾造成的傷害，將被同時分配至最上方的2張）\n【配置時】選擇對方的1張機體。給予其3點傷害。",
+    "effect": "《制壓》（透過攻擊對護盾造成的傷害，將被同時分配至最上方的2張）\n【配備時】選擇對方的1張機體。給予其3點傷害。",
     "zone": "宇宙 地球",
     "trait": "〔戰團〕",
     "link": "天手讓葉（瑪秋） / 涅安",
@@ -42860,7 +42860,7 @@
     "cost": "6",
     "color": "Purple",
     "type": "UNIT",
-    "effect": "【啟動・主要】選擇我方廢棄區中3張〔鐵華團〕/〔迪瓦茲〕的機體卡牌。將其從遊戲中移除。若那樣做的話，則選擇對方的1張機體。給予其2點傷害。",
+    "effect": "【起動・主要】選擇我方廢棄區中3張〔鐵華團〕/〔迪瓦茲〕的機體卡牌。將其從遊戲中移除。若那樣做的話，則選擇對方的1張機體。給予其2點傷害。",
     "zone": "宇宙 地球",
     "trait": "〔鐵華團〕 〔高達骨架〕",
     "link": "三日月・奧古斯",
@@ -42960,7 +42960,7 @@
     "cost": "3",
     "color": "White",
     "type": "UNIT",
-    "effect": "《阻擋者》（可轉換為休息狀態並將攻擊對象改為此機體）\n【配置時】若我方戰鬥區中存在此機體以外的〔三艦同盟〕機體，則我方抽取1張卡牌。此後，丟棄我方的1張手牌。",
+    "effect": "《阻擋者》（可轉換為休息狀態並將攻擊對象改為此機體）\n【配備時】若我方戰鬥區中存在此機體以外的〔三艦同盟〕機體，則我方抽取1張卡牌。此後，丟棄我方的1張手牌。",
     "zone": "宇宙 地球",
     "trait": "〔三艦同盟〕",
     "link": "穆・拉・福拉卡",
@@ -42985,7 +42985,7 @@
     "cost": "3",
     "color": "White",
     "type": "UNIT",
-    "effect": "《阻擋者》（可轉換為休息狀態並將攻擊對象改為此機體）\n【配置時】若我方戰鬥區中存在此機體以外的〔三艦同盟〕機體，則我方抽取1張卡牌。此後，丟棄我方的1張手牌。",
+    "effect": "《阻擋者》（可轉換為休息狀態並將攻擊對象改為此機體）\n【配備時】若我方戰鬥區中存在此機體以外的〔三艦同盟〕機體，則我方抽取1張卡牌。此後，丟棄我方的1張手牌。",
     "zone": "宇宙 地球",
     "trait": "〔三艦同盟〕",
     "link": "穆・拉・福拉卡",
@@ -43197,7 +43197,7 @@
     "package_from": "推廣卡",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD03-092_p2.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/promo-gd10/10059",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/670587/Nyaan Store Tournament Winner Pack 03"
   },
   {
     "card_id": "GD03-100_p1",
@@ -43510,7 +43510,7 @@
     "cost": "5",
     "color": "Green",
     "type": "UNIT",
-    "effect": "【配置時】確認我方卡組最上方的3張卡牌，可以公開其中1張〔學園〕的機體卡牌/1張〔學園〕的指令卡牌並加入手牌。剩餘的卡牌隨機放回卡組最下方。",
+    "effect": "【配備時】確認我方卡組最上方的3張卡牌，可以公開其中1張〔學園〕的機體卡牌/1張〔學園〕的指令卡牌並加入手牌。剩餘的卡牌隨機放回卡組最下方。",
     "zone": "宇宙 地球",
     "trait": "〔學園〕",
     "link": "蘇萊塔・墨丘利",
@@ -43535,7 +43535,7 @@
     "cost": "2",
     "color": "Red",
     "type": "UNIT",
-    "effect": "【配置時】若對方戰鬥區中存在2張或更多機體，則選擇對方1張等級不高於Lv.2的機體。給予其2點傷害。",
+    "effect": "【配備時】若對方戰鬥區中存在2張或更多機體，則選擇對方1張等級不高於Lv.2的機體。給予其2點傷害。",
     "zone": "宇宙 地球",
     "trait": "〔CB〕 〔GN動力裝置〕",
     "link": "剎那・F・塞耶",
@@ -43560,7 +43560,7 @@
     "cost": "2",
     "color": "Purple",
     "type": "UNIT",
-    "effect": "【配置時】選擇對方1張等級不高於Lv.1/1張AP不高於1的機體。將其破壞。",
+    "effect": "【配備時】選擇對方1張等級不高於Lv.1/1張AP不高於1的機體。將其破壞。",
     "zone": "宇宙 地球",
     "trait": "〔CB〕 〔GN動力裝置〕",
     "link": "剎那・F・塞耶",
@@ -43572,7 +43572,7 @@
     "package_from": "推廣卡",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD04-063_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD04-063",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/689706/GN Armor Type E"
   },
   {
     "card_id": "GD04-066_p2",
@@ -43585,7 +43585,7 @@
     "cost": "5",
     "color": "White",
     "type": "UNIT",
-    "effect": "《壓制》（透過攻擊對護盾造成的傷害，將被同時分配至最上方的2張）\n當我方發動指令的【主要】/【瞬動】效果時，選擇對方的1張機體。本回合中，使其AP-2。",
+    "effect": "《制壓》（透過攻擊對護盾造成的傷害，將被同時分配至最上方的2張）\n當我方發動指令的【主要】/【瞬動】效果時，選擇對方的1張機體。本回合中，使其AP-2。",
     "zone": "宇宙 地球",
     "trait": "〔民間〕",
     "link": "巴納吉・林克斯",
@@ -43822,7 +43822,7 @@
     "package_from": "推廣卡",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD05-097_p2.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD05-097",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/705633/Domon Kasshu"
   },
   {
     "card_id": "GD05-100_p1",
@@ -44122,7 +44122,7 @@
     "package_from": "推廣卡",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/RP-008.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/rp-100/10002",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/646552/Resource RP 008 Resource Pack"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "RP-009",
@@ -44497,7 +44497,7 @@
     "package_from": "推廣卡",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/RP-023.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/rp-100/10043",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/682467/Resource RP 023 Event Pack 01"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "RP-044",
@@ -45035,7 +45035,7 @@
     "cost": "3",
     "color": "Green",
     "type": "UNIT",
-    "effect": "【配置時】我方放置1張EX能源。",
+    "effect": "【配備時】我方放置1張EX能源。",
     "zone": "宇宙 地球",
     "trait": "〔流星作戰〕",
     "link": "希洛・唯",
@@ -45060,7 +45060,7 @@
     "cost": "3",
     "color": "Green",
     "type": "UNIT",
-    "effect": "【配置時】我方放置1張EX能源。",
+    "effect": "【配備時】我方放置1張EX能源。",
     "zone": "宇宙 地球",
     "trait": "〔流星作戰〕",
     "link": "希洛・唯",
@@ -45222,7 +45222,7 @@
     "package_from": "推廣卡",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/ST03-011_p5.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=ST03-011",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/641510/Char Aznable"
+    "TCGPlayer_URL": "https://www.tcgplayer.com/search/gundam-card-game/product?productLineName=gundam-card-game&view=grid&q=ST03-011%20C"
   },
   {
     "card_id": "ST03-011_p6",
@@ -45285,7 +45285,7 @@
     "cost": "2",
     "color": "White",
     "type": "UNIT",
-    "effect": "【配置時】我方抽取1張卡牌。此後，丟棄我方的1張手牌。",
+    "effect": "【配備時】我方抽取1張卡牌。此後，丟棄我方的1張手牌。",
     "zone": "宇宙 地球",
     "trait": "〔地球聯合〕",
     "link": "基拉・大和",
@@ -45422,7 +45422,7 @@
     "package_from": "推廣卡",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/ST04-012_p2.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=ST04-012",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/641543/Striker Pack"
   },
   {
     "card_id": "ST04-015_p4",
@@ -45435,7 +45435,7 @@
     "cost": "1",
     "color": "White",
     "type": "BASE",
-    "effect": "【爆發】配置此卡牌。\n【配置時】將我方的1張護盾加入手牌。\n【啟動・主要】【每回合1次】②：選擇友方1張擁有《阻擋者》效果的機體。將其轉為活躍狀態，且本回合中，其無法攻擊。",
+    "effect": "【爆發】配置此卡牌。\n【配備時】將我方的1張護盾加入手牌。\n【起動・主要】【每回合1次】②：選擇友方1張擁有《阻擋者》效果的機體。將其轉為活躍狀態，且本回合中，其無法攻擊。",
     "zone": "宇宙 地球",
     "trait": "〔地球聯合〕 〔艦船〕",
     "link": "",
@@ -45460,7 +45460,7 @@
     "cost": "1",
     "color": "White",
     "type": "BASE",
-    "effect": "【爆發】配置此卡牌。\n【配置時】將我方的1張護盾加入手牌。\n【啟動・主要】【每回合1次】②：選擇友方1張擁有《阻擋者》效果的機體。將其轉為活躍狀態，且本回合中，其無法攻擊。",
+    "effect": "【爆發】配置此卡牌。\n【配備時】將我方的1張護盾加入手牌。\n【起動・主要】【每回合1次】②：選擇友方1張擁有《阻擋者》效果的機體。將其轉為活躍狀態，且本回合中，其無法攻擊。",
     "zone": "宇宙 地球",
     "trait": "〔地球聯合〕 〔艦船〕",
     "link": "",
@@ -45560,7 +45560,7 @@
     "cost": "1",
     "color": "Purple",
     "type": "BASE",
-    "effect": "【爆發】配置此卡牌。\n【配置時】將我方的1張護盾加入手牌。\n【啟動・主要】將此基地轉為休息狀態：選擇我方1張受到過傷害的機體。本回合中，使其AP+2。",
+    "effect": "【爆發】配置此卡牌。\n【配備時】將我方的1張護盾加入手牌。\n【起動・主要】將此基地轉為休息狀態：選擇我方1張受到過傷害的機體。本回合中，使其AP+2。",
     "zone": "宇宙",
     "trait": "〔鐵華團〕 〔艦船〕",
     "link": "",
@@ -45585,7 +45585,7 @@
     "cost": "3",
     "color": "Red",
     "type": "UNIT",
-    "effect": "【配置時】若我方戰鬥區中存在此機體以外的友方的〔戰團〕機體，則選擇對方的1張機體。給予其1點傷害。",
+    "effect": "【配備時】若我方戰鬥區中存在此機體以外的友方的〔戰團〕機體，則選擇對方的1張機體。給予其1點傷害。",
     "zone": "宇宙 地球",
     "trait": "〔戰團〕",
     "link": "天手讓葉（瑪秋）",
@@ -45960,7 +45960,7 @@
     "cost": "4",
     "color": "Red",
     "type": "UNIT",
-    "effect": "【配置時】選擇對方的1張機體。給予其1點傷害。",
+    "effect": "【配備時】選擇對方的1張機體。給予其1點傷害。",
     "zone": "宇宙 地球",
     "trait": "〔馬法狄〕",
     "link": "哈薩威・諾亞",
@@ -46072,7 +46072,7 @@
     "package_from": "推廣卡",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/T-022_p3.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=T-022",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/709386/Wire Guided Arm T 022 Token Right Hand World Championship Regionals 26 27 Season 2 Finalist"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "T-022_p4",
@@ -46097,7 +46097,7 @@
     "package_from": "推廣卡",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/T-022_p4.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=T-022",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/709386/Wire Guided Arm T 022 Token Right Hand World Championship Regionals 26 27 Season 2 Finalist"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "T-023_p1",
