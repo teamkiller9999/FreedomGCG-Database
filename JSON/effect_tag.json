@@ -830,5 +830,57 @@
     "zh-tw": "配置時・開發3",
     "zh-cn": "配置时・开发3",
     "th": "เมื่อลง・พัฒนา 3"
+  },
+  {
+    "effect_tag_id": "065",
+    "order": "065",
+    "master_id": "",
+    "mask": "Cost",
+    "color": "#FFFFFF",
+    "jp": "支払いリソース Ⓧ",
+    "en": "Paid CostⓍ",
+    "zh-hk": "支付資源 Ⓧ",
+    "zh-tw": "支付資源 Ⓧ",
+    "zh-cn": "支付资源 Ⓧ",
+    "th": "ข้อมูลเกี่ยวกับการชำระเงิน Ⓧ"
+  },
+  {
+    "effect_tag_id": "066",
+    "order": "066",
+    "master_id": "065",
+    "mask": "Cost",
+    "color": "#FFFFFF",
+    "jp": "①",
+    "en": "①",
+    "zh-hk": "①",
+    "zh-tw": "①",
+    "zh-cn": "①",
+    "th": "①"
+  },
+  {
+    "effect_tag_id": "067",
+    "order": "067",
+    "master_id": "065",
+    "mask": "Cost",
+    "color": "#FFFFFF",
+    "jp": "②",
+    "en": "②",
+    "zh-hk": "②",
+    "zh-tw": "②",
+    "zh-cn": "②",
+    "th": "②"
+  },
+  {
+    "effect_tag_id": "068",
+    "order": "068",
+    "master_id": "065",
+    "mask": "Cost",
+    "color": "#FFFFFF",
+    "jp": "④",
+    "en": "④",
+    "zh-hk": "④",
+    "zh-tw": "④",
+    "zh-cn": "④",
+    "th": "④"
   }
 ]
