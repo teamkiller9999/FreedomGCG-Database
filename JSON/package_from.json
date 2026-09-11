@@ -66,6 +66,50 @@
     "order": "006"
   },
   {
+    "package_id": "615014",
+    "package_from": "[ST14] Heavy Dominion",
+    "code": "ST14",
+    "jp": "[ST14] Heavy Dominion",
+    "en": "[ST14] Heavy Dominion",
+    "zh-tw": "[ST14] Heavy Dominion",
+    "zh-cn": "[ST14] Heavy Dominion",
+    "th": "[ST14] Heavy Dominion",
+    "order": "007"
+  },
+  {
+    "package_id": "615013",
+    "package_from": "[ST13] Silent Barrage",
+    "code": "ST13",
+    "jp": "[ST13] Silent Barrage",
+    "en": "[ST13] Silent Barrage",
+    "zh-tw": "[ST13] Silent Barrage",
+    "zh-cn": "[ST13] Silent Barrage",
+    "th": "[ST13] Silent Barrage",
+    "order": "008"
+  },
+  {
+    "package_id": "615012",
+    "package_from": "[ST12] Raging Onslaught",
+    "code": "ST12",
+    "jp": "[ST12] Raging Onslaught",
+    "en": "[ST12] Raging Onslaught",
+    "zh-tw": "[ST12] Raging Onslaught",
+    "zh-cn": "[ST12] Raging Onslaught",
+    "th": "[ST12] Raging Onslaught",
+    "order": "009"
+  },
+  {
+    "package_id": "615011",
+    "package_from": "[ST11] Aquatic Assault",
+    "code": "ST11",
+    "jp": "[ST11] Aquatic Assault",
+    "en": "[ST11] Aquatic Assault",
+    "zh-tw": "[ST11] Aquatic Assault",
+    "zh-cn": "[ST11] Aquatic Assault",
+    "th": "[ST11] Aquatic Assault",
+    "order": "010"
+  },
+  {
     "package_id": "615010",
     "package_from": "[ST10] Generation Pulse",
     "code": "ST10",
@@ -74,7 +118,7 @@
     "zh-tw": "[ST10] Generation Pulse",
     "zh-cn": "[ST10] Generation Pulse",
     "th": "[ST10] Generation Pulse",
-    "order": "007"
+    "order": "011"
   },
   {
     "package_id": "615009",
@@ -85,7 +129,7 @@
     "zh-tw": "[ST09] Destiny Ignition",
     "zh-cn": "[ST09] Destiny Ignition",
     "th": "[ST09] Destiny Ignition",
-    "order": "008"
+    "order": "012"
   },
   {
     "package_id": "615008",
@@ -96,7 +140,7 @@
     "zh-tw": "[ST08] Flash of Radiance",
     "zh-cn": "[ST08] Flash of Radiance",
     "th": "[ST08] Flash of Radiance",
-    "order": "009"
+    "order": "013"
   },
   {
     "package_id": "615007",
@@ -107,7 +151,7 @@
     "zh-tw": "[ST07] Celestial Drive",
     "zh-cn": "[ST07] Celestial Drive",
     "th": "[ST07] Celestial Drive",
-    "order": "010"
+    "order": "014"
   },
   {
     "package_id": "615006",
@@ -118,7 +162,7 @@
     "zh-tw": "[ST06] Clan Unity",
     "zh-cn": "[ST06] Clan Unity",
     "th": "[ST06] Clan Unity",
-    "order": "011"
+    "order": "015"
   },
   {
     "package_id": "615005",
@@ -129,7 +173,7 @@
     "zh-tw": "[ST05] Iron Bloom",
     "zh-cn": "[ST05] Iron Bloom",
     "th": "[ST05] Iron Bloom",
-    "order": "012"
+    "order": "016"
   },
   {
     "package_id": "615004",
@@ -140,7 +184,7 @@
     "zh-tw": "[ST04] SEED Strike",
     "zh-cn": "[ST04] SEED Strike",
     "th": "[ST04] SEED Strike",
-    "order": "013"
+    "order": "017"
   },
   {
     "package_id": "615003",
@@ -151,7 +195,7 @@
     "zh-tw": "[ST03] Zeon's Rush",
     "zh-cn": "[ST03] Zeon's Rush",
     "th": "[ST03] Zeon's Rush",
-    "order": "014"
+    "order": "018"
   },
   {
     "package_id": "615002",
@@ -162,7 +206,7 @@
     "zh-tw": "[ST02] Wings of Advance",
     "zh-cn": "[ST02] Wings of Advance",
     "th": "[ST02] Wings of Advance",
-    "order": "015"
+    "order": "019"
   },
   {
     "package_id": "615001",
@@ -173,7 +217,7 @@
     "zh-tw": "[ST01] Heroic Beginnings",
     "zh-cn": "[ST01] Heroic Beginnings",
     "th": "[ST01] Heroic Beginnings",
-    "order": "016"
+    "order": "020"
   },
   {
     "package_id": "615000",
@@ -184,7 +228,7 @@
     "zh-tw": "LIMITED BOX Ver.β",
     "zh-cn": "LIMITED BOX Ver.β",
     "th": "LIMITED BOX Ver.β",
-    "order": "017"
+    "order": "021"
   },
   {
     "package_id": "615901",
@@ -195,7 +239,7 @@
     "zh-tw": "推廣卡",
     "zh-cn": "推广卡",
     "th": "โปรโมชั่นการ์ด",
-    "order": "018"
+    "order": "022"
   },
   {
     "package_id": "615801",
@@ -206,7 +250,7 @@
     "zh-tw": "基本卡牌",
     "zh-cn": "基本卡牌",
     "th": "การ์ดสามัญ",
-    "order": "019"
+    "order": "023"
   },
   {
     "package_id": "615701",
@@ -217,7 +261,7 @@
     "zh-tw": "限定商品收錄卡牌",
     "zh-cn": "限定商品收录卡牌",
     "th": "บัตรผลิตภัณฑ์จำนวนจำกัด",
-    "order": "020"
+    "order": "024"
   },
   {
     "package_id": "615301",
@@ -228,6 +272,6 @@
     "zh-tw": "[SC01] 客製牌組盒 Freedom Ascension",
     "zh-cn": "[SC01] 客制牌组盒 Freedom Ascension",
     "th": "[SC01] Deck Build Box Freedom Ascension",
-    "order": "021"
+    "order": "025"
   }
 ]
