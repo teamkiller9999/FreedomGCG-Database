@@ -9213,5 +9213,7160 @@
     "card_id": "T-025",
     "date": "14/Sep/2026",
     "price": "0.4"
+  },
+  {
+    "card_id": "EB01-001",
+    "date": "16/Sep/2026",
+    "price": "0.85"
+  },
+  {
+    "card_id": "EB01-001_p1",
+    "date": "16/Sep/2026",
+    "price": "17.11"
+  },
+  {
+    "card_id": "EB01-002",
+    "date": "16/Sep/2026",
+    "price": "1.03"
+  },
+  {
+    "card_id": "EB01-002_p1",
+    "date": "16/Sep/2026",
+    "price": "19.91"
+  },
+  {
+    "card_id": "EB01-003",
+    "date": "16/Sep/2026",
+    "price": "0.18"
+  },
+  {
+    "card_id": "EB01-003_p1",
+    "date": "16/Sep/2026",
+    "price": "8.8"
+  },
+  {
+    "card_id": "EB01-004",
+    "date": "16/Sep/2026",
+    "price": "0.25"
+  },
+  {
+    "card_id": "EB01-006_p1",
+    "date": "16/Sep/2026",
+    "price": "6.83"
+  },
+  {
+    "card_id": "EB01-009_p1",
+    "date": "16/Sep/2026",
+    "price": "12.39"
+  },
+  {
+    "card_id": "EB01-021",
+    "date": "17/Sep/2026",
+    "price": "0.79"
+  },
+  {
+    "card_id": "EB01-021_p1",
+    "date": "17/Sep/2026",
+    "price": "8.83"
+  },
+  {
+    "card_id": "EB01-032",
+    "date": "17/Sep/2026",
+    "price": "2.38"
+  },
+  {
+    "card_id": "EB01-025_p1",
+    "date": "17/Sep/2026",
+    "price": "9.9"
+  },
+  {
+    "card_id": "EB01-036",
+    "date": "17/Sep/2026",
+    "price": "0.18"
+  },
+  {
+    "card_id": "EB01-022_p1",
+    "date": "17/Sep/2026",
+    "price": "18.11"
+  },
+  {
+    "card_id": "EB01-042",
+    "date": "17/Sep/2026",
+    "price": "2.29"
+  },
+  {
+    "card_id": "EB01-038",
+    "date": "17/Sep/2026",
+    "price": "0.23"
+  },
+  {
+    "card_id": "EB01-044_p1",
+    "date": "17/Sep/2026",
+    "price": "7.26"
+  },
+  {
+    "card_id": "EB01-041_p1",
+    "date": "17/Sep/2026",
+    "price": "22.41"
+  },
+  {
+    "card_id": "EB01-041",
+    "date": "17/Sep/2026",
+    "price": "1.29"
+  },
+  {
+    "card_id": "EB01-042_p1",
+    "date": "17/Sep/2026",
+    "price": "22.47"
+  },
+  {
+    "card_id": "EB01-006_p1",
+    "date": "17/Sep/2026",
+    "price": "6.73"
+  },
+  {
+    "card_id": "EB01-021",
+    "date": "17/Sep/2026",
+    "price": "0.78"
+  },
+  {
+    "card_id": "EB01-022",
+    "date": "17/Sep/2026",
+    "price": "1.08"
+  },
+  {
+    "card_id": "EB01-041",
+    "date": "17/Sep/2026",
+    "price": "1.28"
+  },
+  {
+    "card_id": "EB01-042",
+    "date": "17/Sep/2026",
+    "price": "2.28"
+  },
+  {
+    "card_id": "EB01-044_p1",
+    "date": "17/Sep/2026",
+    "price": "7.1"
+  },
+  {
+    "card_id": "EB01-045_p1",
+    "date": "17/Sep/2026",
+    "price": "19.36"
+  },
+  {
+    "card_id": "EB01-054",
+    "date": "17/Sep/2026",
+    "price": "2.56"
+  },
+  {
+    "card_id": "EB01-046_p1",
+    "date": "17/Sep/2026",
+    "price": "7"
+  },
+  {
+    "card_id": "EB01-056",
+    "date": "17/Sep/2026",
+    "price": "0.83"
+  },
+  {
+    "card_id": "EB01-065",
+    "date": "17/Sep/2026",
+    "price": "0.27"
+  },
+  {
+    "card_id": "EB01-079",
+    "date": "17/Sep/2026",
+    "price": "0.12"
+  },
+  {
+    "card_id": "EB01-077",
+    "date": "17/Sep/2026",
+    "price": "0.16"
+  },
+  {
+    "card_id": "EXBP-002",
+    "date": "17/Sep/2026",
+    "price": "20.36"
+  },
+  {
+    "card_id": "EXB-002",
+    "date": "17/Sep/2026",
+    "price": "0.27"
+  },
+  {
+    "card_id": "EXBP-006",
+    "date": "17/Sep/2026",
+    "price": "1"
+  },
+  {
+    "card_id": "EB01-088",
+    "date": "17/Sep/2026",
+    "price": "0.17"
+  },
+  {
+    "card_id": "EXBP-029",
+    "date": "17/Sep/2026",
+    "price": "49.86"
+  },
+  {
+    "card_id": "EXBP-021",
+    "date": "17/Sep/2026",
+    "price": "24.71"
+  },
+  {
+    "card_id": "EXBP-023",
+    "date": "17/Sep/2026",
+    "price": "68.11"
+  },
+  {
+    "card_id": "EXBP-027",
+    "date": "17/Sep/2026",
+    "price": "12.82"
+  },
+  {
+    "card_id": "EXBP-010",
+    "date": "17/Sep/2026",
+    "price": "0.43"
+  },
+  {
+    "card_id": "EXBP-025",
+    "date": "17/Sep/2026",
+    "price": "6.28"
+  },
+  {
+    "card_id": "EXBP-031",
+    "date": "17/Sep/2026",
+    "price": "86.27"
+  },
+  {
+    "card_id": "EXBP-026",
+    "date": "17/Sep/2026",
+    "price": "9.41"
+  },
+  {
+    "card_id": "EXBP-011",
+    "date": "17/Sep/2026",
+    "price": "43.16"
+  },
+  {
+    "card_id": "EXR-003",
+    "date": "17/Sep/2026",
+    "price": "4.45"
+  },
+  {
+    "card_id": "EXR-002_p1",
+    "date": "17/Sep/2026",
+    "price": "42.42"
+  },
+  {
+    "card_id": "EXR-006",
+    "date": "17/Sep/2026",
+    "price": "209.56"
+  },
+  {
+    "card_id": "EXR-009",
+    "date": "17/Sep/2026",
+    "price": "844.66"
+  },
+  {
+    "card_id": "EXR-008",
+    "date": "17/Sep/2026",
+    "price": "205.76"
+  },
+  {
+    "card_id": "EXR-004",
+    "date": "17/Sep/2026",
+    "price": "277.93"
+  },
+  {
+    "card_id": "EXR-007",
+    "date": "17/Sep/2026",
+    "price": "598.73"
+  },
+  {
+    "card_id": "EXR-011",
+    "date": "17/Sep/2026",
+    "price": "160.51"
+  },
+  {
+    "card_id": "EXRP-008",
+    "date": "17/Sep/2026",
+    "price": "13.62"
+  },
+  {
+    "card_id": "EXRP-007",
+    "date": "17/Sep/2026",
+    "price": "31.87"
+  },
+  {
+    "card_id": "EXRP-004",
+    "date": "17/Sep/2026",
+    "price": "65.12"
+  },
+  {
+    "card_id": "EXRP-010",
+    "date": "17/Sep/2026",
+    "price": "55.87"
+  },
+  {
+    "card_id": "EXRP-002",
+    "date": "17/Sep/2026",
+    "price": "60.56"
+  },
+  {
+    "card_id": "EXRP-001",
+    "date": "17/Sep/2026",
+    "price": "55.61"
+  },
+  {
+    "card_id": "EXRP-005",
+    "date": "17/Sep/2026",
+    "price": "33.34"
+  },
+  {
+    "card_id": "EXRP-009",
+    "date": "17/Sep/2026",
+    "price": "62.57"
+  },
+  {
+    "card_id": "EXRP-011",
+    "date": "17/Sep/2026",
+    "price": "17.38"
+  },
+  {
+    "card_id": "EXRP-014",
+    "date": "17/Sep/2026",
+    "price": "83.24"
+  },
+  {
+    "card_id": "EXRP-012",
+    "date": "17/Sep/2026",
+    "price": "14.19"
+  },
+  {
+    "card_id": "GD01-002_p3",
+    "date": "17/Sep/2026",
+    "price": "1.18"
+  },
+  {
+    "card_id": "GD01-002_p2",
+    "date": "17/Sep/2026",
+    "price": "68.13"
+  },
+  {
+    "card_id": "GD01-001",
+    "date": "17/Sep/2026",
+    "price": "2.61"
+  },
+  {
+    "card_id": "GD01-002",
+    "date": "17/Sep/2026",
+    "price": "1.18"
+  },
+  {
+    "card_id": "GD01-006_p1",
+    "date": "17/Sep/2026",
+    "price": "24.76"
+  },
+  {
+    "card_id": "GD01-003",
+    "date": "17/Sep/2026",
+    "price": "8.52"
+  },
+  {
+    "card_id": "GD01-006",
+    "date": "17/Sep/2026",
+    "price": "2.79"
+  },
+  {
+    "card_id": "GD01-007",
+    "date": "17/Sep/2026",
+    "price": "0.18"
+  },
+  {
+    "card_id": "GD01-016_p3",
+    "date": "17/Sep/2026",
+    "price": "18.8"
+  },
+  {
+    "card_id": "GD01-003_p1",
+    "date": "17/Sep/2026",
+    "price": "57.76"
+  },
+  {
+    "card_id": "GD01-020",
+    "date": "17/Sep/2026",
+    "price": "0.37"
+  },
+  {
+    "card_id": "GD01-024_p1",
+    "date": "17/Sep/2026",
+    "price": "335.69"
+  },
+  {
+    "card_id": "GD01-017",
+    "date": "17/Sep/2026",
+    "price": "0.11"
+  },
+  {
+    "card_id": "GD01-023",
+    "date": "17/Sep/2026",
+    "price": "7.3"
+  },
+  {
+    "card_id": "GD01-023_p2",
+    "date": "17/Sep/2026",
+    "price": "7.3"
+  },
+  {
+    "card_id": "GD01-024",
+    "date": "17/Sep/2026",
+    "price": "19.16"
+  },
+  {
+    "card_id": "GD01-022",
+    "date": "17/Sep/2026",
+    "price": "0.13"
+  },
+  {
+    "card_id": "GD01-025_p1",
+    "date": "17/Sep/2026",
+    "price": "50.73"
+  },
+  {
+    "card_id": "GD01-024_p2",
+    "date": "17/Sep/2026",
+    "price": "19.16"
+  },
+  {
+    "card_id": "GD01-027_p1",
+    "date": "17/Sep/2026",
+    "price": "22.78"
+  },
+  {
+    "card_id": "GD01-027",
+    "date": "17/Sep/2026",
+    "price": "0.61"
+  },
+  {
+    "card_id": "GD01-040_p1",
+    "date": "17/Sep/2026",
+    "price": "0.13"
+  },
+  {
+    "card_id": "GD01-041",
+    "date": "17/Sep/2026",
+    "price": "0.2"
+  },
+  {
+    "card_id": "GD01-040",
+    "date": "17/Sep/2026",
+    "price": "0.13"
+  },
+  {
+    "card_id": "GD01-041_p1",
+    "date": "17/Sep/2026",
+    "price": "0.2"
+  },
+  {
+    "card_id": "GD01-042",
+    "date": "17/Sep/2026",
+    "price": "0.14"
+  },
+  {
+    "card_id": "GD01-044",
+    "date": "17/Sep/2026",
+    "price": "26.6"
+  },
+  {
+    "card_id": "GD01-046_p1",
+    "date": "17/Sep/2026",
+    "price": "21.43"
+  },
+  {
+    "card_id": "GD01-048",
+    "date": "17/Sep/2026",
+    "price": "0.4"
+  },
+  {
+    "card_id": "GD01-046",
+    "date": "17/Sep/2026",
+    "price": "0.78"
+  },
+  {
+    "card_id": "GD01-045_p1",
+    "date": "17/Sep/2026",
+    "price": "11.07"
+  },
+  {
+    "card_id": "GD01-058",
+    "date": "17/Sep/2026",
+    "price": "0.08"
+  },
+  {
+    "card_id": "GD01-051_p2",
+    "date": "17/Sep/2026",
+    "price": "32.27"
+  },
+  {
+    "card_id": "GD01-056",
+    "date": "17/Sep/2026",
+    "price": "0.19"
+  },
+  {
+    "card_id": "GD01-050",
+    "date": "17/Sep/2026",
+    "price": "0.55"
+  },
+  {
+    "card_id": "GD01-054",
+    "date": "17/Sep/2026",
+    "price": "0.17"
+  },
+  {
+    "card_id": "GD01-054_p1",
+    "date": "17/Sep/2026",
+    "price": "0.17"
+  },
+  {
+    "card_id": "GD01-050_p1",
+    "date": "17/Sep/2026",
+    "price": "14.48"
+  },
+  {
+    "card_id": "GD01-057",
+    "date": "17/Sep/2026",
+    "price": "0.1"
+  },
+  {
+    "card_id": "GD01-060",
+    "date": "17/Sep/2026",
+    "price": "0.16"
+  },
+  {
+    "card_id": "GD01-066",
+    "date": "17/Sep/2026",
+    "price": "15.94"
+  },
+  {
+    "card_id": "GD01-067_p1",
+    "date": "17/Sep/2026",
+    "price": "154.32"
+  },
+  {
+    "card_id": "GD01-066_p1",
+    "date": "17/Sep/2026",
+    "price": "57.82"
+  },
+  {
+    "card_id": "GD01-069_p1",
+    "date": "17/Sep/2026",
+    "price": "24.9"
+  },
+  {
+    "card_id": "GD01-067_p2",
+    "date": "17/Sep/2026",
+    "price": "1065.17"
+  },
+  {
+    "card_id": "GD01-071",
+    "date": "17/Sep/2026",
+    "price": "1.2"
+  },
+  {
+    "card_id": "GD01-071_p1",
+    "date": "17/Sep/2026",
+    "price": "11.98"
+  },
+  {
+    "card_id": "GD01-086_p1",
+    "date": "17/Sep/2026",
+    "price": "0.99"
+  },
+  {
+    "card_id": "GD01-087_p1",
+    "date": "17/Sep/2026",
+    "price": "74.22"
+  },
+  {
+    "card_id": "GD01-086_p2",
+    "date": "17/Sep/2026",
+    "price": "0.99"
+  },
+  {
+    "card_id": "GD01-087_p3",
+    "date": "17/Sep/2026",
+    "price": "74.22"
+  },
+  {
+    "card_id": "GD01-086_p3",
+    "date": "17/Sep/2026",
+    "price": "0.99"
+  },
+  {
+    "card_id": "GD01-086",
+    "date": "17/Sep/2026",
+    "price": "0.99"
+  },
+  {
+    "card_id": "GD01-093_p1",
+    "date": "17/Sep/2026",
+    "price": "107.75"
+  },
+  {
+    "card_id": "GD01-096_p1",
+    "date": "17/Sep/2026",
+    "price": "49.93"
+  },
+  {
+    "card_id": "GD01-098_p2",
+    "date": "17/Sep/2026",
+    "price": "3.39"
+  },
+  {
+    "card_id": "GD01-104",
+    "date": "17/Sep/2026",
+    "price": "0.15"
+  },
+  {
+    "card_id": "GD01-105",
+    "date": "17/Sep/2026",
+    "price": "0.45"
+  },
+  {
+    "card_id": "GD01-106_p1",
+    "date": "17/Sep/2026",
+    "price": "0.7"
+  },
+  {
+    "card_id": "GD01-106",
+    "date": "17/Sep/2026",
+    "price": "0.7"
+  },
+  {
+    "card_id": "GD01-101",
+    "date": "17/Sep/2026",
+    "price": "0.37"
+  },
+  {
+    "card_id": "GD01-105_p1",
+    "date": "17/Sep/2026",
+    "price": "6.41"
+  },
+  {
+    "card_id": "GD01-105_p2",
+    "date": "17/Sep/2026",
+    "price": "0.45"
+  },
+  {
+    "card_id": "GD01-107_p3",
+    "date": "17/Sep/2026",
+    "price": "51.71"
+  },
+  {
+    "card_id": "GD01-111_p2",
+    "date": "17/Sep/2026",
+    "price": "90.07"
+  },
+  {
+    "card_id": "GD01-109",
+    "date": "17/Sep/2026",
+    "price": "0.17"
+  },
+  {
+    "card_id": "GD01-111_p1",
+    "date": "17/Sep/2026",
+    "price": "25.07"
+  },
+  {
+    "card_id": "GD01-119",
+    "date": "17/Sep/2026",
+    "price": "0.56"
+  },
+  {
+    "card_id": "GD02-002",
+    "date": "17/Sep/2026",
+    "price": "5.3"
+  },
+  {
+    "card_id": "GD02-002_p1",
+    "date": "17/Sep/2026",
+    "price": "142.17"
+  },
+  {
+    "card_id": "GD01-130",
+    "date": "17/Sep/2026",
+    "price": "0.07"
+  },
+  {
+    "card_id": "GD02-005",
+    "date": "17/Sep/2026",
+    "price": "0.46"
+  },
+  {
+    "card_id": "GD02-001_p1",
+    "date": "17/Sep/2026",
+    "price": "28.98"
+  },
+  {
+    "card_id": "GD02-005_p1",
+    "date": "17/Sep/2026",
+    "price": "48.85"
+  },
+  {
+    "card_id": "GD02-004",
+    "date": "17/Sep/2026",
+    "price": "0.16"
+  },
+  {
+    "card_id": "GD02-006_p2",
+    "date": "17/Sep/2026",
+    "price": "12.29"
+  },
+  {
+    "card_id": "GD01-128",
+    "date": "17/Sep/2026",
+    "price": "0.86"
+  },
+  {
+    "card_id": "GD02-001",
+    "date": "17/Sep/2026",
+    "price": "0.79"
+  },
+  {
+    "card_id": "GD02-015",
+    "date": "17/Sep/2026",
+    "price": "0.09"
+  },
+  {
+    "card_id": "GD02-020",
+    "date": "17/Sep/2026",
+    "price": "0.37"
+  },
+  {
+    "card_id": "GD02-020_p1",
+    "date": "17/Sep/2026",
+    "price": "5.74"
+  },
+  {
+    "card_id": "GD02-021",
+    "date": "17/Sep/2026",
+    "price": "2.47"
+  },
+  {
+    "card_id": "GD02-023_p1",
+    "date": "17/Sep/2026",
+    "price": "7.11"
+  },
+  {
+    "card_id": "GD02-024_p1",
+    "date": "17/Sep/2026",
+    "price": "11.45"
+  },
+  {
+    "card_id": "GD02-028",
+    "date": "17/Sep/2026",
+    "price": "0.11"
+  },
+  {
+    "card_id": "GD02-036_p2",
+    "date": "17/Sep/2026",
+    "price": "2.1"
+  },
+  {
+    "card_id": "GD02-039",
+    "date": "17/Sep/2026",
+    "price": "0.28"
+  },
+  {
+    "card_id": "GD02-036_p1",
+    "date": "17/Sep/2026",
+    "price": "25.05"
+  },
+  {
+    "card_id": "GD02-036",
+    "date": "17/Sep/2026",
+    "price": "2.1"
+  },
+  {
+    "card_id": "GD02-037_p1",
+    "date": "17/Sep/2026",
+    "price": "9.86"
+  },
+  {
+    "card_id": "GD02-038",
+    "date": "17/Sep/2026",
+    "price": "2.17"
+  },
+  {
+    "card_id": "GD02-039_p1",
+    "date": "17/Sep/2026",
+    "price": "0.28"
+  },
+  {
+    "card_id": "GD02-040_p1",
+    "date": "17/Sep/2026",
+    "price": "5.04"
+  },
+  {
+    "card_id": "GD02-041_p1",
+    "date": "17/Sep/2026",
+    "price": "6.08"
+  },
+  {
+    "card_id": "GD02-054_p1",
+    "date": "17/Sep/2026",
+    "price": "141.94"
+  },
+  {
+    "card_id": "GD02-059_p1",
+    "date": "17/Sep/2026",
+    "price": "10.83"
+  },
+  {
+    "card_id": "GD02-054",
+    "date": "17/Sep/2026",
+    "price": "34.95"
+  },
+  {
+    "card_id": "GD02-053",
+    "date": "17/Sep/2026",
+    "price": "0.65"
+  },
+  {
+    "card_id": "GD02-055_p1",
+    "date": "17/Sep/2026",
+    "price": "78.23"
+  },
+  {
+    "card_id": "GD02-056_p2",
+    "date": "17/Sep/2026",
+    "price": "29.2"
+  },
+  {
+    "card_id": "GD02-069_p1",
+    "date": "17/Sep/2026",
+    "price": "26.06"
+  },
+  {
+    "card_id": "GD02-069_p2",
+    "date": "17/Sep/2026",
+    "price": "0.63"
+  },
+  {
+    "card_id": "GD02-069",
+    "date": "17/Sep/2026",
+    "price": "0.63"
+  },
+  {
+    "card_id": "GD02-068",
+    "date": "17/Sep/2026",
+    "price": "0.12"
+  },
+  {
+    "card_id": "GD02-060_p1",
+    "date": "17/Sep/2026",
+    "price": "3.25"
+  },
+  {
+    "card_id": "GD02-079_p2",
+    "date": "17/Sep/2026",
+    "price": "52.2"
+  },
+  {
+    "card_id": "GD02-070",
+    "date": "17/Sep/2026",
+    "price": "0.37"
+  },
+  {
+    "card_id": "GD02-079",
+    "date": "17/Sep/2026",
+    "price": "1.62"
+  },
+  {
+    "card_id": "GD02-072",
+    "date": "17/Sep/2026",
+    "price": "0.21"
+  },
+  {
+    "card_id": "GD02-079_p1",
+    "date": "17/Sep/2026",
+    "price": "1.62"
+  },
+  {
+    "card_id": "GD02-080",
+    "date": "17/Sep/2026",
+    "price": "0.08"
+  },
+  {
+    "card_id": "GD02-071",
+    "date": "17/Sep/2026",
+    "price": "0.23"
+  },
+  {
+    "card_id": "GD02-073",
+    "date": "17/Sep/2026",
+    "price": "0.18"
+  },
+  {
+    "card_id": "GD02-091_p1",
+    "date": "17/Sep/2026",
+    "price": "25.33"
+  },
+  {
+    "card_id": "GD02-082",
+    "date": "17/Sep/2026",
+    "price": "0.09"
+  },
+  {
+    "card_id": "GD02-085_p1",
+    "date": "17/Sep/2026",
+    "price": "22.89"
+  },
+  {
+    "card_id": "GD02-085",
+    "date": "17/Sep/2026",
+    "price": "0.52"
+  },
+  {
+    "card_id": "GD02-087",
+    "date": "17/Sep/2026",
+    "price": "0.1"
+  },
+  {
+    "card_id": "GD02-097_p1",
+    "date": "17/Sep/2026",
+    "price": "14.62"
+  },
+  {
+    "card_id": "GD02-100",
+    "date": "17/Sep/2026",
+    "price": "0.26"
+  },
+  {
+    "card_id": "GD02-095_p2",
+    "date": "17/Sep/2026",
+    "price": "26.06"
+  },
+  {
+    "card_id": "GD02-099",
+    "date": "17/Sep/2026",
+    "price": "0.13"
+  },
+  {
+    "card_id": "GD02-100_p1",
+    "date": "17/Sep/2026",
+    "price": "5.05"
+  },
+  {
+    "card_id": "GD02-103_p1",
+    "date": "17/Sep/2026",
+    "price": "7.67"
+  },
+  {
+    "card_id": "GD02-104_p2",
+    "date": "17/Sep/2026",
+    "price": "6.56"
+  },
+  {
+    "card_id": "GD02-106_p1",
+    "date": "17/Sep/2026",
+    "price": "0.26"
+  },
+  {
+    "card_id": "GD02-107_p1",
+    "date": "17/Sep/2026",
+    "price": "9.23"
+  },
+  {
+    "card_id": "GD02-106",
+    "date": "17/Sep/2026",
+    "price": "0.26"
+  },
+  {
+    "card_id": "GD02-111",
+    "date": "17/Sep/2026",
+    "price": "0.28"
+  },
+  {
+    "card_id": "GD02-129_p1",
+    "date": "17/Sep/2026",
+    "price": "72.39"
+  },
+  {
+    "card_id": "GD02-129",
+    "date": "17/Sep/2026",
+    "price": "13.14"
+  },
+  {
+    "card_id": "GD02-120",
+    "date": "17/Sep/2026",
+    "price": "0.11"
+  },
+  {
+    "card_id": "GD02-125",
+    "date": "17/Sep/2026",
+    "price": "0.28"
+  },
+  {
+    "card_id": "GD02-126",
+    "date": "17/Sep/2026",
+    "price": "0.12"
+  },
+  {
+    "card_id": "GD03-010_p1",
+    "date": "17/Sep/2026",
+    "price": "13.06"
+  },
+  {
+    "card_id": "GD03-001",
+    "date": "17/Sep/2026",
+    "price": "6.03"
+  },
+  {
+    "card_id": "GD03-002",
+    "date": "17/Sep/2026",
+    "price": "0.79"
+  },
+  {
+    "card_id": "GD03-001_p1",
+    "date": "17/Sep/2026",
+    "price": "22.9"
+  },
+  {
+    "card_id": "GD03-006",
+    "date": "17/Sep/2026",
+    "price": "0.16"
+  },
+  {
+    "card_id": "GD03-003",
+    "date": "17/Sep/2026",
+    "price": "0.34"
+  },
+  {
+    "card_id": "GD03-010_p3",
+    "date": "17/Sep/2026",
+    "price": "13.06"
+  },
+  {
+    "card_id": "GD03-012",
+    "date": "17/Sep/2026",
+    "price": "0.11"
+  },
+  {
+    "card_id": "GD03-017_p1",
+    "date": "17/Sep/2026",
+    "price": "14.82"
+  },
+  {
+    "card_id": "GD03-017",
+    "date": "17/Sep/2026",
+    "price": "0.65"
+  },
+  {
+    "card_id": "GD03-016",
+    "date": "17/Sep/2026",
+    "price": "0.09"
+  },
+  {
+    "card_id": "GD03-018",
+    "date": "17/Sep/2026",
+    "price": "1"
+  },
+  {
+    "card_id": "GD03-019_p1",
+    "date": "17/Sep/2026",
+    "price": "9.2"
+  },
+  {
+    "card_id": "GD03-020_p1",
+    "date": "17/Sep/2026",
+    "price": "41.27"
+  },
+  {
+    "card_id": "GD03-018_p1",
+    "date": "17/Sep/2026",
+    "price": "46.61"
+  },
+  {
+    "card_id": "GD03-021_p2",
+    "date": "17/Sep/2026",
+    "price": "35.8"
+  },
+  {
+    "card_id": "GD03-022_p1",
+    "date": "17/Sep/2026",
+    "price": "10.31"
+  },
+  {
+    "card_id": "GD03-027",
+    "date": "17/Sep/2026",
+    "price": "0.08"
+  },
+  {
+    "card_id": "GD03-027_p1",
+    "date": "17/Sep/2026",
+    "price": "0.08"
+  },
+  {
+    "card_id": "GD03-033",
+    "date": "17/Sep/2026",
+    "price": "0.81"
+  },
+  {
+    "card_id": "GD03-035",
+    "date": "17/Sep/2026",
+    "price": "3.97"
+  },
+  {
+    "card_id": "GD03-032",
+    "date": "17/Sep/2026",
+    "price": "0.12"
+  },
+  {
+    "card_id": "GD03-033_p1",
+    "date": "17/Sep/2026",
+    "price": "20.88"
+  },
+  {
+    "card_id": "GD03-029",
+    "date": "17/Sep/2026",
+    "price": "0.08"
+  },
+  {
+    "card_id": "GD03-035_p1",
+    "date": "17/Sep/2026",
+    "price": "38.23"
+  },
+  {
+    "card_id": "GD03-036_p1",
+    "date": "17/Sep/2026",
+    "price": "7.07"
+  },
+  {
+    "card_id": "GD03-037_p1",
+    "date": "17/Sep/2026",
+    "price": "5.65"
+  },
+  {
+    "card_id": "GD03-039",
+    "date": "17/Sep/2026",
+    "price": "0.56"
+  },
+  {
+    "card_id": "GD03-039_p1",
+    "date": "17/Sep/2026",
+    "price": "41.11"
+  },
+  {
+    "card_id": "GD03-049",
+    "date": "17/Sep/2026",
+    "price": "6.2"
+  },
+  {
+    "card_id": "GD03-056",
+    "date": "17/Sep/2026",
+    "price": "7.13"
+  },
+  {
+    "card_id": "GD03-050_p1",
+    "date": "17/Sep/2026",
+    "price": "59.36"
+  },
+  {
+    "card_id": "GD03-056_p1",
+    "date": "17/Sep/2026",
+    "price": "151.95"
+  },
+  {
+    "card_id": "GD03-052_p1",
+    "date": "17/Sep/2026",
+    "price": "6.78"
+  },
+  {
+    "card_id": "GD03-053",
+    "date": "17/Sep/2026",
+    "price": "0.23"
+  },
+  {
+    "card_id": "GD03-053_p1",
+    "date": "17/Sep/2026",
+    "price": "9.32"
+  },
+  {
+    "card_id": "GD03-063_p2",
+    "date": "17/Sep/2026",
+    "price": "61.43"
+  },
+  {
+    "card_id": "GD03-069",
+    "date": "17/Sep/2026",
+    "price": "0.57"
+  },
+  {
+    "card_id": "GD03-066",
+    "date": "17/Sep/2026",
+    "price": "0.09"
+  },
+  {
+    "card_id": "GD03-070_p1",
+    "date": "17/Sep/2026",
+    "price": "54.1"
+  },
+  {
+    "card_id": "GD03-067",
+    "date": "17/Sep/2026",
+    "price": "0.08"
+  },
+  {
+    "card_id": "GD03-070",
+    "date": "17/Sep/2026",
+    "price": "0.67"
+  },
+  {
+    "card_id": "GD03-071_p1",
+    "date": "17/Sep/2026",
+    "price": "13.45"
+  },
+  {
+    "card_id": "GD03-069_p1",
+    "date": "17/Sep/2026",
+    "price": "14.83"
+  },
+  {
+    "card_id": "GD03-073",
+    "date": "17/Sep/2026",
+    "price": "0.16"
+  },
+  {
+    "card_id": "GD03-072",
+    "date": "17/Sep/2026",
+    "price": "0.41"
+  },
+  {
+    "card_id": "GD03-072_p1",
+    "date": "17/Sep/2026",
+    "price": "0.41"
+  },
+  {
+    "card_id": "GD03-073_p1",
+    "date": "17/Sep/2026",
+    "price": "5.08"
+  },
+  {
+    "card_id": "GD03-088_p1",
+    "date": "17/Sep/2026",
+    "price": "14.87"
+  },
+  {
+    "card_id": "GD03-094",
+    "date": "17/Sep/2026",
+    "price": "0.36"
+  },
+  {
+    "card_id": "GD03-090",
+    "date": "17/Sep/2026",
+    "price": "0.1"
+  },
+  {
+    "card_id": "GD03-091_p1",
+    "date": "17/Sep/2026",
+    "price": "13.32"
+  },
+  {
+    "card_id": "GD03-088",
+    "date": "17/Sep/2026",
+    "price": "0.29"
+  },
+  {
+    "card_id": "GD03-084",
+    "date": "17/Sep/2026",
+    "price": "0.44"
+  },
+  {
+    "card_id": "GD03-087_p2",
+    "date": "17/Sep/2026",
+    "price": "8.25"
+  },
+  {
+    "card_id": "GD03-084_p1",
+    "date": "17/Sep/2026",
+    "price": "20.57"
+  },
+  {
+    "card_id": "GD03-094_p1",
+    "date": "17/Sep/2026",
+    "price": "14.6"
+  },
+  {
+    "card_id": "GD03-101",
+    "date": "17/Sep/2026",
+    "price": "0.61"
+  },
+  {
+    "card_id": "GD03-101_p2",
+    "date": "17/Sep/2026",
+    "price": "0.61"
+  },
+  {
+    "card_id": "GD03-098_p1",
+    "date": "17/Sep/2026",
+    "price": "8.51"
+  },
+  {
+    "card_id": "GD03-101_p1",
+    "date": "17/Sep/2026",
+    "price": "14.96"
+  },
+  {
+    "card_id": "GD03-098",
+    "date": "17/Sep/2026",
+    "price": "0.23"
+  },
+  {
+    "card_id": "GD03-109",
+    "date": "17/Sep/2026",
+    "price": "7.98"
+  },
+  {
+    "card_id": "GD03-114_p1",
+    "date": "17/Sep/2026",
+    "price": "19.37"
+  },
+  {
+    "card_id": "GD03-109_p2",
+    "date": "17/Sep/2026",
+    "price": "7.98"
+  },
+  {
+    "card_id": "GD03-109_p1",
+    "date": "17/Sep/2026",
+    "price": "47.77"
+  },
+  {
+    "card_id": "GD03-110_p2",
+    "date": "17/Sep/2026",
+    "price": "4.6"
+  },
+  {
+    "card_id": "GD03-113_p2",
+    "date": "17/Sep/2026",
+    "price": "2.69"
+  },
+  {
+    "card_id": "GD03-117_p1",
+    "date": "17/Sep/2026",
+    "price": "0.53"
+  },
+  {
+    "card_id": "GD03-117",
+    "date": "17/Sep/2026",
+    "price": "0.53"
+  },
+  {
+    "card_id": "GD03-122",
+    "date": "17/Sep/2026",
+    "price": "0.09"
+  },
+  {
+    "card_id": "GD03-123",
+    "date": "17/Sep/2026",
+    "price": "0.14"
+  },
+  {
+    "card_id": "GD03-124",
+    "date": "17/Sep/2026",
+    "price": "0.09"
+  },
+  {
+    "card_id": "GD03-118_p1",
+    "date": "17/Sep/2026",
+    "price": "7.11"
+  },
+  {
+    "card_id": "GD03-118_p3",
+    "date": "17/Sep/2026",
+    "price": "7.11"
+  },
+  {
+    "card_id": "GD04-002",
+    "date": "17/Sep/2026",
+    "price": "0.36"
+  },
+  {
+    "card_id": "GD04-003",
+    "date": "17/Sep/2026",
+    "price": "4.82"
+  },
+  {
+    "card_id": "GD04-001",
+    "date": "17/Sep/2026",
+    "price": "0.53"
+  },
+  {
+    "card_id": "GD04-001_p1",
+    "date": "17/Sep/2026",
+    "price": "12.58"
+  },
+  {
+    "card_id": "GD04-002_p1",
+    "date": "17/Sep/2026",
+    "price": "11.04"
+  },
+  {
+    "card_id": "GD04-006",
+    "date": "17/Sep/2026",
+    "price": "0.79"
+  },
+  {
+    "card_id": "GD04-006_p1",
+    "date": "17/Sep/2026",
+    "price": "26.54"
+  },
+  {
+    "card_id": "GD04-016",
+    "date": "17/Sep/2026",
+    "price": "0.21"
+  },
+  {
+    "card_id": "GD04-018",
+    "date": "17/Sep/2026",
+    "price": "0.53"
+  },
+  {
+    "card_id": "GD04-018_p1",
+    "date": "17/Sep/2026",
+    "price": "7.17"
+  },
+  {
+    "card_id": "GD04-019",
+    "date": "17/Sep/2026",
+    "price": "0.2"
+  },
+  {
+    "card_id": "GD04-020",
+    "date": "17/Sep/2026",
+    "price": "0.24"
+  },
+  {
+    "card_id": "GD04-021_p1",
+    "date": "17/Sep/2026",
+    "price": "5.72"
+  },
+  {
+    "card_id": "GD04-022_p1",
+    "date": "17/Sep/2026",
+    "price": "4.53"
+  },
+  {
+    "card_id": "GD04-027",
+    "date": "17/Sep/2026",
+    "price": "0.06"
+  },
+  {
+    "card_id": "GD04-021",
+    "date": "17/Sep/2026",
+    "price": "0.23"
+  },
+  {
+    "card_id": "GD04-034_p1",
+    "date": "17/Sep/2026",
+    "price": "20.87"
+  },
+  {
+    "card_id": "GD04-034",
+    "date": "17/Sep/2026",
+    "price": "2.54"
+  },
+  {
+    "card_id": "GD04-033",
+    "date": "17/Sep/2026",
+    "price": "1.29"
+  },
+  {
+    "card_id": "GD04-029",
+    "date": "17/Sep/2026",
+    "price": "0.09"
+  },
+  {
+    "card_id": "GD04-033_p1",
+    "date": "17/Sep/2026",
+    "price": "18.95"
+  },
+  {
+    "card_id": "GD04-036",
+    "date": "17/Sep/2026",
+    "price": "0.25"
+  },
+  {
+    "card_id": "GD04-035",
+    "date": "17/Sep/2026",
+    "price": "0.15"
+  },
+  {
+    "card_id": "GD04-036_p1",
+    "date": "17/Sep/2026",
+    "price": "7.49"
+  },
+  {
+    "card_id": "GD04-046",
+    "date": "17/Sep/2026",
+    "price": "0.18"
+  },
+  {
+    "card_id": "GD04-049_p1",
+    "date": "17/Sep/2026",
+    "price": "15.44"
+  },
+  {
+    "card_id": "GD04-049",
+    "date": "17/Sep/2026",
+    "price": "0.41"
+  },
+  {
+    "card_id": "GD04-042_p1",
+    "date": "17/Sep/2026",
+    "price": "4.87"
+  },
+  {
+    "card_id": "GD04-037",
+    "date": "17/Sep/2026",
+    "price": "0.32"
+  },
+  {
+    "card_id": "GD04-050",
+    "date": "17/Sep/2026",
+    "price": "2.37"
+  },
+  {
+    "card_id": "GD04-050_p1",
+    "date": "17/Sep/2026",
+    "price": "57.49"
+  },
+  {
+    "card_id": "GD04-053_p1",
+    "date": "17/Sep/2026",
+    "price": "8.27"
+  },
+  {
+    "card_id": "GD04-054",
+    "date": "17/Sep/2026",
+    "price": "0.19"
+  },
+  {
+    "card_id": "GD04-051",
+    "date": "17/Sep/2026",
+    "price": "0.13"
+  },
+  {
+    "card_id": "GD04-062",
+    "date": "17/Sep/2026",
+    "price": "0.12"
+  },
+  {
+    "card_id": "GD04-061",
+    "date": "17/Sep/2026",
+    "price": "0.13"
+  },
+  {
+    "card_id": "GD04-064",
+    "date": "17/Sep/2026",
+    "price": "0.21"
+  },
+  {
+    "card_id": "GD04-068",
+    "date": "17/Sep/2026",
+    "price": "5.15"
+  },
+  {
+    "card_id": "GD04-065_p1",
+    "date": "17/Sep/2026",
+    "price": "20.8"
+  },
+  {
+    "card_id": "GD04-067_p1",
+    "date": "17/Sep/2026",
+    "price": "25.88"
+  },
+  {
+    "card_id": "GD04-081",
+    "date": "17/Sep/2026",
+    "price": "0.98"
+  },
+  {
+    "card_id": "GD04-081_p1",
+    "date": "17/Sep/2026",
+    "price": "27.07"
+  },
+  {
+    "card_id": "GD04-076",
+    "date": "17/Sep/2026",
+    "price": "0.07"
+  },
+  {
+    "card_id": "GD04-071_p1",
+    "date": "17/Sep/2026",
+    "price": "6.75"
+  },
+  {
+    "card_id": "GD04-069",
+    "date": "17/Sep/2026",
+    "price": "0.15"
+  },
+  {
+    "card_id": "GD04-071",
+    "date": "17/Sep/2026",
+    "price": "0.13"
+  },
+  {
+    "card_id": "GD04-093",
+    "date": "17/Sep/2026",
+    "price": "0.21"
+  },
+  {
+    "card_id": "GD04-085_p2",
+    "date": "17/Sep/2026",
+    "price": "0.86"
+  },
+  {
+    "card_id": "GD04-089",
+    "date": "17/Sep/2026",
+    "price": "0.3"
+  },
+  {
+    "card_id": "GD04-092",
+    "date": "17/Sep/2026",
+    "price": "0.07"
+  },
+  {
+    "card_id": "GD04-085",
+    "date": "17/Sep/2026",
+    "price": "0.86"
+  },
+  {
+    "card_id": "GD04-085_p1",
+    "date": "17/Sep/2026",
+    "price": "123.9"
+  },
+  {
+    "card_id": "GD04-089_p1",
+    "date": "17/Sep/2026",
+    "price": "20.6"
+  },
+  {
+    "card_id": "GD04-097_p1",
+    "date": "17/Sep/2026",
+    "price": "17.3"
+  },
+  {
+    "card_id": "GD04-095_p1",
+    "date": "17/Sep/2026",
+    "price": "22.32"
+  },
+  {
+    "card_id": "GD04-105_p1",
+    "date": "17/Sep/2026",
+    "price": "8.66"
+  },
+  {
+    "card_id": "GD04-102_p1",
+    "date": "17/Sep/2026",
+    "price": "17.68"
+  },
+  {
+    "card_id": "GD04-101_p2",
+    "date": "17/Sep/2026",
+    "price": "29.9"
+  },
+  {
+    "card_id": "GD04-100",
+    "date": "17/Sep/2026",
+    "price": "0.07"
+  },
+  {
+    "card_id": "GD04-114_p1",
+    "date": "17/Sep/2026",
+    "price": "1.83"
+  },
+  {
+    "card_id": "GD04-110_p1",
+    "date": "17/Sep/2026",
+    "price": "16.34"
+  },
+  {
+    "card_id": "GD04-113",
+    "date": "17/Sep/2026",
+    "price": "0.33"
+  },
+  {
+    "card_id": "GD04-109",
+    "date": "17/Sep/2026",
+    "price": "1.08"
+  },
+  {
+    "card_id": "GD04-117_p1",
+    "date": "17/Sep/2026",
+    "price": "29.49"
+  },
+  {
+    "card_id": "GD04-126",
+    "date": "17/Sep/2026",
+    "price": "0.08"
+  },
+  {
+    "card_id": "GD04-117",
+    "date": "17/Sep/2026",
+    "price": "2.59"
+  },
+  {
+    "card_id": "GD04-117_p2",
+    "date": "17/Sep/2026",
+    "price": "2.59"
+  },
+  {
+    "card_id": "GD04-121",
+    "date": "17/Sep/2026",
+    "price": "0.54"
+  },
+  {
+    "card_id": "GD05-003",
+    "date": "17/Sep/2026",
+    "price": "0.21"
+  },
+  {
+    "card_id": "GD05-001_p1",
+    "date": "17/Sep/2026",
+    "price": "7.44"
+  },
+  {
+    "card_id": "GD05-001",
+    "date": "17/Sep/2026",
+    "price": "0.24"
+  },
+  {
+    "card_id": "GD04-129",
+    "date": "17/Sep/2026",
+    "price": "0.17"
+  },
+  {
+    "card_id": "GD05-002_p1",
+    "date": "17/Sep/2026",
+    "price": "73.84"
+  },
+  {
+    "card_id": "GD05-004_p1",
+    "date": "17/Sep/2026",
+    "price": "14.43"
+  },
+  {
+    "card_id": "GD05-002",
+    "date": "17/Sep/2026",
+    "price": "7.43"
+  },
+  {
+    "card_id": "GD05-011",
+    "date": "17/Sep/2026",
+    "price": "0.09"
+  },
+  {
+    "card_id": "GD05-005",
+    "date": "17/Sep/2026",
+    "price": "0.36"
+  },
+  {
+    "card_id": "GD05-017",
+    "date": "17/Sep/2026",
+    "price": "1.81"
+  },
+  {
+    "card_id": "GD05-006",
+    "date": "17/Sep/2026",
+    "price": "0.18"
+  },
+  {
+    "card_id": "GD05-015",
+    "date": "17/Sep/2026",
+    "price": "0.13"
+  },
+  {
+    "card_id": "GD05-016",
+    "date": "17/Sep/2026",
+    "price": "0.11"
+  },
+  {
+    "card_id": "GD05-006_p1",
+    "date": "17/Sep/2026",
+    "price": "3.63"
+  },
+  {
+    "card_id": "GD05-018_p1",
+    "date": "17/Sep/2026",
+    "price": "23.69"
+  },
+  {
+    "card_id": "GD05-018",
+    "date": "17/Sep/2026",
+    "price": "0.4"
+  },
+  {
+    "card_id": "GD05-019",
+    "date": "17/Sep/2026",
+    "price": "0.55"
+  },
+  {
+    "card_id": "GD05-021_p1",
+    "date": "17/Sep/2026",
+    "price": "9.02"
+  },
+  {
+    "card_id": "GD05-020",
+    "date": "17/Sep/2026",
+    "price": "0.5"
+  },
+  {
+    "card_id": "GD05-021",
+    "date": "17/Sep/2026",
+    "price": "0.16"
+  },
+  {
+    "card_id": "GD05-017_p1",
+    "date": "17/Sep/2026",
+    "price": "36.57"
+  },
+  {
+    "card_id": "GD05-017_p2",
+    "date": "17/Sep/2026",
+    "price": "1552.13"
+  },
+  {
+    "card_id": "GD05-020_p1",
+    "date": "17/Sep/2026",
+    "price": "32.37"
+  },
+  {
+    "card_id": "GD05-028",
+    "date": "17/Sep/2026",
+    "price": "0.12"
+  },
+  {
+    "card_id": "GD05-030",
+    "date": "17/Sep/2026",
+    "price": "0.1"
+  },
+  {
+    "card_id": "GD05-032",
+    "date": "17/Sep/2026",
+    "price": "0.09"
+  },
+  {
+    "card_id": "GD05-034",
+    "date": "17/Sep/2026",
+    "price": "0.29"
+  },
+  {
+    "card_id": "GD05-033_p1",
+    "date": "17/Sep/2026",
+    "price": "31"
+  },
+  {
+    "card_id": "GD05-033",
+    "date": "17/Sep/2026",
+    "price": "1.34"
+  },
+  {
+    "card_id": "GD05-034_p1",
+    "date": "17/Sep/2026",
+    "price": "10.95"
+  },
+  {
+    "card_id": "GD05-033_p2",
+    "date": "17/Sep/2026",
+    "price": "1150.31"
+  },
+  {
+    "card_id": "GD05-046",
+    "date": "17/Sep/2026",
+    "price": "0.11"
+  },
+  {
+    "card_id": "GD05-036",
+    "date": "17/Sep/2026",
+    "price": "0.19"
+  },
+  {
+    "card_id": "GD05-037_p1",
+    "date": "17/Sep/2026",
+    "price": "5.36"
+  },
+  {
+    "card_id": "GD05-045",
+    "date": "17/Sep/2026",
+    "price": "0.07"
+  },
+  {
+    "card_id": "GD05-038",
+    "date": "17/Sep/2026",
+    "price": "0.17"
+  },
+  {
+    "card_id": "GD05-035_p1",
+    "date": "17/Sep/2026",
+    "price": "10.7"
+  },
+  {
+    "card_id": "GD05-049_p1",
+    "date": "17/Sep/2026",
+    "price": "33.14"
+  },
+  {
+    "card_id": "GD05-051",
+    "date": "17/Sep/2026",
+    "price": "0.37"
+  },
+  {
+    "card_id": "GD05-052_p1",
+    "date": "17/Sep/2026",
+    "price": "13.92"
+  },
+  {
+    "card_id": "GD05-050",
+    "date": "17/Sep/2026",
+    "price": "3.31"
+  },
+  {
+    "card_id": "GD05-054",
+    "date": "17/Sep/2026",
+    "price": "0.17"
+  },
+  {
+    "card_id": "GD05-049",
+    "date": "17/Sep/2026",
+    "price": "0.63"
+  },
+  {
+    "card_id": "GD05-048",
+    "date": "17/Sep/2026",
+    "price": "0.11"
+  },
+  {
+    "card_id": "GD05-053",
+    "date": "17/Sep/2026",
+    "price": "0.25"
+  },
+  {
+    "card_id": "GD05-051_p1",
+    "date": "17/Sep/2026",
+    "price": "6.99"
+  },
+  {
+    "card_id": "GD05-055",
+    "date": "17/Sep/2026",
+    "price": "0.16"
+  },
+  {
+    "card_id": "GD05-065",
+    "date": "17/Sep/2026",
+    "price": "0.13"
+  },
+  {
+    "card_id": "GD05-066_p1",
+    "date": "17/Sep/2026",
+    "price": "39.17"
+  },
+  {
+    "card_id": "GD05-061",
+    "date": "17/Sep/2026",
+    "price": "0.1"
+  },
+  {
+    "card_id": "GD05-067",
+    "date": "17/Sep/2026",
+    "price": "1.34"
+  },
+  {
+    "card_id": "GD05-064",
+    "date": "17/Sep/2026",
+    "price": "0.12"
+  },
+  {
+    "card_id": "GD05-055_p1",
+    "date": "17/Sep/2026",
+    "price": "7.84"
+  },
+  {
+    "card_id": "GD05-066",
+    "date": "17/Sep/2026",
+    "price": "2.55"
+  },
+  {
+    "card_id": "GD05-067_p1",
+    "date": "17/Sep/2026",
+    "price": "87.07"
+  },
+  {
+    "card_id": "GD05-068",
+    "date": "17/Sep/2026",
+    "price": "0.31"
+  },
+  {
+    "card_id": "GD05-070_p1",
+    "date": "17/Sep/2026",
+    "price": "8.41"
+  },
+  {
+    "card_id": "GD05-076",
+    "date": "17/Sep/2026",
+    "price": "0.11"
+  },
+  {
+    "card_id": "GD05-070",
+    "date": "17/Sep/2026",
+    "price": "0.22"
+  },
+  {
+    "card_id": "GD05-069",
+    "date": "17/Sep/2026",
+    "price": "0.84"
+  },
+  {
+    "card_id": "GD05-068_p1",
+    "date": "17/Sep/2026",
+    "price": "15.74"
+  },
+  {
+    "card_id": "GD05-077",
+    "date": "17/Sep/2026",
+    "price": "0.12"
+  },
+  {
+    "card_id": "GD05-089",
+    "date": "17/Sep/2026",
+    "price": "1.67"
+  },
+  {
+    "card_id": "GD05-085",
+    "date": "17/Sep/2026",
+    "price": "1.1"
+  },
+  {
+    "card_id": "GD05-078",
+    "date": "17/Sep/2026",
+    "price": "0.14"
+  },
+  {
+    "card_id": "GD05-090",
+    "date": "17/Sep/2026",
+    "price": "0.18"
+  },
+  {
+    "card_id": "GD05-089_p1",
+    "date": "17/Sep/2026",
+    "price": "52.77"
+  },
+  {
+    "card_id": "GD05-090_p1",
+    "date": "17/Sep/2026",
+    "price": "14.7"
+  },
+  {
+    "card_id": "GD05-081",
+    "date": "17/Sep/2026",
+    "price": "1.24"
+  },
+  {
+    "card_id": "GD05-098",
+    "date": "17/Sep/2026",
+    "price": "0.34"
+  },
+  {
+    "card_id": "GD05-093_p1",
+    "date": "17/Sep/2026",
+    "price": "27.51"
+  },
+  {
+    "card_id": "GD05-098_p1",
+    "date": "17/Sep/2026",
+    "price": "20.32"
+  },
+  {
+    "card_id": "GD05-093",
+    "date": "17/Sep/2026",
+    "price": "0.55"
+  },
+  {
+    "card_id": "GD05-097_p2",
+    "date": "17/Sep/2026",
+    "price": "0.75"
+  },
+  {
+    "card_id": "GD05-097_p1",
+    "date": "17/Sep/2026",
+    "price": "44.99"
+  },
+  {
+    "card_id": "GD05-097",
+    "date": "17/Sep/2026",
+    "price": "0.75"
+  },
+  {
+    "card_id": "GD05-102",
+    "date": "17/Sep/2026",
+    "price": "0.18"
+  },
+  {
+    "card_id": "GD05-106",
+    "date": "17/Sep/2026",
+    "price": "0.19"
+  },
+  {
+    "card_id": "GD05-110",
+    "date": "17/Sep/2026",
+    "price": "3.9"
+  },
+  {
+    "card_id": "GD05-110_p1",
+    "date": "17/Sep/2026",
+    "price": "3.9"
+  },
+  {
+    "card_id": "GD05-108",
+    "date": "17/Sep/2026",
+    "price": "0.11"
+  },
+  {
+    "card_id": "GD05-105",
+    "date": "17/Sep/2026",
+    "price": "0.12"
+  },
+  {
+    "card_id": "GD05-112",
+    "date": "17/Sep/2026",
+    "price": "0.11"
+  },
+  {
+    "card_id": "GD05-106_p1",
+    "date": "17/Sep/2026",
+    "price": "4.68"
+  },
+  {
+    "card_id": "GD05-109",
+    "date": "17/Sep/2026",
+    "price": "0.08"
+  },
+  {
+    "card_id": "GD05-119",
+    "date": "17/Sep/2026",
+    "price": "0.18"
+  },
+  {
+    "card_id": "GD05-114_p1",
+    "date": "17/Sep/2026",
+    "price": "14.84"
+  },
+  {
+    "card_id": "GD05-114",
+    "date": "17/Sep/2026",
+    "price": "0.44"
+  },
+  {
+    "card_id": "GD05-121",
+    "date": "17/Sep/2026",
+    "price": "0.13"
+  },
+  {
+    "card_id": "GD05-119_p1",
+    "date": "17/Sep/2026",
+    "price": "8.52"
+  },
+  {
+    "card_id": "GD05-114_p2",
+    "date": "17/Sep/2026",
+    "price": "0.44"
+  },
+  {
+    "card_id": "R-004",
+    "date": "17/Sep/2026",
+    "price": "0.34"
+  },
+  {
+    "card_id": "GD05-129",
+    "date": "17/Sep/2026",
+    "price": "0.41"
+  },
+  {
+    "card_id": "R-002_p1",
+    "date": "17/Sep/2026",
+    "price": "17.04"
+  },
+  {
+    "card_id": "R-003_p1",
+    "date": "17/Sep/2026",
+    "price": "6.36"
+  },
+  {
+    "card_id": "R-003",
+    "date": "17/Sep/2026",
+    "price": "0.22"
+  },
+  {
+    "card_id": "R-004_p1",
+    "date": "17/Sep/2026",
+    "price": "13.25"
+  },
+  {
+    "card_id": "R-005_p1",
+    "date": "17/Sep/2026",
+    "price": "11.47"
+  },
+  {
+    "card_id": "R-006_p1",
+    "date": "17/Sep/2026",
+    "price": "6.68"
+  },
+  {
+    "card_id": "R-005",
+    "date": "17/Sep/2026",
+    "price": "0.39"
+  },
+  {
+    "card_id": "R-008_p1",
+    "date": "17/Sep/2026",
+    "price": "18.06"
+  },
+  {
+    "card_id": "R-007_p1",
+    "date": "17/Sep/2026",
+    "price": "2.03"
+  },
+  {
+    "card_id": "R-009_p1",
+    "date": "17/Sep/2026",
+    "price": "9.43"
+  },
+  {
+    "card_id": "R-008",
+    "date": "17/Sep/2026",
+    "price": "0.29"
+  },
+  {
+    "card_id": "R-006",
+    "date": "17/Sep/2026",
+    "price": "0.23"
+  },
+  {
+    "card_id": "R-010",
+    "date": "17/Sep/2026",
+    "price": "0.15"
+  },
+  {
+    "card_id": "R-012",
+    "date": "17/Sep/2026",
+    "price": "0.13"
+  },
+  {
+    "card_id": "R-014_p1",
+    "date": "17/Sep/2026",
+    "price": "2.77"
+  },
+  {
+    "card_id": "R-015_p1",
+    "date": "17/Sep/2026",
+    "price": "4.56"
+  },
+  {
+    "card_id": "R-016_p1",
+    "date": "17/Sep/2026",
+    "price": "4.25"
+  },
+  {
+    "card_id": "R-021",
+    "date": "17/Sep/2026",
+    "price": "0.21"
+  },
+  {
+    "card_id": "R-018_p1",
+    "date": "17/Sep/2026",
+    "price": "4.11"
+  },
+  {
+    "card_id": "R-020_p1",
+    "date": "17/Sep/2026",
+    "price": "3.38"
+  },
+  {
+    "card_id": "R-018",
+    "date": "17/Sep/2026",
+    "price": "0.21"
+  },
+  {
+    "card_id": "R-020",
+    "date": "17/Sep/2026",
+    "price": "0.15"
+  },
+  {
+    "card_id": "R-015_p2",
+    "date": "17/Sep/2026",
+    "price": "46.72"
+  },
+  {
+    "card_id": "R-024_p1",
+    "date": "17/Sep/2026",
+    "price": "2.43"
+  },
+  {
+    "card_id": "R-025_p1",
+    "date": "17/Sep/2026",
+    "price": "3.19"
+  },
+  {
+    "card_id": "R-022_p1",
+    "date": "17/Sep/2026",
+    "price": "4.15"
+  },
+  {
+    "card_id": "R-024",
+    "date": "17/Sep/2026",
+    "price": "0.15"
+  },
+  {
+    "card_id": "R-025",
+    "date": "17/Sep/2026",
+    "price": "0.2"
+  },
+  {
+    "card_id": "R-023_p1",
+    "date": "17/Sep/2026",
+    "price": "5.52"
+  },
+  {
+    "card_id": "R-022",
+    "date": "17/Sep/2026",
+    "price": "0.15"
+  },
+  {
+    "card_id": "R-021_p1",
+    "date": "17/Sep/2026",
+    "price": "2.39"
+  },
+  {
+    "card_id": "R-026_p1",
+    "date": "17/Sep/2026",
+    "price": "6.94"
+  },
+  {
+    "card_id": "R-028",
+    "date": "17/Sep/2026",
+    "price": "0.11"
+  },
+  {
+    "card_id": "R-027_p1",
+    "date": "17/Sep/2026",
+    "price": "1.84"
+  },
+  {
+    "card_id": "R-028_p1",
+    "date": "17/Sep/2026",
+    "price": "1.8"
+  },
+  {
+    "card_id": "R-029_p1",
+    "date": "17/Sep/2026",
+    "price": "1.56"
+  },
+  {
+    "card_id": "R-031_p1",
+    "date": "17/Sep/2026",
+    "price": "1.22"
+  },
+  {
+    "card_id": "R-032",
+    "date": "17/Sep/2026",
+    "price": "0.15"
+  },
+  {
+    "card_id": "R-030",
+    "date": "17/Sep/2026",
+    "price": "0.14"
+  },
+  {
+    "card_id": "R-027",
+    "date": "17/Sep/2026",
+    "price": "0.17"
+  },
+  {
+    "card_id": "R-032_p1",
+    "date": "17/Sep/2026",
+    "price": "2.59"
+  },
+  {
+    "card_id": "R-034_p1",
+    "date": "17/Sep/2026",
+    "price": "1.47"
+  },
+  {
+    "card_id": "R-035_p1",
+    "date": "17/Sep/2026",
+    "price": "2.07"
+  },
+  {
+    "card_id": "R-038_p1",
+    "date": "17/Sep/2026",
+    "price": "2.14"
+  },
+  {
+    "card_id": "R-040_p1",
+    "date": "17/Sep/2026",
+    "price": "4.71"
+  },
+  {
+    "card_id": "RP-010",
+    "date": "17/Sep/2026",
+    "price": "15.15"
+  },
+  {
+    "card_id": "RP-011",
+    "date": "17/Sep/2026",
+    "price": "36.05"
+  },
+  {
+    "card_id": "RP-026",
+    "date": "17/Sep/2026",
+    "price": "4.48"
+  },
+  {
+    "card_id": "RP-027",
+    "date": "17/Sep/2026",
+    "price": "18.48"
+  },
+  {
+    "card_id": "RP-025",
+    "date": "17/Sep/2026",
+    "price": "50.68"
+  },
+  {
+    "card_id": "RP-029",
+    "date": "17/Sep/2026",
+    "price": "14.89"
+  },
+  {
+    "card_id": "RP-033",
+    "date": "17/Sep/2026",
+    "price": "8.35"
+  },
+  {
+    "card_id": "RP-038",
+    "date": "17/Sep/2026",
+    "price": "38.98"
+  },
+  {
+    "card_id": "RP-031",
+    "date": "17/Sep/2026",
+    "price": "10.59"
+  },
+  {
+    "card_id": "RP-037",
+    "date": "17/Sep/2026",
+    "price": "6.03"
+  },
+  {
+    "card_id": "RP-040",
+    "date": "17/Sep/2026",
+    "price": "4.01"
+  },
+  {
+    "card_id": "RP-042",
+    "date": "17/Sep/2026",
+    "price": "3.58"
+  },
+  {
+    "card_id": "RP-044",
+    "date": "17/Sep/2026",
+    "price": "5.46"
+  },
+  {
+    "card_id": "RP-050",
+    "date": "17/Sep/2026",
+    "price": "40.88"
+  },
+  {
+    "card_id": "RP-049",
+    "date": "17/Sep/2026",
+    "price": "73.15"
+  },
+  {
+    "card_id": "RP-060",
+    "date": "17/Sep/2026",
+    "price": "10.46"
+  },
+  {
+    "card_id": "RP-057",
+    "date": "17/Sep/2026",
+    "price": "2.72"
+  },
+  {
+    "card_id": "RP-058",
+    "date": "17/Sep/2026",
+    "price": "3.38"
+  },
+  {
+    "card_id": "RP-059",
+    "date": "17/Sep/2026",
+    "price": "1.49"
+  },
+  {
+    "card_id": "RP-056",
+    "date": "17/Sep/2026",
+    "price": "8.47"
+  },
+  {
+    "card_id": "RP-063",
+    "date": "17/Sep/2026",
+    "price": "5.93"
+  },
+  {
+    "card_id": "RP-062",
+    "date": "17/Sep/2026",
+    "price": "1.42"
+  },
+  {
+    "card_id": "RP-055",
+    "date": "17/Sep/2026",
+    "price": "90.83"
+  },
+  {
+    "card_id": "RP-061",
+    "date": "17/Sep/2026",
+    "price": "2.64"
+  },
+  {
+    "card_id": "ST01-001_p1",
+    "date": "17/Sep/2026",
+    "price": "168.34"
+  },
+  {
+    "card_id": "RP-064",
+    "date": "17/Sep/2026",
+    "price": "1.08"
+  },
+  {
+    "card_id": "ST01-001_p3",
+    "date": "17/Sep/2026",
+    "price": "168.34"
+  },
+  {
+    "card_id": "ST01-004",
+    "date": "17/Sep/2026",
+    "price": "0.18"
+  },
+  {
+    "card_id": "RP-065",
+    "date": "17/Sep/2026",
+    "price": "1.42"
+  },
+  {
+    "card_id": "ST01-004_p1",
+    "date": "17/Sep/2026",
+    "price": "3.91"
+  },
+  {
+    "card_id": "ST01-005_p1",
+    "date": "17/Sep/2026",
+    "price": "13.12"
+  },
+  {
+    "card_id": "ST01-006",
+    "date": "17/Sep/2026",
+    "price": "0.79"
+  },
+  {
+    "card_id": "ST01-009",
+    "date": "17/Sep/2026",
+    "price": "0.95"
+  },
+  {
+    "card_id": "ST01-012_p1",
+    "date": "17/Sep/2026",
+    "price": "2.4"
+  },
+  {
+    "card_id": "ST01-010_p1",
+    "date": "17/Sep/2026",
+    "price": "40.98"
+  },
+  {
+    "card_id": "ST01-011_p5",
+    "date": "17/Sep/2026",
+    "price": "229.44"
+  },
+  {
+    "card_id": "ST01-010_p4",
+    "date": "17/Sep/2026",
+    "price": "164.71"
+  },
+  {
+    "card_id": "ST01-009_p1",
+    "date": "17/Sep/2026",
+    "price": "7.25"
+  },
+  {
+    "card_id": "ST02-003",
+    "date": "17/Sep/2026",
+    "price": "0.15"
+  },
+  {
+    "card_id": "ST01-013_p1",
+    "date": "17/Sep/2026",
+    "price": "1.65"
+  },
+  {
+    "card_id": "ST02-003_p1",
+    "date": "17/Sep/2026",
+    "price": "8.64"
+  },
+  {
+    "card_id": "ST02-004",
+    "date": "17/Sep/2026",
+    "price": "0.18"
+  },
+  {
+    "card_id": "ST02-005_p1",
+    "date": "17/Sep/2026",
+    "price": "6.06"
+  },
+  {
+    "card_id": "ST02-004_p1",
+    "date": "17/Sep/2026",
+    "price": "13.72"
+  },
+  {
+    "card_id": "ST02-006_p1",
+    "date": "17/Sep/2026",
+    "price": "50.66"
+  },
+  {
+    "card_id": "ST02-007",
+    "date": "17/Sep/2026",
+    "price": "0.18"
+  },
+  {
+    "card_id": "ST02-008_p1",
+    "date": "17/Sep/2026",
+    "price": "2.66"
+  },
+  {
+    "card_id": "ST02-009_p1",
+    "date": "17/Sep/2026",
+    "price": "1.69"
+  },
+  {
+    "card_id": "ST02-008",
+    "date": "17/Sep/2026",
+    "price": "0.2"
+  },
+  {
+    "card_id": "ST02-007_p1",
+    "date": "17/Sep/2026",
+    "price": "4.41"
+  },
+  {
+    "card_id": "ST02-010_p5",
+    "date": "17/Sep/2026",
+    "price": "158.03"
+  },
+  {
+    "card_id": "ST02-011_p1",
+    "date": "17/Sep/2026",
+    "price": "29.16"
+  },
+  {
+    "card_id": "ST02-014_p1",
+    "date": "17/Sep/2026",
+    "price": "10.48"
+  },
+  {
+    "card_id": "ST02-013_p1",
+    "date": "17/Sep/2026",
+    "price": "6.03"
+  },
+  {
+    "card_id": "ST02-014",
+    "date": "17/Sep/2026",
+    "price": "0.57"
+  },
+  {
+    "card_id": "ST02-014_p3",
+    "date": "17/Sep/2026",
+    "price": "10.48"
+  },
+  {
+    "card_id": "ST02-016",
+    "date": "17/Sep/2026",
+    "price": "5.43"
+  },
+  {
+    "card_id": "ST02-015_p1",
+    "date": "17/Sep/2026",
+    "price": "6.18"
+  },
+  {
+    "card_id": "ST02-014_p2",
+    "date": "17/Sep/2026",
+    "price": "0.57"
+  },
+  {
+    "card_id": "ST02-016_p1",
+    "date": "17/Sep/2026",
+    "price": "28.41"
+  },
+  {
+    "card_id": "ST03-001_p1",
+    "date": "17/Sep/2026",
+    "price": "90.79"
+  },
+  {
+    "card_id": "ST03-003_p1",
+    "date": "17/Sep/2026",
+    "price": "6.51"
+  },
+  {
+    "card_id": "ST03-006_p3",
+    "date": "17/Sep/2026",
+    "price": "7.61"
+  },
+  {
+    "card_id": "ST03-006",
+    "date": "17/Sep/2026",
+    "price": "7.61"
+  },
+  {
+    "card_id": "ST03-007_p1",
+    "date": "17/Sep/2026",
+    "price": "18.95"
+  },
+  {
+    "card_id": "ST03-006_p2",
+    "date": "17/Sep/2026",
+    "price": "7.61"
+  },
+  {
+    "card_id": "ST03-007",
+    "date": "17/Sep/2026",
+    "price": "0.3"
+  },
+  {
+    "card_id": "ST03-006_p1",
+    "date": "17/Sep/2026",
+    "price": "98.9"
+  },
+  {
+    "card_id": "ST03-007_p2",
+    "date": "17/Sep/2026",
+    "price": "0.3"
+  },
+  {
+    "card_id": "ST03-012",
+    "date": "17/Sep/2026",
+    "price": "0.18"
+  },
+  {
+    "card_id": "ST03-011_p5",
+    "date": "17/Sep/2026",
+    "price": "269.71"
+  },
+  {
+    "card_id": "ST03-009",
+    "date": "17/Sep/2026",
+    "price": "0.17"
+  },
+  {
+    "card_id": "ST03-010_p2",
+    "date": "17/Sep/2026",
+    "price": "55.15"
+  },
+  {
+    "card_id": "ST03-010_p1",
+    "date": "17/Sep/2026",
+    "price": "14.62"
+  },
+  {
+    "card_id": "ST03-011_p4",
+    "date": "17/Sep/2026",
+    "price": "142.04"
+  },
+  {
+    "card_id": "ST03-016_p1",
+    "date": "17/Sep/2026",
+    "price": "20.41"
+  },
+  {
+    "card_id": "ST04-001_p4",
+    "date": "17/Sep/2026",
+    "price": "172.52"
+  },
+  {
+    "card_id": "ST03-015_p2",
+    "date": "17/Sep/2026",
+    "price": "0.44"
+  },
+  {
+    "card_id": "ST03-015",
+    "date": "17/Sep/2026",
+    "price": "0.44"
+  },
+  {
+    "card_id": "ST04-006",
+    "date": "17/Sep/2026",
+    "price": "1.36"
+  },
+  {
+    "card_id": "ST04-012",
+    "date": "17/Sep/2026",
+    "price": "2.67"
+  },
+  {
+    "card_id": "ST04-010_p1",
+    "date": "17/Sep/2026",
+    "price": "28.79"
+  },
+  {
+    "card_id": "ST04-012_p1",
+    "date": "17/Sep/2026",
+    "price": "24.11"
+  },
+  {
+    "card_id": "ST04-012_p2",
+    "date": "17/Sep/2026",
+    "price": "2.67"
+  },
+  {
+    "card_id": "ST04-016_p1",
+    "date": "17/Sep/2026",
+    "price": "10.25"
+  },
+  {
+    "card_id": "ST04-016",
+    "date": "17/Sep/2026",
+    "price": "0.27"
+  },
+  {
+    "card_id": "ST04-016_p2",
+    "date": "17/Sep/2026",
+    "price": "0.27"
+  },
+  {
+    "card_id": "ST05-004",
+    "date": "17/Sep/2026",
+    "price": "0.51"
+  },
+  {
+    "card_id": "ST05-005",
+    "date": "17/Sep/2026",
+    "price": "0.16"
+  },
+  {
+    "card_id": "ST05-006",
+    "date": "17/Sep/2026",
+    "price": "1.29"
+  },
+  {
+    "card_id": "ST05-008",
+    "date": "17/Sep/2026",
+    "price": "0.2"
+  },
+  {
+    "card_id": "ST05-009_p1",
+    "date": "17/Sep/2026",
+    "price": "9.18"
+  },
+  {
+    "card_id": "ST05-011_p1",
+    "date": "17/Sep/2026",
+    "price": "7.29"
+  },
+  {
+    "card_id": "ST05-010_p3",
+    "date": "17/Sep/2026",
+    "price": "21.25"
+  },
+  {
+    "card_id": "ST05-014_p4",
+    "date": "17/Sep/2026",
+    "price": "70.12"
+  },
+  {
+    "card_id": "ST05-013_p3",
+    "date": "17/Sep/2026",
+    "price": "6.35"
+  },
+  {
+    "card_id": "ST06-001",
+    "date": "17/Sep/2026",
+    "price": "0.53"
+  },
+  {
+    "card_id": "ST06-003_p1",
+    "date": "17/Sep/2026",
+    "price": "1.79"
+  },
+  {
+    "card_id": "ST06-001_p2",
+    "date": "17/Sep/2026",
+    "price": "0.53"
+  },
+  {
+    "card_id": "ST06-008_p1",
+    "date": "17/Sep/2026",
+    "price": "24.66"
+  },
+  {
+    "card_id": "ST07-001",
+    "date": "17/Sep/2026",
+    "price": "0.81"
+  },
+  {
+    "card_id": "ST07-004_p1",
+    "date": "17/Sep/2026",
+    "price": "17.5"
+  },
+  {
+    "card_id": "ST07-009_p3",
+    "date": "17/Sep/2026",
+    "price": "85.13"
+  },
+  {
+    "card_id": "ST07-010_p1",
+    "date": "17/Sep/2026",
+    "price": "2.94"
+  },
+  {
+    "card_id": "ST07-012_p1",
+    "date": "17/Sep/2026",
+    "price": "11.58"
+  },
+  {
+    "card_id": "ST07-013",
+    "date": "17/Sep/2026",
+    "price": "0.22"
+  },
+  {
+    "card_id": "ST07-010_p3",
+    "date": "17/Sep/2026",
+    "price": "2.94"
+  },
+  {
+    "card_id": "ST08-001",
+    "date": "17/Sep/2026",
+    "price": "0.54"
+  },
+  {
+    "card_id": "ST08-002_p1",
+    "date": "17/Sep/2026",
+    "price": "10.49"
+  },
+  {
+    "card_id": "ST08-010",
+    "date": "17/Sep/2026",
+    "price": "0.9"
+  },
+  {
+    "card_id": "ST08-010_p2",
+    "date": "17/Sep/2026",
+    "price": "0.9"
+  },
+  {
+    "card_id": "ST08-014_p1",
+    "date": "17/Sep/2026",
+    "price": "6.8"
+  },
+  {
+    "card_id": "ST09-003_p1",
+    "date": "17/Sep/2026",
+    "price": "25.52"
+  },
+  {
+    "card_id": "ST09-004",
+    "date": "17/Sep/2026",
+    "price": "2.68"
+  },
+  {
+    "card_id": "ST09-002",
+    "date": "17/Sep/2026",
+    "price": "1.82"
+  },
+  {
+    "card_id": "ST09-002_p1",
+    "date": "17/Sep/2026",
+    "price": "42.01"
+  },
+  {
+    "card_id": "ST08-013_p1",
+    "date": "17/Sep/2026",
+    "price": "35.04"
+  },
+  {
+    "card_id": "ST09-008",
+    "date": "17/Sep/2026",
+    "price": "0.22"
+  },
+  {
+    "card_id": "ST09-005",
+    "date": "17/Sep/2026",
+    "price": "0.2"
+  },
+  {
+    "card_id": "ST09-010",
+    "date": "17/Sep/2026",
+    "price": "0.65"
+  },
+  {
+    "card_id": "ST09-009",
+    "date": "17/Sep/2026",
+    "price": "3.52"
+  },
+  {
+    "card_id": "ST09-009_p1",
+    "date": "17/Sep/2026",
+    "price": "18.32"
+  },
+  {
+    "card_id": "ST09-008_p1",
+    "date": "17/Sep/2026",
+    "price": "16.33"
+  },
+  {
+    "card_id": "ST09-005_p1",
+    "date": "17/Sep/2026",
+    "price": "11.99"
+  },
+  {
+    "card_id": "ST09-006",
+    "date": "17/Sep/2026",
+    "price": "0.22"
+  },
+  {
+    "card_id": "ST10-005_p1",
+    "date": "17/Sep/2026",
+    "price": "15.07"
+  },
+  {
+    "card_id": "ST10-001",
+    "date": "17/Sep/2026",
+    "price": "1.02"
+  },
+  {
+    "card_id": "ST09-010_p1",
+    "date": "17/Sep/2026",
+    "price": "19.47"
+  },
+  {
+    "card_id": "ST10-006",
+    "date": "17/Sep/2026",
+    "price": "0.8"
+  },
+  {
+    "card_id": "ST10-014",
+    "date": "17/Sep/2026",
+    "price": "1.5"
+  },
+  {
+    "card_id": "ST10-012",
+    "date": "17/Sep/2026",
+    "price": "0.38"
+  },
+  {
+    "card_id": "ST10-011",
+    "date": "17/Sep/2026",
+    "price": "0.25"
+  },
+  {
+    "card_id": "T-002",
+    "date": "17/Sep/2026",
+    "price": "0.4"
+  },
+  {
+    "card_id": "T-001",
+    "date": "17/Sep/2026",
+    "price": "2.76"
+  },
+  {
+    "card_id": "T-001_p1",
+    "date": "17/Sep/2026",
+    "price": "2.76"
+  },
+  {
+    "card_id": "T-003",
+    "date": "17/Sep/2026",
+    "price": "0.55"
+  },
+  {
+    "card_id": "T-002_p1",
+    "date": "17/Sep/2026",
+    "price": "0.4"
+  },
+  {
+    "card_id": "T-013",
+    "date": "17/Sep/2026",
+    "price": "2.59"
+  },
+  {
+    "card_id": "T-015",
+    "date": "17/Sep/2026",
+    "price": "0.56"
+  },
+  {
+    "card_id": "T-003_p1",
+    "date": "17/Sep/2026",
+    "price": "0.55"
+  },
+  {
+    "card_id": "T-015_p1",
+    "date": "17/Sep/2026",
+    "price": "0.56"
+  },
+  {
+    "card_id": "T-010",
+    "date": "17/Sep/2026",
+    "price": "1.01"
+  },
+  {
+    "card_id": "T-008",
+    "date": "17/Sep/2026",
+    "price": "0.98"
+  },
+  {
+    "card_id": "T-011",
+    "date": "17/Sep/2026",
+    "price": "1.09"
+  },
+  {
+    "card_id": "T-021",
+    "date": "17/Sep/2026",
+    "price": "1.46"
+  },
+  {
+    "card_id": "T-020",
+    "date": "17/Sep/2026",
+    "price": "0.58"
+  },
+  {
+    "card_id": "T-020_p1",
+    "date": "17/Sep/2026",
+    "price": "0.58"
+  },
+  {
+    "card_id": "T-019",
+    "date": "17/Sep/2026",
+    "price": "0.46"
+  },
+  {
+    "card_id": "T-019_p1",
+    "date": "17/Sep/2026",
+    "price": "0.46"
+  },
+  {
+    "card_id": "EB01-009_p1",
+    "date": "21/Sep/2026",
+    "price": "12.25"
+  },
+  {
+    "card_id": "EB01-003_p1",
+    "date": "21/Sep/2026",
+    "price": "8.76"
+  },
+  {
+    "card_id": "EB01-002",
+    "date": "21/Sep/2026",
+    "price": "0.95"
+  },
+  {
+    "card_id": "EB01-001",
+    "date": "21/Sep/2026",
+    "price": "0.83"
+  },
+  {
+    "card_id": "EB01-004",
+    "date": "21/Sep/2026",
+    "price": "0.23"
+  },
+  {
+    "card_id": "EB01-013",
+    "date": "21/Sep/2026",
+    "price": "0.13"
+  },
+  {
+    "card_id": "EB01-011",
+    "date": "21/Sep/2026",
+    "price": "0.18"
+  },
+  {
+    "card_id": "EB01-018",
+    "date": "21/Sep/2026",
+    "price": "0.16"
+  },
+  {
+    "card_id": "EB01-015",
+    "date": "21/Sep/2026",
+    "price": "0.17"
+  },
+  {
+    "card_id": "EB01-019",
+    "date": "21/Sep/2026",
+    "price": "0.11"
+  },
+  {
+    "card_id": "EB01-020",
+    "date": "21/Sep/2026",
+    "price": "0.17"
+  },
+  {
+    "card_id": "EB01-017",
+    "date": "21/Sep/2026",
+    "price": "0.18"
+  },
+  {
+    "card_id": "EB01-014",
+    "date": "21/Sep/2026",
+    "price": "0.19"
+  },
+  {
+    "card_id": "EB01-016",
+    "date": "21/Sep/2026",
+    "price": "0.12"
+  },
+  {
+    "card_id": "EB01-022",
+    "date": "21/Sep/2026",
+    "price": "1.05"
+  },
+  {
+    "card_id": "EB01-024",
+    "date": "21/Sep/2026",
+    "price": "0.23"
+  },
+  {
+    "card_id": "EB01-021_p1",
+    "date": "21/Sep/2026",
+    "price": "8.61"
+  },
+  {
+    "card_id": "EB01-025_p1",
+    "date": "21/Sep/2026",
+    "price": "9.59"
+  },
+  {
+    "card_id": "EB01-033",
+    "date": "21/Sep/2026",
+    "price": "0.16"
+  },
+  {
+    "card_id": "EB01-023",
+    "date": "21/Sep/2026",
+    "price": "0.12"
+  },
+  {
+    "card_id": "EB01-021",
+    "date": "21/Sep/2026",
+    "price": "0.74"
+  },
+  {
+    "card_id": "EB01-032",
+    "date": "21/Sep/2026",
+    "price": "2.35"
+  },
+  {
+    "card_id": "EB01-037",
+    "date": "21/Sep/2026",
+    "price": "0.15"
+  },
+  {
+    "card_id": "EB01-039",
+    "date": "21/Sep/2026",
+    "price": "0.15"
+  },
+  {
+    "card_id": "EB01-042",
+    "date": "21/Sep/2026",
+    "price": "2.22"
+  },
+  {
+    "card_id": "EB01-041_p1",
+    "date": "21/Sep/2026",
+    "price": "22.34"
+  },
+  {
+    "card_id": "EB01-036",
+    "date": "21/Sep/2026",
+    "price": "0.14"
+  },
+  {
+    "card_id": "EB01-034",
+    "date": "21/Sep/2026",
+    "price": "0.16"
+  },
+  {
+    "card_id": "EB01-041",
+    "date": "21/Sep/2026",
+    "price": "1.25"
+  },
+  {
+    "card_id": "EB01-044_p1",
+    "date": "21/Sep/2026",
+    "price": "6.86"
+  },
+  {
+    "card_id": "EB01-046_p1",
+    "date": "21/Sep/2026",
+    "price": "6.87"
+  },
+  {
+    "card_id": "EB01-045_p1",
+    "date": "21/Sep/2026",
+    "price": "17.75"
+  },
+  {
+    "card_id": "EB01-053",
+    "date": "21/Sep/2026",
+    "price": "0.11"
+  },
+  {
+    "card_id": "EB01-051",
+    "date": "21/Sep/2026",
+    "price": "0.13"
+  },
+  {
+    "card_id": "EB01-054",
+    "date": "21/Sep/2026",
+    "price": "2.81"
+  },
+  {
+    "card_id": "EB01-056",
+    "date": "21/Sep/2026",
+    "price": "0.79"
+  },
+  {
+    "card_id": "EB01-060",
+    "date": "21/Sep/2026",
+    "price": "0.1"
+  },
+  {
+    "card_id": "EB01-057",
+    "date": "21/Sep/2026",
+    "price": "0.11"
+  },
+  {
+    "card_id": "EB01-058",
+    "date": "21/Sep/2026",
+    "price": "0.12"
+  },
+  {
+    "card_id": "EB01-064",
+    "date": "21/Sep/2026",
+    "price": "0.15"
+  },
+  {
+    "card_id": "EB01-063",
+    "date": "21/Sep/2026",
+    "price": "0.15"
+  },
+  {
+    "card_id": "EB01-065",
+    "date": "21/Sep/2026",
+    "price": "0.26"
+  },
+  {
+    "card_id": "EB01-072",
+    "date": "21/Sep/2026",
+    "price": "0.13"
+  },
+  {
+    "card_id": "EB01-077",
+    "date": "21/Sep/2026",
+    "price": "0.18"
+  },
+  {
+    "card_id": "EB01-076",
+    "date": "21/Sep/2026",
+    "price": "0.13"
+  },
+  {
+    "card_id": "EB01-067",
+    "date": "21/Sep/2026",
+    "price": "0.14"
+  },
+  {
+    "card_id": "EB01-075",
+    "date": "21/Sep/2026",
+    "price": "0.1"
+  },
+  {
+    "card_id": "EB01-084",
+    "date": "21/Sep/2026",
+    "price": "0.12"
+  },
+  {
+    "card_id": "EB01-088",
+    "date": "21/Sep/2026",
+    "price": "0.16"
+  },
+  {
+    "card_id": "EXB-002_p1",
+    "date": "21/Sep/2026",
+    "price": "29.01"
+  },
+  {
+    "card_id": "EB01-081",
+    "date": "21/Sep/2026",
+    "price": "0.2"
+  },
+  {
+    "card_id": "EB01-090",
+    "date": "21/Sep/2026",
+    "price": "0.13"
+  },
+  {
+    "card_id": "EB01-086",
+    "date": "21/Sep/2026",
+    "price": "0.12"
+  },
+  {
+    "card_id": "EXBP-002",
+    "date": "21/Sep/2026",
+    "price": "20.56"
+  },
+  {
+    "card_id": "EXBP-006",
+    "date": "21/Sep/2026",
+    "price": "1.01"
+  },
+  {
+    "card_id": "EXBP-003",
+    "date": "21/Sep/2026",
+    "price": "24"
+  },
+  {
+    "card_id": "EXBP-010",
+    "date": "21/Sep/2026",
+    "price": "0.42"
+  },
+  {
+    "card_id": "EXBP-007",
+    "date": "21/Sep/2026",
+    "price": "0.66"
+  },
+  {
+    "card_id": "EXBP-027",
+    "date": "21/Sep/2026",
+    "price": "11.52"
+  },
+  {
+    "card_id": "EXBP-025",
+    "date": "21/Sep/2026",
+    "price": "6.18"
+  },
+  {
+    "card_id": "EXBP-021",
+    "date": "21/Sep/2026",
+    "price": "24.62"
+  },
+  {
+    "card_id": "EXBP-020",
+    "date": "21/Sep/2026",
+    "price": "16.83"
+  },
+  {
+    "card_id": "EXBP-024",
+    "date": "21/Sep/2026",
+    "price": "21.93"
+  },
+  {
+    "card_id": "EXBP-026",
+    "date": "21/Sep/2026",
+    "price": "9.67"
+  },
+  {
+    "card_id": "EXBP-022",
+    "date": "21/Sep/2026",
+    "price": "27.21"
+  },
+  {
+    "card_id": "EXBP-023",
+    "date": "21/Sep/2026",
+    "price": "67.75"
+  },
+  {
+    "card_id": "EXR-006",
+    "date": "21/Sep/2026",
+    "price": "208.38"
+  },
+  {
+    "card_id": "EXR-003",
+    "date": "21/Sep/2026",
+    "price": "4.5"
+  },
+  {
+    "card_id": "EXR-002_p1",
+    "date": "21/Sep/2026",
+    "price": "41.94"
+  },
+  {
+    "card_id": "EXR-008",
+    "date": "21/Sep/2026",
+    "price": "186.45"
+  },
+  {
+    "card_id": "EXR-004",
+    "date": "21/Sep/2026",
+    "price": "257.97"
+  },
+  {
+    "card_id": "EXR-009",
+    "date": "21/Sep/2026",
+    "price": "795.69"
+  },
+  {
+    "card_id": "EXBP-029",
+    "date": "21/Sep/2026",
+    "price": "49.92"
+  },
+  {
+    "card_id": "EXR-007",
+    "date": "21/Sep/2026",
+    "price": "588.6"
+  },
+  {
+    "card_id": "EXR-010",
+    "date": "21/Sep/2026",
+    "price": "397.21"
+  },
+  {
+    "card_id": "EXRP-001",
+    "date": "21/Sep/2026",
+    "price": "53.8"
+  },
+  {
+    "card_id": "EXRP-004",
+    "date": "21/Sep/2026",
+    "price": "65.1"
+  },
+  {
+    "card_id": "EXRP-007",
+    "date": "21/Sep/2026",
+    "price": "32.18"
+  },
+  {
+    "card_id": "EXRP-005",
+    "date": "21/Sep/2026",
+    "price": "34.32"
+  },
+  {
+    "card_id": "EXRP-002",
+    "date": "21/Sep/2026",
+    "price": "60.12"
+  },
+  {
+    "card_id": "EXRP-009",
+    "date": "21/Sep/2026",
+    "price": "60.77"
+  },
+  {
+    "card_id": "EXRP-008",
+    "date": "21/Sep/2026",
+    "price": "13.76"
+  },
+  {
+    "card_id": "EXR-011",
+    "date": "21/Sep/2026",
+    "price": "157.25"
+  },
+  {
+    "card_id": "EXRP-010",
+    "date": "21/Sep/2026",
+    "price": "54.67"
+  },
+  {
+    "card_id": "GD01-002_p1",
+    "date": "21/Sep/2026",
+    "price": "35.88"
+  },
+  {
+    "card_id": "EXRP-014",
+    "date": "21/Sep/2026",
+    "price": "81.87"
+  },
+  {
+    "card_id": "EXRP-012",
+    "date": "21/Sep/2026",
+    "price": "14.12"
+  },
+  {
+    "card_id": "EXRP-013",
+    "date": "21/Sep/2026",
+    "price": "17.26"
+  },
+  {
+    "card_id": "EXRP-011",
+    "date": "21/Sep/2026",
+    "price": "17.05"
+  },
+  {
+    "card_id": "GD01-001",
+    "date": "21/Sep/2026",
+    "price": "2.6"
+  },
+  {
+    "card_id": "GD01-003_p1",
+    "date": "21/Sep/2026",
+    "price": "57.9"
+  },
+  {
+    "card_id": "GD01-003",
+    "date": "21/Sep/2026",
+    "price": "9.13"
+  },
+  {
+    "card_id": "GD01-006",
+    "date": "21/Sep/2026",
+    "price": "2.88"
+  },
+  {
+    "card_id": "GD01-002_p2",
+    "date": "21/Sep/2026",
+    "price": "66.84"
+  },
+  {
+    "card_id": "GD01-006_p1",
+    "date": "21/Sep/2026",
+    "price": "23.36"
+  },
+  {
+    "card_id": "GD01-007",
+    "date": "21/Sep/2026",
+    "price": "0.19"
+  },
+  {
+    "card_id": "GD01-014",
+    "date": "21/Sep/2026",
+    "price": "0.09"
+  },
+  {
+    "card_id": "GD01-021",
+    "date": "21/Sep/2026",
+    "price": "0.1"
+  },
+  {
+    "card_id": "GD01-020",
+    "date": "21/Sep/2026",
+    "price": "0.36"
+  },
+  {
+    "card_id": "GD01-016_p3",
+    "date": "21/Sep/2026",
+    "price": "18.34"
+  },
+  {
+    "card_id": "GD01-023_p2",
+    "date": "21/Sep/2026",
+    "price": "6.93"
+  },
+  {
+    "card_id": "GD01-023",
+    "date": "21/Sep/2026",
+    "price": "6.93"
+  },
+  {
+    "card_id": "GD01-017",
+    "date": "21/Sep/2026",
+    "price": "0.12"
+  },
+  {
+    "card_id": "GD01-024",
+    "date": "21/Sep/2026",
+    "price": "18.08"
+  },
+  {
+    "card_id": "GD01-027",
+    "date": "21/Sep/2026",
+    "price": "0.58"
+  },
+  {
+    "card_id": "GD01-027_p1",
+    "date": "21/Sep/2026",
+    "price": "22.89"
+  },
+  {
+    "card_id": "GD01-025_p1",
+    "date": "21/Sep/2026",
+    "price": "49.15"
+  },
+  {
+    "card_id": "GD01-024_p2",
+    "date": "21/Sep/2026",
+    "price": "18.08"
+  },
+  {
+    "card_id": "GD01-036",
+    "date": "21/Sep/2026",
+    "price": "0.13"
+  },
+  {
+    "card_id": "GD01-039",
+    "date": "21/Sep/2026",
+    "price": "0.16"
+  },
+  {
+    "card_id": "GD01-026_p2",
+    "date": "21/Sep/2026",
+    "price": "4999"
+  },
+  {
+    "card_id": "GD01-041",
+    "date": "21/Sep/2026",
+    "price": "0.19"
+  },
+  {
+    "card_id": "GD01-041_p1",
+    "date": "21/Sep/2026",
+    "price": "0.19"
+  },
+  {
+    "card_id": "GD01-044_p1",
+    "date": "21/Sep/2026",
+    "price": "100.33"
+  },
+  {
+    "card_id": "GD01-042",
+    "date": "21/Sep/2026",
+    "price": "0.13"
+  },
+  {
+    "card_id": "GD01-046_p1",
+    "date": "21/Sep/2026",
+    "price": "20.38"
+  },
+  {
+    "card_id": "GD01-044",
+    "date": "21/Sep/2026",
+    "price": "28.59"
+  },
+  {
+    "card_id": "GD01-047_p1",
+    "date": "21/Sep/2026",
+    "price": "9.34"
+  },
+  {
+    "card_id": "GD01-048",
+    "date": "21/Sep/2026",
+    "price": "0.39"
+  },
+  {
+    "card_id": "GD01-050_p1",
+    "date": "21/Sep/2026",
+    "price": "14.39"
+  },
+  {
+    "card_id": "GD01-050",
+    "date": "21/Sep/2026",
+    "price": "0.51"
+  },
+  {
+    "card_id": "GD01-056",
+    "date": "21/Sep/2026",
+    "price": "0.16"
+  },
+  {
+    "card_id": "GD01-054_p1",
+    "date": "21/Sep/2026",
+    "price": "0.18"
+  },
+  {
+    "card_id": "GD01-051_p2",
+    "date": "21/Sep/2026",
+    "price": "31.31"
+  },
+  {
+    "card_id": "GD01-054",
+    "date": "21/Sep/2026",
+    "price": "0.18"
+  },
+  {
+    "card_id": "GD01-065_p1",
+    "date": "21/Sep/2026",
+    "price": "60.73"
+  },
+  {
+    "card_id": "GD01-061",
+    "date": "21/Sep/2026",
+    "price": "0.09"
+  },
+  {
+    "card_id": "GD01-066",
+    "date": "21/Sep/2026",
+    "price": "16.14"
+  },
+  {
+    "card_id": "GD01-062",
+    "date": "21/Sep/2026",
+    "price": "0.13"
+  },
+  {
+    "card_id": "GD01-066_p1",
+    "date": "21/Sep/2026",
+    "price": "59.2"
+  },
+  {
+    "card_id": "GD01-067_p2",
+    "date": "21/Sep/2026",
+    "price": "1138.91"
+  },
+  {
+    "card_id": "GD01-071_p1",
+    "date": "21/Sep/2026",
+    "price": "11.77"
+  },
+  {
+    "card_id": "GD01-079",
+    "date": "21/Sep/2026",
+    "price": "0.05"
+  },
+  {
+    "card_id": "GD01-071",
+    "date": "21/Sep/2026",
+    "price": "1.28"
+  },
+  {
+    "card_id": "GD01-083",
+    "date": "21/Sep/2026",
+    "price": "0.07"
+  },
+  {
+    "card_id": "GD01-086_p1",
+    "date": "21/Sep/2026",
+    "price": "0.96"
+  },
+  {
+    "card_id": "GD01-086_p2",
+    "date": "21/Sep/2026",
+    "price": "0.96"
+  },
+  {
+    "card_id": "GD01-086",
+    "date": "21/Sep/2026",
+    "price": "0.96"
+  },
+  {
+    "card_id": "GD01-085",
+    "date": "21/Sep/2026",
+    "price": "0.14"
+  },
+  {
+    "card_id": "GD01-086_p3",
+    "date": "21/Sep/2026",
+    "price": "0.96"
+  },
+  {
+    "card_id": "GD01-087_p1",
+    "date": "21/Sep/2026",
+    "price": "73.88"
+  },
+  {
+    "card_id": "GD01-087_p3",
+    "date": "21/Sep/2026",
+    "price": "73.88"
+  },
+  {
+    "card_id": "GD01-096",
+    "date": "21/Sep/2026",
+    "price": "0.33"
+  },
+  {
+    "card_id": "GD01-090_p1",
+    "date": "21/Sep/2026",
+    "price": "30.34"
+  },
+  {
+    "card_id": "GD01-090_p3",
+    "date": "21/Sep/2026",
+    "price": "30.34"
+  },
+  {
+    "card_id": "GD01-093_p1",
+    "date": "21/Sep/2026",
+    "price": "107.5"
+  },
+  {
+    "card_id": "GD01-096_p2",
+    "date": "21/Sep/2026",
+    "price": "0.33"
+  },
+  {
+    "card_id": "GD01-098_p2",
+    "date": "21/Sep/2026",
+    "price": "3.22"
+  },
+  {
+    "card_id": "GD01-105",
+    "date": "21/Sep/2026",
+    "price": "0.49"
+  },
+  {
+    "card_id": "GD01-096_p3",
+    "date": "21/Sep/2026",
+    "price": "0.33"
+  },
+  {
+    "card_id": "GD01-101",
+    "date": "21/Sep/2026",
+    "price": "0.35"
+  },
+  {
+    "card_id": "GD01-104",
+    "date": "21/Sep/2026",
+    "price": "0.14"
+  },
+  {
+    "card_id": "GD01-105_p2",
+    "date": "21/Sep/2026",
+    "price": "0.49"
+  },
+  {
+    "card_id": "GD01-106",
+    "date": "21/Sep/2026",
+    "price": "0.69"
+  },
+  {
+    "card_id": "GD01-106_p1",
+    "date": "21/Sep/2026",
+    "price": "0.69"
+  },
+  {
+    "card_id": "GD01-105_p1",
+    "date": "21/Sep/2026",
+    "price": "6.47"
+  },
+  {
+    "card_id": "GD01-111",
+    "date": "21/Sep/2026",
+    "price": "0.38"
+  },
+  {
+    "card_id": "GD01-111_p3",
+    "date": "21/Sep/2026",
+    "price": "0.38"
+  },
+  {
+    "card_id": "GD01-111_p4",
+    "date": "21/Sep/2026",
+    "price": "0.38"
+  },
+  {
+    "card_id": "GD01-114",
+    "date": "21/Sep/2026",
+    "price": "0.07"
+  },
+  {
+    "card_id": "GD01-119",
+    "date": "21/Sep/2026",
+    "price": "0.58"
+  },
+  {
+    "card_id": "GD01-118_p5",
+    "date": "21/Sep/2026",
+    "price": "175.78"
+  },
+  {
+    "card_id": "GD01-128",
+    "date": "21/Sep/2026",
+    "price": "1.55"
+  },
+  {
+    "card_id": "GD02-002",
+    "date": "21/Sep/2026",
+    "price": "5.36"
+  },
+  {
+    "card_id": "GD02-001_p1",
+    "date": "21/Sep/2026",
+    "price": "28.33"
+  },
+  {
+    "card_id": "GD01-122",
+    "date": "21/Sep/2026",
+    "price": "0.08"
+  },
+  {
+    "card_id": "GD02-001",
+    "date": "21/Sep/2026",
+    "price": "0.86"
+  },
+  {
+    "card_id": "GD02-002_p1",
+    "date": "21/Sep/2026",
+    "price": "139.87"
+  },
+  {
+    "card_id": "GD02-004",
+    "date": "21/Sep/2026",
+    "price": "0.15"
+  },
+  {
+    "card_id": "GD02-012",
+    "date": "21/Sep/2026",
+    "price": "0.07"
+  },
+  {
+    "card_id": "GD02-016",
+    "date": "21/Sep/2026",
+    "price": "0.08"
+  },
+  {
+    "card_id": "GD02-013",
+    "date": "21/Sep/2026",
+    "price": "0.16"
+  },
+  {
+    "card_id": "GD02-015",
+    "date": "21/Sep/2026",
+    "price": "0.08"
+  },
+  {
+    "card_id": "GD02-006_p2",
+    "date": "21/Sep/2026",
+    "price": "11.77"
+  },
+  {
+    "card_id": "GD02-005_p1",
+    "date": "21/Sep/2026",
+    "price": "47.99"
+  },
+  {
+    "card_id": "GD02-023",
+    "date": "21/Sep/2026",
+    "price": "0.11"
+  },
+  {
+    "card_id": "GD02-022",
+    "date": "21/Sep/2026",
+    "price": "0.17"
+  },
+  {
+    "card_id": "GD02-020",
+    "date": "21/Sep/2026",
+    "price": "0.38"
+  },
+  {
+    "card_id": "GD02-021",
+    "date": "21/Sep/2026",
+    "price": "2.31"
+  },
+  {
+    "card_id": "GD02-018",
+    "date": "21/Sep/2026",
+    "price": "0.11"
+  },
+  {
+    "card_id": "GD02-023_p1",
+    "date": "21/Sep/2026",
+    "price": "6.52"
+  },
+  {
+    "card_id": "GD02-020_p1",
+    "date": "21/Sep/2026",
+    "price": "5.83"
+  },
+  {
+    "card_id": "GD02-024_p1",
+    "date": "21/Sep/2026",
+    "price": "11.25"
+  },
+  {
+    "card_id": "GD02-032",
+    "date": "21/Sep/2026",
+    "price": "0.14"
+  },
+  {
+    "card_id": "GD02-024",
+    "date": "21/Sep/2026",
+    "price": "0.56"
+  },
+  {
+    "card_id": "GD02-029_p2",
+    "date": "21/Sep/2026",
+    "price": "18.2"
+  },
+  {
+    "card_id": "GD02-030",
+    "date": "21/Sep/2026",
+    "price": "0.08"
+  },
+  {
+    "card_id": "GD02-038",
+    "date": "21/Sep/2026",
+    "price": "2.2"
+  },
+  {
+    "card_id": "GD02-036_p1",
+    "date": "21/Sep/2026",
+    "price": "24.79"
+  },
+  {
+    "card_id": "GD02-036",
+    "date": "21/Sep/2026",
+    "price": "2.12"
+  },
+  {
+    "card_id": "GD02-036_p2",
+    "date": "21/Sep/2026",
+    "price": "2.12"
+  },
+  {
+    "card_id": "GD02-038_p1",
+    "date": "21/Sep/2026",
+    "price": "21.85"
+  },
+  {
+    "card_id": "GD02-037_p1",
+    "date": "21/Sep/2026",
+    "price": "9.47"
+  },
+  {
+    "card_id": "GD02-040",
+    "date": "21/Sep/2026",
+    "price": "0.2"
+  },
+  {
+    "card_id": "GD02-040_p1",
+    "date": "21/Sep/2026",
+    "price": "5.05"
+  },
+  {
+    "card_id": "GD02-041_p1",
+    "date": "21/Sep/2026",
+    "price": "5.78"
+  },
+  {
+    "card_id": "GD02-048_p2",
+    "date": "21/Sep/2026",
+    "price": "10.25"
+  },
+  {
+    "card_id": "GD02-051",
+    "date": "21/Sep/2026",
+    "price": "0.08"
+  },
+  {
+    "card_id": "GD02-059_p1",
+    "date": "21/Sep/2026",
+    "price": "10.81"
+  },
+  {
+    "card_id": "GD02-055_p1",
+    "date": "21/Sep/2026",
+    "price": "77.99"
+  },
+  {
+    "card_id": "GD02-054_p1",
+    "date": "21/Sep/2026",
+    "price": "142.97"
+  },
+  {
+    "card_id": "GD02-054",
+    "date": "21/Sep/2026",
+    "price": "34.71"
+  },
+  {
+    "card_id": "GD02-053_p1",
+    "date": "21/Sep/2026",
+    "price": "29.01"
+  },
+  {
+    "card_id": "GD02-053",
+    "date": "21/Sep/2026",
+    "price": "0.66"
+  },
+  {
+    "card_id": "GD02-060_p1",
+    "date": "21/Sep/2026",
+    "price": "3.18"
+  },
+  {
+    "card_id": "GD02-069_p1",
+    "date": "21/Sep/2026",
+    "price": "23.54"
+  },
+  {
+    "card_id": "GD02-068",
+    "date": "21/Sep/2026",
+    "price": "0.11"
+  },
+  {
+    "card_id": "GD02-070",
+    "date": "21/Sep/2026",
+    "price": "0.36"
+  },
+  {
+    "card_id": "GD02-066",
+    "date": "21/Sep/2026",
+    "price": "0.07"
+  },
+  {
+    "card_id": "GD02-069_p2",
+    "date": "21/Sep/2026",
+    "price": "0.65"
+  },
+  {
+    "card_id": "GD02-069",
+    "date": "21/Sep/2026",
+    "price": "0.65"
+  },
+  {
+    "card_id": "GD02-072",
+    "date": "21/Sep/2026",
+    "price": "0.19"
+  },
+  {
+    "card_id": "GD02-072_p1",
+    "date": "21/Sep/2026",
+    "price": "15.02"
+  },
+  {
+    "card_id": "GD02-080",
+    "date": "21/Sep/2026",
+    "price": "0.09"
+  },
+  {
+    "card_id": "GD02-079",
+    "date": "21/Sep/2026",
+    "price": "1.55"
+  },
+  {
+    "card_id": "GD02-073",
+    "date": "21/Sep/2026",
+    "price": "0.17"
+  },
+  {
+    "card_id": "GD02-071",
+    "date": "21/Sep/2026",
+    "price": "0.22"
+  },
+  {
+    "card_id": "GD02-079_p1",
+    "date": "21/Sep/2026",
+    "price": "1.55"
+  },
+  {
+    "card_id": "GD02-079_p2",
+    "date": "21/Sep/2026",
+    "price": "52.63"
+  },
+  {
+    "card_id": "GD02-070_p1",
+    "date": "21/Sep/2026",
+    "price": "10.75"
+  },
+  {
+    "card_id": "GD02-085",
+    "date": "21/Sep/2026",
+    "price": "0.51"
+  },
+  {
+    "card_id": "GD02-088_p1",
+    "date": "21/Sep/2026",
+    "price": "17.79"
+  },
+  {
+    "card_id": "GD02-094",
+    "date": "21/Sep/2026",
+    "price": "0.58"
+  },
+  {
+    "card_id": "GD02-083",
+    "date": "21/Sep/2026",
+    "price": "0.09"
+  },
+  {
+    "card_id": "GD02-085_p1",
+    "date": "21/Sep/2026",
+    "price": "22.74"
+  },
+  {
+    "card_id": "GD02-095_p2",
+    "date": "21/Sep/2026",
+    "price": "24.86"
+  },
+  {
+    "card_id": "GD02-100_p1",
+    "date": "21/Sep/2026",
+    "price": "4.32"
+  },
+  {
+    "card_id": "GD02-098_p2",
+    "date": "21/Sep/2026",
+    "price": "23.87"
+  },
+  {
+    "card_id": "GD02-102",
+    "date": "21/Sep/2026",
+    "price": "0.08"
+  },
+  {
+    "card_id": "GD02-099",
+    "date": "21/Sep/2026",
+    "price": "0.09"
+  },
+  {
+    "card_id": "GD02-096_p2",
+    "date": "21/Sep/2026",
+    "price": "2.26"
+  },
+  {
+    "card_id": "GD02-100",
+    "date": "21/Sep/2026",
+    "price": "0.25"
+  },
+  {
+    "card_id": "GD02-097_p1",
+    "date": "21/Sep/2026",
+    "price": "14.38"
+  },
+  {
+    "card_id": "GD02-103",
+    "date": "21/Sep/2026",
+    "price": "0.21"
+  },
+  {
+    "card_id": "GD02-106_p2",
+    "date": "21/Sep/2026",
+    "price": "3.7"
+  },
+  {
+    "card_id": "GD02-106_p1",
+    "date": "21/Sep/2026",
+    "price": "0.27"
+  },
+  {
+    "card_id": "GD02-103_p1",
+    "date": "21/Sep/2026",
+    "price": "6.81"
+  },
+  {
+    "card_id": "GD02-106",
+    "date": "21/Sep/2026",
+    "price": "0.27"
+  },
+  {
+    "card_id": "GD02-104_p2",
+    "date": "21/Sep/2026",
+    "price": "6.21"
+  },
+  {
+    "card_id": "GD02-111",
+    "date": "21/Sep/2026",
+    "price": "0.26"
+  },
+  {
+    "card_id": "GD02-107_p1",
+    "date": "21/Sep/2026",
+    "price": "8.8"
+  },
+  {
+    "card_id": "GD02-129",
+    "date": "21/Sep/2026",
+    "price": "13.27"
+  },
+  {
+    "card_id": "GD02-129_p1",
+    "date": "21/Sep/2026",
+    "price": "71.99"
+  },
+  {
+    "card_id": "GD02-130",
+    "date": "21/Sep/2026",
+    "price": "0.1"
+  },
+  {
+    "card_id": "GD02-125",
+    "date": "21/Sep/2026",
+    "price": "0.27"
+  },
+  {
+    "card_id": "GD03-001",
+    "date": "21/Sep/2026",
+    "price": "6.61"
+  },
+  {
+    "card_id": "GD03-002_p1",
+    "date": "21/Sep/2026",
+    "price": "35.75"
+  },
+  {
+    "card_id": "GD03-001_p1",
+    "date": "21/Sep/2026",
+    "price": "21.57"
+  },
+  {
+    "card_id": "GD03-010_p3",
+    "date": "21/Sep/2026",
+    "price": "12.96"
+  },
+  {
+    "card_id": "GD03-004",
+    "date": "21/Sep/2026",
+    "price": "0.11"
+  },
+  {
+    "card_id": "GD03-006",
+    "date": "21/Sep/2026",
+    "price": "0.14"
+  },
+  {
+    "card_id": "GD03-003",
+    "date": "21/Sep/2026",
+    "price": "0.32"
+  },
+  {
+    "card_id": "GD03-002",
+    "date": "21/Sep/2026",
+    "price": "0.77"
+  },
+  {
+    "card_id": "GD03-003_p1",
+    "date": "21/Sep/2026",
+    "price": "13.79"
+  },
+  {
+    "card_id": "GD03-010_p1",
+    "date": "21/Sep/2026",
+    "price": "12.96"
+  },
+  {
+    "card_id": "GD03-014",
+    "date": "21/Sep/2026",
+    "price": "0.07"
+  },
+  {
+    "card_id": "GD03-017",
+    "date": "21/Sep/2026",
+    "price": "0.56"
+  },
+  {
+    "card_id": "GD03-017_p1",
+    "date": "21/Sep/2026",
+    "price": "14.79"
+  },
+  {
+    "card_id": "GD03-013",
+    "date": "21/Sep/2026",
+    "price": "0.08"
+  },
+  {
+    "card_id": "GD03-018",
+    "date": "21/Sep/2026",
+    "price": "1.32"
+  },
+  {
+    "card_id": "GD03-019_p1",
+    "date": "21/Sep/2026",
+    "price": "8.93"
+  },
+  {
+    "card_id": "GD03-021_p2",
+    "date": "21/Sep/2026",
+    "price": "34.1"
+  },
+  {
+    "card_id": "GD03-022",
+    "date": "21/Sep/2026",
+    "price": "0.34"
+  },
+  {
+    "card_id": "GD03-020_p1",
+    "date": "21/Sep/2026",
+    "price": "40.3"
+  },
+  {
+    "card_id": "GD03-022_p1",
+    "date": "21/Sep/2026",
+    "price": "10.26"
+  },
+  {
+    "card_id": "GD03-018_p1",
+    "date": "21/Sep/2026",
+    "price": "46.17"
+  },
+  {
+    "card_id": "GD03-026_p1",
+    "date": "21/Sep/2026",
+    "price": "71.48"
+  },
+  {
+    "card_id": "GD03-032",
+    "date": "21/Sep/2026",
+    "price": "0.1"
+  },
+  {
+    "card_id": "GD03-035",
+    "date": "21/Sep/2026",
+    "price": "4.06"
+  },
+  {
+    "card_id": "GD03-033",
+    "date": "21/Sep/2026",
+    "price": "0.72"
+  },
+  {
+    "card_id": "GD03-030",
+    "date": "21/Sep/2026",
+    "price": "0.12"
+  },
+  {
+    "card_id": "GD03-033_p1",
+    "date": "21/Sep/2026",
+    "price": "20.25"
+  },
+  {
+    "card_id": "GD03-035_p1",
+    "date": "21/Sep/2026",
+    "price": "37.65"
+  },
+  {
+    "card_id": "GD03-034_p1",
+    "date": "21/Sep/2026",
+    "price": "36.79"
+  },
+  {
+    "card_id": "GD03-037_p1",
+    "date": "21/Sep/2026",
+    "price": "5.48"
+  },
+  {
+    "card_id": "GD03-045",
+    "date": "21/Sep/2026",
+    "price": "0.05"
+  },
+  {
+    "card_id": "GD03-038",
+    "date": "21/Sep/2026",
+    "price": "0.2"
+  },
+  {
+    "card_id": "GD03-044",
+    "date": "21/Sep/2026",
+    "price": "0.05"
+  },
+  {
+    "card_id": "GD03-039_p1",
+    "date": "21/Sep/2026",
+    "price": "40.94"
+  },
+  {
+    "card_id": "GD03-039",
+    "date": "21/Sep/2026",
+    "price": "0.63"
+  },
+  {
+    "card_id": "GD03-053",
+    "date": "21/Sep/2026",
+    "price": "0.21"
+  },
+  {
+    "card_id": "GD03-051",
+    "date": "21/Sep/2026",
+    "price": "0.2"
+  },
+  {
+    "card_id": "GD03-052_p1",
+    "date": "21/Sep/2026",
+    "price": "6.33"
+  },
+  {
+    "card_id": "GD03-054",
+    "date": "21/Sep/2026",
+    "price": "0.13"
+  },
+  {
+    "card_id": "GD03-049",
+    "date": "21/Sep/2026",
+    "price": "6.45"
+  },
+  {
+    "card_id": "GD03-050_p1",
+    "date": "21/Sep/2026",
+    "price": "58.69"
+  },
+  {
+    "card_id": "GD03-056",
+    "date": "21/Sep/2026",
+    "price": "6.41"
+  },
+  {
+    "card_id": "GD03-056_p1",
+    "date": "21/Sep/2026",
+    "price": "153.08"
+  },
+  {
+    "card_id": "GD03-069_p1",
+    "date": "21/Sep/2026",
+    "price": "14.78"
+  },
+  {
+    "card_id": "GD03-063_p2",
+    "date": "21/Sep/2026",
+    "price": "58.29"
+  },
+  {
+    "card_id": "GD03-067",
+    "date": "21/Sep/2026",
+    "price": "0.07"
+  },
+  {
+    "card_id": "GD03-064",
+    "date": "21/Sep/2026",
+    "price": "0.05"
+  },
+  {
+    "card_id": "GD03-069",
+    "date": "21/Sep/2026",
+    "price": "0.67"
+  },
+  {
+    "card_id": "GD03-070_p1",
+    "date": "21/Sep/2026",
+    "price": "52.41"
+  },
+  {
+    "card_id": "GD03-071_p1",
+    "date": "21/Sep/2026",
+    "price": "13.22"
+  },
+  {
+    "card_id": "GD03-073",
+    "date": "21/Sep/2026",
+    "price": "0.14"
+  },
+  {
+    "card_id": "GD03-073_p1",
+    "date": "21/Sep/2026",
+    "price": "4.94"
+  },
+  {
+    "card_id": "GD03-079",
+    "date": "21/Sep/2026",
+    "price": "0.06"
+  },
+  {
+    "card_id": "GD03-072",
+    "date": "21/Sep/2026",
+    "price": "0.4"
+  },
+  {
+    "card_id": "GD03-071",
+    "date": "21/Sep/2026",
+    "price": "0.14"
+  },
+  {
+    "card_id": "GD03-072_p1",
+    "date": "21/Sep/2026",
+    "price": "0.4"
+  },
+  {
+    "card_id": "GD03-070",
+    "date": "21/Sep/2026",
+    "price": "0.61"
+  },
+  {
+    "card_id": "GD03-080",
+    "date": "21/Sep/2026",
+    "price": "0.06"
+  },
+  {
+    "card_id": "GD03-088_p1",
+    "date": "21/Sep/2026",
+    "price": "14.81"
+  },
+  {
+    "card_id": "GD03-084",
+    "date": "21/Sep/2026",
+    "price": "0.41"
+  },
+  {
+    "card_id": "GD03-081_p2",
+    "date": "21/Sep/2026",
+    "price": "2.45"
+  },
+  {
+    "card_id": "GD03-084_p1",
+    "date": "21/Sep/2026",
+    "price": "20.66"
+  },
+  {
+    "card_id": "GD03-088",
+    "date": "21/Sep/2026",
+    "price": "0.27"
+  },
+  {
+    "card_id": "GD03-086",
+    "date": "21/Sep/2026",
+    "price": "0.08"
+  },
+  {
+    "card_id": "GD03-087_p2",
+    "date": "21/Sep/2026",
+    "price": "8.23"
+  },
+  {
+    "card_id": "GD03-098_p1",
+    "date": "21/Sep/2026",
+    "price": "9.85"
+  },
+  {
+    "card_id": "GD03-094",
+    "date": "21/Sep/2026",
+    "price": "0.38"
+  },
+  {
+    "card_id": "GD03-090",
+    "date": "21/Sep/2026",
+    "price": "0.08"
+  },
+  {
+    "card_id": "GD03-098",
+    "date": "21/Sep/2026",
+    "price": "0.2"
+  },
+  {
+    "card_id": "GD03-091_p1",
+    "date": "21/Sep/2026",
+    "price": "13.01"
+  },
+  {
+    "card_id": "GD03-094_p1",
+    "date": "21/Sep/2026",
+    "price": "14.25"
+  },
+  {
+    "card_id": "GD03-091",
+    "date": "21/Sep/2026",
+    "price": "0.47"
+  },
+  {
+    "card_id": "GD03-100",
+    "date": "21/Sep/2026",
+    "price": "18.33"
+  },
+  {
+    "card_id": "GD03-101_p1",
+    "date": "21/Sep/2026",
+    "price": "14.6"
+  },
+  {
+    "card_id": "GD03-100_p1",
+    "date": "21/Sep/2026",
+    "price": "18.33"
+  },
+  {
+    "card_id": "GD03-102",
+    "date": "21/Sep/2026",
+    "price": "0.06"
+  },
+  {
+    "card_id": "GD03-105_p1",
+    "date": "21/Sep/2026",
+    "price": "16.64"
+  },
+  {
+    "card_id": "GD03-109_p2",
+    "date": "21/Sep/2026",
+    "price": "7.92"
+  },
+  {
+    "card_id": "GD03-109",
+    "date": "21/Sep/2026",
+    "price": "7.92"
+  },
+  {
+    "card_id": "GD03-105",
+    "date": "21/Sep/2026",
+    "price": "0.28"
+  },
+  {
+    "card_id": "GD03-101",
+    "date": "21/Sep/2026",
+    "price": "0.52"
+  },
+  {
+    "card_id": "GD03-109_p1",
+    "date": "21/Sep/2026",
+    "price": "46.95"
+  },
+  {
+    "card_id": "GD03-101_p2",
+    "date": "21/Sep/2026",
+    "price": "0.52"
+  },
+  {
+    "card_id": "GD03-110_p2",
+    "date": "21/Sep/2026",
+    "price": "4.14"
+  },
+  {
+    "card_id": "GD03-112",
+    "date": "21/Sep/2026",
+    "price": "0.07"
+  },
+  {
+    "card_id": "GD03-114_p1",
+    "date": "21/Sep/2026",
+    "price": "19.16"
+  },
+  {
+    "card_id": "GD03-116",
+    "date": "21/Sep/2026",
+    "price": "0.06"
+  },
+  {
+    "card_id": "GD03-118_p3",
+    "date": "21/Sep/2026",
+    "price": "7.03"
+  },
+  {
+    "card_id": "GD03-118_p1",
+    "date": "21/Sep/2026",
+    "price": "7.03"
+  },
+  {
+    "card_id": "GD03-113_p2",
+    "date": "21/Sep/2026",
+    "price": "2.63"
+  },
+  {
+    "card_id": "GD03-122",
+    "date": "21/Sep/2026",
+    "price": "0.08"
+  },
+  {
+    "card_id": "GD03-124",
+    "date": "21/Sep/2026",
+    "price": "0.08"
+  },
+  {
+    "card_id": "GD03-130",
+    "date": "21/Sep/2026",
+    "price": "0.06"
+  },
+  {
+    "card_id": "GD04-001_p1",
+    "date": "21/Sep/2026",
+    "price": "12.55"
+  },
+  {
+    "card_id": "GD03-131",
+    "date": "21/Sep/2026",
+    "price": "0.14"
+  },
+  {
+    "card_id": "GD04-003",
+    "date": "21/Sep/2026",
+    "price": "5.63"
+  },
+  {
+    "card_id": "GD04-004",
+    "date": "21/Sep/2026",
+    "price": "0.17"
+  },
+  {
+    "card_id": "GD04-003_p1",
+    "date": "21/Sep/2026",
+    "price": "42.86"
+  },
+  {
+    "card_id": "GD04-002_p1",
+    "date": "21/Sep/2026",
+    "price": "10.97"
+  },
+  {
+    "card_id": "GD04-006_p1",
+    "date": "21/Sep/2026",
+    "price": "26.42"
+  },
+  {
+    "card_id": "GD04-007",
+    "date": "21/Sep/2026",
+    "price": "0.18"
+  },
+  {
+    "card_id": "GD04-002",
+    "date": "21/Sep/2026",
+    "price": "0.31"
+  },
+  {
+    "card_id": "GD04-015",
+    "date": "21/Sep/2026",
+    "price": "0.1"
+  },
+  {
+    "card_id": "GD04-018_p1",
+    "date": "21/Sep/2026",
+    "price": "7.11"
+  },
+  {
+    "card_id": "GD04-016",
+    "date": "21/Sep/2026",
+    "price": "0.22"
+  },
+  {
+    "card_id": "GD04-009_p1",
+    "date": "21/Sep/2026",
+    "price": "4.91"
+  },
+  {
+    "card_id": "GD04-018",
+    "date": "21/Sep/2026",
+    "price": "0.58"
+  },
+  {
+    "card_id": "GD04-017_p2",
+    "date": "21/Sep/2026",
+    "price": "590.54"
+  },
+  {
+    "card_id": "GD04-020",
+    "date": "21/Sep/2026",
+    "price": "0.23"
+  },
+  {
+    "card_id": "GD04-021",
+    "date": "21/Sep/2026",
+    "price": "0.21"
+  },
+  {
+    "card_id": "GD04-022",
+    "date": "21/Sep/2026",
+    "price": "0.12"
+  },
+  {
+    "card_id": "GD04-026",
+    "date": "21/Sep/2026",
+    "price": "0.07"
+  },
+  {
+    "card_id": "GD04-029",
+    "date": "21/Sep/2026",
+    "price": "0.08"
+  },
+  {
+    "card_id": "GD04-028",
+    "date": "21/Sep/2026",
+    "price": "0.07"
+  },
+  {
+    "card_id": "GD04-021_p1",
+    "date": "21/Sep/2026",
+    "price": "5.69"
+  },
+  {
+    "card_id": "GD04-022_p1",
+    "date": "21/Sep/2026",
+    "price": "4.63"
+  },
+  {
+    "card_id": "GD04-036_p1",
+    "date": "21/Sep/2026",
+    "price": "6.61"
+  },
+  {
+    "card_id": "GD04-036",
+    "date": "21/Sep/2026",
+    "price": "0.24"
+  },
+  {
+    "card_id": "GD04-033",
+    "date": "21/Sep/2026",
+    "price": "1.32"
+  },
+  {
+    "card_id": "GD04-034_p1",
+    "date": "21/Sep/2026",
+    "price": "20.55"
+  },
+  {
+    "card_id": "GD04-037",
+    "date": "21/Sep/2026",
+    "price": "0.31"
+  },
+  {
+    "card_id": "GD04-033_p1",
+    "date": "21/Sep/2026",
+    "price": "18.06"
+  },
+  {
+    "card_id": "GD04-042_p1",
+    "date": "21/Sep/2026",
+    "price": "4.79"
+  },
+  {
+    "card_id": "GD04-034",
+    "date": "21/Sep/2026",
+    "price": "2.47"
+  },
+  {
+    "card_id": "GD04-047",
+    "date": "21/Sep/2026",
+    "price": "0.11"
+  },
+  {
+    "card_id": "GD04-046",
+    "date": "21/Sep/2026",
+    "price": "0.09"
+  },
+  {
+    "card_id": "GD04-050_p1",
+    "date": "21/Sep/2026",
+    "price": "55.11"
+  },
+  {
+    "card_id": "GD04-045",
+    "date": "21/Sep/2026",
+    "price": "0.19"
+  },
+  {
+    "card_id": "GD04-043",
+    "date": "21/Sep/2026",
+    "price": "0.09"
+  },
+  {
+    "card_id": "GD04-049_p1",
+    "date": "21/Sep/2026",
+    "price": "15.27"
+  },
+  {
+    "card_id": "GD04-049",
+    "date": "21/Sep/2026",
+    "price": "0.43"
+  },
+  {
+    "card_id": "GD04-050",
+    "date": "21/Sep/2026",
+    "price": "2.26"
+  },
+  {
+    "card_id": "GD04-051",
+    "date": "21/Sep/2026",
+    "price": "0.11"
+  },
+  {
+    "card_id": "GD04-061",
+    "date": "21/Sep/2026",
+    "price": "0.11"
+  },
+  {
+    "card_id": "GD04-054",
+    "date": "21/Sep/2026",
+    "price": "0.2"
+  },
+  {
+    "card_id": "GD04-053_p1",
+    "date": "21/Sep/2026",
+    "price": "8.23"
+  },
+  {
+    "card_id": "GD04-053",
+    "date": "21/Sep/2026",
+    "price": "0.22"
+  },
+  {
+    "card_id": "GD04-052",
+    "date": "21/Sep/2026",
+    "price": "0.19"
+  },
+  {
+    "card_id": "GD04-063_p1",
+    "date": "21/Sep/2026",
+    "price": "0.09"
+  },
+  {
+    "card_id": "GD04-067",
+    "date": "21/Sep/2026",
+    "price": "0.51"
+  },
+  {
+    "card_id": "GD04-065",
+    "date": "21/Sep/2026",
+    "price": "0.75"
+  },
+  {
+    "card_id": "GD04-067_p1",
+    "date": "21/Sep/2026",
+    "price": "25.97"
+  },
+  {
+    "card_id": "GD04-063",
+    "date": "21/Sep/2026",
+    "price": "0.09"
+  },
+  {
+    "card_id": "GD04-068",
+    "date": "21/Sep/2026",
+    "price": "5.42"
+  },
+  {
+    "card_id": "GD04-065_p1",
+    "date": "21/Sep/2026",
+    "price": "20.37"
+  },
+  {
+    "card_id": "GD04-062",
+    "date": "21/Sep/2026",
+    "price": "0.11"
+  },
+  {
+    "card_id": "GD04-071",
+    "date": "21/Sep/2026",
+    "price": "0.11"
+  },
+  {
+    "card_id": "GD04-081_p1",
+    "date": "21/Sep/2026",
+    "price": "26.22"
+  },
+  {
+    "card_id": "GD04-076",
+    "date": "21/Sep/2026",
+    "price": "0.06"
+  },
+  {
+    "card_id": "GD04-078",
+    "date": "21/Sep/2026",
+    "price": "0.16"
+  },
+  {
+    "card_id": "GD04-081",
+    "date": "21/Sep/2026",
+    "price": "1.02"
+  },
+  {
+    "card_id": "GD04-071_p1",
+    "date": "21/Sep/2026",
+    "price": "7.34"
+  },
+  {
+    "card_id": "GD04-077",
+    "date": "21/Sep/2026",
+    "price": "0.44"
+  },
+  {
+    "card_id": "GD04-089",
+    "date": "21/Sep/2026",
+    "price": "0.25"
+  },
+  {
+    "card_id": "GD04-093_p1",
+    "date": "21/Sep/2026",
+    "price": "10.61"
+  },
+  {
+    "card_id": "GD04-092",
+    "date": "21/Sep/2026",
+    "price": "0.08"
+  },
+  {
+    "card_id": "GD04-085_p2",
+    "date": "21/Sep/2026",
+    "price": "1.05"
+  },
+  {
+    "card_id": "GD04-089_p1",
+    "date": "21/Sep/2026",
+    "price": "20.41"
+  },
+  {
+    "card_id": "GD04-085",
+    "date": "21/Sep/2026",
+    "price": "1.05"
+  },
+  {
+    "card_id": "GD04-095_p1",
+    "date": "21/Sep/2026",
+    "price": "22.09"
+  },
+  {
+    "card_id": "GD04-105",
+    "date": "21/Sep/2026",
+    "price": "31.19"
+  },
+  {
+    "card_id": "GD04-102_p1",
+    "date": "21/Sep/2026",
+    "price": "16.6"
+  },
+  {
+    "card_id": "GD04-105_p1",
+    "date": "21/Sep/2026",
+    "price": "8.53"
+  },
+  {
+    "card_id": "GD04-101_p2",
+    "date": "21/Sep/2026",
+    "price": "29.06"
+  },
+  {
+    "card_id": "GD04-108",
+    "date": "21/Sep/2026",
+    "price": "0.09"
+  },
+  {
+    "card_id": "GD04-105_p2",
+    "date": "21/Sep/2026",
+    "price": "31.19"
+  },
+  {
+    "card_id": "GD04-109",
+    "date": "21/Sep/2026",
+    "price": "1.06"
+  },
+  {
+    "card_id": "GD04-107",
+    "date": "21/Sep/2026",
+    "price": "0.08"
+  },
+  {
+    "card_id": "GD04-111",
+    "date": "21/Sep/2026",
+    "price": "0.09"
+  },
+  {
+    "card_id": "GD04-113",
+    "date": "21/Sep/2026",
+    "price": "0.29"
+  },
+  {
+    "card_id": "GD04-114_p1",
+    "date": "21/Sep/2026",
+    "price": "1.77"
+  },
+  {
+    "card_id": "GD04-110_p1",
+    "date": "21/Sep/2026",
+    "price": "16.74"
+  },
+  {
+    "card_id": "GD04-124",
+    "date": "21/Sep/2026",
+    "price": "0.09"
+  },
+  {
+    "card_id": "GD04-117_p1",
+    "date": "21/Sep/2026",
+    "price": "27.91"
+  },
+  {
+    "card_id": "GD04-117",
+    "date": "21/Sep/2026",
+    "price": "2.2"
+  },
+  {
+    "card_id": "GD04-117_p2",
+    "date": "21/Sep/2026",
+    "price": "2.2"
+  },
+  {
+    "card_id": "GD04-121",
+    "date": "21/Sep/2026",
+    "price": "0.55"
+  },
+  {
+    "card_id": "GD05-002_p1",
+    "date": "21/Sep/2026",
+    "price": "73.82"
+  },
+  {
+    "card_id": "GD05-004",
+    "date": "21/Sep/2026",
+    "price": "0.23"
+  },
+  {
+    "card_id": "GD04-129",
+    "date": "21/Sep/2026",
+    "price": "0.15"
+  },
+  {
+    "card_id": "GD05-003",
+    "date": "21/Sep/2026",
+    "price": "0.16"
+  },
+  {
+    "card_id": "GD05-002",
+    "date": "21/Sep/2026",
+    "price": "7.35"
+  },
+  {
+    "card_id": "GD05-001_p1",
+    "date": "21/Sep/2026",
+    "price": "7.26"
+  },
+  {
+    "card_id": "GD05-002_p2",
+    "date": "21/Sep/2026",
+    "price": "2622.13"
+  },
+  {
+    "card_id": "GD05-004_p1",
+    "date": "21/Sep/2026",
+    "price": "16.32"
+  },
+  {
+    "card_id": "GD05-015",
+    "date": "21/Sep/2026",
+    "price": "0.14"
+  },
+  {
+    "card_id": "GD05-012",
+    "date": "21/Sep/2026",
+    "price": "0.07"
+  },
+  {
+    "card_id": "GD05-006_p1",
+    "date": "21/Sep/2026",
+    "price": "3.29"
+  },
+  {
+    "card_id": "GD05-005",
+    "date": "21/Sep/2026",
+    "price": "0.29"
+  },
+  {
+    "card_id": "GD05-006",
+    "date": "21/Sep/2026",
+    "price": "0.12"
+  },
+  {
+    "card_id": "GD05-019",
+    "date": "21/Sep/2026",
+    "price": "0.51"
+  },
+  {
+    "card_id": "GD05-017",
+    "date": "21/Sep/2026",
+    "price": "2.28"
+  },
+  {
+    "card_id": "GD05-017_p1",
+    "date": "21/Sep/2026",
+    "price": "33.37"
+  },
+  {
+    "card_id": "GD05-021",
+    "date": "21/Sep/2026",
+    "price": "0.15"
+  },
+  {
+    "card_id": "GD05-020_p1",
+    "date": "21/Sep/2026",
+    "price": "29.99"
+  },
+  {
+    "card_id": "GD05-021_p1",
+    "date": "21/Sep/2026",
+    "price": "8.45"
+  },
+  {
+    "card_id": "GD05-018",
+    "date": "21/Sep/2026",
+    "price": "0.69"
+  },
+  {
+    "card_id": "GD05-033_p2",
+    "date": "21/Sep/2026",
+    "price": "1134.14"
+  },
+  {
+    "card_id": "GD05-029",
+    "date": "21/Sep/2026",
+    "price": "0.13"
+  },
+  {
+    "card_id": "GD05-034",
+    "date": "21/Sep/2026",
+    "price": "0.3"
+  },
+  {
+    "card_id": "GD05-033",
+    "date": "21/Sep/2026",
+    "price": "1.62"
+  },
+  {
+    "card_id": "GD05-033_p1",
+    "date": "21/Sep/2026",
+    "price": "30.23"
+  },
+  {
+    "card_id": "GD05-027",
+    "date": "21/Sep/2026",
+    "price": "0.13"
+  },
+  {
+    "card_id": "GD05-034_p1",
+    "date": "21/Sep/2026",
+    "price": "11.4"
+  },
+  {
+    "card_id": "GD05-038",
+    "date": "21/Sep/2026",
+    "price": "0.14"
+  },
+  {
+    "card_id": "GD05-037_p1",
+    "date": "21/Sep/2026",
+    "price": "5.4"
+  },
+  {
+    "card_id": "GD05-035",
+    "date": "21/Sep/2026",
+    "price": "0.25"
+  },
+  {
+    "card_id": "GD05-035_p1",
+    "date": "21/Sep/2026",
+    "price": "10.02"
+  },
+  {
+    "card_id": "GD05-043",
+    "date": "21/Sep/2026",
+    "price": "0.08"
+  },
+  {
+    "card_id": "GD05-045",
+    "date": "21/Sep/2026",
+    "price": "0.08"
+  },
+  {
+    "card_id": "GD05-036",
+    "date": "21/Sep/2026",
+    "price": "0.15"
+  },
+  {
+    "card_id": "GD05-037",
+    "date": "21/Sep/2026",
+    "price": "0.16"
+  },
+  {
+    "card_id": "GD05-047",
+    "date": "21/Sep/2026",
+    "price": "0.09"
+  },
+  {
+    "card_id": "GD05-048",
+    "date": "21/Sep/2026",
+    "price": "0.1"
+  },
+  {
+    "card_id": "GD05-052_p1",
+    "date": "21/Sep/2026",
+    "price": "13.68"
+  },
+  {
+    "card_id": "GD05-049_p1",
+    "date": "21/Sep/2026",
+    "price": "32.34"
+  },
+  {
+    "card_id": "GD05-049",
+    "date": "21/Sep/2026",
+    "price": "0.8"
+  },
+  {
+    "card_id": "GD05-051_p1",
+    "date": "21/Sep/2026",
+    "price": "6.88"
+  },
+  {
+    "card_id": "GD05-050",
+    "date": "21/Sep/2026",
+    "price": "3.86"
+  },
+  {
+    "card_id": "GD05-051",
+    "date": "21/Sep/2026",
+    "price": "0.27"
+  },
+  {
+    "card_id": "GD05-053",
+    "date": "21/Sep/2026",
+    "price": "0.23"
+  },
+  {
+    "card_id": "GD05-066",
+    "date": "21/Sep/2026",
+    "price": "2.78"
+  },
+  {
+    "card_id": "GD05-055",
+    "date": "21/Sep/2026",
+    "price": "0.17"
+  },
+  {
+    "card_id": "GD05-055_p1",
+    "date": "21/Sep/2026",
+    "price": "7.33"
+  },
+  {
+    "card_id": "GD05-066_p1",
+    "date": "21/Sep/2026",
+    "price": "40.88"
+  },
+  {
+    "card_id": "GD05-067_p1",
+    "date": "21/Sep/2026",
+    "price": "86.5"
+  },
+  {
+    "card_id": "GD05-070",
+    "date": "21/Sep/2026",
+    "price": "0.17"
+  },
+  {
+    "card_id": "GD05-070_p1",
+    "date": "21/Sep/2026",
+    "price": "8.3"
+  },
+  {
+    "card_id": "GD05-071",
+    "date": "21/Sep/2026",
+    "price": "0.23"
+  },
+  {
+    "card_id": "GD05-075",
+    "date": "21/Sep/2026",
+    "price": "0.12"
+  },
+  {
+    "card_id": "GD05-068_p1",
+    "date": "21/Sep/2026",
+    "price": "14.96"
+  },
+  {
+    "card_id": "GD05-068",
+    "date": "21/Sep/2026",
+    "price": "0.26"
+  },
+  {
+    "card_id": "GD05-067",
+    "date": "21/Sep/2026",
+    "price": "1.31"
+  },
+  {
+    "card_id": "GD05-089",
+    "date": "21/Sep/2026",
+    "price": "1.65"
+  },
+  {
+    "card_id": "GD05-085",
+    "date": "21/Sep/2026",
+    "price": "0.92"
+  },
+  {
+    "card_id": "GD05-088",
+    "date": "21/Sep/2026",
+    "price": "0.08"
+  },
+  {
+    "card_id": "GD05-089_p1",
+    "date": "21/Sep/2026",
+    "price": "50.08"
+  },
+  {
+    "card_id": "GD05-078",
+    "date": "21/Sep/2026",
+    "price": "0.15"
+  },
+  {
+    "card_id": "GD05-077",
+    "date": "21/Sep/2026",
+    "price": "0.13"
+  },
+  {
+    "card_id": "GD05-081",
+    "date": "21/Sep/2026",
+    "price": "1.38"
+  },
+  {
+    "card_id": "GD05-097_p2",
+    "date": "21/Sep/2026",
+    "price": "0.65"
+  },
+  {
+    "card_id": "GD05-090",
+    "date": "21/Sep/2026",
+    "price": "0.26"
+  },
+  {
+    "card_id": "GD05-097",
+    "date": "21/Sep/2026",
+    "price": "0.65"
+  },
+  {
+    "card_id": "GD05-095",
+    "date": "21/Sep/2026",
+    "price": "0.09"
+  },
+  {
+    "card_id": "GD05-090_p1",
+    "date": "21/Sep/2026",
+    "price": "14.02"
+  },
+  {
+    "card_id": "GD05-093",
+    "date": "21/Sep/2026",
+    "price": "0.4"
+  },
+  {
+    "card_id": "GD05-097_p1",
+    "date": "21/Sep/2026",
+    "price": "45.15"
+  },
+  {
+    "card_id": "GD05-102",
+    "date": "21/Sep/2026",
+    "price": "0.17"
+  },
+  {
+    "card_id": "GD05-108",
+    "date": "21/Sep/2026",
+    "price": "0.1"
+  },
+  {
+    "card_id": "GD05-098",
+    "date": "21/Sep/2026",
+    "price": "0.26"
+  },
+  {
+    "card_id": "GD05-105",
+    "date": "21/Sep/2026",
+    "price": "0.13"
+  },
+  {
+    "card_id": "GD05-106",
+    "date": "21/Sep/2026",
+    "price": "0.2"
+  },
+  {
+    "card_id": "GD05-098_p1",
+    "date": "21/Sep/2026",
+    "price": "20.18"
+  },
+  {
+    "card_id": "GD05-106_p1",
+    "date": "21/Sep/2026",
+    "price": "4.82"
+  },
+  {
+    "card_id": "GD05-110_p1",
+    "date": "21/Sep/2026",
+    "price": "4.23"
+  },
+  {
+    "card_id": "GD05-114",
+    "date": "21/Sep/2026",
+    "price": "0.35"
+  },
+  {
+    "card_id": "GD05-114_p2",
+    "date": "21/Sep/2026",
+    "price": "0.35"
+  },
+  {
+    "card_id": "GD05-119_p1",
+    "date": "21/Sep/2026",
+    "price": "8.42"
+  },
+  {
+    "card_id": "GD05-112",
+    "date": "21/Sep/2026",
+    "price": "0.12"
+  },
+  {
+    "card_id": "GD05-110",
+    "date": "21/Sep/2026",
+    "price": "4.23"
+  },
+  {
+    "card_id": "GD05-114_p1",
+    "date": "21/Sep/2026",
+    "price": "15.27"
+  },
+  {
+    "card_id": "GD05-119",
+    "date": "21/Sep/2026",
+    "price": "0.14"
+  },
+  {
+    "card_id": "GD05-117",
+    "date": "21/Sep/2026",
+    "price": "0.09"
+  },
+  {
+    "card_id": "GD05-116",
+    "date": "21/Sep/2026",
+    "price": "0.07"
+  },
+  {
+    "card_id": "GD05-128",
+    "date": "21/Sep/2026",
+    "price": "0.12"
+  },
+  {
+    "card_id": "GD05-129",
+    "date": "21/Sep/2026",
+    "price": "0.43"
+  },
+  {
+    "card_id": "R-002_p1",
+    "date": "21/Sep/2026",
+    "price": "15.19"
+  },
+  {
+    "card_id": "GD05-130",
+    "date": "21/Sep/2026",
+    "price": "0.09"
+  },
+  {
+    "card_id": "GD05-124",
+    "date": "21/Sep/2026",
+    "price": "0.08"
+  },
+  {
+    "card_id": "R-003",
+    "date": "21/Sep/2026",
+    "price": "0.26"
+  },
+  {
+    "card_id": "R-002_p2",
+    "date": "21/Sep/2026",
+    "price": "98.81"
+  },
+  {
+    "card_id": "R-005",
+    "date": "21/Sep/2026",
+    "price": "0.43"
+  },
+  {
+    "card_id": "R-004",
+    "date": "21/Sep/2026",
+    "price": "0.36"
+  },
+  {
+    "card_id": "R-004_p1",
+    "date": "21/Sep/2026",
+    "price": "13.17"
+  },
+  {
+    "card_id": "R-006_p1",
+    "date": "21/Sep/2026",
+    "price": "6.29"
+  },
+  {
+    "card_id": "R-006",
+    "date": "21/Sep/2026",
+    "price": "0.25"
+  },
+  {
+    "card_id": "R-007_p1",
+    "date": "21/Sep/2026",
+    "price": "1.89"
+  },
+  {
+    "card_id": "R-008",
+    "date": "21/Sep/2026",
+    "price": "0.37"
+  },
+  {
+    "card_id": "R-007",
+    "date": "21/Sep/2026",
+    "price": "0.18"
+  },
+  {
+    "card_id": "R-005_p1",
+    "date": "21/Sep/2026",
+    "price": "9.77"
+  },
+  {
+    "card_id": "R-009_p1",
+    "date": "21/Sep/2026",
+    "price": "9.49"
+  },
+  {
+    "card_id": "R-008_p1",
+    "date": "21/Sep/2026",
+    "price": "18.98"
+  },
+  {
+    "card_id": "R-014",
+    "date": "21/Sep/2026",
+    "price": "0.18"
+  },
+  {
+    "card_id": "R-013_p1",
+    "date": "21/Sep/2026",
+    "price": "4.38"
+  },
+  {
+    "card_id": "R-011_p1",
+    "date": "21/Sep/2026",
+    "price": "9.11"
+  },
+  {
+    "card_id": "R-012",
+    "date": "21/Sep/2026",
+    "price": "0.14"
+  },
+  {
+    "card_id": "R-009",
+    "date": "21/Sep/2026",
+    "price": "0.35"
+  },
+  {
+    "card_id": "R-010",
+    "date": "21/Sep/2026",
+    "price": "0.17"
+  },
+  {
+    "card_id": "R-014_p1",
+    "date": "21/Sep/2026",
+    "price": "2.78"
+  },
+  {
+    "card_id": "R-015",
+    "date": "21/Sep/2026",
+    "price": "0.23"
+  },
+  {
+    "card_id": "R-018_p1",
+    "date": "21/Sep/2026",
+    "price": "3.94"
+  },
+  {
+    "card_id": "R-015_p2",
+    "date": "21/Sep/2026",
+    "price": "45.64"
+  },
+  {
+    "card_id": "R-018",
+    "date": "21/Sep/2026",
+    "price": "0.22"
+  },
+  {
+    "card_id": "R-017",
+    "date": "21/Sep/2026",
+    "price": "0.25"
+  },
+  {
+    "card_id": "R-016_p1",
+    "date": "21/Sep/2026",
+    "price": "4.2"
+  },
+  {
+    "card_id": "R-015_p1",
+    "date": "21/Sep/2026",
+    "price": "4.4"
+  },
+  {
+    "card_id": "R-019",
+    "date": "21/Sep/2026",
+    "price": "0.15"
+  },
+  {
+    "card_id": "R-023",
+    "date": "21/Sep/2026",
+    "price": "0.16"
+  },
+  {
+    "card_id": "R-023_p1",
+    "date": "21/Sep/2026",
+    "price": "5.5"
+  },
+  {
+    "card_id": "R-020",
+    "date": "21/Sep/2026",
+    "price": "0.14"
+  },
+  {
+    "card_id": "R-021_p1",
+    "date": "21/Sep/2026",
+    "price": "2.4"
+  },
+  {
+    "card_id": "R-024",
+    "date": "21/Sep/2026",
+    "price": "0.17"
+  },
+  {
+    "card_id": "R-020_p1",
+    "date": "21/Sep/2026",
+    "price": "3.34"
+  },
+  {
+    "card_id": "R-022",
+    "date": "21/Sep/2026",
+    "price": "0.13"
+  },
+  {
+    "card_id": "R-022_p1",
+    "date": "21/Sep/2026",
+    "price": "4.11"
+  },
+  {
+    "card_id": "R-019_p1",
+    "date": "21/Sep/2026",
+    "price": "1.54"
+  },
+  {
+    "card_id": "R-025",
+    "date": "21/Sep/2026",
+    "price": "0.17"
+  },
+  {
+    "card_id": "R-025_p2",
+    "date": "21/Sep/2026",
+    "price": "38.19"
+  },
+  {
+    "card_id": "R-024_p1",
+    "date": "21/Sep/2026",
+    "price": "2.44"
+  },
+  {
+    "card_id": "R-027_p1",
+    "date": "21/Sep/2026",
+    "price": "1.67"
+  },
+  {
+    "card_id": "R-028_p1",
+    "date": "21/Sep/2026",
+    "price": "1.77"
+  },
+  {
+    "card_id": "R-027",
+    "date": "21/Sep/2026",
+    "price": "0.18"
+  },
+  {
+    "card_id": "R-025_p1",
+    "date": "21/Sep/2026",
+    "price": "3.23"
+  },
+  {
+    "card_id": "R-028",
+    "date": "21/Sep/2026",
+    "price": "0.12"
+  },
+  {
+    "card_id": "R-026_p1",
+    "date": "21/Sep/2026",
+    "price": "6.91"
+  },
+  {
+    "card_id": "R-030",
+    "date": "21/Sep/2026",
+    "price": "0.15"
+  },
+  {
+    "card_id": "R-029_p1",
+    "date": "21/Sep/2026",
+    "price": "1.52"
+  },
+  {
+    "card_id": "R-032",
+    "date": "21/Sep/2026",
+    "price": "0.16"
+  },
+  {
+    "card_id": "R-033",
+    "date": "21/Sep/2026",
+    "price": "0.15"
+  },
+  {
+    "card_id": "R-032_p1",
+    "date": "21/Sep/2026",
+    "price": "2.4"
+  },
+  {
+    "card_id": "R-031_p1",
+    "date": "21/Sep/2026",
+    "price": "1.23"
+  },
+  {
+    "card_id": "R-034_p1",
+    "date": "21/Sep/2026",
+    "price": "1.51"
+  },
+  {
+    "card_id": "R-031",
+    "date": "21/Sep/2026",
+    "price": "0.1"
+  },
+  {
+    "card_id": "R-035_p1",
+    "date": "21/Sep/2026",
+    "price": "2.15"
+  },
+  {
+    "card_id": "R-038_p1",
+    "date": "21/Sep/2026",
+    "price": "2.17"
+  },
+  {
+    "card_id": "R-036_p1",
+    "date": "21/Sep/2026",
+    "price": "2.73"
+  },
+  {
+    "card_id": "R-040_p1",
+    "date": "21/Sep/2026",
+    "price": "4.5"
+  },
+  {
+    "card_id": "RP-004",
+    "date": "21/Sep/2026",
+    "price": "86.3"
+  },
+  {
+    "card_id": "RP-002",
+    "date": "21/Sep/2026",
+    "price": "56.76"
+  },
+  {
+    "card_id": "R-041",
+    "date": "21/Sep/2026",
+    "price": "0.18"
+  },
+  {
+    "card_id": "RP-010",
+    "date": "21/Sep/2026",
+    "price": "15.11"
+  },
+  {
+    "card_id": "RP-018",
+    "date": "21/Sep/2026",
+    "price": "19.52"
+  },
+  {
+    "card_id": "RP-016",
+    "date": "21/Sep/2026",
+    "price": "20.42"
+  },
+  {
+    "card_id": "RP-011",
+    "date": "21/Sep/2026",
+    "price": "37.23"
+  },
+  {
+    "card_id": "RP-014",
+    "date": "21/Sep/2026",
+    "price": "54.84"
+  },
+  {
+    "card_id": "RP-022",
+    "date": "21/Sep/2026",
+    "price": "23.92"
+  },
+  {
+    "card_id": "RP-025",
+    "date": "21/Sep/2026",
+    "price": "47.57"
+  },
+  {
+    "card_id": "RP-024",
+    "date": "21/Sep/2026",
+    "price": "7.74"
+  },
+  {
+    "card_id": "RP-030",
+    "date": "21/Sep/2026",
+    "price": "2.62"
+  },
+  {
+    "card_id": "RP-027",
+    "date": "21/Sep/2026",
+    "price": "17.63"
+  },
+  {
+    "card_id": "RP-029",
+    "date": "21/Sep/2026",
+    "price": "14.38"
+  },
+  {
+    "card_id": "RP-023",
+    "date": "21/Sep/2026",
+    "price": "17.86"
+  },
+  {
+    "card_id": "RP-028",
+    "date": "21/Sep/2026",
+    "price": "3"
+  },
+  {
+    "card_id": "RP-026",
+    "date": "21/Sep/2026",
+    "price": "4.36"
+  },
+  {
+    "card_id": "RP-031",
+    "date": "21/Sep/2026",
+    "price": "10.46"
+  },
+  {
+    "card_id": "RP-034",
+    "date": "21/Sep/2026",
+    "price": "12.9"
+  },
+  {
+    "card_id": "RP-033",
+    "date": "21/Sep/2026",
+    "price": "8.26"
+  },
+  {
+    "card_id": "RP-032",
+    "date": "21/Sep/2026",
+    "price": "2.43"
+  },
+  {
+    "card_id": "RP-035",
+    "date": "21/Sep/2026",
+    "price": "10.08"
+  },
+  {
+    "card_id": "RP-038",
+    "date": "21/Sep/2026",
+    "price": "38.7"
+  },
+  {
+    "card_id": "RP-036",
+    "date": "21/Sep/2026",
+    "price": "3.84"
+  },
+  {
+    "card_id": "RP-039",
+    "date": "21/Sep/2026",
+    "price": "15.37"
+  },
+  {
+    "card_id": "RP-037",
+    "date": "21/Sep/2026",
+    "price": "5.94"
+  },
+  {
+    "card_id": "RP-044",
+    "date": "21/Sep/2026",
+    "price": "5.32"
+  },
+  {
+    "card_id": "RP-053",
+    "date": "21/Sep/2026",
+    "price": "30.14"
+  },
+  {
+    "card_id": "RP-048",
+    "date": "21/Sep/2026",
+    "price": "33.13"
+  },
+  {
+    "card_id": "RP-046",
+    "date": "21/Sep/2026",
+    "price": "17.33"
+  },
+  {
+    "card_id": "RP-043",
+    "date": "21/Sep/2026",
+    "price": "4.35"
+  },
+  {
+    "card_id": "RP-050",
+    "date": "21/Sep/2026",
+    "price": "38.97"
+  },
+  {
+    "card_id": "RP-042",
+    "date": "21/Sep/2026",
+    "price": "3.59"
+  },
+  {
+    "card_id": "RP-051",
+    "date": "21/Sep/2026",
+    "price": "42.42"
+  },
+  {
+    "card_id": "RP-049",
+    "date": "21/Sep/2026",
+    "price": "73.83"
+  },
+  {
+    "card_id": "RP-054",
+    "date": "21/Sep/2026",
+    "price": "46.73"
+  },
+  {
+    "card_id": "RP-056",
+    "date": "21/Sep/2026",
+    "price": "8.61"
+  },
+  {
+    "card_id": "RP-058",
+    "date": "21/Sep/2026",
+    "price": "2.89"
+  },
+  {
+    "card_id": "RP-057",
+    "date": "21/Sep/2026",
+    "price": "2.4"
+  },
+  {
+    "card_id": "RP-063",
+    "date": "21/Sep/2026",
+    "price": "5.11"
+  },
+  {
+    "card_id": "RP-059",
+    "date": "21/Sep/2026",
+    "price": "1.28"
+  },
+  {
+    "card_id": "RP-060",
+    "date": "21/Sep/2026",
+    "price": "9.9"
+  },
+  {
+    "card_id": "RP-061",
+    "date": "21/Sep/2026",
+    "price": "2.44"
+  },
+  {
+    "card_id": "RP-062",
+    "date": "21/Sep/2026",
+    "price": "1.24"
+  },
+  {
+    "card_id": "RP-065",
+    "date": "21/Sep/2026",
+    "price": "1.39"
+  },
+  {
+    "card_id": "ST01-001_p3",
+    "date": "21/Sep/2026",
+    "price": "164.32"
+  },
+  {
+    "card_id": "ST01-001_p1",
+    "date": "21/Sep/2026",
+    "price": "164.32"
+  },
+  {
+    "card_id": "RP-064",
+    "date": "21/Sep/2026",
+    "price": "0.95"
+  },
+  {
+    "card_id": "ST01-004_p1",
+    "date": "21/Sep/2026",
+    "price": "3.98"
+  },
+  {
+    "card_id": "ST01-007_p1",
+    "date": "21/Sep/2026",
+    "price": "9.06"
+  },
+  {
+    "card_id": "ST01-006_p1",
+    "date": "21/Sep/2026",
+    "price": "45.89"
+  },
+  {
+    "card_id": "ST01-006",
+    "date": "21/Sep/2026",
+    "price": "0.78"
+  },
+  {
+    "card_id": "ST01-005_p1",
+    "date": "21/Sep/2026",
+    "price": "12.96"
+  },
+  {
+    "card_id": "ST01-010_p4",
+    "date": "21/Sep/2026",
+    "price": "162.49"
+  },
+  {
+    "card_id": "ST01-009",
+    "date": "21/Sep/2026",
+    "price": "0.92"
+  },
+  {
+    "card_id": "ST01-011_p5",
+    "date": "21/Sep/2026",
+    "price": "220.38"
+  },
+  {
+    "card_id": "ST01-010_p1",
+    "date": "21/Sep/2026",
+    "price": "40.05"
+  },
+  {
+    "card_id": "ST01-016_p1",
+    "date": "21/Sep/2026",
+    "price": "4.11"
+  },
+  {
+    "card_id": "ST01-013_p1",
+    "date": "21/Sep/2026",
+    "price": "1.62"
+  },
+  {
+    "card_id": "ST01-015_p1",
+    "date": "21/Sep/2026",
+    "price": "17.12"
+  },
+  {
+    "card_id": "ST02-004_p1",
+    "date": "21/Sep/2026",
+    "price": "13.59"
+  },
+  {
+    "card_id": "ST02-007_p1",
+    "date": "21/Sep/2026",
+    "price": "4.44"
+  },
+  {
+    "card_id": "ST02-004",
+    "date": "21/Sep/2026",
+    "price": "0.15"
+  },
+  {
+    "card_id": "ST02-003_p1",
+    "date": "21/Sep/2026",
+    "price": "8.72"
+  },
+  {
+    "card_id": "ST02-006",
+    "date": "21/Sep/2026",
+    "price": "0.66"
+  },
+  {
+    "card_id": "ST02-005_p1",
+    "date": "21/Sep/2026",
+    "price": "6.16"
+  },
+  {
+    "card_id": "ST02-008_p1",
+    "date": "21/Sep/2026",
+    "price": "2.48"
+  },
+  {
+    "card_id": "ST02-006_p1",
+    "date": "21/Sep/2026",
+    "price": "51.62"
+  },
+  {
+    "card_id": "ST02-009",
+    "date": "21/Sep/2026",
+    "price": "0.2"
+  },
+  {
+    "card_id": "ST02-012_p1",
+    "date": "21/Sep/2026",
+    "price": "9.53"
+  },
+  {
+    "card_id": "ST02-013_p1",
+    "date": "21/Sep/2026",
+    "price": "5.8"
+  },
+  {
+    "card_id": "ST02-010_p5",
+    "date": "21/Sep/2026",
+    "price": "151.85"
+  },
+  {
+    "card_id": "ST02-009_p1",
+    "date": "21/Sep/2026",
+    "price": "1.76"
+  },
+  {
+    "card_id": "ST03-001_p1",
+    "date": "21/Sep/2026",
+    "price": "83.93"
+  },
+  {
+    "card_id": "ST02-014_p1",
+    "date": "21/Sep/2026",
+    "price": "10.67"
+  },
+  {
+    "card_id": "ST02-014",
+    "date": "21/Sep/2026",
+    "price": "0.58"
+  },
+  {
+    "card_id": "ST02-014_p3",
+    "date": "21/Sep/2026",
+    "price": "10.67"
+  },
+  {
+    "card_id": "ST03-002",
+    "date": "21/Sep/2026",
+    "price": "0.09"
+  },
+  {
+    "card_id": "ST03-002_p1",
+    "date": "21/Sep/2026",
+    "price": "1.74"
+  },
+  {
+    "card_id": "ST02-014_p2",
+    "date": "21/Sep/2026",
+    "price": "0.58"
+  },
+  {
+    "card_id": "ST02-015_p1",
+    "date": "21/Sep/2026",
+    "price": "5.85"
+  },
+  {
+    "card_id": "ST02-016_p1",
+    "date": "21/Sep/2026",
+    "price": "28.65"
+  },
+  {
+    "card_id": "ST02-016",
+    "date": "21/Sep/2026",
+    "price": "5.65"
+  },
+  {
+    "card_id": "ST03-006_p2",
+    "date": "21/Sep/2026",
+    "price": "7.42"
+  },
+  {
+    "card_id": "ST03-005_p1",
+    "date": "21/Sep/2026",
+    "price": "2.98"
+  },
+  {
+    "card_id": "ST03-003_p1",
+    "date": "21/Sep/2026",
+    "price": "6.43"
+  },
+  {
+    "card_id": "ST03-006",
+    "date": "21/Sep/2026",
+    "price": "7.42"
+  },
+  {
+    "card_id": "ST03-006_p3",
+    "date": "21/Sep/2026",
+    "price": "7.42"
+  },
+  {
+    "card_id": "ST03-004_p1",
+    "date": "21/Sep/2026",
+    "price": "1.5"
+  },
+  {
+    "card_id": "ST03-007",
+    "date": "21/Sep/2026",
+    "price": "0.26"
+  },
+  {
+    "card_id": "ST03-011_p4",
+    "date": "21/Sep/2026",
+    "price": "141.23"
+  },
+  {
+    "card_id": "ST03-007_p2",
+    "date": "21/Sep/2026",
+    "price": "0.26"
+  },
+  {
+    "card_id": "ST03-009",
+    "date": "21/Sep/2026",
+    "price": "0.19"
+  },
+  {
+    "card_id": "ST03-009_p1",
+    "date": "21/Sep/2026",
+    "price": "10.17"
+  },
+  {
+    "card_id": "ST03-010_p2",
+    "date": "21/Sep/2026",
+    "price": "55.45"
+  },
+  {
+    "card_id": "ST03-010_p1",
+    "date": "21/Sep/2026",
+    "price": "12.41"
+  },
+  {
+    "card_id": "ST03-015",
+    "date": "21/Sep/2026",
+    "price": "0.43"
+  },
+  {
+    "card_id": "ST03-015_p2",
+    "date": "21/Sep/2026",
+    "price": "0.43"
+  },
+  {
+    "card_id": "ST04-001_p1",
+    "date": "21/Sep/2026",
+    "price": "114.54"
+  },
+  {
+    "card_id": "ST03-016_p1",
+    "date": "21/Sep/2026",
+    "price": "22.02"
+  },
+  {
+    "card_id": "ST04-001_p3",
+    "date": "21/Sep/2026",
+    "price": "114.54"
+  },
+  {
+    "card_id": "ST03-015_p1",
+    "date": "21/Sep/2026",
+    "price": "13.52"
+  },
+  {
+    "card_id": "ST04-003_p1",
+    "date": "21/Sep/2026",
+    "price": "1.24"
+  },
+  {
+    "card_id": "ST04-006",
+    "date": "21/Sep/2026",
+    "price": "1.26"
+  },
+  {
+    "card_id": "ST04-005_p1",
+    "date": "21/Sep/2026",
+    "price": "1.85"
+  },
+  {
+    "card_id": "ST04-007_p1",
+    "date": "21/Sep/2026",
+    "price": "12.17"
+  },
+  {
+    "card_id": "ST04-006_p1",
+    "date": "21/Sep/2026",
+    "price": "52.41"
+  },
+  {
+    "card_id": "ST04-001_p4",
+    "date": "21/Sep/2026",
+    "price": "173.02"
+  },
+  {
+    "card_id": "ST04-012",
+    "date": "21/Sep/2026",
+    "price": "2.65"
+  },
+  {
+    "card_id": "ST04-010_p1",
+    "date": "21/Sep/2026",
+    "price": "29.29"
+  },
+  {
+    "card_id": "ST04-008",
+    "date": "21/Sep/2026",
+    "price": "0.3"
+  },
+  {
+    "card_id": "ST04-010_p6",
+    "date": "21/Sep/2026",
+    "price": "132.82"
+  },
+  {
+    "card_id": "ST04-011_p3",
+    "date": "21/Sep/2026",
+    "price": "8.04"
+  },
+  {
+    "card_id": "ST04-011_p1",
+    "date": "21/Sep/2026",
+    "price": "8.04"
+  },
+  {
+    "card_id": "ST04-013_p1",
+    "date": "21/Sep/2026",
+    "price": "5.1"
+  },
+  {
+    "card_id": "ST04-012_p1",
+    "date": "21/Sep/2026",
+    "price": "23.88"
+  },
+  {
+    "card_id": "ST04-012_p2",
+    "date": "21/Sep/2026",
+    "price": "2.65"
+  },
+  {
+    "card_id": "ST04-016_p2",
+    "date": "21/Sep/2026",
+    "price": "0.29"
+  },
+  {
+    "card_id": "ST04-016_p1",
+    "date": "21/Sep/2026",
+    "price": "9.99"
+  },
+  {
+    "card_id": "ST04-016",
+    "date": "21/Sep/2026",
+    "price": "0.29"
+  },
+  {
+    "card_id": "ST05-002_p1",
+    "date": "21/Sep/2026",
+    "price": "9.12"
+  },
+  {
+    "card_id": "ST05-001_p1",
+    "date": "21/Sep/2026",
+    "price": "81.47"
+  },
+  {
+    "card_id": "ST04-014_p1",
+    "date": "21/Sep/2026",
+    "price": "3.36"
+  },
+  {
+    "card_id": "ST05-004",
+    "date": "21/Sep/2026",
+    "price": "0.5"
+  },
+  {
+    "card_id": "ST05-006",
+    "date": "21/Sep/2026",
+    "price": "1.27"
+  },
+  {
+    "card_id": "ST05-003",
+    "date": "21/Sep/2026",
+    "price": "0.16"
+  },
+  {
+    "card_id": "ST05-003_p1",
+    "date": "21/Sep/2026",
+    "price": "1.91"
+  },
+  {
+    "card_id": "ST05-007",
+    "date": "21/Sep/2026",
+    "price": "0.57"
+  },
+  {
+    "card_id": "ST05-005_p1",
+    "date": "21/Sep/2026",
+    "price": "2.17"
+  },
+  {
+    "card_id": "ST05-004_p1",
+    "date": "21/Sep/2026",
+    "price": "42.78"
+  },
+  {
+    "card_id": "ST05-007_p2",
+    "date": "21/Sep/2026",
+    "price": "0.57"
+  },
+  {
+    "card_id": "ST05-006_p1",
+    "date": "21/Sep/2026",
+    "price": "50.55"
+  },
+  {
+    "card_id": "ST05-008_p1",
+    "date": "21/Sep/2026",
+    "price": "6.77"
+  },
+  {
+    "card_id": "ST05-012",
+    "date": "21/Sep/2026",
+    "price": "0.21"
+  },
+  {
+    "card_id": "ST05-010_p3",
+    "date": "21/Sep/2026",
+    "price": "21.4"
+  },
+  {
+    "card_id": "ST05-011_p1",
+    "date": "21/Sep/2026",
+    "price": "7.22"
+  },
+  {
+    "card_id": "ST05-011",
+    "date": "21/Sep/2026",
+    "price": "0.27"
+  },
+  {
+    "card_id": "ST05-009_p1",
+    "date": "21/Sep/2026",
+    "price": "9.15"
+  },
+  {
+    "card_id": "ST05-013_p2",
+    "date": "21/Sep/2026",
+    "price": "0.75"
+  },
+  {
+    "card_id": "ST05-012_p1",
+    "date": "21/Sep/2026",
+    "price": "16.8"
+  },
+  {
+    "card_id": "ST05-013",
+    "date": "21/Sep/2026",
+    "price": "0.75"
+  },
+  {
+    "card_id": "ST05-013_p3",
+    "date": "21/Sep/2026",
+    "price": "5.93"
+  },
+  {
+    "card_id": "ST06-001",
+    "date": "21/Sep/2026",
+    "price": "0.52"
+  },
+  {
+    "card_id": "ST06-001_p2",
+    "date": "21/Sep/2026",
+    "price": "0.52"
+  },
+  {
+    "card_id": "ST05-015_p1",
+    "date": "21/Sep/2026",
+    "price": "14.04"
+  },
+  {
+    "card_id": "ST06-002_p1",
+    "date": "21/Sep/2026",
+    "price": "10.1"
+  },
+  {
+    "card_id": "ST06-005_p1",
+    "date": "21/Sep/2026",
+    "price": "31.98"
+  },
+  {
+    "card_id": "ST06-007",
+    "date": "21/Sep/2026",
+    "price": "0.13"
+  },
+  {
+    "card_id": "ST06-007_p1",
+    "date": "21/Sep/2026",
+    "price": "9.15"
+  },
+  {
+    "card_id": "ST06-011_p1",
+    "date": "21/Sep/2026",
+    "price": "1.55"
+  },
+  {
+    "card_id": "ST06-010_p3",
+    "date": "21/Sep/2026",
+    "price": "21.55"
+  },
+  {
+    "card_id": "ST06-010_p1",
+    "date": "21/Sep/2026",
+    "price": "21.55"
+  },
+  {
+    "card_id": "ST06-013",
+    "date": "21/Sep/2026",
+    "price": "0.18"
+  },
+  {
+    "card_id": "ST07-001_p1",
+    "date": "21/Sep/2026",
+    "price": "77.74"
+  },
+  {
+    "card_id": "ST07-004_p1",
+    "date": "21/Sep/2026",
+    "price": "17.37"
+  },
+  {
+    "card_id": "ST07-003_p1",
+    "date": "21/Sep/2026",
+    "price": "2.88"
+  },
+  {
+    "card_id": "ST07-001",
+    "date": "21/Sep/2026",
+    "price": "0.78"
+  },
+  {
+    "card_id": "ST07-004",
+    "date": "21/Sep/2026",
+    "price": "0.2"
+  },
+  {
+    "card_id": "ST07-002_p1",
+    "date": "21/Sep/2026",
+    "price": "7.43"
+  },
+  {
+    "card_id": "ST07-006_p1",
+    "date": "21/Sep/2026",
+    "price": "7.49"
+  },
+  {
+    "card_id": "ST07-006",
+    "date": "21/Sep/2026",
+    "price": "0.14"
+  },
+  {
+    "card_id": "ST07-005",
+    "date": "21/Sep/2026",
+    "price": "0.83"
+  },
+  {
+    "card_id": "ST07-005_p2",
+    "date": "21/Sep/2026",
+    "price": "0.83"
+  },
+  {
+    "card_id": "ST07-007_p1",
+    "date": "21/Sep/2026",
+    "price": "12.56"
+  },
+  {
+    "card_id": "ST07-008_p1",
+    "date": "21/Sep/2026",
+    "price": "3.56"
+  },
+  {
+    "card_id": "ST07-009",
+    "date": "21/Sep/2026",
+    "price": "3.33"
+  },
+  {
+    "card_id": "ST07-005_p1",
+    "date": "21/Sep/2026",
+    "price": "47.79"
+  },
+  {
+    "card_id": "ST07-007",
+    "date": "21/Sep/2026",
+    "price": "0.2"
+  },
+  {
+    "card_id": "ST07-009_p2",
+    "date": "21/Sep/2026",
+    "price": "3.33"
+  },
+  {
+    "card_id": "ST07-013",
+    "date": "21/Sep/2026",
+    "price": "0.23"
+  },
+  {
+    "card_id": "ST07-009_p3",
+    "date": "21/Sep/2026",
+    "price": "80.09"
+  },
+  {
+    "card_id": "ST07-012",
+    "date": "21/Sep/2026",
+    "price": "0.19"
+  },
+  {
+    "card_id": "ST07-013_p1",
+    "date": "21/Sep/2026",
+    "price": "5.82"
+  },
+  {
+    "card_id": "ST07-010_p3",
+    "date": "21/Sep/2026",
+    "price": "2.88"
+  },
+  {
+    "card_id": "ST07-010_p1",
+    "date": "21/Sep/2026",
+    "price": "2.88"
+  },
+  {
+    "card_id": "ST07-012_p1",
+    "date": "21/Sep/2026",
+    "price": "11.48"
+  },
+  {
+    "card_id": "ST08-001",
+    "date": "21/Sep/2026",
+    "price": "0.5"
+  },
+  {
+    "card_id": "ST08-004_p1",
+    "date": "21/Sep/2026",
+    "price": "3.55"
+  },
+  {
+    "card_id": "ST08-005",
+    "date": "21/Sep/2026",
+    "price": "0.3"
+  },
+  {
+    "card_id": "ST07-015_p1",
+    "date": "21/Sep/2026",
+    "price": "15.25"
+  },
+  {
+    "card_id": "ST08-003_p1",
+    "date": "21/Sep/2026",
+    "price": "3.17"
+  },
+  {
+    "card_id": "ST08-002_p1",
+    "date": "21/Sep/2026",
+    "price": "10.3"
+  },
+  {
+    "card_id": "ST08-001_p1",
+    "date": "21/Sep/2026",
+    "price": "40.19"
+  },
+  {
+    "card_id": "ST08-005_p1",
+    "date": "21/Sep/2026",
+    "price": "15.1"
+  },
+  {
+    "card_id": "ST08-006",
+    "date": "21/Sep/2026",
+    "price": "0.58"
+  },
+  {
+    "card_id": "ST08-006_p1",
+    "date": "21/Sep/2026",
+    "price": "38.65"
+  },
+  {
+    "card_id": "ST08-010",
+    "date": "21/Sep/2026",
+    "price": "0.88"
+  },
+  {
+    "card_id": "ST08-009_p1",
+    "date": "21/Sep/2026",
+    "price": "1.63"
+  },
+  {
+    "card_id": "ST08-007_p1",
+    "date": "21/Sep/2026",
+    "price": "2.51"
+  },
+  {
+    "card_id": "ST08-010_p2",
+    "date": "21/Sep/2026",
+    "price": "0.88"
+  },
+  {
+    "card_id": "ST09-001_p1",
+    "date": "21/Sep/2026",
+    "price": "68"
+  },
+  {
+    "card_id": "ST09-002",
+    "date": "21/Sep/2026",
+    "price": "1.9"
+  },
+  {
+    "card_id": "ST08-013",
+    "date": "21/Sep/2026",
+    "price": "0.13"
+  },
+  {
+    "card_id": "ST09-001",
+    "date": "21/Sep/2026",
+    "price": "4.38"
+  },
+  {
+    "card_id": "ST08-011_p1",
+    "date": "21/Sep/2026",
+    "price": "10.33"
+  },
+  {
+    "card_id": "ST09-004",
+    "date": "21/Sep/2026",
+    "price": "2.6"
+  },
+  {
+    "card_id": "ST09-004_p1",
+    "date": "21/Sep/2026",
+    "price": "81.38"
+  },
+  {
+    "card_id": "ST09-003",
+    "date": "21/Sep/2026",
+    "price": "0.66"
+  },
+  {
+    "card_id": "ST09-006",
+    "date": "21/Sep/2026",
+    "price": "0.21"
+  },
+  {
+    "card_id": "ST09-005_p1",
+    "date": "21/Sep/2026",
+    "price": "10.56"
+  },
+  {
+    "card_id": "ST09-002_p1",
+    "date": "21/Sep/2026",
+    "price": "41.76"
+  },
+  {
+    "card_id": "ST09-007",
+    "date": "21/Sep/2026",
+    "price": "0.19"
+  },
+  {
+    "card_id": "ST09-006_p1",
+    "date": "21/Sep/2026",
+    "price": "20.05"
+  },
+  {
+    "card_id": "ST09-003_p1",
+    "date": "21/Sep/2026",
+    "price": "25.18"
+  },
+  {
+    "card_id": "ST09-009",
+    "date": "21/Sep/2026",
+    "price": "3.49"
+  },
+  {
+    "card_id": "ST09-010",
+    "date": "21/Sep/2026",
+    "price": "0.64"
+  },
+  {
+    "card_id": "ST09-007_p1",
+    "date": "21/Sep/2026",
+    "price": "13.21"
+  },
+  {
+    "card_id": "ST09-010_p1",
+    "date": "21/Sep/2026",
+    "price": "18.78"
+  },
+  {
+    "card_id": "ST09-008_p1",
+    "date": "21/Sep/2026",
+    "price": "16.17"
+  },
+  {
+    "card_id": "ST10-001_p1",
+    "date": "21/Sep/2026",
+    "price": "31.27"
+  },
+  {
+    "card_id": "ST10-001",
+    "date": "21/Sep/2026",
+    "price": "1.01"
+  },
+  {
+    "card_id": "ST09-009_p1",
+    "date": "21/Sep/2026",
+    "price": "18.23"
+  },
+  {
+    "card_id": "ST10-006_p1",
+    "date": "21/Sep/2026",
+    "price": "31.02"
+  },
+  {
+    "card_id": "ST10-003_p1",
+    "date": "21/Sep/2026",
+    "price": "3.36"
+  },
+  {
+    "card_id": "ST10-006",
+    "date": "21/Sep/2026",
+    "price": "0.76"
+  },
+  {
+    "card_id": "ST10-008",
+    "date": "21/Sep/2026",
+    "price": "0.2"
+  },
+  {
+    "card_id": "ST10-011_p1",
+    "date": "21/Sep/2026",
+    "price": "20.92"
+  },
+  {
+    "card_id": "ST10-015_p1",
+    "date": "21/Sep/2026",
+    "price": "7.32"
+  },
+  {
+    "card_id": "T-008",
+    "date": "21/Sep/2026",
+    "price": "1.11"
+  },
+  {
+    "card_id": "T-003",
+    "date": "21/Sep/2026",
+    "price": "0.56"
+  },
+  {
+    "card_id": "T-003_p1",
+    "date": "21/Sep/2026",
+    "price": "0.56"
+  },
+  {
+    "card_id": "T-009",
+    "date": "21/Sep/2026",
+    "price": "1.09"
+  },
+  {
+    "card_id": "T-013",
+    "date": "21/Sep/2026",
+    "price": "2.64"
+  },
+  {
+    "card_id": "T-010",
+    "date": "21/Sep/2026",
+    "price": "1.08"
+  },
+  {
+    "card_id": "T-014",
+    "date": "21/Sep/2026",
+    "price": "1.14"
+  },
+  {
+    "card_id": "T-011",
+    "date": "21/Sep/2026",
+    "price": "1.11"
+  },
+  {
+    "card_id": "T-021",
+    "date": "21/Sep/2026",
+    "price": "1.4"
+  },
+  {
+    "card_id": "T-026",
+    "date": "21/Sep/2026",
+    "price": "0.2"
+  },
+  {
+    "card_id": "T-025",
+    "date": "21/Sep/2026",
+    "price": "0.32"
   }
 ]
