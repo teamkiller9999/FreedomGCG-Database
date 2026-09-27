@@ -53,5 +53,10 @@
     "rarity_id": "011",
     "order": "11",
     "rarity": "LR ++"
+  },
+  {
+    "rarity_id": "012",
+    "order": "",
+    "rarity": "P +"
   }
 ]
