@@ -132,7 +132,7 @@
   {
     "card_id": "GD01-003",
     "card_no": "GD01-003",
-    "name": "獨角獸高達2號機報喪女妖（破壞模式）",
+    "name": "獨角獸高達2號機 報喪女妖（破壞模式）",
     "link_name": "",
     "rarity": "LR",
     "spCol": "",
@@ -158,7 +158,7 @@
   {
     "card_id": "GD01-003_p1",
     "card_no": "GD01-003",
-    "name": "獨角獸高達2號機報喪女妖（破壞模式）",
+    "name": "獨角獸高達2號機 報喪女妖（破壞模式）",
     "link_name": "",
     "rarity": "LR +",
     "spCol": "",
@@ -392,7 +392,7 @@
   {
     "card_id": "GD01-010",
     "card_no": "GD01-010",
-    "name": "獨角獸高達2號機報喪女妖（獨角獸模式）",
+    "name": "獨角獸高達2號機 報喪女妖（獨角獸模式）",
     "link_name": "",
     "rarity": "R",
     "spCol": "",
@@ -777,7 +777,7 @@
     "package_from": "[GD01] Newtype Rising",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD01-023_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/gd01/10030",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/645369/Chars Gelgoog LRplus"
   },
   {
     "card_id": "GD01-024",
@@ -886,7 +886,7 @@
   {
     "card_id": "GD01-026",
     "card_no": "GD01-026",
-    "name": "夏亞專用薩克Ⅱ",
+    "name": "薩克Ⅱ（夏亞・阿茲那布爾機）",
     "link_name": "",
     "rarity": "R",
     "spCol": "",
@@ -895,7 +895,7 @@
     "cost": "2",
     "color": "Green",
     "type": "UNIT",
-    "effect": "【搭乘中】【破壞時】配置1張休息狀態的「夏亞專用薩克Ⅱ」（〔吉翁〕・AP3・HP1）的機體替代卡。",
+    "effect": "【搭乘中】【破壞時】配置1張休息狀態的「薩克Ⅱ（夏亞・阿茲那布爾機）」（〔吉翁〕・AP3・HP1）的機體替代卡。",
     "zone": "宇宙 地球",
     "trait": "〔吉翁〕",
     "link": "夏亞・阿茲那布爾",
@@ -1952,7 +1952,7 @@
   {
     "card_id": "GD01-060",
     "card_no": "GD01-060",
-    "name": "薩克海中型",
+    "name": "薩克・海中型",
     "link_name": "",
     "rarity": "C",
     "spCol": "",
@@ -2654,7 +2654,7 @@
   {
     "card_id": "GD01-081",
     "card_no": "GD01-081",
-    "name": "M1迷惘高達",
+    "name": "M1迷惘",
     "link_name": "",
     "rarity": "C",
     "spCol": "",
@@ -2680,7 +2680,7 @@
   {
     "card_id": "GD01-082",
     "card_no": "GD01-082",
-    "name": "風靈高達（米拉蘇爾社製 飛行組件裝備）",
+    "name": "風靈高達（米拉蘇爾社製飛行組件裝備）",
     "link_name": "",
     "rarity": "U",
     "spCol": "",
@@ -3200,7 +3200,7 @@
   {
     "card_id": "GD01-098",
     "card_no": "GD01-098",
-    "name": "伊蘭・凱萊斯（強化人士四號）",
+    "name": "伊蘭・凱萊斯（強化人士4號）",
     "link_name": "",
     "rarity": "C",
     "spCol": "",
@@ -3408,7 +3408,7 @@
   {
     "card_id": "GD01-105",
     "card_no": "GD01-105",
-    "name": "奮起吧！國民！",
+    "name": "奮起吧國民！",
     "link_name": "",
     "rarity": "R",
     "spCol": "",
@@ -3434,7 +3434,7 @@
   {
     "card_id": "GD01-105_p1",
     "card_no": "GD01-105",
-    "name": "奮起吧！國民！",
+    "name": "奮起吧國民！",
     "link_name": "",
     "rarity": "R +",
     "spCol": "",
@@ -3585,7 +3585,7 @@
     "package_from": "[GD01] Newtype Rising",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD01-110.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/gd01/10138",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/643259/Rasids Orders"
   },
   {
     "card_id": "GD01-111",
@@ -4209,7 +4209,7 @@
     "package_from": "[GD01] Newtype Rising",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/R-002.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/reto/10015",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/643292/Resource R 002"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "R-002_p1",
@@ -4916,7 +4916,7 @@
   {
     "card_id": "GD02-007",
     "card_no": "GD02-007",
-    "name": "重高達（MA型態）",
+    "name": "重高達（MA形態）",
     "link_name": "",
     "rarity": "U",
     "spCol": "",
@@ -5176,7 +5176,7 @@
   {
     "card_id": "GD02-017",
     "card_no": "GD02-017",
-    "name": "德爾塔普拉斯（WAVE RIDER型態）",
+    "name": "德爾塔普拉斯（WAVE RIDER形態）",
     "link_name": "",
     "rarity": "C",
     "spCol": "",
@@ -5228,7 +5228,7 @@
   {
     "card_id": "GD02-019",
     "card_no": "GD02-019",
-    "name": "獵殺高達（MA型態）",
+    "name": "獵殺高達（MA形態）",
     "link_name": "",
     "rarity": "C",
     "spCol": "",
@@ -5488,7 +5488,7 @@
   {
     "card_id": "GD02-025",
     "card_no": "GD02-025",
-    "name": "重砲手高達",
+    "name": "重武裝高達",
     "link_name": "",
     "rarity": "U",
     "spCol": "",
@@ -5696,7 +5696,7 @@
   {
     "card_id": "GD02-033",
     "card_no": "GD02-033",
-    "name": "齊克羅加（MA型態）（GQ）",
+    "name": "齊克羅加（MA形態）（GQ）",
     "link_name": "",
     "rarity": "C",
     "spCol": "",
@@ -6086,7 +6086,7 @@
   {
     "card_id": "GD02-042",
     "card_no": "GD02-042",
-    "name": "阿斯特龍高達（MA型態）",
+    "name": "阿斯特龍高達（MA形態）",
     "link_name": "",
     "rarity": "U",
     "spCol": "",
@@ -6112,7 +6112,7 @@
   {
     "card_id": "GD02-043",
     "card_no": "GD02-043",
-    "name": "德特雷斯武裝型",
+    "name": "德特雷斯・武裝型",
     "link_name": "",
     "rarity": "U",
     "spCol": "",
@@ -6138,7 +6138,7 @@
   {
     "card_id": "GD02-044",
     "card_no": "GD02-044",
-    "name": "德特雷斯指揮型",
+    "name": "德特雷斯・指揮型",
     "link_name": "",
     "rarity": "U",
     "spCol": "",
@@ -6424,7 +6424,7 @@
   {
     "card_id": "GD02-054",
     "card_no": "GD02-054",
-    "name": "高達巴巴托司（第1型態）",
+    "name": "高達・巴巴托司（第1形態）",
     "link_name": "",
     "rarity": "LR",
     "spCol": "",
@@ -6450,7 +6450,7 @@
   {
     "card_id": "GD02-054_p1",
     "card_no": "GD02-054",
-    "name": "高達巴巴托司（第1型態）",
+    "name": "高達・巴巴托司（第1形態）",
     "link_name": "",
     "rarity": "LR +",
     "spCol": "",
@@ -6476,7 +6476,7 @@
   {
     "card_id": "GD02-054_p2",
     "card_no": "GD02-054",
-    "name": "高達巴巴托司（第1型態）",
+    "name": "高達・巴巴托司（第1形態）",
     "link_name": "",
     "rarity": "LR ++",
     "spCol": "",
@@ -6918,7 +6918,7 @@
   {
     "card_id": "GD02-068",
     "card_no": "GD02-068",
-    "name": "高達巴巴托司（第3型態）",
+    "name": "高達・巴巴托司（第3形態）",
     "link_name": "",
     "rarity": "C",
     "spCol": "",
@@ -7256,7 +7256,7 @@
   {
     "card_id": "GD02-077",
     "card_no": "GD02-077",
-    "name": "燕式格雷茲（艾因機）",
+    "name": "燕式格・雷茲（艾因機）",
     "link_name": "",
     "rarity": "U",
     "spCol": "",
@@ -7386,7 +7386,7 @@
   {
     "card_id": "GD02-082",
     "card_no": "GD02-082",
-    "name": "燕式格雷茲（蓋里歐機）",
+    "name": "燕式格・雷茲（蓋里歐機）",
     "link_name": "",
     "rarity": "C",
     "spCol": "",
@@ -9383,7 +9383,7 @@
     "package_from": "[GD02] Dual Impact",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/R-017_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/reto/10049",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/659377/Resource R 017 Cplus"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "R-018",
@@ -9830,7 +9830,7 @@
   {
     "card_id": "GD03-006",
     "card_no": "GD03-006",
-    "name": "潘娜洛普（中型型態）",
+    "name": "潘娜洛普（中型形態）",
     "link_name": "",
     "rarity": "R",
     "spCol": "",
@@ -9986,7 +9986,7 @@
   {
     "card_id": "GD03-011",
     "card_no": "GD03-011",
-    "name": "吉姆狙擊型Ⅱ",
+    "name": "吉姆・狙擊型Ⅱ",
     "link_name": "",
     "rarity": "C",
     "spCol": "",
@@ -10012,7 +10012,7 @@
   {
     "card_id": "GD03-012",
     "card_no": "GD03-012",
-    "name": "梅薩拉（MA型態）",
+    "name": "梅薩拉（MA形態）",
     "link_name": "",
     "rarity": "C",
     "spCol": "",
@@ -10610,7 +10610,7 @@
   {
     "card_id": "GD03-029",
     "card_no": "GD03-029",
-    "name": "重砲手高達改",
+    "name": "重武裝高達改",
     "link_name": "",
     "rarity": "C",
     "spCol": "",
@@ -10636,7 +10636,7 @@
   {
     "card_id": "GD03-030",
     "card_no": "GD03-030",
-    "name": "主天使高達（尾部組件裝備）（飛行型態）",
+    "name": "主天使高達（尾部組件裝備）（飛行形態）",
     "link_name": "",
     "rarity": "C",
     "spCol": "",
@@ -10896,7 +10896,7 @@
   {
     "card_id": "GD03-036",
     "card_no": "GD03-036",
-    "name": "Ξ高達（飛行型態）",
+    "name": "Ξ高達（飛行形態）",
     "link_name": "",
     "rarity": "R",
     "spCol": "",
@@ -10922,7 +10922,7 @@
   {
     "card_id": "GD03-036_p1",
     "card_no": "GD03-036",
-    "name": "Ξ高達（飛行型態）",
+    "name": "Ξ高達（飛行形態）",
     "link_name": "",
     "rarity": "R +",
     "spCol": "",
@@ -11255,7 +11255,7 @@
     "package_from": "[GD03] Steel Requiem",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD03-047.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/gd03/10063",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/673473/DINN Commander Type"
   },
   {
     "card_id": "GD03-048",
@@ -11338,7 +11338,7 @@
   {
     "card_id": "GD03-050",
     "card_no": "GD03-050",
-    "name": "高達巴巴托司狼式",
+    "name": "高達・巴巴托司狼式",
     "link_name": "",
     "rarity": "LR",
     "spCol": "",
@@ -11364,7 +11364,7 @@
   {
     "card_id": "GD03-050_p1",
     "card_no": "GD03-050",
-    "name": "高達巴巴托司狼式",
+    "name": "高達・巴巴托司狼式",
     "link_name": "",
     "rarity": "LR +",
     "spCol": "",
@@ -11390,7 +11390,7 @@
   {
     "card_id": "GD03-051",
     "card_no": "GD03-051",
-    "name": "高達X（分裂者）",
+    "name": "高達X分裂者",
     "link_name": "",
     "rarity": "R",
     "spCol": "",
@@ -11546,7 +11546,7 @@
   {
     "card_id": "GD03-055",
     "card_no": "GD03-055",
-    "name": "端白星高達（第2型態）",
+    "name": "端白星高達（第2形態）",
     "link_name": "",
     "rarity": "R",
     "spCol": "",
@@ -11572,7 +11572,7 @@
   {
     "card_id": "GD03-056",
     "card_no": "GD03-056",
-    "name": "高達巴巴托司 適應型",
+    "name": "高達・巴巴托司 適應型",
     "link_name": "",
     "rarity": "R",
     "spCol": "",
@@ -11702,7 +11702,7 @@
   {
     "card_id": "GD03-061",
     "card_no": "GD03-061",
-    "name": "高達巴巴托司（第6型態）",
+    "name": "高達・巴巴托司（第6形態）",
     "link_name": "",
     "rarity": "U",
     "spCol": "",
@@ -11832,7 +11832,7 @@
   {
     "card_id": "GD03-066",
     "card_no": "GD03-066",
-    "name": "高達巴巴托司（第5型態/地上戰規格）",
+    "name": "高達・巴巴托司（第5形態/地上戰規格）",
     "link_name": "",
     "rarity": "C",
     "spCol": "",
@@ -11974,7 +11974,7 @@
     "effect": "此機體處於休息狀態的期間，友方的護盾不會受到來自對方機體的戰鬥傷害。",
     "zone": "宇宙 地球",
     "trait": "〔三艦同盟〕",
-    "link": "煌・大和",
+    "link": "基拉・大和",
     "ap": "4",
     "hp": "5",
     "source_title": "機動戰士高達SEED",
@@ -12000,7 +12000,7 @@
     "effect": "此機體處於休息狀態的期間，友方的護盾不會受到來自對方機體的戰鬥傷害。",
     "zone": "宇宙 地球",
     "trait": "〔三艦同盟〕",
-    "link": "煌・大和",
+    "link": "基拉・大和",
     "ap": "4",
     "hp": "5",
     "source_title": "機動戰士高達SEED",
@@ -12026,7 +12026,7 @@
     "effect": "【配置時】選擇對方的1張機體。我方廢棄區中每有1張〔幽谷〕的機體卡牌，本回合中，使其AP-1。",
     "zone": "宇宙 地球",
     "trait": "〔幽谷〕",
-    "link": "卡密兒・維丹",
+    "link": "嘉美尤・維達",
     "ap": "5",
     "hp": "5",
     "source_title": "機動戰士Z高達",
@@ -12052,7 +12052,7 @@
     "effect": "【配置時】選擇對方的1張機體。我方廢棄區中每有1張〔幽谷〕的機體卡牌，本回合中，使其AP-1。",
     "zone": "宇宙 地球",
     "trait": "〔幽谷〕",
-    "link": "卡密兒・維丹",
+    "link": "嘉美尤・維達",
     "ap": "5",
     "hp": "5",
     "source_title": "機動戰士Z高達",
@@ -12208,7 +12208,7 @@
     "effect": "【每回合1次】我方的回合中，當我方〔三艦同盟〕機體給予對方機體戰鬥傷害時，可以將對方的該機體放回其持有者的手牌中。",
     "zone": "宇宙",
     "trait": "〔三艦同盟〕",
-    "link": "煌・大和",
+    "link": "基拉・大和",
     "ap": "6",
     "hp": "6",
     "source_title": "機動戰士高達SEED",
@@ -12300,7 +12300,7 @@
   {
     "card_id": "GD03-080",
     "card_no": "GD03-080",
-    "name": "高達錫蒙力騎兵（騎兵型態）",
+    "name": "高達錫蒙力騎兵（騎兵形態）",
     "link_name": "",
     "rarity": "C",
     "spCol": "",
@@ -13158,7 +13158,7 @@
   {
     "card_id": "GD03-106",
     "card_no": "GD03-106",
-    "name": "M.A.V.戰術",
+    "name": "M・A・V・戰術",
     "link_name": "",
     "rarity": "U",
     "spCol": "",
@@ -13505,7 +13505,7 @@
     "cost": "1",
     "color": "Purple",
     "type": "COMMAND",
-    "effect": "【主要】若對方戰鬥區中存在1~4張機體，則配置1張「格雷茲改」（〔鐵華團〕・AP2・HP2）的機體替代卡；若存在5張或更多機體，則配置1張「高達巴巴托司(第4形態)」（〔鐵華團〕・AP4・HP4）的機體替代卡。",
+    "effect": "【主要】若對方戰鬥區中存在1~4張機體，則配置1張「格雷茲改」（〔鐵華團〕・AP2・HP2）的機體替代卡；若存在5張或更多機體，則配置1張「高達・巴巴托司（第4形態）」（〔鐵華團〕・AP4・HP4）的機體替代卡。",
     "zone": "-",
     "trait": "-",
     "link": "",
@@ -14666,7 +14666,7 @@
   {
     "card_id": "T-017",
     "card_no": "T-017",
-    "name": "高達巴巴托司(第4形態)",
+    "name": "高達・巴巴托司（第4形態）",
     "link_name": "",
     "rarity": "C",
     "spCol": "",
@@ -14848,7 +14848,7 @@
   {
     "card_id": "GD03-056_p1",
     "card_no": "GD03-056",
-    "name": "高達巴巴托司 適應型",
+    "name": "高達・巴巴托司 適應型",
     "link_name": "",
     "rarity": "R +",
     "spCol": "SP",
@@ -14926,7 +14926,7 @@
   {
     "card_id": "GD04-002",
     "card_no": "GD04-002",
-    "name": "潘娜洛普（飛行型態）",
+    "name": "潘娜洛普（飛行形態）",
     "link_name": "",
     "rarity": "LR",
     "spCol": "",
@@ -14952,7 +14952,7 @@
   {
     "card_id": "GD04-002_p1",
     "card_no": "GD04-002",
-    "name": "潘娜洛普（飛行型態）",
+    "name": "潘娜洛普（飛行形態）",
     "link_name": "",
     "rarity": "LR +",
     "spCol": "",
@@ -15030,7 +15030,7 @@
   {
     "card_id": "GD04-004",
     "card_no": "GD04-004",
-    "name": "重高達Mk-II",
+    "name": "重高達Mk-Ⅱ",
     "link_name": "",
     "rarity": "R",
     "spCol": "",
@@ -15654,7 +15654,7 @@
   {
     "card_id": "GD04-022",
     "card_no": "GD04-022",
-    "name": "齊克羅加（MS型態）（GQ)",
+    "name": "齊克羅加（MS形態）（GQ）",
     "link_name": "",
     "rarity": "R",
     "spCol": "",
@@ -15680,7 +15680,7 @@
   {
     "card_id": "GD04-022_p1",
     "card_no": "GD04-022",
-    "name": "齊克羅加（MS型態）（GQ)",
+    "name": "齊克羅加（MS形態）（GQ）",
     "link_name": "",
     "rarity": "R +",
     "spCol": "",
@@ -16486,7 +16486,7 @@
   {
     "card_id": "GD04-049",
     "card_no": "GD04-049",
-    "name": "高達X",
+    "name": "高達DX",
     "link_name": "",
     "rarity": "LR",
     "spCol": "",
@@ -16512,7 +16512,7 @@
   {
     "card_id": "GD04-049_p1",
     "card_no": "GD04-049",
-    "name": "高達X",
+    "name": "高達DX",
     "link_name": "",
     "rarity": "LR +",
     "spCol": "",
@@ -17006,7 +17006,7 @@
   {
     "card_id": "GD04-065",
     "card_no": "GD04-065",
-    "name": "獨角獸高達2號機 報喪女妖·命運女神型（破壞模式）",
+    "name": "獨角獸高達2號機 報喪女妖・命運女神型（破壞模式）",
     "link_name": "",
     "rarity": "LR",
     "spCol": "",
@@ -17032,7 +17032,7 @@
   {
     "card_id": "GD04-065_p1",
     "card_no": "GD04-065",
-    "name": "獨角獸高達2號機 報喪女妖·命運女神型（破壞模式）",
+    "name": "獨角獸高達2號機 報喪女妖・命運女神型（破壞模式）",
     "link_name": "",
     "rarity": "LR +",
     "spCol": "",
@@ -17318,7 +17318,7 @@
   {
     "card_id": "GD04-072",
     "card_no": "GD04-072",
-    "name": "獨角獸高達2號機 報喪女妖·命運女神型（獨角獸模式）",
+    "name": "獨角獸高達2號機 報喪女妖・命運女神型（獨角獸模式）",
     "link_name": "",
     "rarity": "U",
     "spCol": "",
@@ -17760,7 +17760,7 @@
   {
     "card_id": "GD04-087",
     "card_no": "GD04-087",
-    "name": "伊蘭・凱萊斯（強化人士五號）",
+    "name": "伊蘭・凱萊斯（強化人士5號）",
     "link_name": "",
     "rarity": "U",
     "spCol": "",
@@ -18878,7 +18878,7 @@
   {
     "card_id": "GD04-121",
     "card_no": "GD04-121",
-    "name": "Rin Hosu Jr.",
+    "name": "林霍斯Jr・",
     "link_name": "",
     "rarity": "R",
     "spCol": "",
@@ -19008,7 +19008,7 @@
   {
     "card_id": "GD04-126",
     "card_no": "GD04-126",
-    "name": "伊茲瑪殖民地",
+    "name": "伊茲瑪・殖民地",
     "link_name": "",
     "rarity": "C",
     "spCol": "",
@@ -20282,7 +20282,7 @@
   {
     "card_id": "GD05-005",
     "card_no": "GD05-005",
-    "name": "突擊高達‧紅(鳳型裝備)",
+    "name": "突擊高達‧紅（鳳型裝備）",
     "link_name": "",
     "rarity": "R",
     "spCol": "",
@@ -20308,7 +20308,7 @@
   {
     "card_id": "GD05-005_p1",
     "card_no": "GD05-005",
-    "name": "突擊高達‧紅(鳳型裝備)",
+    "name": "突擊高達‧紅（鳳型裝備）",
     "link_name": "",
     "rarity": "R +",
     "spCol": "LK",
@@ -20594,7 +20594,7 @@
   {
     "card_id": "GD05-015",
     "card_no": "GD05-015",
-    "name": "M1迷惘高達 (伯勞鳥裝備)",
+    "name": "M1迷惘 （伯勞鳥裝備）",
     "link_name": "",
     "rarity": "C",
     "spCol": "",
@@ -21608,7 +21608,7 @@
   {
     "card_id": "GD05-041",
     "card_no": "GD05-041",
-    "name": "大地高達（MA型態）",
+    "name": "大地高達（MA形態）",
     "link_name": "",
     "rarity": "U",
     "spCol": "",
@@ -21634,7 +21634,7 @@
   {
     "card_id": "GD05-041_p1",
     "card_no": "GD05-041",
-    "name": "大地高達（MA型態）",
+    "name": "大地高達（MA形態）",
     "link_name": "",
     "rarity": "U +",
     "spCol": "LK",
@@ -21738,7 +21738,7 @@
   {
     "card_id": "GD05-045",
     "card_no": "GD05-045",
-    "name": "混沌高達（MA型態）",
+    "name": "混沌高達（MA形態）",
     "link_name": "",
     "rarity": "C",
     "spCol": "",
@@ -21764,7 +21764,7 @@
   {
     "card_id": "GD05-046",
     "card_no": "GD05-046",
-    "name": "深淵高達（MA型態）",
+    "name": "深淵高達（MA形態）",
     "link_name": "",
     "rarity": "C",
     "spCol": "",
@@ -21816,7 +21816,7 @@
   {
     "card_id": "GD05-048",
     "card_no": "GD05-048",
-    "name": "主天使高達（飛行型態）",
+    "name": "主天使高達（飛行形態）",
     "link_name": "",
     "rarity": "C",
     "spCol": "",
@@ -21842,7 +21842,7 @@
   {
     "card_id": "GD05-048_p1",
     "card_no": "GD05-048",
-    "name": "主天使高達（飛行型態）",
+    "name": "主天使高達（飛行形態）",
     "link_name": "",
     "rarity": "C +",
     "spCol": "LK",
@@ -21998,7 +21998,7 @@
   {
     "card_id": "GD05-051",
     "card_no": "GD05-051",
-    "name": "高達巴巴托司狼王式",
+    "name": "高達・巴巴托司狼王式",
     "link_name": "",
     "rarity": "LR",
     "spCol": "",
@@ -22024,7 +22024,7 @@
   {
     "card_id": "GD05-051_p1",
     "card_no": "GD05-051",
-    "name": "高達巴巴托司狼王式",
+    "name": "高達・巴巴托司狼王式",
     "link_name": "",
     "rarity": "LR +",
     "spCol": "",
@@ -22102,7 +22102,7 @@
   {
     "card_id": "GD05-053",
     "card_no": "GD05-053",
-    "name": "葵絲專用亞克托・德卡",
+    "name": "亞克托・德卡（葵絲專用機）",
     "link_name": "",
     "rarity": "R",
     "spCol": "",
@@ -22128,7 +22128,7 @@
   {
     "card_id": "GD05-053_p1",
     "card_no": "GD05-053",
-    "name": "葵絲專用亞克托・德卡",
+    "name": "亞克托・德卡（葵絲專用機）",
     "link_name": "",
     "rarity": "R +",
     "spCol": "LK",
@@ -22258,7 +22258,7 @@
   {
     "card_id": "GD05-057",
     "card_no": "GD05-057",
-    "name": "裘尼專用亞克托・德卡",
+    "name": "亞克托・德卡（裘尼專用機）",
     "link_name": "",
     "rarity": "U",
     "spCol": "",
@@ -22310,7 +22310,7 @@
   {
     "card_id": "GD05-059",
     "card_no": "GD05-059",
-    "name": "高達巴巴托司狼式",
+    "name": "高達・巴巴托司狼式",
     "link_name": "",
     "rarity": "U",
     "spCol": "",
@@ -22336,7 +22336,7 @@
   {
     "card_id": "GD05-059_p1",
     "card_no": "GD05-059",
-    "name": "高達巴巴托司狼式",
+    "name": "高達・巴巴托司狼式",
     "link_name": "",
     "rarity": "U +",
     "spCol": "LK",
@@ -23038,7 +23038,7 @@
   {
     "card_id": "GD05-079",
     "card_no": "GD05-079",
-    "name": "重砲手高達改（EW版）",
+    "name": "重武裝高達改（EW版）",
     "link_name": "",
     "rarity": "C",
     "spCol": "",
@@ -23064,7 +23064,7 @@
   {
     "card_id": "GD05-079_p1",
     "card_no": "GD05-079",
-    "name": "重砲手高達改（EW版）",
+    "name": "重武裝高達改（EW版）",
     "link_name": "",
     "rarity": "C +",
     "spCol": "LK",
@@ -24988,7 +24988,7 @@
   {
     "card_id": "ST01-002",
     "card_no": "ST01-002",
-    "name": "高達（MA型態）",
+    "name": "高達（MA形態）",
     "link_name": "",
     "rarity": "C",
     "spCol": "",
@@ -25014,7 +25014,7 @@
   {
     "card_id": "ST01-002_p1",
     "card_no": "ST01-002",
-    "name": "高達（MA型態）",
+    "name": "高達（MA形態）",
     "link_name": "",
     "rarity": "C +",
     "spCol": "",
@@ -25196,7 +25196,7 @@
   {
     "card_id": "ST01-006",
     "card_no": "ST01-006",
-    "name": "風靈高達（帕梅特刻痕6）",
+    "name": "風靈高達（帕梅特刻痕六）",
     "link_name": "",
     "rarity": "LR",
     "spCol": "",
@@ -25222,7 +25222,7 @@
   {
     "card_id": "ST01-006_p1",
     "card_no": "ST01-006",
-    "name": "風靈高達（帕梅特刻痕6）",
+    "name": "風靈高達（帕梅特刻痕六）",
     "link_name": "",
     "rarity": "LR +",
     "spCol": "",
@@ -25898,7 +25898,7 @@
   {
     "card_id": "ST02-002",
     "card_no": "ST02-002",
-    "name": "飛翼高達（鳥型型態）",
+    "name": "飛翼高達（鳥型形態）",
     "link_name": "",
     "rarity": "C",
     "spCol": "",
@@ -25924,7 +25924,7 @@
   {
     "card_id": "ST02-002_p1",
     "card_no": "ST02-002",
-    "name": "飛翼高達（鳥型型態）",
+    "name": "飛翼高達（鳥型形態）",
     "link_name": "",
     "rarity": "C +",
     "spCol": "",
@@ -25950,7 +25950,7 @@
   {
     "card_id": "ST02-003",
     "card_no": "ST02-003",
-    "name": "重砲手高達",
+    "name": "重武裝高達",
     "link_name": "",
     "rarity": "C",
     "spCol": "",
@@ -25976,7 +25976,7 @@
   {
     "card_id": "ST02-003_p1",
     "card_no": "ST02-003",
-    "name": "重砲手高達",
+    "name": "重武裝高達",
     "link_name": "",
     "rarity": "C +",
     "spCol": "",
@@ -26990,7 +26990,7 @@
   {
     "card_id": "ST03-006",
     "card_no": "ST03-006",
-    "name": "夏亞專用薩克Ⅱ",
+    "name": "薩克Ⅱ（夏亞・阿茲那布爾機）",
     "link_name": "",
     "rarity": "LR",
     "spCol": "",
@@ -27016,7 +27016,7 @@
   {
     "card_id": "ST03-006_p1",
     "card_no": "ST03-006",
-    "name": "夏亞專用薩克Ⅱ",
+    "name": "薩克Ⅱ（夏亞・阿茲那布爾機）",
     "link_name": "",
     "rarity": "LR +",
     "spCol": "",
@@ -27519,7 +27519,7 @@
     "cost": "2",
     "color": "Green",
     "type": "BASE",
-    "effect": "【爆發】配置此卡牌。\n【配置時】將我方的1張護盾加入手牌。此後，若是我方的回合，則配置1張休息狀態的「夏亞專用薩克Ⅱ」（〔吉翁〕・AP3・HP1）的機體替代卡。",
+    "effect": "【爆發】配置此卡牌。\n【配置時】將我方的1張護盾加入手牌。此後，若是我方的回合，則配置1張休息狀態的「薩克Ⅱ（夏亞・阿茲那布爾機）」（〔吉翁〕・AP3・HP1）的機體替代卡。",
     "zone": "宇宙",
     "trait": "〔吉翁〕 〔艦船〕",
     "link": "",
@@ -27545,7 +27545,7 @@
     "cost": "2",
     "color": "Green",
     "type": "BASE",
-    "effect": "【爆發】配置此卡牌。\n【配置時】將我方的1張護盾加入手牌。此後，若是我方的回合，則配置1張休息狀態的「夏亞專用薩克Ⅱ」（〔吉翁〕・AP3・HP1）的機體替代卡。",
+    "effect": "【爆發】配置此卡牌。\n【配置時】將我方的1張護盾加入手牌。此後，若是我方的回合，則配置1張休息狀態的「薩克Ⅱ（夏亞・阿茲那布爾機）」（〔吉翁〕・AP3・HP1）的機體替代卡。",
     "zone": "宇宙",
     "trait": "〔吉翁〕 〔艦船〕",
     "link": "",
@@ -27562,7 +27562,7 @@
   {
     "card_id": "T-006",
     "card_no": "T-006",
-    "name": "夏亞專用薩克Ⅱ",
+    "name": "薩克Ⅱ（夏亞・阿茲那布爾機）",
     "link_name": "",
     "rarity": "C",
     "spCol": "",
@@ -27817,7 +27817,7 @@
     "package_from": "[ST04] SEED Strike",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/ST04-004_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st04/10008",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/641551/Moebius Cplus"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "ST04-005",
@@ -27926,7 +27926,7 @@
   {
     "card_id": "ST04-007",
     "card_no": "ST04-007",
-    "name": "神盾高達（MA型態）",
+    "name": "神盾高達（MA形態）",
     "link_name": "",
     "rarity": "C",
     "spCol": "",
@@ -27952,7 +27952,7 @@
   {
     "card_id": "ST04-007_p1",
     "card_no": "ST04-007",
-    "name": "神盾高達（MA型態）",
+    "name": "神盾高達（MA形態）",
     "link_name": "",
     "rarity": "C +",
     "spCol": "",
@@ -28212,7 +28212,7 @@
   {
     "card_id": "ST04-012_p1",
     "card_no": "ST04-012",
-    "name": "攻擊背包",
+    "name": "突擊背包",
     "link_name": "",
     "rarity": "C +",
     "spCol": "",
@@ -28576,7 +28576,7 @@
   {
     "card_id": "ST05-001",
     "card_no": "ST05-001",
-    "name": "高達巴巴托司(第4形態)",
+    "name": "高達・巴巴托司（第4形態）",
     "link_name": "",
     "rarity": "LR",
     "spCol": "",
@@ -28602,7 +28602,7 @@
   {
     "card_id": "ST05-001_p1",
     "card_no": "ST05-001",
-    "name": "高達巴巴托司(第4形態)",
+    "name": "高達・巴巴托司（第4形態）",
     "link_name": "",
     "rarity": "LR +",
     "spCol": "",
@@ -28628,7 +28628,7 @@
   {
     "card_id": "ST05-002",
     "card_no": "ST05-002",
-    "name": "高達巴巴托司(第2形態)",
+    "name": "高達・巴巴托司（第2形態）",
     "link_name": "",
     "rarity": "C",
     "spCol": "",
@@ -28654,7 +28654,7 @@
   {
     "card_id": "ST05-002_p1",
     "card_no": "ST05-002",
-    "name": "高達巴巴托司(第2形態)",
+    "name": "高達・巴巴托司（第2形態）",
     "link_name": "",
     "rarity": "C +",
     "spCol": "",
@@ -30604,7 +30604,7 @@
   {
     "card_id": "ST07-008",
     "card_no": "ST07-008",
-    "name": "主天使高達（飛行型態）",
+    "name": "主天使高達（飛行形態）",
     "link_name": "",
     "rarity": "C",
     "spCol": "",
@@ -30630,7 +30630,7 @@
   {
     "card_id": "ST07-008_p1",
     "card_no": "ST07-008",
-    "name": "主天使高達（飛行型態）",
+    "name": "主天使高達（飛行形態）",
     "link_name": "",
     "rarity": "C +",
     "spCol": "",
@@ -30760,7 +30760,7 @@
   {
     "card_id": "ST07-011",
     "card_no": "ST07-011",
-    "name": "洛克昂・史特拉托斯（尼爾・狄蘭迪）",
+    "name": "洛克昂・史特拉托斯（尼爾）",
     "link_name": "",
     "rarity": "C",
     "spCol": "",
@@ -30786,7 +30786,7 @@
   {
     "card_id": "ST07-011_p1",
     "card_no": "ST07-011",
-    "name": "洛克昂・史特拉托斯（尼爾・狄蘭迪）",
+    "name": "洛克昂・史特拉托斯（尼爾）",
     "link_name": "",
     "rarity": "C +",
     "spCol": "",
@@ -31280,7 +31280,7 @@
   {
     "card_id": "ST08-005",
     "card_no": "ST08-005",
-    "name": "梅薩F02型用機雷",
+    "name": "梅薩F02型 佈雷",
     "link_name": "",
     "rarity": "C",
     "spCol": "",
@@ -31306,7 +31306,7 @@
   {
     "card_id": "ST08-005_p1",
     "card_no": "ST08-005",
-    "name": "梅薩F02型用機雷",
+    "name": "梅薩F02型 佈雷",
     "link_name": "",
     "rarity": "C +",
     "spCol": "",
@@ -31847,7 +31847,7 @@
     "package_from": "[ST08] Flash of Radiance",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/ST08-015_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st08/10032",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/671978/Davao Cplus"
   },
   {
     "card_id": "EXB-002",
@@ -32159,7 +32159,7 @@
     "package_from": "[ST09] Destiny Ignition",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/R-030_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/reto/10084",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/684036/Resource R 030 Cplus"
   },
   {
     "card_id": "ST01-014_p6",
@@ -32216,7 +32216,7 @@
   {
     "card_id": "ST04-007_p2",
     "card_no": "ST04-007",
-    "name": "神盾高達（MA型態）",
+    "name": "神盾高達（MA形態）",
     "link_name": "",
     "rarity": "C",
     "spCol": "",
@@ -32956,7 +32956,7 @@
     "effect": "當此機體透過戰鬥傷害破壞對方護盾區中的卡牌時，將此機體轉為活躍狀態，且本回合中，此機體無法選擇同一對方玩家/同一對方隊伍作為攻擊對象。",
     "zone": "宇宙 地球",
     "trait": "〔G世代〕",
-    "link": "卡密兒・維丹",
+    "link": "嘉美尤・維達",
     "ap": "5",
     "hp": "5",
     "source_title": "SD高達 G世代 永恆",
@@ -32982,7 +32982,7 @@
     "effect": "當此機體透過戰鬥傷害破壞對方護盾區中的卡牌時，將此機體轉為活躍狀態，且本回合中，此機體無法選擇同一對方玩家/同一對方隊伍作為攻擊對象。",
     "zone": "宇宙 地球",
     "trait": "〔G世代〕",
-    "link": "卡密兒・維丹",
+    "link": "嘉美尤・維達",
     "ap": "5",
     "hp": "5",
     "source_title": "SD高達 G世代 永恆",
@@ -33060,7 +33060,7 @@
     "effect": "-",
     "zone": "宇宙 地球",
     "trait": "〔G世代〕",
-    "link": "卡密兒・維丹",
+    "link": "嘉美尤・維達",
     "ap": "2",
     "hp": "2",
     "source_title": "SD高達 G世代 永恆",
@@ -33086,7 +33086,7 @@
     "effect": "-",
     "zone": "宇宙 地球",
     "trait": "〔G世代〕",
-    "link": "卡密兒・維丹",
+    "link": "嘉美尤・維達",
     "ap": "2",
     "hp": "2",
     "source_title": "SD高達 G世代 永恆",
@@ -33256,7 +33256,7 @@
   {
     "card_id": "ST10-007",
     "card_no": "ST10-007",
-    "name": "高達巴巴托斯（第4型態）",
+    "name": "高達・巴巴托司（第4形態）",
     "link_name": "",
     "rarity": "C",
     "spCol": "",
@@ -33282,7 +33282,7 @@
   {
     "card_id": "ST10-007_p1",
     "card_no": "ST10-007",
-    "name": "高達巴巴托斯（第4型態）",
+    "name": "高達・巴巴托司（第4形態）",
     "link_name": "",
     "rarity": "C +",
     "spCol": "",
@@ -33308,7 +33308,7 @@
   {
     "card_id": "ST10-008",
     "card_no": "ST10-008",
-    "name": "高達巴巴托斯（第1型態）",
+    "name": "高達・巴巴托司（第1形態）",
     "link_name": "",
     "rarity": "C",
     "spCol": "",
@@ -33334,7 +33334,7 @@
   {
     "card_id": "ST10-008_p1",
     "card_no": "ST10-008",
-    "name": "高達巴巴托斯（第1型態）",
+    "name": "高達・巴巴托司（第1形態）",
     "link_name": "",
     "rarity": "C +",
     "spCol": "",
@@ -33823,7 +33823,7 @@
     "package_from": "[ST11] Aquatic Assault",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/ST11-001_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st11/10002",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/721005/Chars ZGok LRplus"
   },
   {
     "card_id": "ST11-002",
@@ -33927,7 +33927,7 @@
     "package_from": "[ST11] Aquatic Assault",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/ST11-003_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st11/10006",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/721007/Zock Cplus"
   },
   {
     "card_id": "ST11-004",
@@ -34031,7 +34031,7 @@
     "package_from": "[ST11] Aquatic Assault",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/ST11-005_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st11/10010",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/721009/Ash Cplus"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "ST11-006",
@@ -34083,7 +34083,7 @@
     "package_from": "[ST11] Aquatic Assault",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/ST11-006_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st11/10012",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/721010/Shamblo LRplus"
   },
   {
     "card_id": "ST11-007",
@@ -34135,7 +34135,7 @@
     "package_from": "[ST11] Aquatic Assault",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/ST11-007_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st11/10014",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/721011/Gundam Leopard Cplus"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "ST11-008",
@@ -34187,7 +34187,7 @@
     "package_from": "[ST11] Aquatic Assault",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/ST11-008_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st11/10016",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/721012/Daughseat Cplus"
   },
   {
     "card_id": "ST11-009",
@@ -34343,7 +34343,7 @@
     "package_from": "[ST11] Aquatic Assault",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/ST11-011_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st11/10022",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/721015/Char Aznable Cplus"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "ST11-012",
@@ -34499,7 +34499,7 @@
     "package_from": "[ST11] Aquatic Assault",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/ST11-014_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st11/10028",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/721018/The Orca of Red Sea Cplus"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "ST11-015",
@@ -34629,7 +34629,7 @@
     "package_from": "[ST11] Aquatic Assault",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/T-028.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/reto/10123",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/721037/GOOhN T 028 Token"
   },
   {
     "card_id": "ST12-001",
@@ -34733,7 +34733,7 @@
     "package_from": "[ST12] Raging Onslaught",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/ST12-002_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st12/10004",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/721022/Shining Gundam Cplus"
   },
   {
     "card_id": "ST12-003",
@@ -34785,7 +34785,7 @@
     "package_from": "[ST12] Raging Onslaught",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/ST12-003_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st12/10006",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/721023/Tallgeese III Cplus"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "ST12-004",
@@ -34837,7 +34837,7 @@
     "package_from": "[ST12] Raging Onslaught",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/ST12-004_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st12/10008",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/721024/Gundam Exia Cplus"
   },
   {
     "card_id": "ST12-005",
@@ -34889,12 +34889,12 @@
     "package_from": "[ST12] Raging Onslaught",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/ST12-005_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st12/10010",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/721025/GQuuuuuuX Omega Psycommu Cplus"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "ST12-006",
     "card_no": "ST12-006",
-    "name": "獨角獸高達2號機報喪女妖（破壞模式）",
+    "name": "獨角獸高達2號機 報喪女妖（破壞模式）",
     "link_name": "",
     "rarity": "LR",
     "spCol": "",
@@ -34920,7 +34920,7 @@
   {
     "card_id": "ST12-006_p1",
     "card_no": "ST12-006",
-    "name": "獨角獸高達2號機報喪女妖（破壞模式）",
+    "name": "獨角獸高達2號機 報喪女妖（破壞模式）",
     "link_name": "",
     "rarity": "LR +",
     "spCol": "",
@@ -34941,7 +34941,7 @@
     "package_from": "[ST12] Raging Onslaught",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/ST12-006_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st12/10012",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/721026/Unicorn Gundam 02 Banshee Destroy Mode LRplus"
   },
   {
     "card_id": "ST12-007",
@@ -35050,7 +35050,7 @@
   {
     "card_id": "ST12-009",
     "card_no": "ST12-009",
-    "name": "獨角獸高達2號機報喪女妖（獨角獸模式）",
+    "name": "獨角獸高達2號機 報喪女妖（獨角獸模式）",
     "link_name": "",
     "rarity": "C",
     "spCol": "",
@@ -35076,7 +35076,7 @@
   {
     "card_id": "ST12-009_p1",
     "card_no": "ST12-009",
-    "name": "獨角獸高達2號機報喪女妖（獨角獸模式）",
+    "name": "獨角獸高達2號機 報喪女妖（獨角獸模式）",
     "link_name": "",
     "rarity": "C +",
     "spCol": "",
@@ -35201,7 +35201,7 @@
     "package_from": "[ST12] Raging Onslaught",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/ST12-011_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st12/10022",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/721031/Milliardo Peacecraft Cplus"
   },
   {
     "card_id": "ST12-012",
@@ -35253,7 +35253,7 @@
     "package_from": "[ST12] Raging Onslaught",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/ST12-012_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st12/10024",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/721032/Ple Twelve Cplus"
   },
   {
     "card_id": "ST12-013",
@@ -35305,7 +35305,7 @@
     "package_from": "[ST12] Raging Onslaught",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/ST12-013_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st12/10026",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/721033/The Final Victor Cplus"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "ST12-014",
@@ -35409,7 +35409,7 @@
     "package_from": "[ST12] Raging Onslaught",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/ST12-015_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st12/10030",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/721035/Two Unicorns Cplus"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "ST12-016",
@@ -35461,7 +35461,7 @@
     "package_from": "[ST12] Raging Onslaught",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/ST12-016_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st12/10032",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/721036/Libra Cplus"
   },
   {
     "card_id": "ST13-001",
@@ -35475,7 +35475,7 @@
     "cost": "5",
     "color": "Green",
     "type": "UNIT",
-    "effect": "【每回合1次】我方的回合中，當我方的機體被機師搭乘時，配置1~2張「BIT/感應砲」（〔遠程兵器〕・AP2・HP2・此機體無法被機師搭乘，且無法攻擊）的機體替代卡。\n【啟動・主要】【每回合1次】①：選擇我方的1張機體替代卡和對方的1張機體。選擇的機體進入戰鬥，僅進行傷害步驟。",
+    "effect": "【每回合1次】我方的回合中，當我方的機體被機師搭乘時，配置1~2張「Bit/感應砲」（〔遠程兵器〕・AP2・HP2・此機體無法被機師搭乘，且無法攻擊）的機體替代卡。\n【啟動・主要】【每回合1次】①：選擇我方的1張機體替代卡和對方的1張機體。選擇的機體進入戰鬥，僅進行傷害步驟。",
     "zone": "宇宙 地球",
     "trait": "〔新吉翁〕",
     "link": "哈曼・坎恩",
@@ -35501,7 +35501,7 @@
     "cost": "5",
     "color": "Green",
     "type": "UNIT",
-    "effect": "【每回合1次】我方的回合中，當我方的機體被機師搭乘時，配置1~2張「BIT/感應砲」（〔遠程兵器〕・AP2・HP2・此機體無法被機師搭乘，且無法攻擊）的機體替代卡。\n【啟動・主要】【每回合1次】①：選擇我方的1張機體替代卡和對方的1張機體。選擇的機體進入戰鬥，僅進行傷害步驟。",
+    "effect": "【每回合1次】我方的回合中，當我方的機體被機師搭乘時，配置1~2張「Bit/感應砲」（〔遠程兵器〕・AP2・HP2・此機體無法被機師搭乘，且無法攻擊）的機體替代卡。\n【啟動・主要】【每回合1次】①：選擇我方的1張機體替代卡和對方的1張機體。選擇的機體進入戰鬥，僅進行傷害步驟。",
     "zone": "宇宙 地球",
     "trait": "〔新吉翁〕",
     "link": "哈曼・坎恩",
@@ -35513,7 +35513,7 @@
     "package_from": "[ST13] Silent Barrage",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/ST13-001_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st13/10002",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/720972/Qubeley LRplus"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "ST13-002",
@@ -35669,7 +35669,7 @@
     "package_from": "[ST13] Silent Barrage",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/ST13-004_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st13/10008",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/720975/GX Bit Cplus"
   },
   {
     "card_id": "ST13-005",
@@ -35773,7 +35773,7 @@
     "package_from": "[ST13] Silent Barrage",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/ST13-006_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st13/10012",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/720977/Gundam Aerial LRplus"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "ST13-007",
@@ -35825,7 +35825,7 @@
     "package_from": "[ST13] Silent Barrage",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/ST13-007_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st13/10014",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/720978/Gyuneis Jagd Doga Cplus"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "ST13-008",
@@ -35877,7 +35877,7 @@
     "package_from": "[ST13] Silent Barrage",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/ST13-008_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st13/10016",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/720979/Gundam Throne Zwei Cplus"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "ST13-009",
@@ -35929,7 +35929,7 @@
     "package_from": "[ST13] Silent Barrage",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/ST13-009_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st13/10018",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/720980/Gundam Pharact Cplus"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "ST13-010",
@@ -35981,7 +35981,7 @@
     "package_from": "[ST13] Silent Barrage",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/ST13-010_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st13/10020",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/720981/Red Gundam 0079 Cplus"
   },
   {
     "card_id": "ST13-011",
@@ -36189,7 +36189,7 @@
     "package_from": "[ST13] Silent Barrage",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/ST13-014_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st13/10028",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/720985/Final Duty Cplus"
   },
   {
     "card_id": "ST13-015",
@@ -36423,7 +36423,7 @@
     "package_from": "[ST14] Heavy Dominion",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/ST14-002_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st14/10004",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/720989/Gundam NT 1 Full Armor Cplus"
   },
   {
     "card_id": "ST14-003",
@@ -36579,7 +36579,7 @@
     "package_from": "[ST14] Heavy Dominion",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/ST14-005_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st14/10010",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/720992/G Falcon DX Cplus"
   },
   {
     "card_id": "ST14-006",
@@ -36631,7 +36631,7 @@
     "package_from": "[ST14] Heavy Dominion",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/ST14-006_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st14/10012",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/720993/Full Armor Unicorn Gundam Destroy Mode LRplus"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "ST14-007",
@@ -36683,7 +36683,7 @@
     "package_from": "[ST14] Heavy Dominion",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/ST14-007_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st14/10014",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/720994/Full Armor Unicorn Gundam Unicorn Mode Cplus"
   },
   {
     "card_id": "ST14-008",
@@ -36735,7 +36735,7 @@
     "package_from": "[ST14] Heavy Dominion",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/ST14-008_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st14/10016",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/720995/Gundam Heavyarms Custom EW Cplus"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "ST14-009",
@@ -36839,7 +36839,7 @@
     "package_from": "[ST14] Heavy Dominion",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/ST14-010_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st14/10020",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/720997/Perfect Strike Gundam Cplus"
   },
   {
     "card_id": "ST14-011",
@@ -36891,7 +36891,7 @@
     "package_from": "[ST14] Heavy Dominion",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/ST14-011_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st14/10022",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/720998/Paptimus Scirocco Cplus"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "ST14-012",
@@ -36943,7 +36943,7 @@
     "package_from": "[ST14] Heavy Dominion",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/ST14-012_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st14/10024",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/720999/Banagher Links Cplus"
   },
   {
     "card_id": "ST14-013",
@@ -36995,7 +36995,7 @@
     "package_from": "[ST14] Heavy Dominion",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/ST14-013_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st14/10026",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/721000/Natural Talent Cplus"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "ST14-014",
@@ -37047,7 +37047,7 @@
     "package_from": "[ST14] Heavy Dominion",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/ST14-014_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st14/10028",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/721001/Blazing Mobile Suit Rider Cplus"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "ST14-015",
@@ -37312,7 +37312,7 @@
   {
     "card_id": "EB01-004",
     "card_no": "EB01-004",
-    "name": "高達巴巴托司狼王式（EX）",
+    "name": "高達・巴巴托司狼王式（EX）",
     "link_name": "",
     "rarity": "R",
     "spCol": "",
@@ -37338,7 +37338,7 @@
   {
     "card_id": "EB01-004_p1",
     "card_no": "EB01-004",
-    "name": "高達巴巴托司狼王式（EX）",
+    "name": "高達・巴巴托司狼王式（EX）",
     "link_name": "",
     "rarity": "R +",
     "spCol": "",
@@ -37359,7 +37359,7 @@
     "package_from": "[EB01] Eternal Nexus",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/EB01-004_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/eb01/10008",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/702819/Gundam Barbatos Lupus Rex EX Rplus"
   },
   {
     "card_id": "EB01-005",
@@ -37546,7 +37546,7 @@
   {
     "card_id": "EB01-010",
     "card_no": "EB01-010",
-    "name": "高達巴巴托司（第6型態）",
+    "name": "高達・巴巴托司（第6形態）",
     "link_name": "",
     "rarity": "U",
     "spCol": "",
@@ -37983,7 +37983,7 @@
     "package_from": "[EB01] Eternal Nexus",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/EB01-023_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/eb01/10032",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/702824/Le Cygne EX Rplus"
   },
   {
     "card_id": "EB01-024",
@@ -38035,7 +38035,7 @@
     "package_from": "[EB01] Eternal Nexus",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/EB01-025.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/eb01/10034",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/700933/Tallgeese II"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "EB01-025_p1",
@@ -38066,7 +38066,7 @@
   {
     "card_id": "EB01-026",
     "card_no": "EB01-026",
-    "name": "高达·阿斯塔罗特原型",
+    "name": "高達・阿斯塔罗特原型",
     "link_name": "",
     "rarity": "U",
     "spCol": "",
@@ -38144,7 +38144,7 @@
   {
     "card_id": "EB01-029",
     "card_no": "EB01-029",
-    "name": "高达·阿斯塔罗特重生型（EX）",
+    "name": "高達・阿斯塔罗特重生型（EX）",
     "link_name": "",
     "rarity": "U",
     "spCol": "",
@@ -40744,7 +40744,7 @@
   {
     "card_id": "GD03-055_p2",
     "card_no": "GD03-055",
-    "name": "端白星高達（第2型態）",
+    "name": "端白星高達（第2形態）",
     "link_name": "",
     "rarity": "R",
     "spCol": "",
@@ -41186,7 +41186,7 @@
   {
     "card_id": "ST05-001_p3",
     "card_no": "ST05-001",
-    "name": "高達巴巴托司(第4形態)",
+    "name": "高達・巴巴托司（第4形態）",
     "link_name": "",
     "rarity": "LR",
     "spCol": "",
@@ -41706,7 +41706,7 @@
   {
     "card_id": "GD03-106_p1",
     "card_no": "GD03-106",
-    "name": "M.A.V.戰術",
+    "name": "M・A・V・戰術",
     "link_name": "",
     "rarity": "U",
     "spCol": "",
@@ -41741,7 +41741,7 @@
     "cost": "1",
     "color": "Purple",
     "type": "COMMAND",
-    "effect": "【主要】若對方戰鬥區中存在1~4張機體，則配置1張「格雷茲改」（〔鐵華團〕・AP2・HP2）的機體替代卡；若存在5張或更多機體，則配置1張「高達巴巴托司(第4形態)」（〔鐵華團〕・AP4・HP4）的機體替代卡。",
+    "effect": "【主要】若對方戰鬥區中存在1~4張機體，則配置1張「格雷茲改」（〔鐵華團〕・AP2・HP2）的機體替代卡；若存在5張或更多機體，則配置1張「高達・巴巴托司（第4形態）」（〔鐵華團〕・AP4・HP4）的機體替代卡。",
     "zone": "-",
     "trait": "-",
     "link": "",
@@ -42221,7 +42221,7 @@
     "package_from": "限定商品收錄卡牌",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/RP-041.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/rp-100/10040",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/698142/Resource RP 041 Premium Accessory Set Mobile Suit Gundam Iron Blooded Orphans"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "RP-042",
@@ -42616,7 +42616,7 @@
   {
     "card_id": "ST05-001_p2",
     "card_no": "ST05-001",
-    "name": "高達巴巴托司(第4形態)",
+    "name": "高達・巴巴托司（第4形態）",
     "link_name": "",
     "rarity": "LR",
     "spCol": "",
@@ -42642,7 +42642,7 @@
   {
     "card_id": "ST05-002_p3",
     "card_no": "ST05-002",
-    "name": "高達巴巴托司(第2形態)",
+    "name": "高達・巴巴托司（第2形態）",
     "link_name": "",
     "rarity": "C",
     "spCol": "",
@@ -42850,7 +42850,7 @@
   {
     "card_id": "T-017_p1",
     "card_no": "T-017",
-    "name": "高達巴巴托司(第4形態)",
+    "name": "高達・巴巴托司（第4形態）",
     "link_name": "",
     "rarity": "C",
     "spCol": "",
@@ -43266,7 +43266,7 @@
   {
     "card_id": "GD01-026_p1",
     "card_no": "GD01-026",
-    "name": "夏亞專用薩克Ⅱ",
+    "name": "薩克Ⅱ（夏亞・阿茲那布爾機）",
     "link_name": "",
     "rarity": "R",
     "spCol": "",
@@ -43275,7 +43275,7 @@
     "cost": "2",
     "color": "Green",
     "type": "UNIT",
-    "effect": "【搭乘中】【破壞時】配置1張休息狀態的「夏亞專用薩克Ⅱ」（〔吉翁〕・AP3・HP1）的機體替代卡。",
+    "effect": "【搭乘中】【破壞時】配置1張休息狀態的「薩克Ⅱ（夏亞・阿茲那布爾機）」（〔吉翁〕・AP3・HP1）的機體替代卡。",
     "zone": "宇宙 地球",
     "trait": "〔吉翁〕",
     "link": "夏亞・阿茲那布爾",
@@ -43292,7 +43292,7 @@
   {
     "card_id": "GD01-026_p2",
     "card_no": "GD01-026",
-    "name": "夏亞專用薩克Ⅱ",
+    "name": "薩克Ⅱ（夏亞・阿茲那布爾機）",
     "link_name": "",
     "rarity": "R +",
     "spCol": "",
@@ -43301,7 +43301,7 @@
     "cost": "2",
     "color": "Green",
     "type": "UNIT",
-    "effect": "【搭乘中】【破壞時】配置1張休息狀態的「夏亞專用薩克Ⅱ」（〔吉翁〕・AP3・HP1）的機體替代卡。",
+    "effect": "【搭乘中】【破壞時】配置1張休息狀態的「薩克Ⅱ（夏亞・阿茲那布爾機）」（〔吉翁〕・AP3・HP1）的機體替代卡。",
     "zone": "宇宙 地球",
     "trait": "〔吉翁〕",
     "link": "夏亞・阿茲那布爾",
@@ -43396,7 +43396,7 @@
   {
     "card_id": "GD01-034_p1",
     "card_no": "GD01-034",
-    "name": "重砲手高達",
+    "name": "重武裝高達",
     "link_name": "",
     "rarity": "U",
     "spCol": "",
@@ -43890,7 +43890,7 @@
   {
     "card_id": "GD01-105_p2",
     "card_no": "GD01-105",
-    "name": "國民們，奮起吧！",
+    "name": "奮起吧國民！",
     "link_name": "",
     "rarity": "R",
     "spCol": "",
@@ -44072,7 +44072,7 @@
   {
     "card_id": "GD01-124_p1",
     "card_no": "GD01-124",
-    "name": "SIDE7",
+    "name": "SIDE 7",
     "link_name": "",
     "rarity": "C",
     "spCol": "",
@@ -44145,7 +44145,7 @@
     "package_from": "LIMITED BOX Ver.β",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/R-001_p5.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/limited1.0/10083",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/616677/Resource Cplus"
   },
   {
     "card_id": "ST01-001_p2",
@@ -44202,7 +44202,7 @@
   {
     "card_id": "ST01-002_p2",
     "card_no": "ST01-002",
-    "name": "高達（MA型態）",
+    "name": "高達（MA形態）",
     "link_name": "",
     "rarity": "C",
     "spCol": "",
@@ -44540,7 +44540,7 @@
   {
     "card_id": "ST02-002_p2",
     "card_no": "ST02-002",
-    "name": "飛翼高達（鳥型型態）",
+    "name": "飛翼高達（鳥型形態）",
     "link_name": "",
     "rarity": "C",
     "spCol": "",
@@ -44809,7 +44809,7 @@
     "cost": "2",
     "color": "Green",
     "type": "BASE",
-    "effect": "【爆發】配置此卡牌。\n【配置時】將我方的1張盾牌加入手牌。此後，若是我方的回合，則配置1張「夏亞專用薩克Ⅱ」（〔吉翁〕・AP3・HP1）的休息狀態的機體替代卡。",
+    "effect": "【爆發】配置此卡牌。\n【配置時】將我方的1張盾牌加入手牌。此後，若是我方的回合，則配置1張「薩克Ⅱ（夏亞・阿茲那布爾機）」（〔吉翁〕・AP3・HP1）的休息狀態的機體替代卡。",
     "zone": "宇宙",
     "trait": "〔吉翁〕 〔艦船〕",
     "link": "",
@@ -45086,7 +45086,7 @@
   {
     "card_id": "T-006_p1",
     "card_no": "T-006",
-    "name": "夏亞專用薩克Ⅱ",
+    "name": "薩克Ⅱ（夏亞・阿茲那布爾機）",
     "link_name": "",
     "rarity": "C",
     "spCol": "",
@@ -45679,7 +45679,7 @@
     "package_from": "推廣卡",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/EXBP-030.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=EXBP-030",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/717020/EX Base EXBP 030 Special Booster Bundle 01"
   },
   {
     "card_id": "EXBP-031",
@@ -45913,7 +45913,7 @@
     "package_from": "推廣卡",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/EXRP-015.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=EXRP-015",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/717598/EX Resource EXRP 015 Playmat and Card Set Mobile Suit Gundam 00"
   },
   {
     "card_id": "EXRP-016",
@@ -46251,7 +46251,7 @@
     "package_from": "推廣卡",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD01-024_p3.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/gd01/10031",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/search/gundam-card-game/product?productLineName=gundam-card-game&view=grid&q=GD01-024%20LR"
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/643173/Wing Gundam Zero"
   },
   {
     "card_id": "GD01-030_p3",
@@ -46698,7 +46698,7 @@
   {
     "card_id": "GD01-098_p1",
     "card_no": "GD01-098",
-    "name": "伊蘭・凱萊斯（強化人士四號）",
+    "name": "伊蘭・凱萊斯（強化人士4號）",
     "link_name": "",
     "rarity": "C",
     "spCol": "",
@@ -46724,7 +46724,7 @@
   {
     "card_id": "GD01-098_p2",
     "card_no": "GD01-098",
-    "name": "伊蘭・凱萊斯（強化人士四號）",
+    "name": "伊蘭・凱萊斯（強化人士4號）",
     "link_name": "",
     "rarity": "C +",
     "spCol": "",
@@ -47109,12 +47109,12 @@
     "package_from": "推廣卡",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD02-039_p2.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/promo-gd10/10075",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/688534/Haman Karns Gaza C Store Tournament Winner Pack 04"
   },
   {
     "card_id": "GD02-048_p1",
     "card_no": "GD02-048",
-    "name": "薩克古Ⅲ（袖章軍團規格）",
+    "name": "薩克Ⅲ（袖章軍團規格）",
     "link_name": "",
     "rarity": "C",
     "spCol": "",
@@ -47395,7 +47395,7 @@
     "package_from": "推廣卡",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD02-090_p2.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/promo-gd10/10077",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/688538/Challia Bull GQ Store Tournament Winner Pack 04"
   },
   {
     "card_id": "GD02-091_p2",
@@ -47889,7 +47889,7 @@
     "package_from": "推廣卡",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD03-005_p2.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/promo-gd10/10103",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/703782/Kshatriya Besserung Store Tournament Winner Pack 05"
   },
   {
     "card_id": "GD03-010_p2",
@@ -48071,7 +48071,7 @@
     "package_from": "推廣卡",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD03-024_p2.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/promo-gd10/10105",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/703784/Hy Gogg Store Tournament Winner Pack 05"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "GD03-027_p1",
@@ -48128,7 +48128,7 @@
   {
     "card_id": "GD03-050_p3",
     "card_no": "GD03-050",
-    "name": "高達巴巴托司狼式",
+    "name": "高達・巴巴托司狼式",
     "link_name": "",
     "rarity": "LR",
     "spCol": "",
@@ -48154,7 +48154,7 @@
   {
     "card_id": "GD03-055_p1",
     "card_no": "GD03-055",
-    "name": "端白星高達（第2型態）",
+    "name": "端白星高達（第2形態）",
     "link_name": "",
     "rarity": "R",
     "spCol": "",
@@ -48279,7 +48279,7 @@
     "package_from": "推廣卡",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD03-072_p2.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/promo-gd10/10053",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/670582/Aile Strike Gundam Store Tournament Winner Pack 03"
   },
   {
     "card_id": "GD03-076_p1",
@@ -49241,7 +49241,7 @@
     "package_from": "推廣卡",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD05-016_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/gd05/10023",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/705552/Murasame"
+    "TCGPlayer_URL": "https://www.tcgplayer.com/search/gundam-card-game/product?productLineName=gundam-card-game&view=grid&q=GD05-016%20C"
   },
   {
     "card_id": "GD05-016_p2",
@@ -49267,7 +49267,7 @@
     "package_from": "推廣卡",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD05-016_p2.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD05-016",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/721550/Murasame Store Tournament Winner Pack 06"
   },
   {
     "card_id": "GD05-019_p1",
@@ -49371,7 +49371,7 @@
     "package_from": "推廣卡",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD05-069_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/gd05/10104",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/705605/Gundam Maxter"
+    "TCGPlayer_URL": "https://www.tcgplayer.com/search/gundam-card-game/product?productLineName=gundam-card-game&view=grid&q=GD05-069%20R"
   },
   {
     "card_id": "GD05-069_p2",
@@ -49397,7 +49397,7 @@
     "package_from": "推廣卡",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD05-069_p2.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD05-069",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/721552/Gundam Maxter Store Tournament Winner Pack 06"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "GD05-094_p1",
@@ -49449,7 +49449,7 @@
     "package_from": "推廣卡",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD05-094_p2.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD05-094",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/721553/Quess Paraya Store Tournament Winner Pack 06"
   },
   {
     "card_id": "GD05-097_p2",
@@ -50832,7 +50832,7 @@
   {
     "card_id": "ST02-002_p3",
     "card_no": "ST02-002",
-    "name": "飛翼高達（鳥型型態）",
+    "name": "飛翼高達（鳥型形態）",
     "link_name": "",
     "rarity": "C",
     "spCol": "",
@@ -50858,7 +50858,7 @@
   {
     "card_id": "ST02-002_p4",
     "card_no": "ST02-002",
-    "name": "飛翼高達（鳥型型態）",
+    "name": "飛翼高達（鳥型形態）",
     "link_name": "",
     "rarity": "C +",
     "spCol": "",
@@ -50962,7 +50962,7 @@
   {
     "card_id": "ST03-006_p2",
     "card_no": "ST03-006",
-    "name": "夏亞專用薩克Ⅱ",
+    "name": "薩克Ⅱ（夏亞・阿茲那布爾機）",
     "link_name": "",
     "rarity": "LR",
     "spCol": "",
@@ -50988,7 +50988,7 @@
   {
     "card_id": "ST03-006_p3",
     "card_no": "ST03-006",
-    "name": "夏亞專用薩克Ⅱ",
+    "name": "薩克Ⅱ（夏亞・阿茲那布爾機）",
     "link_name": "",
     "rarity": "LR",
     "spCol": "",
@@ -51378,7 +51378,7 @@
   {
     "card_id": "ST05-002_p2",
     "card_no": "ST05-002",
-    "name": "高達巴巴托司(第2形態)",
+    "name": "高達・巴巴托司（第2形態）",
     "link_name": "",
     "rarity": "C",
     "spCol": "",
@@ -51997,7 +51997,7 @@
     "package_from": "推廣卡",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/ST09-009_p2.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st09/10024",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/684008/Giant Killing"
   },
   {
     "card_id": "ST11-002_p2",
@@ -52054,7 +52054,7 @@
   {
     "card_id": "ST12-009_p2",
     "card_no": "ST12-009",
-    "name": "獨角獸高達2號機報喪女妖（獨角獸模式）",
+    "name": "獨角獸高達2號機 報喪女妖（獨角獸模式）",
     "link_name": "",
     "rarity": "C",
     "spCol": "",
@@ -52075,7 +52075,7 @@
     "package_from": "推廣卡",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/ST12-009_p2.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st12/10017",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/717615/Unicorn Gundam 02 Banshee Unicorn Mode ST11 ST14 Release Event"
+    "TCGPlayer_URL": "https://www.tcgplayer.com/search/gundam-card-game/product?productLineName=gundam-card-game&view=grid&q=ST12-009%20C"
   },
   {
     "card_id": "ST12-012_p2",
@@ -52101,7 +52101,7 @@
     "package_from": "推廣卡",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/ST12-012_p2.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st12/10023",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/717617/Ple Twelve ST11 ST14 Release Event"
+    "TCGPlayer_URL": "https://www.tcgplayer.com/search/gundam-card-game/product?productLineName=gundam-card-game&view=grid&q=ST12-012%20C"
   },
   {
     "card_id": "T-022_p1",

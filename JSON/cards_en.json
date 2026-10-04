@@ -777,7 +777,7 @@
     "package_from": "[GD01] Newtype Rising",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/en/images/cards/card/GD01-023_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/gd01/10030",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/645369/Chars Gelgoog LRplus"
   },
   {
     "card_id": "GD01-024",
@@ -3585,7 +3585,7 @@
     "package_from": "[GD01] Newtype Rising",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/en/images/cards/card/GD01-110.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/gd01/10138",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/643259/Rasids Orders"
   },
   {
     "card_id": "GD01-111",
@@ -4209,7 +4209,7 @@
     "package_from": "[GD01] Newtype Rising",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/en/images/cards/card/R-002.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/reto/10015",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/643292/Resource R 002"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "R-002_p1",
@@ -4760,7 +4760,7 @@
   {
     "card_id": "GD02-003",
     "card_no": "GD02-003",
-    "name": "Gundam Mk-II (Titans)",
+    "name": "Gundam Mk-Ⅱ (Titans)",
     "link_name": "",
     "rarity": "R",
     "spCol": "",
@@ -4786,7 +4786,7 @@
   {
     "card_id": "GD02-003_p1",
     "card_no": "GD02-003",
-    "name": "Gundam Mk-II (Titans)",
+    "name": "Gundam Mk-Ⅱ (Titans)",
     "link_name": "",
     "rarity": "R +",
     "spCol": "",
@@ -7048,7 +7048,7 @@
   {
     "card_id": "GD02-071",
     "card_no": "GD02-071",
-    "name": "Gundam Mk-II (AEUG)",
+    "name": "Gundam Mk-Ⅱ (AEUG)",
     "link_name": "",
     "rarity": "R",
     "spCol": "",
@@ -9383,7 +9383,7 @@
     "package_from": "[GD02] Dual Impact",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/en/images/cards/card/R-017_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/reto/10049",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/659377/Resource R 017 Cplus"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "R-018",
@@ -9986,7 +9986,7 @@
   {
     "card_id": "GD03-011",
     "card_no": "GD03-011",
-    "name": "GM Sniper II",
+    "name": "GM Sniper Ⅱ",
     "link_name": "",
     "rarity": "C",
     "spCol": "",
@@ -11255,7 +11255,7 @@
     "package_from": "[GD03] Steel Requiem",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/en/images/cards/card/GD03-047.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/gd03/10063",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/673473/DINN Commander Type"
   },
   {
     "card_id": "GD03-048",
@@ -15056,7 +15056,7 @@
   {
     "card_id": "GD04-005",
     "card_no": "GD04-005",
-    "name": "GM III",
+    "name": "GM Ⅲ",
     "link_name": "",
     "rarity": "C",
     "spCol": "",
@@ -24581,7 +24581,7 @@
     "cost": "1",
     "color": "Green",
     "type": "BASE",
-    "effect": "【Burst】Deploy this card.\n【Deploy】Add 1 of your Shields to your hand.\n【Activate・Main】【Once per Turn】②：If you have a Unit with \"Gundam Aerial\" in its card name that is Lv.5 or higher in play, deploy 1 [Gundnode]((Quiet Zero)・AP2・HP2・<Breach 1>) Unit token.",
+    "effect": "【Burst】Deploy this card.\n【Deploy】Add 1 of your Shields to your hand.\n【Activate・Main】【Once per Turn】②：If you have a Unit with \"Gundam Aerial\" in its card name that is Lv.5 or higher in play, deploy 1 [Gundam Aerial]((Quiet Zero)・AP2・HP2・<Breach 1>) Unit token.",
     "zone": "Space",
     "trait": "(Quiet Zero) (Stronghold)",
     "link": "",
@@ -26635,7 +26635,7 @@
     "cost": "3",
     "color": "Blue",
     "type": "BASE",
-    "effect": "【Burst】Deploy this card.\n【Deploy】Add 1 of your Shields to your hand. Then, if it is your turn, deploy 1 [Tallgeese]((OZ)・AP4・HP2) Unit token. If it is your turn and a card with \"Corsica Base\" in its card name is in your trash, deploy 2 [Leo]((OZ)・AP1・HP1) Unit tokens instead.",
+    "effect": "【Burst】Deploy this card.\n【Deploy】Add 1 of your Shields to your hand. Then, if it is your turn, deploy 1 [Tallgeese]((OZ)・AP4・HP2) Unit token. If it is your turn and a card with \"Corsica Base\" in its card name is in your trash, deploy 2 [Corsica Base]((OZ)・AP1・HP1) Unit tokens instead.",
     "zone": "Earth",
     "trait": "(OZ) (Stronghold)",
     "link": "",
@@ -26661,7 +26661,7 @@
     "cost": "3",
     "color": "Blue",
     "type": "BASE",
-    "effect": "【Burst】Deploy this card.\n【Deploy】Add 1 of your Shields to your hand. Then, if it is your turn, deploy 1 [Tallgeese]((OZ)・AP4・HP2) Unit token. If it is your turn and a card with \"Corsica Base\" in its card name is in your trash, deploy 2 [Leo]((OZ)・AP1・HP1) Unit tokens instead.",
+    "effect": "【Burst】Deploy this card.\n【Deploy】Add 1 of your Shields to your hand. Then, if it is your turn, deploy 1 [Tallgeese]((OZ)・AP4・HP2) Unit token. If it is your turn and a card with \"Corsica Base\" in its card name is in your trash, deploy 2 [Corsica Base]((OZ)・AP1・HP1) Unit tokens instead.",
     "zone": "Earth",
     "trait": "(OZ) (Stronghold)",
     "link": "",
@@ -27817,7 +27817,7 @@
     "package_from": "[ST04] SEED Strike",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/en/images/cards/card/ST04-004_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st04/10008",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/641551/Moebius Cplus"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "ST04-005",
@@ -31847,7 +31847,7 @@
     "package_from": "[ST08] Flash of Radiance",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/en/images/cards/card/ST08-015_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st08/10032",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/671978/Davao Cplus"
   },
   {
     "card_id": "EXB-002",
@@ -32159,7 +32159,7 @@
     "package_from": "[ST09] Destiny Ignition",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/en/images/cards/card/R-030_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/reto/10084",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/684036/Resource R 030 Cplus"
   },
   {
     "card_id": "ST01-014_p6",
@@ -33048,7 +33048,7 @@
   {
     "card_id": "ST10-003",
     "card_no": "ST10-003",
-    "name": "Gundam Mk-II (AEUG)",
+    "name": "Gundam Mk-Ⅱ (AEUG)",
     "link_name": "",
     "rarity": "C",
     "spCol": "",
@@ -33074,7 +33074,7 @@
   {
     "card_id": "ST10-003_p1",
     "card_no": "ST10-003",
-    "name": "Gundam Mk-II (AEUG)",
+    "name": "Gundam Mk-Ⅱ (AEUG)",
     "link_name": "",
     "rarity": "C +",
     "spCol": "",
@@ -33823,7 +33823,7 @@
     "package_from": "[ST11] Aquatic Assault",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/en/images/cards/card/ST11-001_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st11/10002",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/721005/Chars ZGok LRplus"
   },
   {
     "card_id": "ST11-002",
@@ -33927,7 +33927,7 @@
     "package_from": "[ST11] Aquatic Assault",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/en/images/cards/card/ST11-003_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st11/10006",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/721007/Zock Cplus"
   },
   {
     "card_id": "ST11-004",
@@ -34031,7 +34031,7 @@
     "package_from": "[ST11] Aquatic Assault",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/en/images/cards/card/ST11-005_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st11/10010",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/721009/Ash Cplus"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "ST11-006",
@@ -34083,7 +34083,7 @@
     "package_from": "[ST11] Aquatic Assault",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/en/images/cards/card/ST11-006_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st11/10012",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/721010/Shamblo LRplus"
   },
   {
     "card_id": "ST11-007",
@@ -34135,7 +34135,7 @@
     "package_from": "[ST11] Aquatic Assault",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/en/images/cards/card/ST11-007_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st11/10014",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/721011/Gundam Leopard Cplus"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "ST11-008",
@@ -34187,7 +34187,7 @@
     "package_from": "[ST11] Aquatic Assault",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/en/images/cards/card/ST11-008_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st11/10016",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/721012/Daughseat Cplus"
   },
   {
     "card_id": "ST11-009",
@@ -34343,7 +34343,7 @@
     "package_from": "[ST11] Aquatic Assault",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/en/images/cards/card/ST11-011_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st11/10022",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/721015/Char Aznable Cplus"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "ST11-012",
@@ -34499,7 +34499,7 @@
     "package_from": "[ST11] Aquatic Assault",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/en/images/cards/card/ST11-014_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st11/10028",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/721018/The Orca of Red Sea Cplus"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "ST11-015",
@@ -34629,7 +34629,7 @@
     "package_from": "[ST11] Aquatic Assault",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/en/images/cards/card/T-028.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/reto/10123",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/721037/GOOhN T 028 Token"
   },
   {
     "card_id": "ST12-001",
@@ -34733,7 +34733,7 @@
     "package_from": "[ST12] Raging Onslaught",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/en/images/cards/card/ST12-002_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st12/10004",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/721022/Shining Gundam Cplus"
   },
   {
     "card_id": "ST12-003",
@@ -34785,7 +34785,7 @@
     "package_from": "[ST12] Raging Onslaught",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/en/images/cards/card/ST12-003_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st12/10006",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/721023/Tallgeese III Cplus"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "ST12-004",
@@ -34837,7 +34837,7 @@
     "package_from": "[ST12] Raging Onslaught",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/en/images/cards/card/ST12-004_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st12/10008",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/721024/Gundam Exia Cplus"
   },
   {
     "card_id": "ST12-005",
@@ -34889,7 +34889,7 @@
     "package_from": "[ST12] Raging Onslaught",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/en/images/cards/card/ST12-005_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st12/10010",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/721025/GQuuuuuuX Omega Psycommu Cplus"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "ST12-006",
@@ -34941,7 +34941,7 @@
     "package_from": "[ST12] Raging Onslaught",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/en/images/cards/card/ST12-006_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st12/10012",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/721026/Unicorn Gundam 02 Banshee Destroy Mode LRplus"
   },
   {
     "card_id": "ST12-007",
@@ -35201,7 +35201,7 @@
     "package_from": "[ST12] Raging Onslaught",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/en/images/cards/card/ST12-011_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st12/10022",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/721031/Milliardo Peacecraft Cplus"
   },
   {
     "card_id": "ST12-012",
@@ -35253,7 +35253,7 @@
     "package_from": "[ST12] Raging Onslaught",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/en/images/cards/card/ST12-012_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st12/10024",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/721032/Ple Twelve Cplus"
   },
   {
     "card_id": "ST12-013",
@@ -35305,7 +35305,7 @@
     "package_from": "[ST12] Raging Onslaught",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/en/images/cards/card/ST12-013_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st12/10026",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/721033/The Final Victor Cplus"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "ST12-014",
@@ -35409,7 +35409,7 @@
     "package_from": "[ST12] Raging Onslaught",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/en/images/cards/card/ST12-015_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st12/10030",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/721035/Two Unicorns Cplus"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "ST12-016",
@@ -35461,7 +35461,7 @@
     "package_from": "[ST12] Raging Onslaught",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/en/images/cards/card/ST12-016_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st12/10032",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/721036/Libra Cplus"
   },
   {
     "card_id": "ST13-001",
@@ -35513,7 +35513,7 @@
     "package_from": "[ST13] Silent Barrage",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/en/images/cards/card/ST13-001_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st13/10002",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/720972/Qubeley LRplus"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "ST13-002",
@@ -35669,7 +35669,7 @@
     "package_from": "[ST13] Silent Barrage",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/en/images/cards/card/ST13-004_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st13/10008",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/720975/GX Bit Cplus"
   },
   {
     "card_id": "ST13-005",
@@ -35773,7 +35773,7 @@
     "package_from": "[ST13] Silent Barrage",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/en/images/cards/card/ST13-006_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st13/10012",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/720977/Gundam Aerial LRplus"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "ST13-007",
@@ -35825,7 +35825,7 @@
     "package_from": "[ST13] Silent Barrage",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/en/images/cards/card/ST13-007_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st13/10014",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/720978/Gyuneis Jagd Doga Cplus"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "ST13-008",
@@ -35877,7 +35877,7 @@
     "package_from": "[ST13] Silent Barrage",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/en/images/cards/card/ST13-008_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st13/10016",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/720979/Gundam Throne Zwei Cplus"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "ST13-009",
@@ -35929,7 +35929,7 @@
     "package_from": "[ST13] Silent Barrage",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/en/images/cards/card/ST13-009_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st13/10018",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/720980/Gundam Pharact Cplus"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "ST13-010",
@@ -35981,7 +35981,7 @@
     "package_from": "[ST13] Silent Barrage",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/en/images/cards/card/ST13-010_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st13/10020",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/720981/Red Gundam 0079 Cplus"
   },
   {
     "card_id": "ST13-011",
@@ -36189,7 +36189,7 @@
     "package_from": "[ST13] Silent Barrage",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/en/images/cards/card/ST13-014_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st13/10028",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/720985/Final Duty Cplus"
   },
   {
     "card_id": "ST13-015",
@@ -36423,7 +36423,7 @@
     "package_from": "[ST14] Heavy Dominion",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/en/images/cards/card/ST14-002_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st14/10004",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/720989/Gundam NT 1 Full Armor Cplus"
   },
   {
     "card_id": "ST14-003",
@@ -36579,7 +36579,7 @@
     "package_from": "[ST14] Heavy Dominion",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/en/images/cards/card/ST14-005_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st14/10010",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/720992/G Falcon DX Cplus"
   },
   {
     "card_id": "ST14-006",
@@ -36631,7 +36631,7 @@
     "package_from": "[ST14] Heavy Dominion",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/en/images/cards/card/ST14-006_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st14/10012",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/720993/Full Armor Unicorn Gundam Destroy Mode LRplus"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "ST14-007",
@@ -36683,7 +36683,7 @@
     "package_from": "[ST14] Heavy Dominion",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/en/images/cards/card/ST14-007_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st14/10014",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/720994/Full Armor Unicorn Gundam Unicorn Mode Cplus"
   },
   {
     "card_id": "ST14-008",
@@ -36735,7 +36735,7 @@
     "package_from": "[ST14] Heavy Dominion",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/en/images/cards/card/ST14-008_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st14/10016",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/720995/Gundam Heavyarms Custom EW Cplus"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "ST14-009",
@@ -36839,7 +36839,7 @@
     "package_from": "[ST14] Heavy Dominion",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/en/images/cards/card/ST14-010_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st14/10020",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/720997/Perfect Strike Gundam Cplus"
   },
   {
     "card_id": "ST14-011",
@@ -36891,7 +36891,7 @@
     "package_from": "[ST14] Heavy Dominion",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/en/images/cards/card/ST14-011_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st14/10022",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/720998/Paptimus Scirocco Cplus"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "ST14-012",
@@ -36943,7 +36943,7 @@
     "package_from": "[ST14] Heavy Dominion",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/en/images/cards/card/ST14-012_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st14/10024",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/720999/Banagher Links Cplus"
   },
   {
     "card_id": "ST14-013",
@@ -36995,7 +36995,7 @@
     "package_from": "[ST14] Heavy Dominion",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/en/images/cards/card/ST14-013_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st14/10026",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/721000/Natural Talent Cplus"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "ST14-014",
@@ -37047,7 +37047,7 @@
     "package_from": "[ST14] Heavy Dominion",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/en/images/cards/card/ST14-014_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st14/10028",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/721001/Blazing Mobile Suit Rider Cplus"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "ST14-015",
@@ -37359,7 +37359,7 @@
     "package_from": "[EB01] Eternal Nexus",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/en/images/cards/card/EB01-004_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/eb01/10008",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/702819/Gundam Barbatos Lupus Rex EX Rplus"
   },
   {
     "card_id": "EB01-005",
@@ -37983,7 +37983,7 @@
     "package_from": "[EB01] Eternal Nexus",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/en/images/cards/card/EB01-023_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/eb01/10032",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/702824/Le Cygne EX Rplus"
   },
   {
     "card_id": "EB01-024",
@@ -38035,7 +38035,7 @@
     "package_from": "[EB01] Eternal Nexus",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/en/images/cards/card/EB01-025.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/eb01/10034",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/700933/Tallgeese II"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "EB01-025_p1",
@@ -42221,7 +42221,7 @@
     "package_from": "Other Product Card",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/en/images/cards/card/RP-041.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/rp-100/10040",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/698142/Resource RP 041 Premium Accessory Set Mobile Suit Gundam Iron Blooded Orphans"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "RP-042",
@@ -44145,7 +44145,7 @@
     "package_from": "Edition Beta",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/en/images/cards/card/R-001_p5.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/limited1.0/10083",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/616677/Resource Cplus"
   },
   {
     "card_id": "ST01-001_p2",
@@ -45705,7 +45705,7 @@
     "package_from": "Promotion card",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/en/images/cards/card/EXBP-030.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=EXBP-030",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/717020/EX Base EXBP 030 Special Booster Bundle 01"
   },
   {
     "card_id": "EXBP-031",
@@ -45939,7 +45939,7 @@
     "package_from": "Promotion card",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/en/images/cards/card/EXRP-015.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=EXRP-015",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/717598/EX Resource EXRP 015 Playmat and Card Set Mobile Suit Gundam 00"
   },
   {
     "card_id": "EXRP-019",
@@ -46251,7 +46251,7 @@
     "package_from": "Promotion card",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/en/images/cards/card/GD01-024_p3.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/gd01/10031",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/search/gundam-card-game/product?productLineName=gundam-card-game&view=grid&q=GD01-024%20LR"
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/643173/Wing Gundam Zero"
   },
   {
     "card_id": "GD01-030_p3",
@@ -46407,7 +46407,7 @@
     "package_from": "Promotion card",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/en/images/cards/card/GD01-067_p3.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/promo-gd10/10010",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/643216/Gundam Aerial Rebuild"
+    "TCGPlayer_URL": "https://www.tcgplayer.com/search/gundam-card-game/product?productLineName=gundam-card-game&view=grid&q=GD01-067%20LR"
   },
   {
     "card_id": "GD01-070_p3",
@@ -46854,7 +46854,7 @@
   {
     "card_id": "GD02-003_p2",
     "card_no": "GD02-003",
-    "name": "Gundam Mk-II (Titans)",
+    "name": "Gundam Mk-Ⅱ (Titans)",
     "link_name": "",
     "rarity": "R",
     "spCol": "",
@@ -46880,7 +46880,7 @@
   {
     "card_id": "GD02-003_p3",
     "card_no": "GD02-003",
-    "name": "Gundam Mk-II (Titans)",
+    "name": "Gundam Mk-Ⅱ (Titans)",
     "link_name": "",
     "rarity": "R +",
     "spCol": "",
@@ -47109,7 +47109,7 @@
     "package_from": "Promotion card",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/en/images/cards/card/GD02-039_p2.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/promo-gd10/10075",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/688534/Haman Karns Gaza C Store Tournament Winner Pack 04"
   },
   {
     "card_id": "GD02-048_p1",
@@ -47395,7 +47395,7 @@
     "package_from": "Promotion card",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/en/images/cards/card/GD02-090_p2.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/promo-gd10/10077",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/688538/Challia Bull GQ Store Tournament Winner Pack 04"
   },
   {
     "card_id": "GD02-091_p2",
@@ -47889,7 +47889,7 @@
     "package_from": "Promotion card",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/en/images/cards/card/GD03-005_p2.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/promo-gd10/10103",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/703782/Kshatriya Besserung Store Tournament Winner Pack 05"
   },
   {
     "card_id": "GD03-010_p2",
@@ -48071,12 +48071,12 @@
     "package_from": "Promotion card",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/en/images/cards/card/GD03-024_p2.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/promo-gd10/10105",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/703784/Hy Gogg Store Tournament Winner Pack 05"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "GD03-027_p1",
     "card_no": "GD03-027",
-    "name": "Z'Gok E",
+    "name": "Z’Gok E",
     "link_name": "",
     "rarity": "C",
     "spCol": "",
@@ -48279,7 +48279,7 @@
     "package_from": "Promotion card",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/en/images/cards/card/GD03-072_p2.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/promo-gd10/10053",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/670582/Aile Strike Gundam Store Tournament Winner Pack 03"
   },
   {
     "card_id": "GD03-076_p1",
@@ -49241,7 +49241,7 @@
     "package_from": "Promotion card",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/en/images/cards/card/GD05-016_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/gd05/10023",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/705552/Murasame"
+    "TCGPlayer_URL": "https://www.tcgplayer.com/search/gundam-card-game/product?productLineName=gundam-card-game&view=grid&q=GD05-016%20C"
   },
   {
     "card_id": "GD05-016_p2",
@@ -49267,7 +49267,7 @@
     "package_from": "Promotion card",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/en/images/cards/card/GD05-016_p2.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD05-016",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/721550/Murasame Store Tournament Winner Pack 06"
   },
   {
     "card_id": "GD05-019_p1",
@@ -49371,7 +49371,7 @@
     "package_from": "Promotion card",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/en/images/cards/card/GD05-069_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/gd05/10104",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/705605/Gundam Maxter"
+    "TCGPlayer_URL": "https://www.tcgplayer.com/search/gundam-card-game/product?productLineName=gundam-card-game&view=grid&q=GD05-069%20R"
   },
   {
     "card_id": "GD05-069_p2",
@@ -49397,7 +49397,7 @@
     "package_from": "Promotion card",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/en/images/cards/card/GD05-069_p2.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD05-069",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/721552/Gundam Maxter Store Tournament Winner Pack 06"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "GD05-094_p1",
@@ -49449,7 +49449,7 @@
     "package_from": "Promotion card",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/en/images/cards/card/GD05-094_p2.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD05-094",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/721553/Quess Paraya Store Tournament Winner Pack 06"
   },
   {
     "card_id": "GD05-100_p1",
@@ -51971,7 +51971,7 @@
     "package_from": "Promotion card",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/en/images/cards/card/ST09-009_p2.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st09/10024",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/684008/Giant Killing"
   },
   {
     "card_id": "ST11-002_p2",
@@ -52049,7 +52049,7 @@
     "package_from": "Promotion card",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/en/images/cards/card/ST12-009_p2.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st12/10017",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/717615/Unicorn Gundam 02 Banshee Unicorn Mode ST11 ST14 Release Event"
+    "TCGPlayer_URL": "https://www.tcgplayer.com/search/gundam-card-game/product?productLineName=gundam-card-game&view=grid&q=ST12-009%20C"
   },
   {
     "card_id": "ST12-012_p2",
@@ -52075,7 +52075,7 @@
     "package_from": "Promotion card",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/en/images/cards/card/ST12-012_p2.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st12/10023",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/717617/Ple Twelve ST11 ST14 Release Event"
+    "TCGPlayer_URL": "https://www.tcgplayer.com/search/gundam-card-game/product?productLineName=gundam-card-game&view=grid&q=ST12-012%20C"
   },
   {
     "card_id": "T-022_p1",
