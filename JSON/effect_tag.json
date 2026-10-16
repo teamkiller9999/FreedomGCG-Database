@@ -130,6 +130,19 @@
     "th": "ระหว่างจับคู่・ไพล็อตตั้งแต่ Lv.5 ขึ้นไป"
   },
   {
+    "effect_tag_id": "070",
+    "order": "070",
+    "master_id": "025",
+    "mask": "Set",
+    "color": "#FF9CD8",
+    "jp": "セット中・〔オーブ〕のパイロット",
+    "en": "During Pair・(Orb) Pilot",
+    "zh-hk": "搭乘中・〔歐普〕的駕駛員",
+    "zh-tw": "搭乘中・〔歐普〕的駕駛員",
+    "zh-cn": "搭乘中・〔欧普〕的驾驶员",
+    "th": "ระหว่างจับคู่・ไพล็อต 〔ออร์บ〕"
+  },
+  {
     "effect_tag_id": "027",
     "order": "027",
     "master_id": "025",
@@ -882,6 +895,19 @@
     "zh-tw": "②",
     "zh-cn": "②",
     "th": "②"
+  },
+  {
+    "effect_tag_id": "071",
+    "order": "071",
+    "master_id": "065",
+    "mask": "Cost",
+    "color": "#FFFFFF",
+    "jp": "③",
+    "en": "③",
+    "zh-hk": "③",
+    "zh-tw": "③",
+    "zh-cn": "③",
+    "th": "③"
   },
   {
     "effect_tag_id": "068",
