@@ -117,8 +117,8 @@
     "th": "ระหว่างจับคู่・ไพล็อตที่เท่ากับหรือต่ำกว่า Lv.3"
   },
   {
-    "effect_tag_id": "069",
-    "order": "069",
+    "effect_tag_id": "027",
+    "order": "027",
     "master_id": "025",
     "mask": "Set",
     "color": "#FF9CD8",
@@ -130,8 +130,8 @@
     "th": "ระหว่างจับคู่・ไพล็อตตั้งแต่ Lv.5 ขึ้นไป"
   },
   {
-    "effect_tag_id": "070",
-    "order": "070",
+    "effect_tag_id": "071",
+    "order": "071",
     "master_id": "025",
     "mask": "Set",
     "color": "#FF9CD8",
@@ -143,8 +143,8 @@
     "th": "ระหว่างจับคู่・ไพล็อต 〔ออร์บ〕"
   },
   {
-    "effect_tag_id": "027",
-    "order": "027",
+    "effect_tag_id": "028",
+    "order": "028",
     "master_id": "025",
     "mask": "Set",
     "color": "#FF9CD8",
@@ -156,8 +156,8 @@
     "th": "ระหว่างจับคู่・ไพล็อตของ〔โคออร์ดิเนเตอร์〕"
   },
   {
-    "effect_tag_id": "028",
-    "order": "028",
+    "effect_tag_id": "029",
+    "order": "029",
     "master_id": "025",
     "mask": "Set",
     "color": "#FF9CD8",
@@ -169,8 +169,8 @@
     "th": "ระหว่างจับคู่・ไพล็อต 〔ซาฟท์〕"
   },
   {
-    "effect_tag_id": "029",
-    "order": "029",
+    "effect_tag_id": "030",
+    "order": "030",
     "master_id": "025",
     "mask": "Set",
     "color": "#FF9CD8",
@@ -182,8 +182,8 @@
     "th": "ระหว่างจับคู่・ไพล็อต 〔จีเจน〕"
   },
   {
-    "effect_tag_id": "030",
-    "order": "030",
+    "effect_tag_id": "031",
+    "order": "031",
     "master_id": "025",
     "mask": "Set",
     "color": "#FF9CD8",
@@ -195,8 +195,8 @@
     "th": "ระหว่างจับคู่・ไพล็อต 〔นีโอ・ซีอ้อน〕"
   },
   {
-    "effect_tag_id": "031",
-    "order": "031",
+    "effect_tag_id": "032",
+    "order": "032",
     "master_id": "025",
     "mask": "Set",
     "color": "#FF9CD8",
@@ -208,8 +208,8 @@
     "th": "ระหว่างจับคู่・ไพล็อต 〔กลุ่มวัลเจอร์〕"
   },
   {
-    "effect_tag_id": "032",
-    "order": "032",
+    "effect_tag_id": "033",
+    "order": "033",
     "master_id": "025",
     "mask": "Set",
     "color": "#FF9CD8",
@@ -221,8 +221,8 @@
     "th": "ระหว่างจับคู่・ไพล็อต 〔มนุษย์เสริมสมรรถนะ〕"
   },
   {
-    "effect_tag_id": "033",
-    "order": "033",
+    "effect_tag_id": "034",
+    "order": "034",
     "master_id": "025",
     "mask": "Set",
     "color": "#FF9CD8",
@@ -234,8 +234,8 @@
     "th": "ระหว่างจับคู่・ไพล็อตสีแดง"
   },
   {
-    "effect_tag_id": "034",
-    "order": "034",
+    "effect_tag_id": "035",
+    "order": "035",
     "master_id": "",
     "mask": "Set",
     "color": "#FF9CD8",
@@ -247,8 +247,8 @@
     "th": "เมื่อจับคู่"
   },
   {
-    "effect_tag_id": "035",
-    "order": "035",
+    "effect_tag_id": "036",
+    "order": "036",
     "master_id": "",
     "mask": "Set",
     "color": "#FF9CD8",
@@ -260,9 +260,9 @@
     "th": "เมื่อจับคู่・(X)"
   },
   {
-    "effect_tag_id": "036",
-    "order": "036",
-    "master_id": "035",
+    "effect_tag_id": "037",
+    "order": "037",
+    "master_id": "036",
     "mask": "Set",
     "color": "#FF9CD8",
     "jp": "セット時・Lv.4以上のパイロット",
@@ -273,9 +273,9 @@
     "th": "เมื่อจับคู่・ไพล็อต Lv.4 ขึ้นไป"
   },
   {
-    "effect_tag_id": "037",
-    "order": "037",
-    "master_id": "035",
+    "effect_tag_id": "038",
+    "order": "038",
+    "master_id": "036",
     "mask": "Set",
     "color": "#FF9CD8",
     "jp": "セット時・〔WB隊〕のパイロット",
@@ -286,9 +286,9 @@
     "th": "เมื่อจับคู่・ไพล็อตของ〔หน่วยไวท์เบส〕"
   },
   {
-    "effect_tag_id": "038",
-    "order": "038",
-    "master_id": "035",
+    "effect_tag_id": "039",
+    "order": "039",
+    "master_id": "036",
     "mask": "Set",
     "color": "#FF9CD8",
     "jp": "セット時・〔Xラウンダー〕のパイロット",
@@ -299,9 +299,9 @@
     "th": "เมื่อจับคู่・ไพล็อต 〔เอ็กซ์ราวเดอร์〕"
   },
   {
-    "effect_tag_id": "039",
-    "order": "039",
-    "master_id": "035",
+    "effect_tag_id": "040",
+    "order": "040",
+    "master_id": "036",
     "mask": "Set",
     "color": "#FF9CD8",
     "jp": "セット時・〔オペレーション・メテオ〕のパイロット",
@@ -312,9 +312,9 @@
     "th": "เมื่อจับคู่・ไพล็อตของ〔โอเปอเรชั่น เมเทโอ〕"
   },
   {
-    "effect_tag_id": "040",
-    "order": "040",
-    "master_id": "035",
+    "effect_tag_id": "041",
+    "order": "041",
+    "master_id": "036",
     "mask": "Set",
     "color": "#FF9CD8",
     "jp": "セット時・〔サイクロプス隊〕のパイロット",
@@ -325,9 +325,9 @@
     "th": "เมื่อจับคู่・ไพล็อต 〔หน่วยไซคลอปส์〕"
   },
   {
-    "effect_tag_id": "041",
-    "order": "041",
-    "master_id": "035",
+    "effect_tag_id": "042",
+    "order": "042",
+    "master_id": "036",
     "mask": "Set",
     "color": "#FF9CD8",
     "jp": "セット時・〔ジオン〕のパイロット",
@@ -338,9 +338,9 @@
     "th": "เมื่อจับคู่・ไพล็อตของ〔ซีอ้อน〕"
   },
   {
-    "effect_tag_id": "042",
-    "order": "042",
-    "master_id": "035",
+    "effect_tag_id": "043",
+    "order": "043",
+    "master_id": "036",
     "mask": "Set",
     "color": "#FF9CD8",
     "jp": "セット時・〔ジージェネ〕のパイロット",
@@ -351,9 +351,9 @@
     "th": "เมื่อจับคู่・ไพล็อต 〔จีเจน〕"
   },
   {
-    "effect_tag_id": "043",
-    "order": "043",
-    "master_id": "035",
+    "effect_tag_id": "044",
+    "order": "044",
+    "master_id": "036",
     "mask": "Set",
     "color": "#FF9CD8",
     "jp": "セット時・〔ニュータイプ〕のパイロット",
@@ -364,9 +364,9 @@
     "th": "เมื่อจับคู่・ไพล็อต 〔นิวไทป์〕"
   },
   {
-    "effect_tag_id": "044",
-    "order": "044",
-    "master_id": "035",
+    "effect_tag_id": "045",
+    "order": "045",
+    "master_id": "036",
     "mask": "Set",
     "color": "#FF9CD8",
     "jp": "セット時・〔ファントムペイン〕のパイロット",
@@ -377,9 +377,9 @@
     "th": "เมื่อจับคู่・ไพล็อต 〔แฟนธอมเพน〕"
   },
   {
-    "effect_tag_id": "045",
-    "order": "045",
-    "master_id": "035",
+    "effect_tag_id": "046",
+    "order": "046",
+    "master_id": "036",
     "mask": "Set",
     "color": "#FF9CD8",
     "jp": "セット時・〔強化人間〕/〔ニュータイプ〕のパイロット",
@@ -390,9 +390,9 @@
     "th": "เมื่อจับคู่・ไพล็อตของ〔มนุษย์เสริมสมรรถนะ〕/〔นิวไทป์〕"
   },
   {
-    "effect_tag_id": "046",
-    "order": "046",
-    "master_id": "035",
+    "effect_tag_id": "047",
+    "order": "047",
+    "master_id": "036",
     "mask": "Set",
     "color": "#FF9CD8",
     "jp": "セット時・紫のパイロット",
@@ -403,8 +403,8 @@
     "th": "เมื่อจับคู่・ไพล็อตสีม่วง"
   },
   {
-    "effect_tag_id": "047",
-    "order": "047",
+    "effect_tag_id": "048",
+    "order": "048",
     "master_id": "",
     "mask": "Set",
     "color": "#FF9CD8",
@@ -416,9 +416,9 @@
     "th": "เมื่อจับคู่・พัฒนา (X)"
   },
   {
-    "effect_tag_id": "048",
-    "order": "048",
-    "master_id": "047",
+    "effect_tag_id": "049",
+    "order": "049",
+    "master_id": "048",
     "mask": "Set",
     "color": "#FF9CD8",
     "jp": "セット時・開発1",
@@ -429,9 +429,9 @@
     "th": "เมื่อจับคู่・พัฒนา 1"
   },
   {
-    "effect_tag_id": "049",
-    "order": "049",
-    "master_id": "047",
+    "effect_tag_id": "050",
+    "order": "050",
+    "master_id": "048",
     "mask": "Set",
     "color": "#FF9CD8",
     "jp": "セット時・開発3",
@@ -442,8 +442,8 @@
     "th": "เมื่อจับคู่・พัฒนา 3"
   },
   {
-    "effect_tag_id": "050",
-    "order": "050",
+    "effect_tag_id": "051",
+    "order": "051",
     "master_id": "",
     "mask": "Times",
     "color": "#961513",
@@ -455,8 +455,8 @@
     "th": "ใช้ได้ 1 ครั้งต่อเทิร์น"
   },
   {
-    "effect_tag_id": "051",
-    "order": "051",
+    "effect_tag_id": "052",
+    "order": "052",
     "master_id": "",
     "mask": "Burst",
     "color": "#D57D00",
@@ -468,8 +468,8 @@
     "th": "เบิร์ส"
   },
   {
-    "effect_tag_id": "052",
-    "order": "052",
+    "effect_tag_id": "053",
+    "order": "053",
     "master_id": "",
     "mask": "Timing",
     "color": "#6BB9FF",
@@ -546,8 +546,8 @@
     "th": "รีแพร์ 3"
   },
   {
-    "effect_tag_id": "053",
-    "order": "053",
+    "effect_tag_id": "054",
+    "order": "054",
     "master_id": "",
     "mask": "Link",
     "color": "#FFFF00",
@@ -559,8 +559,8 @@
     "th": "ระหว่างลิ้งก์"
   },
   {
-    "effect_tag_id": "054",
-    "order": "054",
+    "effect_tag_id": "055",
+    "order": "055",
     "master_id": "",
     "mask": "Link",
     "color": "#FFFF00",
@@ -572,8 +572,8 @@
     "th": "เมื่อลิงก์"
   },
   {
-    "effect_tag_id": "055",
-    "order": "055",
+    "effect_tag_id": "056",
+    "order": "056",
     "master_id": "",
     "mask": "Link",
     "color": "#FFFF00",
@@ -585,9 +585,9 @@
     "th": "เมื่อลิ้งก์ ・พัฒนา (X)"
   },
   {
-    "effect_tag_id": "056",
-    "order": "056",
-    "master_id": "055",
+    "effect_tag_id": "057",
+    "order": "057",
+    "master_id": "056",
     "mask": "Link",
     "color": "#FFFF00",
     "jp": "リンク時・開発2",
@@ -663,8 +663,8 @@
     "th": "สนับสนุน 3"
   },
   {
-    "effect_tag_id": "057",
-    "order": "057",
+    "effect_tag_id": "058",
+    "order": "058",
     "master_id": "",
     "mask": "Passive",
     "color": "#72D1D8",
@@ -767,8 +767,8 @@
     "th": "ทะลุทะลวง 5"
   },
   {
-    "effect_tag_id": "058",
-    "order": "058",
+    "effect_tag_id": "059",
+    "order": "059",
     "master_id": "",
     "mask": "Timing",
     "color": "#6BB9FF",
@@ -780,8 +780,8 @@
     "th": "แอคทีฟ・แอ็กชัน"
   },
   {
-    "effect_tag_id": "059",
-    "order": "059",
+    "effect_tag_id": "060",
+    "order": "060",
     "master_id": "",
     "mask": "Timing",
     "color": "#6BB9FF",
@@ -793,8 +793,8 @@
     "th": "แอคทีฟ・เมน"
   },
   {
-    "effect_tag_id": "060",
-    "order": "060",
+    "effect_tag_id": "061",
+    "order": "061",
     "master_id": "",
     "mask": "Passive",
     "color": "#72D1D8",
@@ -806,8 +806,8 @@
     "th": "เมื่อลง"
   },
   {
-    "effect_tag_id": "061",
-    "order": "061",
+    "effect_tag_id": "062",
+    "order": "062",
     "master_id": "",
     "mask": "Passive",
     "color": "#72D1D8",
@@ -819,9 +819,9 @@
     "th": "เมื่อลง ・พัฒนา (X)"
   },
   {
-    "effect_tag_id": "062",
-    "order": "062",
-    "master_id": "061",
+    "effect_tag_id": "063",
+    "order": "063",
+    "master_id": "062",
     "mask": "Passive",
     "color": "#72D1D8",
     "jp": "配備時・開発1",
@@ -832,9 +832,9 @@
     "th": "เมื่อลง・พัฒนา 1"
   },
   {
-    "effect_tag_id": "063",
-    "order": "063",
-    "master_id": "061",
+    "effect_tag_id": "064",
+    "order": "064",
+    "master_id": "062",
     "mask": "Passive",
     "color": "#72D1D8",
     "jp": "配備時・開発2",
@@ -845,9 +845,9 @@
     "th": "เมื่อลง ・พัฒนา 2"
   },
   {
-    "effect_tag_id": "064",
-    "order": "064",
-    "master_id": "061",
+    "effect_tag_id": "065",
+    "order": "065",
+    "master_id": "062",
     "mask": "Passive",
     "color": "#72D1D8",
     "jp": "配備時・開発3",
@@ -858,8 +858,8 @@
     "th": "เมื่อลง・พัฒนา 3"
   },
   {
-    "effect_tag_id": "065",
-    "order": "065",
+    "effect_tag_id": "066",
+    "order": "066",
     "master_id": "",
     "mask": "Cost",
     "color": "#FFFFFF",
@@ -871,9 +871,9 @@
     "th": "ข้อมูลเกี่ยวกับการชำระเงิน Ⓧ"
   },
   {
-    "effect_tag_id": "066",
-    "order": "066",
-    "master_id": "065",
+    "effect_tag_id": "067",
+    "order": "067",
+    "master_id": "066",
     "mask": "Cost",
     "color": "#FFFFFF",
     "jp": "①",
@@ -884,9 +884,9 @@
     "th": "①"
   },
   {
-    "effect_tag_id": "067",
-    "order": "067",
-    "master_id": "065",
+    "effect_tag_id": "068",
+    "order": "068",
+    "master_id": "066",
     "mask": "Cost",
     "color": "#FFFFFF",
     "jp": "②",
@@ -897,9 +897,9 @@
     "th": "②"
   },
   {
-    "effect_tag_id": "071",
-    "order": "071",
-    "master_id": "065",
+    "effect_tag_id": "069",
+    "order": "069",
+    "master_id": "066",
     "mask": "Cost",
     "color": "#FFFFFF",
     "jp": "③",
@@ -910,9 +910,9 @@
     "th": "③"
   },
   {
-    "effect_tag_id": "068",
-    "order": "068",
-    "master_id": "065",
+    "effect_tag_id": "070",
+    "order": "070",
+    "master_id": "066",
     "mask": "Cost",
     "color": "#FFFFFF",
     "jp": "④",

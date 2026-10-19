@@ -7,56 +7,56 @@
   {
     "rarity_id": "002",
     "order": "2",
-    "rarity": "C"
+    "rarity": "P +"
   },
   {
     "rarity_id": "003",
     "order": "3",
-    "rarity": "C +"
+    "rarity": "C"
   },
   {
     "rarity_id": "004",
     "order": "4",
-    "rarity": "C ++"
+    "rarity": "C +"
   },
   {
     "rarity_id": "005",
     "order": "5",
-    "rarity": "U"
+    "rarity": "C ++"
   },
   {
     "rarity_id": "006",
     "order": "6",
-    "rarity": "U +"
+    "rarity": "U"
   },
   {
     "rarity_id": "007",
     "order": "7",
-    "rarity": "R"
+    "rarity": "U +"
   },
   {
     "rarity_id": "008",
     "order": "8",
-    "rarity": "R +"
+    "rarity": "R"
   },
   {
     "rarity_id": "009",
     "order": "9",
-    "rarity": "LR"
+    "rarity": "R +"
   },
   {
     "rarity_id": "010",
     "order": "10",
-    "rarity": "LR +"
+    "rarity": "LR"
   },
   {
     "rarity_id": "011",
     "order": "11",
-    "rarity": "LR ++"
+    "rarity": "LR +"
   },
   {
     "rarity_id": "012",
-    "order": "",
-    "rarity": "P +"
+    "order": "12",
+    "rarity": "LR ++"
   }
 ]
