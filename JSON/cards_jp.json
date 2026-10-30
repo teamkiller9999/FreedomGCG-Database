@@ -777,7 +777,7 @@
     "package_from": "[GD01] Newtype Rising",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD01-023_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/gd01/10030",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/645369/Chars Gelgoog LRplus"
   },
   {
     "card_id": "GD01-024",
@@ -11255,7 +11255,7 @@
     "package_from": "[GD03] Steel Requiem",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD03-047.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/gd03/10063",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/673473/DINN Commander Type"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "GD03-048",
@@ -23891,7 +23891,7 @@
     "package_from": "[GD05] Freedom Ascension",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD05-102_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/gd05/10148",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/707554/Wings of Light Rplus"
   },
   {
     "card_id": "GD05-103",
@@ -24934,6 +24934,136 @@
     "TCGPlayer_URL": "https://www.tcgplayer.com/product/705668/Pluma T 027 Token"
   },
   {
+    "card_id": "GD02-129_p2",
+    "card_no": "GD02-129",
+    "name": "アーガマ",
+    "link_name": "",
+    "rarity": "R +",
+    "spCol": "SP",
+    "block_icon": "2",
+    "level": "3",
+    "cost": "1",
+    "color": "White",
+    "type": "BASE",
+    "effect": "【バースト】このカードを配備する。\n【配備時】自分のシールド1つを手札に加える。\nこのベースは相手から効果ダメージを受けない。",
+    "zone": "宇宙 地球",
+    "trait": "〔エゥーゴ〕 〔艦船〕",
+    "link": "",
+    "ap": "-",
+    "hp": "5",
+    "source_title": "機動戦士Zガンダム",
+    "package": "Stardust Trails[GD06]",
+    "package_id": "615106",
+    "package_from": "[GD06] Stardust Trails",
+    "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD02-129_p2.webp",
+    "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD02-129",
+    "TCGPlayer_URL": ""
+  },
+  {
+    "card_id": "GD05-123_p1",
+    "card_no": "GD05-123",
+    "name": "アークエンジェル",
+    "link_name": "",
+    "rarity": "U +",
+    "spCol": "SP",
+    "block_icon": "2",
+    "level": "2",
+    "cost": "1",
+    "color": "Blue",
+    "type": "BASE",
+    "effect": "【バースト】このカードを配備する。\n【配備時】自分のシールド1つを手札に加える。\n相手のターン中、〔オーブ〕の味方のユニットすべては、相手から2以下の効果ダメージを受けない。",
+    "zone": "宇宙 地球",
+    "trait": "〔オーブ〕 〔艦船〕",
+    "link": "",
+    "ap": "-",
+    "hp": "5",
+    "source_title": "機動戦士ガンダムSEED DESTINY",
+    "package": "Stardust Trails[GD06]",
+    "package_id": "615106",
+    "package_from": "[GD06] Stardust Trails",
+    "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD05-123_p1.webp",
+    "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD05-123",
+    "TCGPlayer_URL": ""
+  },
+  {
+    "card_id": "GD05-125_p1",
+    "card_no": "GD05-125",
+    "name": "ラー・カイラム",
+    "link_name": "",
+    "rarity": "U +",
+    "spCol": "SP",
+    "block_icon": "2",
+    "level": "3",
+    "cost": "1",
+    "color": "Green",
+    "type": "BASE",
+    "effect": "【バースト】このカードを配備する。\n【配備時】自分のシールド1つを手札に加える。\n【起動・メイン】このベースをレストにする：〔ロンド・ベル〕の味方のユニット1つを選ぶ。このターン中、それが相手からダメージを受けるとき、そのダメージを1軽減する。",
+    "zone": "宇宙",
+    "trait": "〔地球連邦〕 〔ロンド・ベル〕 〔艦船〕",
+    "link": "",
+    "ap": "-",
+    "hp": "5",
+    "source_title": "機動戦士ガンダム 逆襲のシャア",
+    "package": "Stardust Trails[GD06]",
+    "package_id": "615106",
+    "package_from": "[GD06] Stardust Trails",
+    "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD05-125_p1.webp",
+    "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD05-125",
+    "TCGPlayer_URL": ""
+  },
+  {
+    "card_id": "GD05-128_p1",
+    "card_no": "GD05-128",
+    "name": "ガンダムファイト",
+    "link_name": "",
+    "rarity": "C +",
+    "spCol": "SP",
+    "block_icon": "2",
+    "level": "3",
+    "cost": "1",
+    "color": "Red",
+    "type": "BASE",
+    "effect": "【バースト】このカードを配備する。\n【配備時】自分のシールド1つを手札に加える。\n【起動・メイン】このベースをレストにする：〔MF〕の味方のリンクユニットがいるなら、味方のユニット1つを選ぶ。このターン中、それをAP+2する。",
+    "zone": "地球",
+    "trait": "〔拠点〕",
+    "link": "",
+    "ap": "-",
+    "hp": "5",
+    "source_title": "機動武闘伝Gガンダム",
+    "package": "Stardust Trails[GD06]",
+    "package_id": "615106",
+    "package_from": "[GD06] Stardust Trails",
+    "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD05-128_p1.webp",
+    "YYT_URL": "",
+    "TCGPlayer_URL": ""
+  },
+  {
+    "card_id": "GD05-129_p1",
+    "card_no": "GD05-129",
+    "name": "アクシズ",
+    "link_name": "",
+    "rarity": "R +",
+    "spCol": "SP",
+    "block_icon": "2",
+    "level": "4",
+    "cost": "1",
+    "color": "Purple",
+    "type": "BASE",
+    "effect": "【バースト】このカードを配備する。\n【配備時】自分のシールド1つを手札に加える。\n【起動・メイン】このベースをレストにする：このターン中、自分のユニットが〔ネオ・ジオン〕の自分のカードの効果で破壊されていたなら、自分の手札のLv.3以下の〔ネオ・ジオン〕のユニットカード1枚を配備する。",
+    "zone": "宇宙",
+    "trait": "〔ネオ・ジオン〕 〔拠点〕",
+    "link": "",
+    "ap": "-",
+    "hp": "6",
+    "source_title": "機動戦士ガンダム 逆襲のシャア",
+    "package": "Stardust Trails[GD06]",
+    "package_id": "615106",
+    "package_from": "[GD06] Stardust Trails",
+    "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD05-129_p1.webp",
+    "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD05-129",
+    "TCGPlayer_URL": ""
+  },
+  {
     "card_id": "GD06-001",
     "card_no": "GD06-001",
     "name": "ガンダム試作1号機フルバーニアン",
@@ -24957,6 +25087,32 @@
     "package_from": "[GD06] Stardust Trails",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD06-001.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-001",
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/724322/Gundam GP01Fb"
+  },
+  {
+    "card_id": "GD06-001_p1",
+    "card_no": "GD06-001",
+    "name": "ガンダム試作1号機フルバーニアン",
+    "link_name": "",
+    "rarity": "LR +",
+    "spCol": "",
+    "block_icon": "2",
+    "level": "5",
+    "cost": "4",
+    "color": "Blue",
+    "type": "UNIT",
+    "effect": "【ターン1回】このユニットがアタックされたとき、自分は1枚ドローする。\n【セット中】このユニットは《高機動》を得る。",
+    "zone": "宇宙",
+    "trait": "〔地球連邦〕 〔アルビオン隊〕",
+    "link": "コウ・ウラキ",
+    "ap": "3",
+    "hp": "5",
+    "source_title": "機動戦士ガンダム0083",
+    "package": "Stardust Trails[GD06]",
+    "package_id": "615106",
+    "package_from": "[GD06] Stardust Trails",
+    "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD06-001_p1.webp",
+    "YYT_URL": "",
     "TCGPlayer_URL": ""
   },
   {
@@ -24986,6 +25142,58 @@
     "TCGPlayer_URL": "https://www.tcgplayer.com/product/724323/Infinite Justice Gundam"
   },
   {
+    "card_id": "GD06-002_p1",
+    "card_no": "GD06-002",
+    "name": "インフィニットジャスティスガンダム",
+    "link_name": "",
+    "rarity": "LR +",
+    "spCol": "",
+    "block_icon": "2",
+    "level": "7",
+    "cost": "6",
+    "color": "Blue",
+    "type": "UNIT",
+    "effect": "【ターン1回】自分のターン中、このユニットがバトルダメージで相手のカードを破壊したとき、〔オーブ〕の自分のユニット1つを選ぶ。それを3回復する。\n【配備時】自分のトラッシュの、ユニットカード3枚を選んでもよい。それらをゲームから除外する。そうしたなら、アクティブの相手のユニット1つを選ぶ。それを持ち主の手札に戻す。",
+    "zone": "宇宙 地球",
+    "trait": "〔オーブ〕",
+    "link": "アスラン・ザラ",
+    "ap": "5",
+    "hp": "5",
+    "source_title": "機動戦士ガンダムSEED DESTINY",
+    "package": "Stardust Trails[GD06]",
+    "package_id": "615106",
+    "package_from": "[GD06] Stardust Trails",
+    "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD06-002_p1.webp",
+    "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-002",
+    "TCGPlayer_URL": ""
+  },
+  {
+    "card_id": "GD06-002_p2",
+    "card_no": "GD06-002",
+    "name": "インフィニットジャスティスガンダム",
+    "link_name": "",
+    "rarity": "LR ++",
+    "spCol": "",
+    "block_icon": "2",
+    "level": "7",
+    "cost": "6",
+    "color": "Blue",
+    "type": "UNIT",
+    "effect": "【ターン1回】自分のターン中、このユニットがバトルダメージで相手のカードを破壊したとき、〔オーブ〕の自分のユニット1つを選ぶ。それを3回復する。\n【配備時】自分のトラッシュの、ユニットカード3枚を選んでもよい。それらをゲームから除外する。そうしたなら、アクティブの相手のユニット1つを選ぶ。それを持ち主の手札に戻す。",
+    "zone": "宇宙 地球",
+    "trait": "〔オーブ〕",
+    "link": "アスラン・ザラ",
+    "ap": "5",
+    "hp": "5",
+    "source_title": "機動戦士ガンダムSEED DESTINY",
+    "package": "Stardust Trails[GD06]",
+    "package_id": "615106",
+    "package_from": "[GD06] Stardust Trails",
+    "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD06-002_p2.webp",
+    "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-002",
+    "TCGPlayer_URL": ""
+  },
+  {
     "card_id": "GD06-003",
     "card_no": "GD06-003",
     "name": "GQuuuuuuX（オメガ・サイコミュ開放時）",
@@ -25012,6 +25220,32 @@
     "TCGPlayer_URL": "https://www.tcgplayer.com/product/724324/GQuuuuuuX Omega Psycommu Released"
   },
   {
+    "card_id": "GD06-003_p1",
+    "card_no": "GD06-003",
+    "name": "GQuuuuuuX（オメガ・サイコミュ開放時）",
+    "link_name": "",
+    "rarity": "LR +",
+    "spCol": "",
+    "block_icon": "2",
+    "level": "6",
+    "cost": "4",
+    "color": "Blue",
+    "type": "UNIT",
+    "effect": "このユニットを自分の手札と同じ数だけAP+する。\n【アタック時】このユニット以外の〔アルファ殺し〕の味方のユニットがいて、自分の手札が5枚以下なら、自分は1枚ドローする。",
+    "zone": "宇宙 地球",
+    "trait": "〔アルファ殺し〕",
+    "link": "アマテ・ユズリハ（マチュ）",
+    "ap": "2",
+    "hp": "5",
+    "source_title": "機動戦士Gundam GQuuuuuuX(ジークアクス)",
+    "package": "Stardust Trails[GD06]",
+    "package_id": "615106",
+    "package_from": "[GD06] Stardust Trails",
+    "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD06-003_p1.webp",
+    "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-003",
+    "TCGPlayer_URL": ""
+  },
+  {
     "card_id": "GD06-004",
     "card_no": "GD06-004",
     "name": "ガンダム試作1号機",
@@ -25035,7 +25269,33 @@
     "package_from": "[GD06] Stardust Trails",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD06-004.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-004",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/724325/Gundam GP01"
+    "TCGPlayer_URL": ""
+  },
+  {
+    "card_id": "GD06-004_p1",
+    "card_no": "GD06-004",
+    "name": "ガンダム試作1号機",
+    "link_name": "",
+    "rarity": "R +",
+    "spCol": "",
+    "block_icon": "2",
+    "level": "4",
+    "cost": "2",
+    "color": "Blue",
+    "type": "UNIT",
+    "effect": "【リンク中】【破壊時】自分のターンなら、このユニットにセットされていたパイロットを持ち主の手札に戻す。その後、自分の手札1枚を捨てる。",
+    "zone": "地球",
+    "trait": "〔地球連邦〕 〔アルビオン隊〕",
+    "link": "コウ・ウラキ",
+    "ap": "4",
+    "hp": "3",
+    "source_title": "機動戦士ガンダム0083",
+    "package": "Stardust Trails[GD06]",
+    "package_id": "615106",
+    "package_from": "[GD06] Stardust Trails",
+    "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD06-004_p1.webp",
+    "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-004",
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "GD06-005",
@@ -25064,6 +25324,32 @@
     "TCGPlayer_URL": "https://www.tcgplayer.com/product/724326/Akatsuki Shiranui"
   },
   {
+    "card_id": "GD06-005_p1",
+    "card_no": "GD06-005",
+    "name": "アカツキ（シラヌイ）",
+    "link_name": "",
+    "rarity": "R +",
+    "spCol": "",
+    "block_icon": "2",
+    "level": "6",
+    "cost": "5",
+    "color": "Blue",
+    "type": "UNIT",
+    "effect": "【アタック時】ダメージを受けているLv.5以下の相手のユニット1つを選んでもよい。それを持ち主の手札に戻す。",
+    "zone": "宇宙 地球",
+    "trait": "〔オーブ〕",
+    "link": "特徴〔オーブ〕 / ムウ・ラ・フラガ",
+    "ap": "5",
+    "hp": "4",
+    "source_title": "機動戦士ガンダムSEED DESTINY",
+    "package": "Stardust Trails[GD06]",
+    "package_id": "615106",
+    "package_from": "[GD06] Stardust Trails",
+    "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD06-005_p1.webp",
+    "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-005",
+    "TCGPlayer_URL": ""
+  },
+  {
     "card_id": "GD06-006",
     "card_no": "GD06-006",
     "name": "GQuuuuuuX（オメガ・サイコミュ起動時）",
@@ -25087,7 +25373,33 @@
     "package_from": "[GD06] Stardust Trails",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD06-006.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-006",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/724327/GQuuuuuuX Omega Psycommu"
+    "TCGPlayer_URL": ""
+  },
+  {
+    "card_id": "GD06-006_p1",
+    "card_no": "GD06-006",
+    "name": "GQuuuuuuX（オメガ・サイコミュ起動時）",
+    "link_name": "",
+    "rarity": "R +",
+    "spCol": "LK",
+    "block_icon": "2",
+    "level": "5",
+    "cost": "3",
+    "color": "Blue",
+    "type": "UNIT",
+    "effect": "【配備時】このユニット以外の〔アルファ殺し〕の味方のユニットがいるなら、HP3以下の相手のユニット1つを選んでもよい。それを持ち主の手札に戻す。",
+    "zone": "宇宙 地球",
+    "trait": "〔アルファ殺し〕",
+    "link": "アマテ・ユズリハ（マチュ） / ニャアン",
+    "ap": "4",
+    "hp": "2",
+    "source_title": "機動戦士Gundam GQuuuuuuX(ジークアクス)",
+    "package": "Stardust Trails[GD06]",
+    "package_id": "615106",
+    "package_from": "[GD06] Stardust Trails",
+    "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD06-006_p1.webp",
+    "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-006",
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "GD06-007",
@@ -25164,6 +25476,32 @@
     "package_id": "615106",
     "package_from": "[GD06] Stardust Trails",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD06-009.webp",
+    "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-009",
+    "TCGPlayer_URL": ""
+  },
+  {
+    "card_id": "GD06-009_p1",
+    "card_no": "GD06-009",
+    "name": "ジム・カスタム",
+    "link_name": "",
+    "rarity": "U +",
+    "spCol": "LK",
+    "block_icon": "2",
+    "level": "3",
+    "cost": "2",
+    "color": "Blue",
+    "type": "UNIT",
+    "effect": "【配備時】HP1の相手のユニット1つを選んでもよい。それを持ち主の手札に戻す。",
+    "zone": "宇宙 地球",
+    "trait": "〔地球連邦〕 〔アルビオン隊〕",
+    "link": "特徴〔アルビオン隊〕",
+    "ap": "2",
+    "hp": "4",
+    "source_title": "機動戦士ガンダム0083",
+    "package": "Stardust Trails[GD06]",
+    "package_id": "615106",
+    "package_from": "[GD06] Stardust Trails",
+    "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD06-009_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-009",
     "TCGPlayer_URL": ""
   },
@@ -25269,7 +25607,7 @@
     "package_from": "[GD06] Stardust Trails",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD06-013.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-013",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/724334/Zaku II F2 EFSF"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "GD06-014",
@@ -25402,6 +25740,32 @@
     "TCGPlayer_URL": "https://www.tcgplayer.com/product/724339/Elpeo Ples Qubeley Mk II GD06 018"
   },
   {
+    "card_id": "GD06-018_p1",
+    "card_no": "GD06-018",
+    "name": "キュベレイMk-Ⅱ（エルピー・プル専用）",
+    "link_name": "",
+    "rarity": "LR +",
+    "spCol": "",
+    "block_icon": "2",
+    "level": "3",
+    "cost": "2",
+    "color": "Green",
+    "type": "UNIT",
+    "effect": "《突破1》\n【セット中】【起動・アクション】【ターン1回】〔ネオ・ジオン〕/〔遠隔兵器〕の自分のユニット1つか、〔ネオ・ジオン〕の自分のベース1つを選ぶ。このバトル中、このユニットが受けるバトルダメージは、かわりにそれが受ける。",
+    "zone": "宇宙 地球",
+    "trait": "〔ネオ・ジオン〕",
+    "link": "エルピー・プル",
+    "ap": "3",
+    "hp": "2",
+    "source_title": "機動戦士ガンダムZZ",
+    "package": "Stardust Trails[GD06]",
+    "package_id": "615106",
+    "package_from": "[GD06] Stardust Trails",
+    "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD06-018_p1.webp",
+    "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-018",
+    "TCGPlayer_URL": ""
+  },
+  {
     "card_id": "GD06-019",
     "card_no": "GD06-019",
     "name": "ターンX",
@@ -25426,6 +25790,32 @@
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD06-019.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-019",
     "TCGPlayer_URL": "https://www.tcgplayer.com/product/724340/Turn X"
+  },
+  {
+    "card_id": "GD06-019_p1",
+    "card_no": "GD06-019",
+    "name": "ターンX",
+    "link_name": "",
+    "rarity": "LR +",
+    "spCol": "",
+    "block_icon": "2",
+    "level": "8",
+    "cost": "7",
+    "color": "Green",
+    "type": "UNIT",
+    "effect": "相手のユニットはアタックするとき、可能ならレストの自分のユニットトークンをアタック先に選ぶ。\n【アタック時】〔ギンガナム艦隊〕の自分のユニットトークンがいないなら、「ターンX（アームズ）」(〔ギンガナム艦隊〕 〔遠隔兵器〕・AP2・HP3)のユニットトークン1つと、「ターンX（レッグス）」(〔ギンガナム艦隊〕 〔遠隔兵器〕・AP3・HP2)のユニットトークン1つをレストで配備する。",
+    "zone": "宇宙 地球",
+    "trait": "〔ギンガナム艦隊〕",
+    "link": "ギム・ギンガナム",
+    "ap": "5",
+    "hp": "6",
+    "source_title": "∀ガンダム",
+    "package": "Stardust Trails[GD06]",
+    "package_id": "615106",
+    "package_from": "[GD06] Stardust Trails",
+    "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD06-019_p1.webp",
+    "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-019",
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "GD06-020",
@@ -25454,6 +25844,32 @@
     "TCGPlayer_URL": "https://www.tcgplayer.com/product/724341/Hamma Hamma"
   },
   {
+    "card_id": "GD06-020_p1",
+    "card_no": "GD06-020",
+    "name": "ハンマ・ハンマ",
+    "link_name": "",
+    "rarity": "R +",
+    "spCol": "",
+    "block_icon": "2",
+    "level": "3",
+    "cost": "3",
+    "color": "Green",
+    "type": "UNIT",
+    "effect": "自分のターン中、〔ネオ・ジオン〕の自分のユニットがダメージで相手のカードを破壊したとき、このユニットを1回復する。",
+    "zone": "宇宙 地球",
+    "trait": "〔ネオ・ジオン〕",
+    "link": "マシュマー・セロ",
+    "ap": "3",
+    "hp": "4",
+    "source_title": "機動戦士ガンダムZZ",
+    "package": "Stardust Trails[GD06]",
+    "package_id": "615106",
+    "package_from": "[GD06] Stardust Trails",
+    "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD06-020_p1.webp",
+    "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-020",
+    "TCGPlayer_URL": ""
+  },
+  {
     "card_id": "GD06-021",
     "card_no": "GD06-021",
     "name": "ターンX（トップ）",
@@ -25480,6 +25896,32 @@
     "TCGPlayer_URL": "https://www.tcgplayer.com/product/724342/Turn X Top"
   },
   {
+    "card_id": "GD06-021_p1",
+    "card_no": "GD06-021",
+    "name": "ターンX（トップ）",
+    "link_name": "",
+    "rarity": "R +",
+    "spCol": "",
+    "block_icon": "2",
+    "level": "4",
+    "cost": "3",
+    "color": "Green",
+    "type": "UNIT",
+    "effect": "【配備時】自分のユニットトークン1つを選ぶ。それと同じユニットトークン1つをレストで配備する。",
+    "zone": "宇宙 地球",
+    "trait": "〔ギンガナム艦隊〕",
+    "link": "ギム・ギンガナム",
+    "ap": "2",
+    "hp": "2",
+    "source_title": "∀ガンダム",
+    "package": "Stardust Trails[GD06]",
+    "package_id": "615106",
+    "package_from": "[GD06] Stardust Trails",
+    "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD06-021_p1.webp",
+    "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-021",
+    "TCGPlayer_URL": ""
+  },
+  {
     "card_id": "GD06-022",
     "card_no": "GD06-022",
     "name": "バンデット（メリーベル機）",
@@ -25503,7 +25945,33 @@
     "package_from": "[GD06] Stardust Trails",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD06-022.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-022",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/724343/Merrybells Bandit"
+    "TCGPlayer_URL": ""
+  },
+  {
+    "card_id": "GD06-022_p1",
+    "card_no": "GD06-022",
+    "name": "バンデット（メリーベル機）",
+    "link_name": "",
+    "rarity": "R +",
+    "spCol": "LK",
+    "block_icon": "2",
+    "level": "6",
+    "cost": "4",
+    "color": "Green",
+    "type": "UNIT",
+    "effect": "【リンク時】AP3以下の相手のユニット1つを選ぶ。このユニットとそれでバトルに移行し、ダメージステップのみを行う。",
+    "zone": "宇宙 地球",
+    "trait": "〔ギンガナム艦隊〕",
+    "link": "特徴〔ムーンレィス〕",
+    "ap": "4",
+    "hp": "4",
+    "source_title": "∀ガンダム",
+    "package": "Stardust Trails[GD06]",
+    "package_id": "615106",
+    "package_from": "[GD06] Stardust Trails",
+    "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD06-022_p1.webp",
+    "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-022",
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "GD06-023",
@@ -25688,6 +26156,32 @@
     "TCGPlayer_URL": "https://www.tcgplayer.com/product/724350/Elpeo Ples Qubeley Mk II GD06 029"
   },
   {
+    "card_id": "GD06-029_p1",
+    "card_no": "GD06-029",
+    "name": "キュベレイMk-Ⅱ（エルピー・プル専用）",
+    "link_name": "",
+    "rarity": "C +",
+    "spCol": "LK",
+    "block_icon": "2",
+    "level": "4",
+    "cost": "3",
+    "color": "Green",
+    "type": "UNIT",
+    "effect": "《突破3》",
+    "zone": "宇宙 地球",
+    "trait": "〔ネオ・ジオン〕",
+    "link": "エルピー・プル",
+    "ap": "4",
+    "hp": "3",
+    "source_title": "機動戦士ガンダムZZ",
+    "package": "Stardust Trails[GD06]",
+    "package_id": "615106",
+    "package_from": "[GD06] Stardust Trails",
+    "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD06-029_p1.webp",
+    "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-029",
+    "TCGPlayer_URL": ""
+  },
+  {
     "card_id": "GD06-030",
     "card_no": "GD06-030",
     "name": "マヒロー",
@@ -25763,7 +26257,7 @@
     "package_from": "[GD06] Stardust Trails",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD06-032.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-032",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/724353/Bellona"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "GD06-033",
@@ -25788,6 +26282,32 @@
     "package_id": "615106",
     "package_from": "[GD06] Stardust Trails",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD06-033.webp",
+    "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-033",
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/724354/ZZ Gundam"
+  },
+  {
+    "card_id": "GD06-033_p1",
+    "card_no": "GD06-033",
+    "name": "ΖΖガンダム",
+    "link_name": "",
+    "rarity": "LR +",
+    "spCol": "",
+    "block_icon": "2",
+    "level": "9",
+    "cost": "8",
+    "color": "Red",
+    "type": "UNIT",
+    "effect": "〔エゥーゴ〕の自分のカードが相手のユニットにダメージを与えるとき、与えるダメージを+1する。\n【配備時】相手のユニットすべてに2ダメージを与える。",
+    "zone": "宇宙 地球",
+    "trait": "〔エゥーゴ〕 〔ガンダムチーム〕",
+    "link": "ジュドー・アーシタ",
+    "ap": "7",
+    "hp": "7",
+    "source_title": "機動戦士ガンダムZZ",
+    "package": "Stardust Trails[GD06]",
+    "package_id": "615106",
+    "package_from": "[GD06] Stardust Trails",
+    "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD06-033_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-033",
     "TCGPlayer_URL": ""
   },
@@ -25818,6 +26338,58 @@
     "TCGPlayer_URL": ""
   },
   {
+    "card_id": "GD06-034_p1",
+    "card_no": "GD06-034",
+    "name": "ガンダム・バエル",
+    "link_name": "",
+    "rarity": "LR +",
+    "spCol": "",
+    "block_icon": "2",
+    "level": "7",
+    "cost": "6",
+    "color": "Red",
+    "type": "UNIT",
+    "effect": "《高機動》\n【配備時】自分のトラッシュに〔ギャラルホルン〕のカードが4枚以上あるなら、自分のデッキを上から4枚見て、その中のLv.6以下の、〔ギャラルホルン〕/〔鉄華団〕のユニットカード1枚を配備してもよい。残ったカードは無作為に下に戻す。",
+    "zone": "宇宙 地球",
+    "trait": "〔ギャラルホルン〕 〔ガンダム・フレーム〕",
+    "link": "マクギリス・ファリド",
+    "ap": "5",
+    "hp": "5",
+    "source_title": "機動戦士ガンダム 鉄血のオルフェンズ",
+    "package": "Stardust Trails[GD06]",
+    "package_id": "615106",
+    "package_from": "[GD06] Stardust Trails",
+    "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD06-034_p1.webp",
+    "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-034",
+    "TCGPlayer_URL": ""
+  },
+  {
+    "card_id": "GD06-034_p2",
+    "card_no": "GD06-034",
+    "name": "ガンダム・バエル",
+    "link_name": "",
+    "rarity": "LR ++",
+    "spCol": "",
+    "block_icon": "2",
+    "level": "7",
+    "cost": "6",
+    "color": "Red",
+    "type": "UNIT",
+    "effect": "《高機動》\n【配備時】自分のトラッシュに〔ギャラルホルン〕のカードが4枚以上あるなら、自分のデッキを上から4枚見て、その中のLv.6以下の、〔ギャラルホルン〕/〔鉄華団〕のユニットカード1枚を配備してもよい。残ったカードは無作為に下に戻す。",
+    "zone": "宇宙 地球",
+    "trait": "〔ギャラルホルン〕 〔ガンダム・フレーム〕",
+    "link": "マクギリス・ファリド",
+    "ap": "5",
+    "hp": "5",
+    "source_title": "機動戦士ガンダム 鉄血のオルフェンズ",
+    "package": "Stardust Trails[GD06]",
+    "package_id": "615106",
+    "package_from": "[GD06] Stardust Trails",
+    "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD06-034_p2.webp",
+    "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-034",
+    "TCGPlayer_URL": ""
+  },
+  {
     "card_id": "GD06-035",
     "card_no": "GD06-035",
     "name": "Ζガンダム",
@@ -25844,6 +26416,32 @@
     "TCGPlayer_URL": "https://www.tcgplayer.com/product/724356/Zeta Gundam"
   },
   {
+    "card_id": "GD06-035_p1",
+    "card_no": "GD06-035",
+    "name": "Ζガンダム",
+    "link_name": "",
+    "rarity": "R +",
+    "spCol": "",
+    "block_icon": "2",
+    "level": "5",
+    "cost": "4",
+    "color": "Red",
+    "type": "UNIT",
+    "effect": "【ターン1回】自分のターン中、このユニットがバトルダメージで相手のユニットを破壊したとき、AP3以下の相手のユニット1つを選ぶ。それに2ダメージを与える。",
+    "zone": "宇宙 地球",
+    "trait": "〔エゥーゴ〕 〔ガンダムチーム〕",
+    "link": "特徴〔エゥーゴ〕",
+    "ap": "4",
+    "hp": "4",
+    "source_title": "機動戦士ガンダムZZ",
+    "package": "Stardust Trails[GD06]",
+    "package_id": "615106",
+    "package_from": "[GD06] Stardust Trails",
+    "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD06-035_p1.webp",
+    "YYT_URL": "",
+    "TCGPlayer_URL": ""
+  },
+  {
     "card_id": "GD06-036",
     "card_no": "GD06-036",
     "name": "ガンダム・ヴィダール",
@@ -25866,6 +26464,32 @@
     "package_id": "615106",
     "package_from": "[GD06] Stardust Trails",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD06-036.webp",
+    "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-036",
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/724357/Gundam Vidar"
+  },
+  {
+    "card_id": "GD06-036_p1",
+    "card_no": "GD06-036",
+    "name": "ガンダム・ヴィダール",
+    "link_name": "",
+    "rarity": "R +",
+    "spCol": "LK",
+    "block_icon": "2",
+    "level": "4",
+    "cost": "2",
+    "color": "Red",
+    "type": "UNIT",
+    "effect": "【リンク時】相手のユニット1つを選ぶ。それに1ダメージを与える。",
+    "zone": "宇宙 地球",
+    "trait": "〔ギャラルホルン〕 〔ガンダム・フレーム〕",
+    "link": "ガエリオ・ボードウィン",
+    "ap": "3",
+    "hp": "4",
+    "source_title": "機動戦士ガンダム 鉄血のオルフェンズ",
+    "package": "Stardust Trails[GD06]",
+    "package_id": "615106",
+    "package_from": "[GD06] Stardust Trails",
+    "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD06-036_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-036",
     "TCGPlayer_URL": ""
   },
@@ -25896,6 +26520,32 @@
     "TCGPlayer_URL": "https://www.tcgplayer.com/product/724358/Reginlaze Julia"
   },
   {
+    "card_id": "GD06-037_p1",
+    "card_no": "GD06-037",
+    "name": "レギンレイズ・ジュリア",
+    "link_name": "",
+    "rarity": "R +",
+    "spCol": "LK",
+    "block_icon": "2",
+    "level": "6",
+    "cost": "4",
+    "color": "Red",
+    "type": "UNIT",
+    "effect": "自分のターン中、このユニットがダメージを受けている相手のユニットとバトルしている間、これは《先制攻撃》を得る。\n【セット中】相手のユニットすべては、相手の効果でアクティブにならない。",
+    "zone": "宇宙 地球",
+    "trait": "〔ギャラルホルン〕",
+    "link": "ジュリエッタ・ジュリス",
+    "ap": "4",
+    "hp": "4",
+    "source_title": "機動戦士ガンダム 鉄血のオルフェンズ",
+    "package": "Stardust Trails[GD06]",
+    "package_id": "615106",
+    "package_from": "[GD06] Stardust Trails",
+    "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD06-037_p1.webp",
+    "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-037",
+    "TCGPlayer_URL": ""
+  },
+  {
     "card_id": "GD06-038",
     "card_no": "GD06-038",
     "name": "ガンダム・キマリスヴィダール",
@@ -25918,6 +26568,32 @@
     "package_id": "615106",
     "package_from": "[GD06] Stardust Trails",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD06-038.webp",
+    "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-038",
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/724359/Gundam Kimaris Vidar"
+  },
+  {
+    "card_id": "GD06-038_p1",
+    "card_no": "GD06-038",
+    "name": "ガンダム・キマリスヴィダール",
+    "link_name": "",
+    "rarity": "R +",
+    "spCol": "",
+    "block_icon": "2",
+    "level": "7",
+    "cost": "6",
+    "color": "Red",
+    "type": "UNIT",
+    "effect": "《突破3》\n【セット時】最もLv.が高い相手のユニット1つを選ぶ。それに3ダメージを与える。",
+    "zone": "宇宙 地球",
+    "trait": "〔ギャラルホルン〕 〔ガンダム・フレーム〕",
+    "link": "ガエリオ・ボードウィン",
+    "ap": "5",
+    "hp": "5",
+    "source_title": "機動戦士ガンダム 鉄血のオルフェンズ",
+    "package": "Stardust Trails[GD06]",
+    "package_id": "615106",
+    "package_from": "[GD06] Stardust Trails",
+    "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD06-038_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-038",
     "TCGPlayer_URL": ""
   },
@@ -25970,6 +26646,32 @@
     "package_id": "615106",
     "package_from": "[GD06] Stardust Trails",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD06-040.webp",
+    "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-040",
+    "TCGPlayer_URL": ""
+  },
+  {
+    "card_id": "GD06-040_p1",
+    "card_no": "GD06-040",
+    "name": "ガンダムMk-Ⅱ",
+    "link_name": "",
+    "rarity": "U +",
+    "spCol": "LK",
+    "block_icon": "2",
+    "level": "4",
+    "cost": "2",
+    "color": "Red",
+    "type": "UNIT",
+    "effect": "-",
+    "zone": "宇宙 地球",
+    "trait": "〔エゥーゴ〕 〔ガンダムチーム〕",
+    "link": "特徴〔エゥーゴ〕",
+    "ap": "3",
+    "hp": "4",
+    "source_title": "機動戦士ガンダムZZ",
+    "package": "Stardust Trails[GD06]",
+    "package_id": "615106",
+    "package_from": "[GD06] Stardust Trails",
+    "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD06-040_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-040",
     "TCGPlayer_URL": ""
   },
@@ -26075,7 +26777,7 @@
     "package_from": "[GD06] Stardust Trails",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD06-044.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-044",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/724365/Core Top"
   },
   {
     "card_id": "GD06-045",
@@ -26101,7 +26803,7 @@
     "package_from": "[GD06] Stardust Trails",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD06-045.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-045",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/724366/Core Base"
   },
   {
     "card_id": "GD06-046",
@@ -26127,7 +26829,7 @@
     "package_from": "[GD06] Stardust Trails",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD06-046.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-046",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/724367/Hyaku Shiki"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "GD06-047",
@@ -26153,7 +26855,7 @@
     "package_from": "[GD06] Stardust Trails",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD06-047.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-047",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/724368/Windam"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "GD06-048",
@@ -26208,6 +26910,32 @@
     "TCGPlayer_URL": "https://www.tcgplayer.com/product/724370/Gundam GP02A GD06 049"
   },
   {
+    "card_id": "GD06-049_p1",
+    "card_no": "GD06-049",
+    "name": "ガンダム試作2号機",
+    "link_name": "",
+    "rarity": "LR +",
+    "spCol": "",
+    "block_icon": "2",
+    "level": "5",
+    "cost": "4",
+    "color": "Purple",
+    "type": "UNIT",
+    "effect": "【セット時】自分のトラッシュに〔ジオン〕のユニットカードが10枚以上あるなら、各相手プレイヤーのベースすべてを破壊する。\n【破壊時】自分のデッキを上から3枚見て、その中の〔デラーズ・フリート〕のユニットカード1枚を公開して手札に加えてもよい。残ったカードは自分のトラッシュに置く。",
+    "zone": "宇宙 地球",
+    "trait": "〔ジオン〕 〔デラーズ・フリート〕",
+    "link": "アナベル・ガトー",
+    "ap": "4",
+    "hp": "3",
+    "source_title": "機動戦士ガンダム0083",
+    "package": "Stardust Trails[GD06]",
+    "package_id": "615106",
+    "package_from": "[GD06] Stardust Trails",
+    "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD06-049_p1.webp",
+    "YYT_URL": "",
+    "TCGPlayer_URL": ""
+  },
+  {
     "card_id": "GD06-050",
     "card_no": "GD06-050",
     "name": "レジェンドガンダム",
@@ -26232,6 +26960,32 @@
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD06-050.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-050",
     "TCGPlayer_URL": "https://www.tcgplayer.com/product/724371/Legend Gundam"
+  },
+  {
+    "card_id": "GD06-050_p1",
+    "card_no": "GD06-050",
+    "name": "レジェンドガンダム",
+    "link_name": "",
+    "rarity": "LR +",
+    "spCol": "",
+    "block_icon": "2",
+    "level": "6",
+    "cost": "5",
+    "color": "Purple",
+    "type": "UNIT",
+    "effect": "〔ザフト〕の自分のリンクユニットがいる間、トラッシュのこのカードをLv.-3、コスト-3する。\n【配備時】Lv.3以下の相手のユニット1つを選ぶ。それを破壊する。このユニットをトラッシュから配備したなら、かわりにLv.3以下の相手のユニット1~2つを選ぶ。",
+    "zone": "宇宙 地球",
+    "trait": "〔ザフト〕 〔ミネルバ隊〕",
+    "link": "レイ・ザ・バレル",
+    "ap": "4",
+    "hp": "5",
+    "source_title": "機動戦士ガンダムSEED DESTINY",
+    "package": "Stardust Trails[GD06]",
+    "package_id": "615106",
+    "package_from": "[GD06] Stardust Trails",
+    "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD06-050_p1.webp",
+    "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-050",
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "GD06-051",
@@ -26260,6 +27014,32 @@
     "TCGPlayer_URL": "https://www.tcgplayer.com/product/724372/GFreD GD06 051"
   },
   {
+    "card_id": "GD06-051_p1",
+    "card_no": "GD06-051",
+    "name": "GFreD",
+    "link_name": "",
+    "rarity": "LR +",
+    "spCol": "",
+    "block_icon": "2",
+    "level": "6",
+    "cost": "5",
+    "color": "Purple",
+    "type": "UNIT",
+    "effect": "【起動・メイン】【ターン1回】②,このユニットをレストにする：自分のトラッシュのLv.5以下の〔アルファ殺し〕のユニットカード1枚を選ぶ。それを配備する。\n【配備時】このユニット以外の〔アルファ殺し〕の味方のユニットがいるなら、このターン中、このユニットは以下の効果を得る。\n■ターン終了時に自分のリソース2つを選ぶ。それらをアクティブにする。",
+    "zone": "宇宙 地球",
+    "trait": "〔ジオン〕 〔アルファ殺し〕",
+    "link": "ニャアン",
+    "ap": "5",
+    "hp": "4",
+    "source_title": "機動戦士Gundam GQuuuuuuX(ジークアクス)",
+    "package": "Stardust Trails[GD06]",
+    "package_id": "615106",
+    "package_from": "[GD06] Stardust Trails",
+    "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD06-051_p1.webp",
+    "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-051",
+    "TCGPlayer_URL": ""
+  },
+  {
     "card_id": "GD06-052",
     "card_no": "GD06-052",
     "name": "ヴァル・ヴァロ",
@@ -26286,6 +27066,32 @@
     "TCGPlayer_URL": "https://www.tcgplayer.com/product/724373/Val Walo"
   },
   {
+    "card_id": "GD06-052_p1",
+    "card_no": "GD06-052",
+    "name": "ヴァル・ヴァロ",
+    "link_name": "",
+    "rarity": "R +",
+    "spCol": "",
+    "block_icon": "2",
+    "level": "5",
+    "cost": "4",
+    "color": "Purple",
+    "type": "UNIT",
+    "effect": "自分のトラッシュに〔ジオン〕のユニットカードが5枚以上ある間、このユニットは《高機動》を得る。\n【配備時】自分のデッキを上から1枚、自分のトラッシュに置く。この効果で〔ジオン〕のカードを置いたなら、AP4以下の相手のユニット1つを選ぶ。それをレストにする。",
+    "zone": "宇宙",
+    "trait": "〔ジオン〕 〔民間〕",
+    "link": "ケリィ・レズナー",
+    "ap": "4",
+    "hp": "4",
+    "source_title": "機動戦士ガンダム0083",
+    "package": "Stardust Trails[GD06]",
+    "package_id": "615106",
+    "package_from": "[GD06] Stardust Trails",
+    "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD06-052_p1.webp",
+    "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-052",
+    "TCGPlayer_URL": ""
+  },
+  {
     "card_id": "GD06-053",
     "card_no": "GD06-053",
     "name": "エグザベ専用ギャン（ハクジ装備）（GQ）",
@@ -26309,7 +27115,33 @@
     "package_from": "[GD06] Stardust Trails",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD06-053.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-053",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/724374/Xaviers Gyan Hakuji Packs GQ"
+    "TCGPlayer_URL": ""
+  },
+  {
+    "card_id": "GD06-053_p1",
+    "card_no": "GD06-053",
+    "name": "エグザベ専用ギャン（ハクジ装備）（GQ）",
+    "link_name": "",
+    "rarity": "R +",
+    "spCol": "",
+    "block_icon": "2",
+    "level": "5",
+    "cost": "3",
+    "color": "Purple",
+    "type": "UNIT",
+    "effect": "《ブロッカー》\n【破壊時】自分のリソース1つを選ぶ。それをアクティブにする。",
+    "zone": "宇宙 地球",
+    "trait": "〔ジオン〕",
+    "link": "エグザベ・オリべ",
+    "ap": "4",
+    "hp": "4",
+    "source_title": "機動戦士Gundam GQuuuuuuX(ジークアクス)",
+    "package": "Stardust Trails[GD06]",
+    "package_id": "615106",
+    "package_from": "[GD06] Stardust Trails",
+    "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD06-053_p1.webp",
+    "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-053",
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "GD06-054",
@@ -26338,6 +27170,32 @@
     "TCGPlayer_URL": "https://www.tcgplayer.com/product/724375/GFreD GD06 054"
   },
   {
+    "card_id": "GD06-054_p1",
+    "card_no": "GD06-054",
+    "name": "GFreD",
+    "link_name": "",
+    "rarity": "R +",
+    "spCol": "LK",
+    "block_icon": "2",
+    "level": "7",
+    "cost": "6",
+    "color": "Purple",
+    "type": "UNIT",
+    "effect": "《制圧》\n【配備時】自分のユニット1つと、相手のユニット1つを選んでもよい。それらに1ダメージを与える。",
+    "zone": "宇宙 地球",
+    "trait": "〔ジオン〕 〔アルファ殺し〕",
+    "link": "ニャアン",
+    "ap": "6",
+    "hp": "5",
+    "source_title": "機動戦士Gundam GQuuuuuuX(ジークアクス)",
+    "package": "Stardust Trails[GD06]",
+    "package_id": "615106",
+    "package_from": "[GD06] Stardust Trails",
+    "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD06-054_p1.webp",
+    "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-054",
+    "TCGPlayer_URL": ""
+  },
+  {
     "card_id": "GD06-055",
     "card_no": "GD06-055",
     "name": "ガンダム試作2号機",
@@ -26360,6 +27218,32 @@
     "package_id": "615106",
     "package_from": "[GD06] Stardust Trails",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD06-055.webp",
+    "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-055",
+    "TCGPlayer_URL": ""
+  },
+  {
+    "card_id": "GD06-055_p1",
+    "card_no": "GD06-055",
+    "name": "ガンダム試作2号機",
+    "link_name": "",
+    "rarity": "U +",
+    "spCol": "LK",
+    "block_icon": "2",
+    "level": "4",
+    "cost": "2",
+    "color": "Purple",
+    "type": "UNIT",
+    "effect": "【セット中】【アタック時】このユニットに1ダメージを与えてもよい。そうしたなら、このバトル中、これは《突破2》を得る。",
+    "zone": "宇宙 地球",
+    "trait": "〔ジオン〕 〔デラーズ・フリート〕",
+    "link": "アナベル・ガトー",
+    "ap": "4",
+    "hp": "3",
+    "source_title": "機動戦士ガンダム0083",
+    "package": "Stardust Trails[GD06]",
+    "package_id": "615106",
+    "package_from": "[GD06] Stardust Trails",
+    "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD06-055_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-055",
     "TCGPlayer_URL": ""
   },
@@ -26465,7 +27349,7 @@
     "package_from": "[GD06] Stardust Trails",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD06-059.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-059",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/724380/Dom Tropen"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "GD06-060",
@@ -26517,7 +27401,7 @@
     "package_from": "[GD06] Stardust Trails",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD06-061.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-061",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/724382/Dra C"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "GD06-062",
@@ -26598,6 +27482,32 @@
     "TCGPlayer_URL": "https://www.tcgplayer.com/product/724385/Altron Gundam EW"
   },
   {
+    "card_id": "GD06-064_p1",
+    "card_no": "GD06-064",
+    "name": "アルトロンガンダム（EW版）",
+    "link_name": "",
+    "rarity": "LR +",
+    "spCol": "",
+    "block_icon": "2",
+    "level": "3",
+    "cost": "3",
+    "color": "White",
+    "type": "UNIT",
+    "effect": "《ブロッカー》\nLv.5以上の相手のユニットがいる間、このユニットをAP+3する。",
+    "zone": "宇宙 地球",
+    "trait": "〔Gチーム〕 〔マリーメイア軍〕",
+    "link": "張五飛",
+    "ap": "3",
+    "hp": "4",
+    "source_title": "新機動戦記ガンダムW Endless Waltz",
+    "package": "Stardust Trails[GD06]",
+    "package_id": "615106",
+    "package_from": "[GD06] Stardust Trails",
+    "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD06-064_p1.webp",
+    "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-064",
+    "TCGPlayer_URL": ""
+  },
+  {
     "card_id": "GD06-065",
     "card_no": "GD06-065",
     "name": "ゴールドスモー",
@@ -26621,7 +27531,33 @@
     "package_from": "[GD06] Stardust Trails",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD06-065.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-065",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/724386/SUMO Gold Type"
+    "TCGPlayer_URL": ""
+  },
+  {
+    "card_id": "GD06-065_p1",
+    "card_no": "GD06-065",
+    "name": "ゴールドスモー",
+    "link_name": "",
+    "rarity": "LR +",
+    "spCol": "",
+    "block_icon": "2",
+    "level": "6",
+    "cost": "4",
+    "color": "White",
+    "type": "UNIT",
+    "effect": "《ブロッカー》\n【起動・メイン】【ターン1回】④：《ブロッカー》を持つ、〔ディアナ・カウンター〕/〔ミリシャ〕の自分のユニットすべてをアクティブにし、このターン中、それらはアタックできない。",
+    "zone": "宇宙 地球",
+    "trait": "〔ディアナ・カウンター〕",
+    "link": "ハリー・オード",
+    "ap": "4",
+    "hp": "5",
+    "source_title": "∀ガンダム",
+    "package": "Stardust Trails[GD06]",
+    "package_id": "615106",
+    "package_from": "[GD06] Stardust Trails",
+    "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD06-065_p1.webp",
+    "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-065",
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "GD06-066",
@@ -26650,6 +27586,32 @@
     "TCGPlayer_URL": "https://www.tcgplayer.com/product/724387/Shadow Gundam"
   },
   {
+    "card_id": "GD06-066_p1",
+    "card_no": "GD06-066",
+    "name": "ガンダムシュピーゲル",
+    "link_name": "",
+    "rarity": "R +",
+    "spCol": "",
+    "block_icon": "2",
+    "level": "6",
+    "cost": "4",
+    "color": "White",
+    "type": "UNIT",
+    "effect": "《ブロッカー》\n【リンク中】【アタック時】このユニットにセットしているカードの【アクション】を発動する。",
+    "zone": "宇宙 地球",
+    "trait": "〔MF〕",
+    "link": "特徴〔ガンダムファイター〕",
+    "ap": "5",
+    "hp": "4",
+    "source_title": "機動武闘伝Gガンダム",
+    "package": "Stardust Trails[GD06]",
+    "package_id": "615106",
+    "package_from": "[GD06] Stardust Trails",
+    "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD06-066_p1.webp",
+    "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-066",
+    "TCGPlayer_URL": ""
+  },
+  {
     "card_id": "GD06-067",
     "card_no": "GD06-067",
     "name": "ガンダムサンドロック改（EW版）",
@@ -26673,7 +27635,7 @@
     "package_from": "[GD06] Stardust Trails",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD06-067.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-067",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/724388/Gundam Sandrock Custom EW"
   },
   {
     "card_id": "GD06-068",
@@ -26702,6 +27664,32 @@
     "TCGPlayer_URL": "https://www.tcgplayer.com/product/724389/Gundam Heavyarms Custom EW"
   },
   {
+    "card_id": "GD06-068_p1",
+    "card_no": "GD06-068",
+    "name": "ガンダムヘビーアームズ改（EW版）",
+    "link_name": "",
+    "rarity": "R +",
+    "spCol": "",
+    "block_icon": "2",
+    "level": "4",
+    "cost": "3",
+    "color": "White",
+    "type": "UNIT",
+    "effect": "【配備時】Lv.3以下の相手のユニット1つを選ぶ。それをレストにし、このユニット以外の、〔Gチーム〕/〔プリベンター〕の自分のユニットがいるなら、このターン中、その相手のユニットをAP-2する。",
+    "zone": "宇宙 地球",
+    "trait": "〔Gチーム〕",
+    "link": "トロワ・バートン",
+    "ap": "4",
+    "hp": "3",
+    "source_title": "新機動戦記ガンダムW Endless Waltz",
+    "package": "Stardust Trails[GD06]",
+    "package_id": "615106",
+    "package_from": "[GD06] Stardust Trails",
+    "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD06-068_p1.webp",
+    "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-068",
+    "TCGPlayer_URL": ""
+  },
+  {
     "card_id": "GD06-069",
     "card_no": "GD06-069",
     "name": "シルバースモー",
@@ -26724,6 +27712,32 @@
     "package_id": "615106",
     "package_from": "[GD06] Stardust Trails",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD06-069.webp",
+    "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-069",
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/724390/SUMO Silver Type"
+  },
+  {
+    "card_id": "GD06-069_p1",
+    "card_no": "GD06-069",
+    "name": "シルバースモー",
+    "link_name": "",
+    "rarity": "R +",
+    "spCol": "LK",
+    "block_icon": "2",
+    "level": "4",
+    "cost": "3",
+    "color": "White",
+    "type": "UNIT",
+    "effect": "《ブロッカー》\n【起動・アクション】【ターン1回】①：ダメージを受けている〔ディアナ・カウンター〕の自分のユニット1つを選ぶ。それを1回復する。",
+    "zone": "宇宙 地球",
+    "trait": "〔ディアナ・カウンター〕",
+    "link": "特徴〔ムーンレィス〕",
+    "ap": "4",
+    "hp": "3",
+    "source_title": "∀ガンダム",
+    "package": "Stardust Trails[GD06]",
+    "package_id": "615106",
+    "package_from": "[GD06] Stardust Trails",
+    "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD06-069_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-069",
     "TCGPlayer_URL": ""
   },
@@ -26752,6 +27766,32 @@
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD06-070.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-070",
     "TCGPlayer_URL": "https://www.tcgplayer.com/product/724391/Eagail"
+  },
+  {
+    "card_id": "GD06-070_p1",
+    "card_no": "GD06-070",
+    "name": "イーゲル",
+    "link_name": "",
+    "rarity": "R +",
+    "spCol": "LK",
+    "block_icon": "2",
+    "level": "6",
+    "cost": "5",
+    "color": "White",
+    "type": "UNIT",
+    "effect": "【配備時】「ゴッゾー」(〔ディアナ・カウンター〕・AP0・HP3・《ブロッカー》)のユニットトークン1つを配備する。\n【アタック時】このターン中、自分のユニットの効果で合計③以上を支払っていたなら、相手のユニット1つを選ぶ。このバトル中、それをAP-5する。",
+    "zone": "宇宙 地球",
+    "trait": "〔ディアナ・カウンター〕",
+    "link": "コレン・ナンダー",
+    "ap": "5",
+    "hp": "3",
+    "source_title": "∀ガンダム",
+    "package": "Stardust Trails[GD06]",
+    "package_id": "615106",
+    "package_from": "[GD06] Stardust Trails",
+    "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD06-070_p1.webp",
+    "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-070",
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "GD06-071",
@@ -26802,6 +27842,32 @@
     "package_id": "615106",
     "package_from": "[GD06] Stardust Trails",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD06-072.webp",
+    "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-072",
+    "TCGPlayer_URL": ""
+  },
+  {
+    "card_id": "GD06-072_p1",
+    "card_no": "GD06-072",
+    "name": "ガンダムデスサイズヘル（EW版）",
+    "link_name": "",
+    "rarity": "U +",
+    "spCol": "LK",
+    "block_icon": "2",
+    "level": "5",
+    "cost": "3",
+    "color": "White",
+    "type": "UNIT",
+    "effect": "【セット中】【破壊時】このユニット以外の、〔Gチーム〕/〔プリベンター〕の自分のユニットがいるなら、自分のトラッシュのLv.5以下のコマンドカード1枚を選んでもよい。それを手札に加える。",
+    "zone": "宇宙 地球",
+    "trait": "〔Gチーム〕",
+    "link": "デュオ・マックスウェル",
+    "ap": "5",
+    "hp": "3",
+    "source_title": "新機動戦記ガンダムW Endless Waltz",
+    "package": "Stardust Trails[GD06]",
+    "package_id": "615106",
+    "package_from": "[GD06] Stardust Trails",
+    "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD06-072_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-072",
     "TCGPlayer_URL": ""
   },
@@ -26881,7 +27947,7 @@
     "package_from": "[GD06] Stardust Trails",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD06-075.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-075",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/724396/Serpent"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "GD06-076",
@@ -26933,7 +27999,7 @@
     "package_from": "[GD06] Stardust Trails",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD06-077.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-077",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/724398/Cannon Illfuto"
   },
   {
     "card_id": "GD06-078",
@@ -27011,7 +28077,33 @@
     "package_from": "[GD06] Stardust Trails",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD06-080.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-080",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/724401/Kou Uraki"
+    "TCGPlayer_URL": ""
+  },
+  {
+    "card_id": "GD06-080_p1",
+    "card_no": "GD06-080",
+    "name": "コウ・ウラキ",
+    "link_name": "",
+    "rarity": "R +",
+    "spCol": "",
+    "block_icon": "2",
+    "level": "4",
+    "cost": "1",
+    "color": "Blue",
+    "type": "PILOT",
+    "effect": "【バースト】このカードを手札に加える。\n【起動・アクション】【ターン1回】このターン中、自分が効果でドローしていたなら、自分のユニット1つを選ぶ。それを2回復する。",
+    "zone": "-",
+    "trait": "〔地球連邦〕 〔アルビオン隊〕",
+    "link": "",
+    "ap": "+2",
+    "hp": "+1",
+    "source_title": "機動戦士ガンダム0083",
+    "package": "Stardust Trails[GD06]",
+    "package_id": "615106",
+    "package_from": "[GD06] Stardust Trails",
+    "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD06-080_p1.webp",
+    "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-080",
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "GD06-081",
@@ -27038,6 +28130,32 @@
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD06-081.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-081",
     "TCGPlayer_URL": "https://www.tcgplayer.com/product/724402/Amate Yuzuriha Machu"
+  },
+  {
+    "card_id": "GD06-081_p1",
+    "card_no": "GD06-081",
+    "name": "アマテ・ユズリハ（マチュ）",
+    "link_name": "",
+    "rarity": "R +",
+    "spCol": "",
+    "block_icon": "2",
+    "level": "4",
+    "cost": "1",
+    "color": "Blue",
+    "type": "PILOT",
+    "effect": "【バースト】このカードを手札に加える。\nこのユニットが〔アルファ殺し〕の間、これは《リペア2》を得る。",
+    "zone": "-",
+    "trait": "〔アルファ殺し〕 〔ニュータイプ〕",
+    "link": "",
+    "ap": "+1",
+    "hp": "+2",
+    "source_title": "機動戦士Gundam GQuuuuuuX(ジークアクス)",
+    "package": "Stardust Trails[GD06]",
+    "package_id": "615106",
+    "package_from": "[GD06] Stardust Trails",
+    "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD06-081_p1.webp",
+    "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-081",
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "GD06-082",
@@ -27118,6 +28236,32 @@
     "TCGPlayer_URL": ""
   },
   {
+    "card_id": "GD06-084_p1",
+    "card_no": "GD06-084",
+    "name": "エルピー・プル",
+    "link_name": "",
+    "rarity": "R +",
+    "spCol": "",
+    "block_icon": "2",
+    "level": "3",
+    "cost": "1",
+    "color": "Green",
+    "type": "PILOT",
+    "effect": "【バースト】このカードを手札に加える。\n【セット時】このターン中、このユニットは、〔ネオ・ジオン〕/〔遠隔兵器〕の自分のユニットと同じ数だけ《突破1》を得る。",
+    "zone": "-",
+    "trait": "〔ネオ・ジオン〕 〔ニュータイプ〕",
+    "link": "",
+    "ap": "+2",
+    "hp": "+0",
+    "source_title": "機動戦士ガンダムZZ",
+    "package": "Stardust Trails[GD06]",
+    "package_id": "615106",
+    "package_from": "[GD06] Stardust Trails",
+    "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD06-084_p1.webp",
+    "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-084",
+    "TCGPlayer_URL": ""
+  },
+  {
     "card_id": "GD06-085",
     "card_no": "GD06-085",
     "name": "ギム・ギンガナム",
@@ -27193,7 +28337,7 @@
     "package_from": "[GD06] Stardust Trails",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD06-087.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-087",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/724408/Merrybell Gadget"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "GD06-088",
@@ -27220,6 +28364,32 @@
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD06-088.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-088",
     "TCGPlayer_URL": "https://www.tcgplayer.com/product/724409/Judau Ashta"
+  },
+  {
+    "card_id": "GD06-088_p1",
+    "card_no": "GD06-088",
+    "name": "ジュドー・アーシタ",
+    "link_name": "",
+    "rarity": "R +",
+    "spCol": "",
+    "block_icon": "2",
+    "level": "5",
+    "cost": "1",
+    "color": "Red",
+    "type": "PILOT",
+    "effect": "【バースト】このカードを手札に加える。\n【リンク中】【破壊時】自分のトラッシュのLv.2以下の〔ガンダムチーム〕のユニットカード1枚を選ぶ。それを手札に加える。",
+    "zone": "-",
+    "trait": "〔エゥーゴ〕 〔ガンダムチーム〕 〔ニュータイプ〕",
+    "link": "",
+    "ap": "+2",
+    "hp": "+2",
+    "source_title": "機動戦士ガンダムZZ",
+    "package": "Stardust Trails[GD06]",
+    "package_id": "615106",
+    "package_from": "[GD06] Stardust Trails",
+    "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD06-088_p1.webp",
+    "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-088",
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "GD06-089",
@@ -27297,7 +28467,7 @@
     "package_from": "[GD06] Stardust Trails",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD06-091.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-091",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/724412/Roux Louka"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "GD06-092",
@@ -27323,7 +28493,7 @@
     "package_from": "[GD06] Stardust Trails",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD06-092.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-092",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/724413/Neo Lorrnoke"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "GD06-093",
@@ -27349,7 +28519,33 @@
     "package_from": "[GD06] Stardust Trails",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD06-093.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-093",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/724414/Anavel Gato"
+    "TCGPlayer_URL": ""
+  },
+  {
+    "card_id": "GD06-093_p1",
+    "card_no": "GD06-093",
+    "name": "アナベル・ガトー",
+    "link_name": "",
+    "rarity": "R +",
+    "spCol": "",
+    "block_icon": "2",
+    "level": "4",
+    "cost": "1",
+    "color": "Purple",
+    "type": "PILOT",
+    "effect": "【バースト】このカードを手札に加える。\n【アタック時】このバトル中、このユニットが、これのLv.以下の相手のユニットからバトルダメージを受けるとき、そのダメージを2軽減する。",
+    "zone": "-",
+    "trait": "〔ジオン〕 〔デラーズ・フリート〕",
+    "link": "",
+    "ap": "+2",
+    "hp": "+1",
+    "source_title": "機動戦士ガンダム0083",
+    "package": "Stardust Trails[GD06]",
+    "package_id": "615106",
+    "package_from": "[GD06] Stardust Trails",
+    "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD06-093_p1.webp",
+    "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-093",
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "GD06-094",
@@ -27376,6 +28572,32 @@
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD06-094.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-094",
     "TCGPlayer_URL": "https://www.tcgplayer.com/product/724415/Nyaan"
+  },
+  {
+    "card_id": "GD06-094_p1",
+    "card_no": "GD06-094",
+    "name": "ニャアン",
+    "link_name": "",
+    "rarity": "R +",
+    "spCol": "",
+    "block_icon": "2",
+    "level": "4",
+    "cost": "1",
+    "color": "Purple",
+    "type": "PILOT",
+    "effect": "【バースト】このカードを手札に加える。\n【セット時】味方のユニット1つを選ぶ。このターン中、それは以下の効果を得る。\n■このユニットがLv.4以下の相手のユニットにバトルダメージを与えたとき、その相手のユニットを破壊する。",
+    "zone": "-",
+    "trait": "〔ジオン〕 〔アルファ殺し〕 〔ニュータイプ〕",
+    "link": "",
+    "ap": "+2",
+    "hp": "+1",
+    "source_title": "機動戦士Gundam GQuuuuuuX(ジークアクス)",
+    "package": "Stardust Trails[GD06]",
+    "package_id": "615106",
+    "package_from": "[GD06] Stardust Trails",
+    "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD06-094_p1.webp",
+    "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-094",
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "GD06-095",
@@ -27456,6 +28678,32 @@
     "TCGPlayer_URL": "https://www.tcgplayer.com/product/724418/Harry Ord"
   },
   {
+    "card_id": "GD06-097_p1",
+    "card_no": "GD06-097",
+    "name": "ハリー・オード",
+    "link_name": "",
+    "rarity": "R +",
+    "spCol": "",
+    "block_icon": "2",
+    "level": "5",
+    "cost": "1",
+    "color": "White",
+    "type": "PILOT",
+    "effect": "【バースト】このカードを手札に加える。\n【ターン1回】このユニットが《ブロッカー》を発動したとき、これをアクティブにする。",
+    "zone": "-",
+    "trait": "〔ディアナ・カウンター〕 〔ムーンレィス〕",
+    "link": "",
+    "ap": "+2",
+    "hp": "+2",
+    "source_title": "∀ガンダム",
+    "package": "Stardust Trails[GD06]",
+    "package_id": "615106",
+    "package_from": "[GD06] Stardust Trails",
+    "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD06-097_p1.webp",
+    "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-097",
+    "TCGPlayer_URL": ""
+  },
+  {
     "card_id": "GD06-098",
     "card_no": "GD06-098",
     "name": "デュオ・マックスウェル",
@@ -27531,7 +28779,7 @@
     "package_from": "[GD06] Stardust Trails",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD06-100.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-100",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/724421/Corin Nander"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "GD06-101",
@@ -27609,7 +28857,7 @@
     "package_from": "[GD06] Stardust Trails",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD06-103.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-103",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/724424/Restore the Front Line"
   },
   {
     "card_id": "GD06-104",
@@ -27662,6 +28910,32 @@
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD06-105.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-105",
     "TCGPlayer_URL": "https://www.tcgplayer.com/product/724426/Grace Under Pressure"
+  },
+  {
+    "card_id": "GD06-105_p1",
+    "card_no": "GD06-105",
+    "name": "譲れない優しさ",
+    "link_name": "",
+    "rarity": "R +",
+    "spCol": "",
+    "block_icon": "2",
+    "level": "5",
+    "cost": "3",
+    "color": "Green",
+    "type": "COMMAND",
+    "effect": "【メイン】「ガンダム・キャリバーン」(〔学園〕・AP5・HP3・《高機動》)のユニットトークン1つか、「ガンダム・エアリアル（改修型）」(〔クワイエット・ゼロ〕・AP3・HP5・《突破3》)のユニットトークン1つを配備する。",
+    "zone": "-",
+    "trait": "-",
+    "link": "",
+    "ap": "-",
+    "hp": "-",
+    "source_title": "機動戦士ガンダム 水星の魔女",
+    "package": "Stardust Trails[GD06]",
+    "package_id": "615106",
+    "package_from": "[GD06] Stardust Trails",
+    "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD06-105_p1.webp",
+    "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-105",
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "GD06-106",
@@ -27739,7 +29013,7 @@
     "package_from": "[GD06] Stardust Trails",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD06-108.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-108",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/724429/On Edge"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "GD06-109",
@@ -27791,7 +29065,33 @@
     "package_from": "[GD06] Stardust Trails",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD06-110.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-110",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/724431/Familial Love"
+    "TCGPlayer_URL": ""
+  },
+  {
+    "card_id": "GD06-110_p1",
+    "card_no": "GD06-110",
+    "name": "家族愛",
+    "link_name": "",
+    "rarity": "R +",
+    "spCol": "",
+    "block_icon": "2",
+    "level": "2",
+    "cost": "1",
+    "color": "Red",
+    "type": "COMMAND",
+    "effect": "【バースト】このカードを手札に加える。\n【アクション】自分のユニット1つを選ぶ。このバトル中、それをAP+2する。その後、自分の手札が3枚以下なら、自分は1枚ドローする。",
+    "zone": "-",
+    "trait": "-",
+    "link": "",
+    "ap": "-",
+    "hp": "-",
+    "source_title": "機動戦士ガンダムZZ",
+    "package": "Stardust Trails[GD06]",
+    "package_id": "615106",
+    "package_from": "[GD06] Stardust Trails",
+    "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD06-110_p1.webp",
+    "YYT_URL": "",
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "GD06-111",
@@ -27947,7 +29247,7 @@
     "package_from": "[GD06] Stardust Trails",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD06-116.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-116",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/724437/Afterglow of Zeon"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "GD06-117",
@@ -28000,6 +29300,32 @@
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD06-118.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-118",
     "TCGPlayer_URL": "https://www.tcgplayer.com/product/724439/Infinite Variations"
+  },
+  {
+    "card_id": "GD06-118_p1",
+    "card_no": "GD06-118",
+    "name": "千変万化",
+    "link_name": "",
+    "rarity": "R +",
+    "spCol": "",
+    "block_icon": "2",
+    "level": "5",
+    "cost": "2",
+    "color": "White",
+    "type": "COMMAND",
+    "effect": "【メイン】/【アクション】《ブロッカー》を持つ白の自分のユニットと同じ数まで相手のユニットを選ぶ。このターン中、それらをAP-2する。",
+    "zone": "-",
+    "trait": "-",
+    "link": "",
+    "ap": "-",
+    "hp": "-",
+    "source_title": "∀ガンダム",
+    "package": "Stardust Trails[GD06]",
+    "package_id": "615106",
+    "package_from": "[GD06] Stardust Trails",
+    "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD06-118_p1.webp",
+    "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-118",
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "GD06-119",
@@ -28155,7 +29481,7 @@
     "package_from": "[GD06] Stardust Trails",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD06-124.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-124",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/724445/Aspite"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "GD06-125",
@@ -28259,7 +29585,7 @@
     "package_from": "[GD06] Stardust Trails",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD06-128.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-128",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/724449/Gwaden"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "GD06-129",
@@ -28337,7 +29663,7 @@
     "package_from": "[GD06] Stardust Trails",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/T-030.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=T-030",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/724454/Gozzo T 030 Token"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "T-031",
@@ -28389,7 +29715,7 @@
     "package_from": "[GD06] Stardust Trails",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/T-032.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=T-032",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/724456/Turn X Legs T 032 Token"
   },
   {
     "card_id": "T-033",
@@ -28441,7 +29767,7 @@
     "package_from": "[GD06] Stardust Trails",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/T-034.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=T-034",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/724458/Nu Gundam T 034 Token"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "T-035",
@@ -28519,7 +29845,7 @@
     "package_from": "[GD06] Stardust Trails",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/T-037.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=T-037",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/724461/Axis T 037 Token"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "ST01-001",
@@ -31197,7 +32523,7 @@
     "package_from": "[ST03] Zeon's Rush",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/T-007.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/reto/10010",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/643286/Zaku II T 007 Token"
   },
   {
     "card_id": "ST04-001",
@@ -31405,7 +32731,7 @@
     "package_from": "[ST04] SEED Strike",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/ST04-004_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st04/10008",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/641551/Moebius Cplus"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "ST04-005",
@@ -33199,7 +34525,7 @@
     "package_from": "[ST06] Clan Unity",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/ST06-004_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st06/10010",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/660490/Gelgoog GQ Cplus"
   },
   {
     "card_id": "ST06-005",
@@ -35435,7 +36761,7 @@
     "package_from": "[ST08] Flash of Radiance",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/ST08-015_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st08/10032",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/671978/Davao Cplus"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "EXB-002",
@@ -37567,7 +38893,7 @@
     "package_from": "[ST11] Aquatic Assault",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/ST11-004_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st11/10008",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/721008/ZnO Cplus"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "ST11-005",
@@ -37671,7 +38997,7 @@
     "package_from": "[ST11] Aquatic Assault",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/ST11-006_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st11/10012",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/721010/Shamblo LRplus"
   },
   {
     "card_id": "ST11-007",
@@ -37775,7 +39101,7 @@
     "package_from": "[ST11] Aquatic Assault",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/ST11-008_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st11/10016",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/721012/Daughseat Cplus"
   },
   {
     "card_id": "ST11-009",
@@ -38191,7 +39517,7 @@
     "package_from": "[ST11] Aquatic Assault",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/ST11-016_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st11/10032",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/721020/Mad Angler Cplus"
   },
   {
     "card_id": "T-028",
@@ -38217,7 +39543,7 @@
     "package_from": "[ST11] Aquatic Assault",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/T-028.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/reto/10123",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/721037/GOOhN T 028 Token"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "ST12-001",
@@ -38269,7 +39595,7 @@
     "package_from": "[ST12] Raging Onslaught",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/ST12-001_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st12/10002",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/721021/Gundam Epyon LRplus"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "ST12-002",
@@ -38477,7 +39803,7 @@
     "package_from": "[ST12] Raging Onslaught",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/ST12-005_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st12/10010",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/721025/GQuuuuuuX Omega Psycommu Cplus"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "ST12-006",
@@ -38737,7 +40063,7 @@
     "package_from": "[ST12] Raging Onslaught",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/ST12-010_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st12/10020",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/721030/Slash Zaku Phantom Cplus"
   },
   {
     "card_id": "ST12-011",
@@ -38789,7 +40115,7 @@
     "package_from": "[ST12] Raging Onslaught",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/ST12-011_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st12/10022",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/721031/Milliardo Peacecraft Cplus"
   },
   {
     "card_id": "ST12-012",
@@ -38945,7 +40271,7 @@
     "package_from": "[ST12] Raging Onslaught",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/ST12-014_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st12/10028",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/721034/Wise Leaders Pride Cplus"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "ST12-015",
@@ -39153,7 +40479,7 @@
     "package_from": "[ST13] Silent Barrage",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/ST13-002_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st13/10004",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/720973/Elmeth Cplus"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "ST13-003",
@@ -39205,7 +40531,7 @@
     "package_from": "[ST13] Silent Barrage",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/ST13-003_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st13/10006",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/720974/Bertigo Cplus"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "ST13-004",
@@ -39309,7 +40635,7 @@
     "package_from": "[ST13] Silent Barrage",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/ST13-005_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st13/10010",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/720976/GFreD Cplus"
   },
   {
     "card_id": "ST13-006",
@@ -39413,7 +40739,7 @@
     "package_from": "[ST13] Silent Barrage",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/ST13-007_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st13/10014",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/720978/Gyuneis Jagd Doga Cplus"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "ST13-008",
@@ -39621,7 +40947,7 @@
     "package_from": "[ST13] Silent Barrage",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/ST13-011_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st13/10022",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/720982/Haman Karn Cplus"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "ST13-012",
@@ -39777,7 +41103,7 @@
     "package_from": "[ST13] Silent Barrage",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/ST13-014_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st13/10028",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/720985/Final Duty Cplus"
   },
   {
     "card_id": "ST13-015",
@@ -39907,7 +41233,7 @@
     "package_from": "[ST13] Silent Barrage",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/T-029.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/reto/10124",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/search/gundam-card-game/product?productLineName=gundam-card-game&view=grid&q=T-029%20C"
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/721038/Bit Funnel T 029 Token"
   },
   {
     "card_id": "ST14-001",
@@ -40167,7 +41493,7 @@
     "package_from": "[ST14] Heavy Dominion",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/ST14-005_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st14/10010",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/720992/G Falcon DX Cplus"
   },
   {
     "card_id": "ST14-006",
@@ -40219,7 +41545,7 @@
     "package_from": "[ST14] Heavy Dominion",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/ST14-006_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st14/10012",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/720993/Full Armor Unicorn Gundam Destroy Mode LRplus"
   },
   {
     "card_id": "ST14-007",
@@ -40323,7 +41649,7 @@
     "package_from": "[ST14] Heavy Dominion",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/ST14-008_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st14/10016",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/720995/Gundam Heavyarms Custom EW Cplus"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "ST14-009",
@@ -40427,7 +41753,7 @@
     "package_from": "[ST14] Heavy Dominion",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/ST14-010_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st14/10020",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/720997/Perfect Strike Gundam Cplus"
   },
   {
     "card_id": "ST14-011",
@@ -40479,7 +41805,7 @@
     "package_from": "[ST14] Heavy Dominion",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/ST14-011_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st14/10022",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/720998/Paptimus Scirocco Cplus"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "ST14-012",
@@ -40531,7 +41857,7 @@
     "package_from": "[ST14] Heavy Dominion",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/ST14-012_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st14/10024",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/720999/Banagher Links Cplus"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "ST14-013",
@@ -40583,7 +41909,7 @@
     "package_from": "[ST14] Heavy Dominion",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/ST14-013_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st14/10026",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/721000/Natural Talent Cplus"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "ST14-014",
@@ -40739,7 +42065,7 @@
     "package_from": "[ST14] Heavy Dominion",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/ST14-016_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st14/10032",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/721003/Gryphios 2 Cplus"
   },
   {
     "card_id": "EB01-001",
@@ -41623,7 +42949,7 @@
     "package_from": "[EB01] Eternal Nexus",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/EB01-025.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/eb01/10034",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/700933/Tallgeese II"
   },
   {
     "card_id": "EB01-025_p1",
@@ -47733,7 +49059,7 @@
     "package_from": "リミテッドBOX Ver.β",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/R-001_p5.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/limited1.0/10083",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/616677/Resource Cplus"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "ST01-001_p2",
@@ -49319,7 +50645,7 @@
     "package_from": "プロモーションカード",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/EXBP-030.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=EXBP-030",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/717020/EX Base EXBP 030 Special Booster Bundle 01"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "EXBP-031",
@@ -49553,7 +50879,7 @@
     "package_from": "プロモーションカード",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/EXRP-015.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=EXRP-015",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/717598/EX Resource EXRP 015 Playmat and Card Set Mobile Suit Gundam 00"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "EXRP-016",
@@ -51711,7 +53037,7 @@
     "package_from": "プロモーションカード",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD03-024_p2.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/promo-gd10/10105",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/703784/Hy Gogg Store Tournament Winner Pack 05"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "GD03-027_p1",
@@ -51919,7 +53245,7 @@
     "package_from": "プロモーションカード",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD03-072_p2.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/promo-gd10/10053",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/670582/Aile Strike Gundam Store Tournament Winner Pack 03"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "GD03-076_p1",
@@ -52127,7 +53453,7 @@
     "package_from": "プロモーションカード",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD03-092_p2.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/promo-gd10/10059",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/670587/Nyaan Store Tournament Winner Pack 03"
   },
   {
     "card_id": "GD03-100_p1",
@@ -52751,7 +54077,7 @@
     "package_from": "プロモーションカード",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD04-107_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/gd04/10138",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/search/gundam-card-game/product?productLineName=gundam-card-game&view=grid&q=GD04-107%20C"
   },
   {
     "card_id": "GD04-107_p2",
@@ -52881,7 +54207,7 @@
     "package_from": "プロモーションカード",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD05-016_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/gd05/10023",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/search/gundam-card-game/product?productLineName=gundam-card-game&view=grid&q=GD05-016%20C"
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/721542/Murasame Store Tournament Participation Pack 06"
   },
   {
     "card_id": "GD05-016_p2",
@@ -52907,7 +54233,7 @@
     "package_from": "プロモーションカード",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD05-016_p2.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD05-016",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/721550/Murasame Store Tournament Winner Pack 06"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "GD05-019_p1",
@@ -52933,7 +54259,7 @@
     "package_from": "プロモーションカード",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD05-019_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/gd05/10029",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/705555/Re GZ"
+    "TCGPlayer_URL": "https://www.tcgplayer.com/search/gundam-card-game/product?productLineName=gundam-card-game&view=grid&q=GD05-019%20R"
   },
   {
     "card_id": "GD05-019_p2",
@@ -52988,6 +54314,58 @@
     "TCGPlayer_URL": "https://www.tcgplayer.com/search/gundam-card-game/product?productLineName=gundam-card-game&view=grid&q=GD05-042%20C"
   },
   {
+    "card_id": "GD05-049_p3",
+    "card_no": "GD05-049",
+    "name": "サザビー",
+    "link_name": "",
+    "rarity": "LR",
+    "spCol": "",
+    "block_icon": "2",
+    "level": "7",
+    "cost": "5",
+    "color": "Purple",
+    "type": "UNIT",
+    "effect": "《制圧》(アタックでシールドに与えるダメージは、先頭から2つに同時に与えられる)\n【アタック時】自分のユニット1つを選んでもよい。それを破壊する。そうしたなら、相手プレイヤーすべては、それぞれバトルしていない自身のユニット1つを選ぶ。それらを破壊する。",
+    "zone": "宇宙 地球",
+    "trait": "〔ネオ・ジオン〕",
+    "link": "シャア・アズナブル",
+    "ap": "5",
+    "hp": "5",
+    "source_title": "機動戦士ガンダム 逆襲のシャア",
+    "package": "ニュータイプチャレンジ 2026 MISSION5 優勝記念品",
+    "package_id": "615901",
+    "package_from": "プロモーションカード",
+    "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD05-049_p3.webp",
+    "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD05-049",
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/705585/Sazabi GD05 049"
+  },
+  {
+    "card_id": "GD05-057_p1",
+    "card_no": "GD05-057",
+    "name": "ヤクト・ドーガ（ギュネイ専用機）",
+    "link_name": "",
+    "rarity": "U",
+    "spCol": "",
+    "block_icon": "2",
+    "level": "4",
+    "cost": "3",
+    "color": "Purple",
+    "type": "UNIT",
+    "effect": "【起動・メイン】【ターン1回】このユニット以外の、自分のユニット1つを選ぶ。それを破壊する。そうしたなら、このユニットをアクティブにし、このターン中、これは相手プレイヤーをアタック先に選べない。",
+    "zone": "宇宙 地球",
+    "trait": "〔ネオ・ジオン〕",
+    "link": "ギュネイ・ガス",
+    "ap": "4",
+    "hp": "3",
+    "source_title": "機動戦士ガンダム 逆襲のシャア",
+    "package": "ニュータイプチャレンジ 2026 MISSION5 参加記念品",
+    "package_id": "615901",
+    "package_from": "プロモーションカード",
+    "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD05-057_p1.webp",
+    "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD05-057",
+    "TCGPlayer_URL": ""
+  },
+  {
     "card_id": "GD05-069_p1",
     "card_no": "GD05-069",
     "name": "ガンダムマックスター",
@@ -53011,7 +54389,7 @@
     "package_from": "プロモーションカード",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD05-069_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/gd05/10104",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/search/gundam-card-game/product?productLineName=gundam-card-game&view=grid&q=GD05-069%20R"
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/705605/Gundam Maxter"
   },
   {
     "card_id": "GD05-069_p2",
@@ -53037,7 +54415,33 @@
     "package_from": "プロモーションカード",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD05-069_p2.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD05-069",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/721552/Gundam Maxter Store Tournament Winner Pack 06"
+    "TCGPlayer_URL": ""
+  },
+  {
+    "card_id": "GD05-093_p2",
+    "card_no": "GD05-093",
+    "name": "シャア・アズナブル",
+    "link_name": "",
+    "rarity": "R",
+    "spCol": "",
+    "block_icon": "2",
+    "level": "5",
+    "cost": "1",
+    "color": "Purple",
+    "type": "PILOT",
+    "effect": "【バースト】このカードを手札に加える。\n【リンク時】自分のトラッシュの〔ネオ・ジオン〕のベースカード1枚を選んでもよい。それを配備する。",
+    "zone": "-",
+    "trait": "〔ネオ・ジオン〕 〔ニュータイプ〕",
+    "link": "",
+    "ap": "+2",
+    "hp": "+2",
+    "source_title": "機動戦士ガンダム 逆襲のシャア",
+    "package": "ニュータイプチャレンジ 2026 MISSION5 上位入賞記念品",
+    "package_id": "615901",
+    "package_from": "プロモーションカード",
+    "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD05-093_p2.webp",
+    "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD05-093",
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/705629/Char Aznable"
   },
   {
     "card_id": "GD05-094_p1",
@@ -53274,6 +54678,58 @@
     "TCGPlayer_URL": ""
   },
   {
+    "card_id": "GD06-029_p2",
+    "card_no": "GD06-029",
+    "name": "キュベレイMk-Ⅱ（エルピー・プル専用）",
+    "link_name": "",
+    "rarity": "C",
+    "spCol": "",
+    "block_icon": "2",
+    "level": "4",
+    "cost": "3",
+    "color": "Green",
+    "type": "UNIT",
+    "effect": "《突破3》(自分のターン中、このユニットがバトルダメージで相手のユニットを破壊したとき、その相手のシールドエリアの先頭のカード1つに指定の数ダメージを与える)",
+    "zone": "宇宙 地球",
+    "trait": "〔ネオ・ジオン〕",
+    "link": "エルピー・プル",
+    "ap": "4",
+    "hp": "3",
+    "source_title": "機動戦士ガンダムZZ",
+    "package": "新弾限定戦[GD06] 参加記念品",
+    "package_id": "615901",
+    "package_from": "プロモーションカード",
+    "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD06-029_p2.webp",
+    "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-029",
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/724350/Elpeo Ples Qubeley Mk II GD06 029"
+  },
+  {
+    "card_id": "GD06-084_p2",
+    "card_no": "GD06-084",
+    "name": "エルピー・プル",
+    "link_name": "",
+    "rarity": "R",
+    "spCol": "",
+    "block_icon": "2",
+    "level": "3",
+    "cost": "1",
+    "color": "Green",
+    "type": "PILOT",
+    "effect": "【バースト】このカードを手札に加える。\n【セット時】このターン中、このユニットは、〔ネオ・ジオン〕/〔遠隔兵器〕の自分のユニットと同じ数だけ《突破1》を得る。\n(自分のターン中、このユニットがバトルダメージで相手のユニットを破壊したとき、その相手のシールドエリアの先頭のカード1つに指定の数ダメージを与える)",
+    "zone": "-",
+    "trait": "〔ネオ・ジオン〕 〔ニュータイプ〕",
+    "link": "",
+    "ap": "+2",
+    "hp": "+0",
+    "source_title": "機動戦士ガンダムZZ",
+    "package": "新弾限定戦[GD06] 参加記念品",
+    "package_id": "615901",
+    "package_from": "プロモーションカード",
+    "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD06-084_p2.webp",
+    "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-084",
+    "TCGPlayer_URL": ""
+  },
+  {
     "card_id": "RP-001",
     "card_no": "RP-001",
     "name": "リソース",
@@ -53401,7 +54857,7 @@
     "package_from": "プロモーションカード",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/RP-005.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/rp-100/10009",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/646549/Resource RP 005 Resource Pack"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "RP-006",
@@ -54805,7 +56261,7 @@
     "package_from": "プロモーションカード",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/ST03-013_p6.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st06/10001",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/search/gundam-card-game/product?productLineName=gundam-card-game&view=grid&q=ST03-013%20C"
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/654579/Close Combat Championship Participation Pack 01"
   },
   {
     "card_id": "ST04-002_p3",
@@ -55611,7 +57067,7 @@
     "package_from": "プロモーションカード",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/ST09-008_p2.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st09/10022",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/684007/Shinn Asuka"
   },
   {
     "card_id": "ST09-009_p2",
@@ -55663,7 +57119,7 @@
     "package_from": "プロモーションカード",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/ST11-002_p2.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st11/10003",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/search/gundam-card-game/product?productLineName=gundam-card-game&view=grid&q=ST11-002%20C"
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/717612/Acguy ST11 ST14 Release Event"
   },
   {
     "card_id": "ST11-011_p2",
@@ -55689,7 +57145,7 @@
     "package_from": "プロモーションカード",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/ST11-011_p2.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st11/10021",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/717613/Char Aznable ST11 ST14 Release Event"
+    "TCGPlayer_URL": "https://www.tcgplayer.com/search/gundam-card-game/product?productLineName=gundam-card-game&view=grid&q=ST11-011%20C"
   },
   {
     "card_id": "ST12-009_p2",
@@ -55715,7 +57171,7 @@
     "package_from": "プロモーションカード",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/ST12-009_p2.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st12/10017",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/717615/Unicorn Gundam 02 Banshee Unicorn Mode ST11 ST14 Release Event"
+    "TCGPlayer_URL": "https://www.tcgplayer.com/search/gundam-card-game/product?productLineName=gundam-card-game&view=grid&q=ST12-009%20C"
   },
   {
     "card_id": "ST12-012_p2",
@@ -55741,7 +57197,7 @@
     "package_from": "プロモーションカード",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/ST12-012_p2.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st12/10023",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/search/gundam-card-game/product?productLineName=gundam-card-game&view=grid&q=ST12-012%20C"
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/717617/Ple Twelve ST11 ST14 Release Event"
   },
   {
     "card_id": "T-022_p1",
@@ -55897,7 +57353,7 @@
     "package_from": "プロモーションカード",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/T-029_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/reto/10124",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/search/gundam-card-game/product?productLineName=gundam-card-game&view=grid&q=T-029%20C"
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/721038/Bit Funnel T 029 Token"
   },
   {
     "card_id": "T-029_p2",

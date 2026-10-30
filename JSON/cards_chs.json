@@ -777,7 +777,7 @@
     "package_from": "[GD01] Newtype Rising",
     "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/1753375501572GD01-023_1.jpg",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/gd01/10030",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/645369/Chars Gelgoog LRplus"
   },
   {
     "card_id": "GD01-024",
@@ -11255,7 +11255,7 @@
     "package_from": "[GD03] Steel Requiem",
     "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/1768543574238GD03-047.png",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/gd03/10063",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/673473/DINN Commander Type"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "GD03-048",
@@ -23891,7 +23891,7 @@
     "package_from": "[GD05] Freedom Ascension",
     "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/1784877143844GD05-102_2.png",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/gd05/10148",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/707554/Wings of Light Rplus"
   },
   {
     "card_id": "GD05-103",
@@ -24934,6 +24934,136 @@
     "TCGPlayer_URL": "https://www.tcgplayer.com/product/705668/Pluma T 027 Token"
   },
   {
+    "card_id": "GD02-129_p2",
+    "card_no": "GD02-129",
+    "name": "阿卡马",
+    "link_name": "",
+    "rarity": "R +",
+    "spCol": "SP",
+    "block_icon": "2",
+    "level": "3",
+    "cost": "1",
+    "color": "White",
+    "type": "BASE",
+    "effect": "【爆发】配置此卡牌。\n【配置时】将我方的1张护盾加入手牌。\n此基地不会受到来自对方的效果伤害。",
+    "zone": "宇宙 地球",
+    "trait": "<奥古> <舰船>",
+    "link": "",
+    "ap": "0",
+    "hp": "5",
+    "source_title": "机动战士Z高达",
+    "package": "星尘轨迹 Stardust Trails [GD06]",
+    "package_id": "615106",
+    "package_from": "[GD06] Stardust Trails",
+    "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/486c57f1fc494328a88d0662e421bc79/GD02-129_3.png",
+    "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD02-129",
+    "TCGPlayer_URL": ""
+  },
+  {
+    "card_id": "GD05-123_p1",
+    "card_no": "GD05-123",
+    "name": "大天使号",
+    "link_name": "",
+    "rarity": "U +",
+    "spCol": "SP",
+    "block_icon": "2",
+    "level": "2",
+    "cost": "1",
+    "color": "Blue",
+    "type": "BASE",
+    "effect": "【爆发】配置此卡牌。\n【配置时】将我方的1张护盾加入手牌。\n对方的回合中，友方所有〔奥布〕的机体，不会受到来自对方不高于2点的效果伤害。",
+    "zone": "宇宙 地球",
+    "trait": "<奥布> <舰船>",
+    "link": "",
+    "ap": "0",
+    "hp": "5",
+    "source_title": "机动战士高达SEED DESTINY",
+    "package": "星尘轨迹 Stardust Trails [GD06]",
+    "package_id": "615106",
+    "package_from": "[GD06] Stardust Trails",
+    "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/b197f6b943254451a681a82d987827b9/GD05-123_2.png",
+    "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD05-123",
+    "TCGPlayer_URL": ""
+  },
+  {
+    "card_id": "GD05-125_p1",
+    "card_no": "GD05-125",
+    "name": "拉・凯拉姆",
+    "link_name": "",
+    "rarity": "U +",
+    "spCol": "SP",
+    "block_icon": "2",
+    "level": "3",
+    "cost": "1",
+    "color": "Green",
+    "type": "BASE",
+    "effect": "【爆发】配置此卡牌。\n【配置时】将我方的1张护盾加入手牌。\n【启动・主要】将此基地转为休息状态：选择友方1张〔隆德・贝尔〕的机体。本回合中，当其受到来自对方的伤害时，该伤害减轻1点。",
+    "zone": "宇宙",
+    "trait": "<地球联邦> <隆德·贝尔> <舰船>",
+    "link": "",
+    "ap": "0",
+    "hp": "5",
+    "source_title": "机动战士高达 逆袭的夏亚",
+    "package": "星尘轨迹 Stardust Trails [GD06]",
+    "package_id": "615106",
+    "package_from": "[GD06] Stardust Trails",
+    "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/d1e042d3b30c472dad21a4656a3da280/GD05-125_2.png",
+    "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD05-125",
+    "TCGPlayer_URL": ""
+  },
+  {
+    "card_id": "GD05-128_p1",
+    "card_no": "GD05-128",
+    "name": "高达武斗会",
+    "link_name": "",
+    "rarity": "C +",
+    "spCol": "SP",
+    "block_icon": "2",
+    "level": "3",
+    "cost": "1",
+    "color": "Red",
+    "type": "BASE",
+    "effect": "【爆发】配置此卡牌。\n【配置时】将我方的1张护盾加入手牌。\n【启动・主要】将此基地转为休息状态：若友方战斗区中存在〔MF〕的共鸣机体，则选择友方的1张机体。本回合中，使其AP+2。",
+    "zone": "地球",
+    "trait": "<据点>",
+    "link": "",
+    "ap": "0",
+    "hp": "5",
+    "source_title": "机动武斗传G高达",
+    "package": "星尘轨迹 Stardust Trails [GD06]",
+    "package_id": "615106",
+    "package_from": "[GD06] Stardust Trails",
+    "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/66498434a7824c7bb968a2f8a5eb8d69/GD05-128_2.png",
+    "YYT_URL": "",
+    "TCGPlayer_URL": ""
+  },
+  {
+    "card_id": "GD05-129_p1",
+    "card_no": "GD05-129",
+    "name": "阿克西斯",
+    "link_name": "",
+    "rarity": "R +",
+    "spCol": "SP",
+    "block_icon": "2",
+    "level": "4",
+    "cost": "1",
+    "color": "Purple",
+    "type": "BASE",
+    "effect": "【爆发】配置此卡牌。\n【配置时】将我方的1张护盾加入手牌。\n【启动・主要】将此基地转为休息状态：本回合中，若我方的机体因我方〔新吉翁〕卡牌的效果被破坏过，则配置我方手牌中1张等级不高于Lv.3的〔新吉翁〕机体卡牌。",
+    "zone": "宇宙",
+    "trait": "<新吉翁> <据点>",
+    "link": "",
+    "ap": "0",
+    "hp": "5",
+    "source_title": "机动战士高达 逆袭的夏亚",
+    "package": "星尘轨迹 Stardust Trails [GD06]",
+    "package_id": "615106",
+    "package_from": "[GD06] Stardust Trails",
+    "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/3023160ffff64211bcb8c4777fa55dd2/GD05-129_2.png",
+    "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD05-129",
+    "TCGPlayer_URL": ""
+  },
+  {
     "card_id": "GD06-001",
     "card_no": "GD06-001",
     "name": "高达试作1号机全方位推进型",
@@ -24957,6 +25087,32 @@
     "package_from": "[GD06] Stardust Trails",
     "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/e252d21a764c404ba67fbe13336c0a4f/GD06-001.png",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-001",
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/724322/Gundam GP01Fb"
+  },
+  {
+    "card_id": "GD06-001_p1",
+    "card_no": "GD06-001",
+    "name": "高达试作1号机全方位推进型",
+    "link_name": "",
+    "rarity": "LR +",
+    "spCol": "",
+    "block_icon": "2",
+    "level": "5",
+    "cost": "4",
+    "color": "Blue",
+    "type": "UNIT",
+    "effect": "【每回合1次】当此机体被攻击时，我方抽取1张卡牌。\n【搭乘中】此机体获得《高机动》效果。\n （此机体不会被阻挡）",
+    "zone": "宇宙",
+    "trait": "<地球联邦> <阿尔比恩队>",
+    "link": "浦木宏",
+    "ap": "3",
+    "hp": "5",
+    "source_title": "机动战士高达0083",
+    "package": "星尘轨迹 Stardust Trails [GD06]",
+    "package_id": "615106",
+    "package_from": "[GD06] Stardust Trails",
+    "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/cbdb61ccbab94e95aad04fff897856db/GD06-001_2.png",
+    "YYT_URL": "",
     "TCGPlayer_URL": ""
   },
   {
@@ -24986,6 +25142,58 @@
     "TCGPlayer_URL": "https://www.tcgplayer.com/product/724323/Infinite Justice Gundam"
   },
   {
+    "card_id": "GD06-002_p1",
+    "card_no": "GD06-002",
+    "name": "无限正义高达",
+    "link_name": "",
+    "rarity": "LR +",
+    "spCol": "",
+    "block_icon": "2",
+    "level": "7",
+    "cost": "6",
+    "color": "Blue",
+    "type": "UNIT",
+    "effect": "【每回合1次】我方的回合中，当此机体通过战斗伤害破坏对方的卡牌时，选择1张〔奥布〕的我方机体。使其回复3点。\n【配置时】可以选择我方废弃区中的3张机体卡牌。将选择的卡牌从游戏中移除。若那样做的话，则选择1张活跃状态的对方机体。将其放回到其持有者的手牌中。",
+    "zone": "宇宙 地球",
+    "trait": "<奥布>",
+    "link": "阿斯兰・萨拉",
+    "ap": "5",
+    "hp": "5",
+    "source_title": "机动战士高达SEED DESTINY",
+    "package": "星尘轨迹 Stardust Trails [GD06]",
+    "package_id": "615106",
+    "package_from": "[GD06] Stardust Trails",
+    "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/010bcb7af93a48f4815c5880383eb780/GD06-002_2.png",
+    "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-002",
+    "TCGPlayer_URL": ""
+  },
+  {
+    "card_id": "GD06-002_p2",
+    "card_no": "GD06-002",
+    "name": "无限正义高达",
+    "link_name": "",
+    "rarity": "LR ++",
+    "spCol": "",
+    "block_icon": "2",
+    "level": "7",
+    "cost": "6",
+    "color": "Blue",
+    "type": "UNIT",
+    "effect": "【每回合1次】我方的回合中，当此机体通过战斗伤害破坏对方的卡牌时，选择1张〔奥布〕的我方机体。使其回复3点。\n【配置时】可以选择我方废弃区中的3张机体卡牌。将选择的卡牌从游戏中移除。若那样做的话，则选择1张活跃状态的对方机体。将其放回到其持有者的手牌中。",
+    "zone": "宇宙 地球",
+    "trait": "<奥布>",
+    "link": "阿斯兰・萨拉",
+    "ap": "5",
+    "hp": "5",
+    "source_title": "机动战士高达SEED DESTINY",
+    "package": "星尘轨迹 Stardust Trails [GD06]",
+    "package_id": "615106",
+    "package_from": "[GD06] Stardust Trails",
+    "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/41055405e68441019848ad33bd1e57c8/GD06-002_3.png",
+    "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-002",
+    "TCGPlayer_URL": ""
+  },
+  {
     "card_id": "GD06-003",
     "card_no": "GD06-003",
     "name": "GQuuuuuuX（Ω精神感应开放时）",
@@ -25012,6 +25220,32 @@
     "TCGPlayer_URL": "https://www.tcgplayer.com/product/724324/GQuuuuuuX Omega Psycommu Released"
   },
   {
+    "card_id": "GD06-003_p1",
+    "card_no": "GD06-003",
+    "name": "GQuuuuuuX（Ω精神感应开放时）",
+    "link_name": "",
+    "rarity": "LR +",
+    "spCol": "",
+    "block_icon": "2",
+    "level": "6",
+    "cost": "4",
+    "color": "Blue",
+    "type": "UNIT",
+    "effect": "此机体AP+等同于我方手牌数量的数值。\n【攻击时】若友方战斗区中存在此机体以外的〔阿尔法杀手〕机体，且我方的手牌不多于5张，则我方抽取1张卡牌。",
+    "zone": "宇宙 地球",
+    "trait": "<阿尔法杀手>",
+    "link": "天手让叶（玛秋）",
+    "ap": "2",
+    "hp": "5",
+    "source_title": "机动战士Gundam GQuuuuuuX",
+    "package": "星尘轨迹 Stardust Trails [GD06]",
+    "package_id": "615106",
+    "package_from": "[GD06] Stardust Trails",
+    "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/efabfffac5f84533b4c802de221a9a62/GD06-003_2.png",
+    "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-003",
+    "TCGPlayer_URL": ""
+  },
+  {
     "card_id": "GD06-004",
     "card_no": "GD06-004",
     "name": "高达试作1号机",
@@ -25035,7 +25269,33 @@
     "package_from": "[GD06] Stardust Trails",
     "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/47aa8bd97be8432cb0be0802f4b96875/GD06-004.png",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-004",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/724325/Gundam GP01"
+    "TCGPlayer_URL": ""
+  },
+  {
+    "card_id": "GD06-004_p1",
+    "card_no": "GD06-004",
+    "name": "高达试作1号机",
+    "link_name": "",
+    "rarity": "R +",
+    "spCol": "",
+    "block_icon": "2",
+    "level": "4",
+    "cost": "2",
+    "color": "Blue",
+    "type": "UNIT",
+    "effect": "【共鸣中】【破坏时】若是我方的回合，则将搭乘此机体的机师放回到其持有者的手牌中。此后，丢弃1张我方的手牌。",
+    "zone": "地球",
+    "trait": "<地球联邦> <阿尔比恩队>",
+    "link": "浦木宏",
+    "ap": "4",
+    "hp": "3",
+    "source_title": "机动战士高达0083",
+    "package": "星尘轨迹 Stardust Trails [GD06]",
+    "package_id": "615106",
+    "package_from": "[GD06] Stardust Trails",
+    "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/9407b174b03a459593d52a74d8828b2d/GD06-004_2.png",
+    "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-004",
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "GD06-005",
@@ -25064,6 +25324,32 @@
     "TCGPlayer_URL": "https://www.tcgplayer.com/product/724326/Akatsuki Shiranui"
   },
   {
+    "card_id": "GD06-005_p1",
+    "card_no": "GD06-005",
+    "name": "拂晓（不知火）",
+    "link_name": "",
+    "rarity": "R +",
+    "spCol": "",
+    "block_icon": "2",
+    "level": "6",
+    "cost": "5",
+    "color": "Blue",
+    "type": "UNIT",
+    "effect": "【攻击时】可以选择1张受到过伤害且等级不高于Lv.5的对方机体。将其放回到其持有者的手牌中。",
+    "zone": "宇宙 地球",
+    "trait": "<奥布>",
+    "link": "特征〔奥布〕 / 穆·拉·弗拉格",
+    "ap": "5",
+    "hp": "4",
+    "source_title": "机动战士高达SEED DESTINY",
+    "package": "星尘轨迹 Stardust Trails [GD06]",
+    "package_id": "615106",
+    "package_from": "[GD06] Stardust Trails",
+    "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/04b1f05c8bdd4f029e806cd9d4ab8e6f/GD06-005_2.png",
+    "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-005",
+    "TCGPlayer_URL": ""
+  },
+  {
     "card_id": "GD06-006",
     "card_no": "GD06-006",
     "name": "GQuuuuuuX（Ω精神感应启动时）",
@@ -25087,7 +25373,33 @@
     "package_from": "[GD06] Stardust Trails",
     "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/be5fd1a7d89943c69dd3718817ccb8c6/GD06-006.png",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-006",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/724327/GQuuuuuuX Omega Psycommu"
+    "TCGPlayer_URL": ""
+  },
+  {
+    "card_id": "GD06-006_p1",
+    "card_no": "GD06-006",
+    "name": "GQuuuuuuX（Ω精神感应启动时）",
+    "link_name": "",
+    "rarity": "R +",
+    "spCol": "LK",
+    "block_icon": "2",
+    "level": "5",
+    "cost": "3",
+    "color": "Blue",
+    "type": "UNIT",
+    "effect": "【配置时】若友方战斗区中存在此机体以外的〔阿尔法杀手〕机体，则可以选择1张HP不高于3的对方机体。将其放回到其持有者的手牌中。",
+    "zone": "宇宙 地球",
+    "trait": "<阿尔法杀手>",
+    "link": "天手让叶（玛秋） / 尼娅安",
+    "ap": "4",
+    "hp": "2",
+    "source_title": "机动战士Gundam GQuuuuuuX",
+    "package": "星尘轨迹 Stardust Trails [GD06]",
+    "package_id": "615106",
+    "package_from": "[GD06] Stardust Trails",
+    "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/7d14ac3b79024d9cb926fa9b5fbd5ae3/GD06-006_2.png",
+    "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-006",
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "GD06-007",
@@ -25164,6 +25476,32 @@
     "package_id": "615106",
     "package_from": "[GD06] Stardust Trails",
     "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/9d07731c8e8b4b48a08d39036aeabc89/GD06-009.png",
+    "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-009",
+    "TCGPlayer_URL": ""
+  },
+  {
+    "card_id": "GD06-009_p1",
+    "card_no": "GD06-009",
+    "name": "吉姆改装型",
+    "link_name": "",
+    "rarity": "U +",
+    "spCol": "LK",
+    "block_icon": "2",
+    "level": "3",
+    "cost": "2",
+    "color": "Blue",
+    "type": "UNIT",
+    "effect": "【配置时】可以选择1张HP为1的对方机体。将其放回到其持有者的手牌中。",
+    "zone": "宇宙 地球",
+    "trait": "<地球联邦> <阿尔比恩队>",
+    "link": "特征〔阿尔比恩队〕",
+    "ap": "2",
+    "hp": "4",
+    "source_title": "机动战士高达0083",
+    "package": "星尘轨迹 Stardust Trails [GD06]",
+    "package_id": "615106",
+    "package_from": "[GD06] Stardust Trails",
+    "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/0e846f7fdd4b4a34a403906185765762/GD06-009_2.png",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-009",
     "TCGPlayer_URL": ""
   },
@@ -25269,7 +25607,7 @@
     "package_from": "[GD06] Stardust Trails",
     "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/ff8d96bc95c74c4f9be4cd21388add94/GD06-013.png",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-013",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/724334/Zaku II F2 EFSF"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "GD06-014",
@@ -25402,6 +25740,32 @@
     "TCGPlayer_URL": "https://www.tcgplayer.com/product/724339/Elpeo Ples Qubeley Mk II GD06 018"
   },
   {
+    "card_id": "GD06-018_p1",
+    "card_no": "GD06-018",
+    "name": "卡碧尼Mk-Ⅱ（艾露比·普露专用）",
+    "link_name": "",
+    "rarity": "LR +",
+    "spCol": "",
+    "block_icon": "2",
+    "level": "3",
+    "cost": "2",
+    "color": "Green",
+    "type": "UNIT",
+    "effect": "《突破1》（我方的回合中，当此机体通过战斗伤害破坏对方的机体时，给与该方护盾区最前方的1张卡牌指定数值的伤害）\n【搭乘中】【启动・瞬动】【每回合1次】选择1张〔新吉翁〕/〔远程兵器〕的我方机体，或1张〔新吉翁〕的我方基地。本次战斗中，此机体受到的战斗伤害改为该机体/该基地受到。",
+    "zone": "宇宙 地球",
+    "trait": "<新吉翁>",
+    "link": "艾露比·普露",
+    "ap": "3",
+    "hp": "2",
+    "source_title": "机动战士高达 ZZ",
+    "package": "星尘轨迹 Stardust Trails [GD06]",
+    "package_id": "615106",
+    "package_from": "[GD06] Stardust Trails",
+    "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/518d657afee34e7bbef57ae796deeb66/GD06-018_2.png",
+    "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-018",
+    "TCGPlayer_URL": ""
+  },
+  {
     "card_id": "GD06-019",
     "card_no": "GD06-019",
     "name": "逆X",
@@ -25426,6 +25790,32 @@
     "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/a3e163816e1e43cabc562153328c99d6/GD06-019.png",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-019",
     "TCGPlayer_URL": "https://www.tcgplayer.com/product/724340/Turn X"
+  },
+  {
+    "card_id": "GD06-019_p1",
+    "card_no": "GD06-019",
+    "name": "逆X",
+    "link_name": "",
+    "rarity": "LR +",
+    "spCol": "",
+    "block_icon": "2",
+    "level": "8",
+    "cost": "7",
+    "color": "Green",
+    "type": "UNIT",
+    "effect": "当对方的机体攻击时，尽可能选择休息状态的我方机体替代卡作为攻击对象。\n【攻击时】若我方战斗区中不存在〔金卡拉姆舰队〕的机体替代卡，则配置1张休息状态的“逆X（手臂）”（〔金卡拉姆舰队〕 〔远程兵器〕・AP2・HP3）的机体替代卡，和1张休息状态的“逆X（腿部）”（〔金卡拉姆舰队〕 〔远程兵器〕・AP3・HP2）的机体替代卡。",
+    "zone": "宇宙 地球",
+    "trait": "<金卡拉姆舰队>",
+    "link": "基姆·金卡拉姆",
+    "ap": "5",
+    "hp": "6",
+    "source_title": "∀高达",
+    "package": "星尘轨迹 Stardust Trails [GD06]",
+    "package_id": "615106",
+    "package_from": "[GD06] Stardust Trails",
+    "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/0a956e5299ab4b5b93250cfb30479fe3/GD06-019_2.png",
+    "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-019",
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "GD06-020",
@@ -25454,6 +25844,32 @@
     "TCGPlayer_URL": "https://www.tcgplayer.com/product/724341/Hamma Hamma"
   },
   {
+    "card_id": "GD06-020_p1",
+    "card_no": "GD06-020",
+    "name": "悍马·悍马",
+    "link_name": "",
+    "rarity": "R +",
+    "spCol": "",
+    "block_icon": "2",
+    "level": "3",
+    "cost": "3",
+    "color": "Green",
+    "type": "UNIT",
+    "effect": "我方的回合中，当〔新吉翁〕的我方机体通过伤害破坏对方的卡牌时，此机体回复1点。",
+    "zone": "宇宙 地球",
+    "trait": "<新吉翁>",
+    "link": "马修玛·塞罗",
+    "ap": "3",
+    "hp": "4",
+    "source_title": "机动战士高达 ZZ",
+    "package": "星尘轨迹 Stardust Trails [GD06]",
+    "package_id": "615106",
+    "package_from": "[GD06] Stardust Trails",
+    "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/3d07f012df324fab911a32427da6d28a/GD06-020_2.png",
+    "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-020",
+    "TCGPlayer_URL": ""
+  },
+  {
     "card_id": "GD06-021",
     "card_no": "GD06-021",
     "name": "逆X（头部）",
@@ -25480,6 +25896,32 @@
     "TCGPlayer_URL": "https://www.tcgplayer.com/product/724342/Turn X Top"
   },
   {
+    "card_id": "GD06-021_p1",
+    "card_no": "GD06-021",
+    "name": "逆X（头部）",
+    "link_name": "",
+    "rarity": "R +",
+    "spCol": "",
+    "block_icon": "2",
+    "level": "4",
+    "cost": "3",
+    "color": "Green",
+    "type": "UNIT",
+    "effect": "【配置时】选择1张我方的机体替代卡。将1张与其相同的机体替代卡以休息状态来配置。",
+    "zone": "宇宙 地球",
+    "trait": "<金卡拉姆舰队>",
+    "link": "基姆·金卡拉姆",
+    "ap": "2",
+    "hp": "2",
+    "source_title": "∀高达",
+    "package": "星尘轨迹 Stardust Trails [GD06]",
+    "package_id": "615106",
+    "package_from": "[GD06] Stardust Trails",
+    "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/db5b501527bf44de9c3cffddb322d213/GD06-021_2.png",
+    "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-021",
+    "TCGPlayer_URL": ""
+  },
+  {
     "card_id": "GD06-022",
     "card_no": "GD06-022",
     "name": "班迪特（梅莉贝尔机）",
@@ -25503,7 +25945,33 @@
     "package_from": "[GD06] Stardust Trails",
     "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/d8192b0aabb34a48b125b4049982650b/GD06-022.png",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-022",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/724343/Merrybells Bandit"
+    "TCGPlayer_URL": ""
+  },
+  {
+    "card_id": "GD06-022_p1",
+    "card_no": "GD06-022",
+    "name": "班迪特（梅莉贝尔机）",
+    "link_name": "",
+    "rarity": "R +",
+    "spCol": "LK",
+    "block_icon": "2",
+    "level": "6",
+    "cost": "4",
+    "color": "Green",
+    "type": "UNIT",
+    "effect": "【共鸣时】选择1张AP不高于3的对方机体。此机体与其进入战斗，仅进行伤害步骤。",
+    "zone": "宇宙 地球",
+    "trait": "<金卡拉姆舰队>",
+    "link": "特征〔月之民〕",
+    "ap": "4",
+    "hp": "4",
+    "source_title": "∀高达",
+    "package": "星尘轨迹 Stardust Trails [GD06]",
+    "package_id": "615106",
+    "package_from": "[GD06] Stardust Trails",
+    "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/a7115059213c4c52a0881ce217cfce7d/GD06-022_2.png",
+    "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-022",
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "GD06-023",
@@ -25688,6 +26156,32 @@
     "TCGPlayer_URL": "https://www.tcgplayer.com/product/724350/Elpeo Ples Qubeley Mk II GD06 029"
   },
   {
+    "card_id": "GD06-029_p1",
+    "card_no": "GD06-029",
+    "name": "卡碧尼Mk-Ⅱ（艾露比·普露专用）",
+    "link_name": "",
+    "rarity": "C +",
+    "spCol": "LK",
+    "block_icon": "2",
+    "level": "4",
+    "cost": "3",
+    "color": "Green",
+    "type": "UNIT",
+    "effect": "《突破3》（我方的回合中，当此机体通过战斗伤害破坏对方的机体时，给与该方护盾区最前方的1张卡牌指定数值的伤害）",
+    "zone": "宇宙 地球",
+    "trait": "<新吉翁>",
+    "link": "艾露比·普露",
+    "ap": "4",
+    "hp": "3",
+    "source_title": "机动战士高达 ZZ",
+    "package": "星尘轨迹 Stardust Trails [GD06]",
+    "package_id": "615106",
+    "package_from": "[GD06] Stardust Trails",
+    "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/2ed7e0bc60244c13931a6d6bc7667709/GD06-029_2.png",
+    "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-029",
+    "TCGPlayer_URL": ""
+  },
+  {
     "card_id": "GD06-030",
     "card_no": "GD06-030",
     "name": "马希罗",
@@ -25763,7 +26257,7 @@
     "package_from": "[GD06] Stardust Trails",
     "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/aa0d8e01d90447e28816cf6ebe9d5bff/GD06-032.png",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-032",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/724353/Bellona"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "GD06-033",
@@ -25788,6 +26282,32 @@
     "package_id": "615106",
     "package_from": "[GD06] Stardust Trails",
     "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/87beded8ec9d4bddb719acec15fd8883/GD06-033.png",
+    "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-033",
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/724354/ZZ Gundam"
+  },
+  {
+    "card_id": "GD06-033_p1",
+    "card_no": "GD06-033",
+    "name": "ZZ高达",
+    "link_name": "",
+    "rarity": "LR +",
+    "spCol": "",
+    "block_icon": "2",
+    "level": "9",
+    "cost": "8",
+    "color": "Red",
+    "type": "UNIT",
+    "effect": "当〔奥古〕的我方卡牌给与对方机体伤害时，给与的伤害+1。\n【配置时】给与所有对方的机体2点伤害。",
+    "zone": "宇宙 地球",
+    "trait": "<奥古> <高达小队>",
+    "link": "捷多·亚西塔",
+    "ap": "7",
+    "hp": "7",
+    "source_title": "机动战士高达 ZZ",
+    "package": "星尘轨迹 Stardust Trails [GD06]",
+    "package_id": "615106",
+    "package_from": "[GD06] Stardust Trails",
+    "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/416d0b4651944d72a44f1568c8081277/GD06-033_2.png",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-033",
     "TCGPlayer_URL": ""
   },
@@ -25818,6 +26338,58 @@
     "TCGPlayer_URL": ""
   },
   {
+    "card_id": "GD06-034_p1",
+    "card_no": "GD06-034",
+    "name": "高达·巴耶力",
+    "link_name": "",
+    "rarity": "LR +",
+    "spCol": "",
+    "block_icon": "2",
+    "level": "7",
+    "cost": "6",
+    "color": "Red",
+    "type": "UNIT",
+    "effect": "《高机动》（此机体不会被阻挡）\n【配置时】若我方废弃区中有4张或更多〔加拉尔霍恩〕的卡牌，则确认我方卡组最上方的4张卡牌，可以配置其中1张等级不高于Lv.6的〔加拉尔霍恩〕/〔铁华团〕机体卡牌。剩余的卡牌随机放回到卡组最下方。",
+    "zone": "宇宙 地球",
+    "trait": "<加拉尔霍恩> <高达骨架>",
+    "link": "麦基利斯・法里德",
+    "ap": "5",
+    "hp": "5",
+    "source_title": "机动战士高达 铁血的奥尔芬斯",
+    "package": "星尘轨迹 Stardust Trails [GD06]",
+    "package_id": "615106",
+    "package_from": "[GD06] Stardust Trails",
+    "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/769579c6c4f44ca9b19fd7f5f34bb683/GD06-034_2.png",
+    "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-034",
+    "TCGPlayer_URL": ""
+  },
+  {
+    "card_id": "GD06-034_p2",
+    "card_no": "GD06-034",
+    "name": "高达·巴耶力",
+    "link_name": "",
+    "rarity": "LR ++",
+    "spCol": "",
+    "block_icon": "2",
+    "level": "7",
+    "cost": "6",
+    "color": "Red",
+    "type": "UNIT",
+    "effect": "《高机动》（此机体不会被阻挡）\n【配置时】若我方废弃区中有4张或更多〔加拉尔霍恩〕的卡牌，则确认我方卡组最上方的4张卡牌，可以配置其中1张等级不高于Lv.6的〔加拉尔霍恩〕/〔铁华团〕机体卡牌。剩余的卡牌随机放回到卡组最下方。",
+    "zone": "宇宙 地球",
+    "trait": "<加拉尔霍恩> <高达骨架>",
+    "link": "麦基利斯・法里德",
+    "ap": "5",
+    "hp": "5",
+    "source_title": "机动战士高达 铁血的奥尔芬斯",
+    "package": "星尘轨迹 Stardust Trails [GD06]",
+    "package_id": "615106",
+    "package_from": "[GD06] Stardust Trails",
+    "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/4efe17d028b14697a037854e65d2ea86/GD06-034_3.png",
+    "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-034",
+    "TCGPlayer_URL": ""
+  },
+  {
     "card_id": "GD06-035",
     "card_no": "GD06-035",
     "name": "Ζ高达",
@@ -25844,6 +26416,32 @@
     "TCGPlayer_URL": "https://www.tcgplayer.com/product/724356/Zeta Gundam"
   },
   {
+    "card_id": "GD06-035_p1",
+    "card_no": "GD06-035",
+    "name": "Ζ高达",
+    "link_name": "",
+    "rarity": "R +",
+    "spCol": "",
+    "block_icon": "2",
+    "level": "5",
+    "cost": "4",
+    "color": "Red",
+    "type": "UNIT",
+    "effect": "【每回合1次】我方的回合中，当此机体通过战斗伤害破坏对方的机体时，选择1张AP不高于3的对方机体。给与其2点伤害。",
+    "zone": "宇宙 地球",
+    "trait": "<奥古> <高达小队>",
+    "link": "特征〔奥古〕",
+    "ap": "4",
+    "hp": "4",
+    "source_title": "机动战士高达 ZZ",
+    "package": "星尘轨迹 Stardust Trails [GD06]",
+    "package_id": "615106",
+    "package_from": "[GD06] Stardust Trails",
+    "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/d72ffee25609450982105b6b029b7b30/GD06-035_2.png",
+    "YYT_URL": "",
+    "TCGPlayer_URL": ""
+  },
+  {
     "card_id": "GD06-036",
     "card_no": "GD06-036",
     "name": "高达·维达尔",
@@ -25866,6 +26464,32 @@
     "package_id": "615106",
     "package_from": "[GD06] Stardust Trails",
     "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/f1358e75a61949e38499840d777ce289/GD06-036.png",
+    "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-036",
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/724357/Gundam Vidar"
+  },
+  {
+    "card_id": "GD06-036_p1",
+    "card_no": "GD06-036",
+    "name": "高达·维达尔",
+    "link_name": "",
+    "rarity": "R +",
+    "spCol": "LK",
+    "block_icon": "2",
+    "level": "4",
+    "cost": "2",
+    "color": "Red",
+    "type": "UNIT",
+    "effect": "【共鸣时】选择1张对方的机体。给与其1点伤害。",
+    "zone": "宇宙 地球",
+    "trait": "<加拉尔霍恩> <高达骨架>",
+    "link": "加里奥・巴度温",
+    "ap": "3",
+    "hp": "4",
+    "source_title": "机动战士高达 铁血的奥尔芬斯",
+    "package": "星尘轨迹 Stardust Trails [GD06]",
+    "package_id": "615106",
+    "package_from": "[GD06] Stardust Trails",
+    "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/1edc499bdc8a418c9f3312312d3539e1/GD06-036_2.png",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-036",
     "TCGPlayer_URL": ""
   },
@@ -25896,6 +26520,32 @@
     "TCGPlayer_URL": "https://www.tcgplayer.com/product/724358/Reginlaze Julia"
   },
   {
+    "card_id": "GD06-037_p1",
+    "card_no": "GD06-037",
+    "name": "雷金雷兹朱莉娅",
+    "link_name": "",
+    "rarity": "R +",
+    "spCol": "LK",
+    "block_icon": "2",
+    "level": "6",
+    "cost": "4",
+    "color": "Red",
+    "type": "UNIT",
+    "effect": "我方的回合中，此机体在和受到过伤害的对方机体战斗期间，此机体获得《先制攻击》效果。\n（攻击中的此机体，会比对方优先给与伤害）\n【搭乘中】所有对方的机体都无法因对方的效果转为活跃状态。",
+    "zone": "宇宙 地球",
+    "trait": "<加拉尔霍恩>",
+    "link": "朱莉塔·朱里斯",
+    "ap": "4",
+    "hp": "4",
+    "source_title": "机动战士高达 铁血的奥尔芬斯",
+    "package": "星尘轨迹 Stardust Trails [GD06]",
+    "package_id": "615106",
+    "package_from": "[GD06] Stardust Trails",
+    "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/96a434a8680e418f92af144807db1186/GD06-037_2.png",
+    "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-037",
+    "TCGPlayer_URL": ""
+  },
+  {
     "card_id": "GD06-038",
     "card_no": "GD06-038",
     "name": "高达·锡蒙力维达尔",
@@ -25918,6 +26568,32 @@
     "package_id": "615106",
     "package_from": "[GD06] Stardust Trails",
     "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/ac302e4f04bb4375b5085700ce1464b2/GD06-038.png",
+    "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-038",
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/724359/Gundam Kimaris Vidar"
+  },
+  {
+    "card_id": "GD06-038_p1",
+    "card_no": "GD06-038",
+    "name": "高达·锡蒙力维达尔",
+    "link_name": "",
+    "rarity": "R +",
+    "spCol": "",
+    "block_icon": "2",
+    "level": "7",
+    "cost": "6",
+    "color": "Red",
+    "type": "UNIT",
+    "effect": "《突破3》（我方的回合中，当此机体通过战斗伤害破坏对方的机体时，给与该方护盾区最前方的1张卡牌指定数值的伤害）\n【搭乘时】选择1张等级最高的对方机体。给与其3点伤害。",
+    "zone": "宇宙 地球",
+    "trait": "<加拉尔霍恩> <高达骨架>",
+    "link": "加里奥・巴度温",
+    "ap": "5",
+    "hp": "5",
+    "source_title": "机动战士高达 铁血的奥尔芬斯",
+    "package": "星尘轨迹 Stardust Trails [GD06]",
+    "package_id": "615106",
+    "package_from": "[GD06] Stardust Trails",
+    "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/8dde05240e7443adb2fb32e4b697a3aa/GD06-038_2.png",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-038",
     "TCGPlayer_URL": ""
   },
@@ -25970,6 +26646,32 @@
     "package_id": "615106",
     "package_from": "[GD06] Stardust Trails",
     "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/0de339b6207442d79efae3a2615775ba/GD06-040.png",
+    "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-040",
+    "TCGPlayer_URL": ""
+  },
+  {
+    "card_id": "GD06-040_p1",
+    "card_no": "GD06-040",
+    "name": "高达Mk-II",
+    "link_name": "",
+    "rarity": "U +",
+    "spCol": "LK",
+    "block_icon": "2",
+    "level": "4",
+    "cost": "2",
+    "color": "Red",
+    "type": "UNIT",
+    "effect": "",
+    "zone": "宇宙 地球",
+    "trait": "<奥古> <高达小队>",
+    "link": "特征〔奥古〕",
+    "ap": "3",
+    "hp": "4",
+    "source_title": "机动战士高达 ZZ",
+    "package": "星尘轨迹 Stardust Trails [GD06]",
+    "package_id": "615106",
+    "package_from": "[GD06] Stardust Trails",
+    "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/a2bef0e8d67340c18fbe875b437414c3/GD06-040_2.png",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-040",
     "TCGPlayer_URL": ""
   },
@@ -26075,7 +26777,7 @@
     "package_from": "[GD06] Stardust Trails",
     "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/8fe40fc5d66748d69de203302854143e/GD06-044.png",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-044",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/724365/Core Top"
   },
   {
     "card_id": "GD06-045",
@@ -26101,7 +26803,7 @@
     "package_from": "[GD06] Stardust Trails",
     "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/cd875645d8ae418cbc7b086420a12f36/GD06-045.png",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-045",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/724366/Core Base"
   },
   {
     "card_id": "GD06-046",
@@ -26127,7 +26829,7 @@
     "package_from": "[GD06] Stardust Trails",
     "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/aa22c2d5f4d940549f2835a39a0e249a/GD06-046.png",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-046",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/724367/Hyaku Shiki"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "GD06-047",
@@ -26153,7 +26855,7 @@
     "package_from": "[GD06] Stardust Trails",
     "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/1ee60e480cdb414dbe2f3bf3fbcb1339/GD06-047.png",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-047",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/724368/Windam"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "GD06-048",
@@ -26208,6 +26910,32 @@
     "TCGPlayer_URL": "https://www.tcgplayer.com/product/724370/Gundam GP02A GD06 049"
   },
   {
+    "card_id": "GD06-049_p1",
+    "card_no": "GD06-049",
+    "name": "高达试作2号机",
+    "link_name": "",
+    "rarity": "LR +",
+    "spCol": "",
+    "block_icon": "2",
+    "level": "5",
+    "cost": "4",
+    "color": "Purple",
+    "type": "UNIT",
+    "effect": "【搭乘时】若我方废弃区中有10张或更多〔吉翁〕的机体卡牌，则破坏所有各对方玩家的基地。\n【破坏时】确认我方卡组最上方的3张卡牌，可以公开其中1张〔迪拉兹舰队〕的机体卡牌并加入手牌。剩余的卡牌置于我方的废弃区中。",
+    "zone": "宇宙 地球",
+    "trait": "<吉翁> <迪拉兹舰队>",
+    "link": "阿纳贝尔·卡多",
+    "ap": "4",
+    "hp": "3",
+    "source_title": "机动战士高达0083",
+    "package": "星尘轨迹 Stardust Trails [GD06]",
+    "package_id": "615106",
+    "package_from": "[GD06] Stardust Trails",
+    "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/25956f0d09a74752a11a9852de705738/GD06-049_2.png",
+    "YYT_URL": "",
+    "TCGPlayer_URL": ""
+  },
+  {
     "card_id": "GD06-050",
     "card_no": "GD06-050",
     "name": "传说高达",
@@ -26232,6 +26960,32 @@
     "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/c3af28b965e94d78baaefd592ce26fdb/GD06-050.png",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-050",
     "TCGPlayer_URL": "https://www.tcgplayer.com/product/724371/Legend Gundam"
+  },
+  {
+    "card_id": "GD06-050_p1",
+    "card_no": "GD06-050",
+    "name": "传说高达",
+    "link_name": "",
+    "rarity": "LR +",
+    "spCol": "",
+    "block_icon": "2",
+    "level": "6",
+    "cost": "5",
+    "color": "Purple",
+    "type": "UNIT",
+    "effect": "我方战斗区中存在〔扎夫特〕共鸣机体的期间，废弃区中的此卡牌Lv.-3、费用-3。\n【配置时】选择1张等级不高于Lv.3的对方机体。将其破坏。若此机体是从废弃区中配置的，则改为选择1~2张等级不高于Lv.3的对方机体。",
+    "zone": "宇宙 地球",
+    "trait": "<扎夫特> <密涅瓦队>",
+    "link": "雷・扎・巴雷尔",
+    "ap": "4",
+    "hp": "5",
+    "source_title": "机动战士高达SEED DESTINY",
+    "package": "星尘轨迹 Stardust Trails [GD06]",
+    "package_id": "615106",
+    "package_from": "[GD06] Stardust Trails",
+    "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/9176470a3f8f48c389b5ded9d846bdb5/GD06-050_2.png",
+    "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-050",
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "GD06-051",
@@ -26260,6 +27014,32 @@
     "TCGPlayer_URL": "https://www.tcgplayer.com/product/724372/GFreD GD06 051"
   },
   {
+    "card_id": "GD06-051_p1",
+    "card_no": "GD06-051",
+    "name": "GFreD",
+    "link_name": "",
+    "rarity": "LR +",
+    "spCol": "",
+    "block_icon": "2",
+    "level": "6",
+    "cost": "5",
+    "color": "Purple",
+    "type": "UNIT",
+    "effect": "【启动・主要】【每回合1次】②，将此机体转为休息状态：选择我方废弃区中1张等级不高于Lv.5的〔阿尔法杀手〕机体卡牌。将其配置。\n【配置时】若友方战斗区中存在此机体以外的〔阿尔法杀手〕机体，则本回合中，此机体获得以下效果。\n■回合结束时选择2张我方的能源。将选择的卡牌转为活跃状态。",
+    "zone": "宇宙 地球",
+    "trait": "<吉翁> <阿尔法杀手>",
+    "link": "尼娅安",
+    "ap": "5",
+    "hp": "4",
+    "source_title": "机动战士Gundam GQuuuuuuX",
+    "package": "星尘轨迹 Stardust Trails [GD06]",
+    "package_id": "615106",
+    "package_from": "[GD06] Stardust Trails",
+    "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/240a9ea7424542568e93902e092fd092/GD06-051_2.png",
+    "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-051",
+    "TCGPlayer_URL": ""
+  },
+  {
     "card_id": "GD06-052",
     "card_no": "GD06-052",
     "name": "瓦尔·瓦罗",
@@ -26286,6 +27066,32 @@
     "TCGPlayer_URL": "https://www.tcgplayer.com/product/724373/Val Walo"
   },
   {
+    "card_id": "GD06-052_p1",
+    "card_no": "GD06-052",
+    "name": "瓦尔·瓦罗",
+    "link_name": "",
+    "rarity": "R +",
+    "spCol": "",
+    "block_icon": "2",
+    "level": "5",
+    "cost": "4",
+    "color": "Purple",
+    "type": "UNIT",
+    "effect": "我方废弃区中有5张或更多〔吉翁〕的机体卡牌期间，此机体获得《高机动》效果。\n （此机体不会被阻挡）\n【配置时】将我方卡组最上方的1张卡牌，置于我方的废弃区中。若通过此效果放置了〔吉翁〕的卡牌，则选择1张AP不高于4的对方机体。将其转为休息状态。",
+    "zone": "宇宙",
+    "trait": "<吉翁> <民间>",
+    "link": "凯利·雷兹纳",
+    "ap": "4",
+    "hp": "4",
+    "source_title": "机动战士高达0083",
+    "package": "星尘轨迹 Stardust Trails [GD06]",
+    "package_id": "615106",
+    "package_from": "[GD06] Stardust Trails",
+    "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/b314667dd86a43e9bb1bf77d7e93437f/GD06-052_2.png",
+    "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-052",
+    "TCGPlayer_URL": ""
+  },
+  {
     "card_id": "GD06-053",
     "card_no": "GD06-053",
     "name": "泽维尔专用强人（白瓷装备）（GQ）",
@@ -26309,7 +27115,33 @@
     "package_from": "[GD06] Stardust Trails",
     "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/183834bcd6c74cbe86b3eff23d5267f7/GD06-053.png",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-053",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/724374/Xaviers Gyan Hakuji Packs GQ"
+    "TCGPlayer_URL": ""
+  },
+  {
+    "card_id": "GD06-053_p1",
+    "card_no": "GD06-053",
+    "name": "泽维尔专用强人（白瓷装备）（GQ）",
+    "link_name": "",
+    "rarity": "R +",
+    "spCol": "",
+    "block_icon": "2",
+    "level": "5",
+    "cost": "3",
+    "color": "Purple",
+    "type": "UNIT",
+    "effect": "《阻挡者》（可转为休息状态并将攻击对象改为此机体）\n【破坏时】选择1张我方的能源。将其转为活跃状态。",
+    "zone": "宇宙 地球",
+    "trait": "<吉翁>",
+    "link": "泽维尔·奥利维特",
+    "ap": "4",
+    "hp": "4",
+    "source_title": "机动战士Gundam GQuuuuuuX",
+    "package": "星尘轨迹 Stardust Trails [GD06]",
+    "package_id": "615106",
+    "package_from": "[GD06] Stardust Trails",
+    "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/d5970f55e2d24ee3a1abdff0e1fea26f/GD06-053_2.png",
+    "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-053",
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "GD06-054",
@@ -26338,6 +27170,32 @@
     "TCGPlayer_URL": "https://www.tcgplayer.com/product/724375/GFreD GD06 054"
   },
   {
+    "card_id": "GD06-054_p1",
+    "card_no": "GD06-054",
+    "name": "GFreD",
+    "link_name": "",
+    "rarity": "R +",
+    "spCol": "LK",
+    "block_icon": "2",
+    "level": "7",
+    "cost": "6",
+    "color": "Purple",
+    "type": "UNIT",
+    "effect": "《压制》（在攻击护盾并给与伤害时，会同时给与最前方的2张护盾伤害）\n【配置时】可以选择1张我方的机体和1张对方的机体。给与选择的机体1点伤害。",
+    "zone": "宇宙 地球",
+    "trait": "<吉翁> <阿尔法杀手>",
+    "link": "尼娅安",
+    "ap": "6",
+    "hp": "5",
+    "source_title": "机动战士Gundam GQuuuuuuX",
+    "package": "星尘轨迹 Stardust Trails [GD06]",
+    "package_id": "615106",
+    "package_from": "[GD06] Stardust Trails",
+    "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/bffde1fd4a81473ba76e3f30f29131a2/GD06-054_2.png",
+    "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-054",
+    "TCGPlayer_URL": ""
+  },
+  {
     "card_id": "GD06-055",
     "card_no": "GD06-055",
     "name": "高达试作2号机",
@@ -26360,6 +27218,32 @@
     "package_id": "615106",
     "package_from": "[GD06] Stardust Trails",
     "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/aad3cc443a034bf58db888a12c762eba/GD06-055.png",
+    "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-055",
+    "TCGPlayer_URL": ""
+  },
+  {
+    "card_id": "GD06-055_p1",
+    "card_no": "GD06-055",
+    "name": "高达试作2号机",
+    "link_name": "",
+    "rarity": "U +",
+    "spCol": "LK",
+    "block_icon": "2",
+    "level": "4",
+    "cost": "2",
+    "color": "Purple",
+    "type": "UNIT",
+    "effect": "【搭乘中】【攻击时】可以给与此机体1点伤害。若那样做的话，则本次战斗中，此机体获得《突破2》效果。\n（我方的回合中，当此机体通过战斗伤害破坏对方的机体时，给与该方护盾区最前方的1张卡牌指定数值的伤害）",
+    "zone": "宇宙 地球",
+    "trait": "<吉翁> <迪拉兹舰队>",
+    "link": "阿纳贝尔·卡多",
+    "ap": "4",
+    "hp": "3",
+    "source_title": "机动战士高达0083",
+    "package": "星尘轨迹 Stardust Trails [GD06]",
+    "package_id": "615106",
+    "package_from": "[GD06] Stardust Trails",
+    "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/3488ab1cdd3b4dbea5cd62298b6487c3/GD06-055_2.png",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-055",
     "TCGPlayer_URL": ""
   },
@@ -26465,7 +27349,7 @@
     "package_from": "[GD06] Stardust Trails",
     "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/caeadb0b294d4873a425cca1a4a62eb0/GD06-059.png",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-059",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/724380/Dom Tropen"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "GD06-060",
@@ -26517,7 +27401,7 @@
     "package_from": "[GD06] Stardust Trails",
     "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/e5cdd373037e41859e209f45a7c1b47f/GD06-061.png",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-061",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/724382/Dra C"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "GD06-062",
@@ -26598,6 +27482,32 @@
     "TCGPlayer_URL": "https://www.tcgplayer.com/product/724385/Altron Gundam EW"
   },
   {
+    "card_id": "GD06-064_p1",
+    "card_no": "GD06-064",
+    "name": "双头龙高达（EW版）",
+    "link_name": "",
+    "rarity": "LR +",
+    "spCol": "",
+    "block_icon": "2",
+    "level": "3",
+    "cost": "3",
+    "color": "White",
+    "type": "UNIT",
+    "effect": "《阻挡者》（可转为休息状态并将攻击对象改为此机体）\n对方战斗区中存在Lv.5或更高等级的机体期间，此机体的AP+3。",
+    "zone": "宇宙 地球",
+    "trait": "<G小队> <马里梅亚军>",
+    "link": "张五飞",
+    "ap": "3",
+    "hp": "4",
+    "source_title": "新机动战记高达W 无尽的华尔兹",
+    "package": "星尘轨迹 Stardust Trails [GD06]",
+    "package_id": "615106",
+    "package_from": "[GD06] Stardust Trails",
+    "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/f318b76e74134f12805f63de5eb440ac/GD06-064_2.png",
+    "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-064",
+    "TCGPlayer_URL": ""
+  },
+  {
     "card_id": "GD06-065",
     "card_no": "GD06-065",
     "name": "金色苏摩",
@@ -26621,7 +27531,33 @@
     "package_from": "[GD06] Stardust Trails",
     "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/1659cad2b9514e86a7aa733cccc7b889/GD06-065.png",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-065",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/724386/SUMO Gold Type"
+    "TCGPlayer_URL": ""
+  },
+  {
+    "card_id": "GD06-065_p1",
+    "card_no": "GD06-065",
+    "name": "金色苏摩",
+    "link_name": "",
+    "rarity": "LR +",
+    "spCol": "",
+    "block_icon": "2",
+    "level": "6",
+    "cost": "4",
+    "color": "White",
+    "type": "UNIT",
+    "effect": "《阻挡者》（可转为休息状态并将攻击对象改为此机体）\n【启动・主要】【每回合1次】④：将所有拥有《阻挡者》效果的〔迪安娜回归军〕/〔民兵团〕的我方机体转为活跃状态，且本回合中，那些机体无法攻击。",
+    "zone": "宇宙 地球",
+    "trait": "<迪安娜回归军>",
+    "link": "哈利·奥德",
+    "ap": "4",
+    "hp": "5",
+    "source_title": "∀高达",
+    "package": "星尘轨迹 Stardust Trails [GD06]",
+    "package_id": "615106",
+    "package_from": "[GD06] Stardust Trails",
+    "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/54ff99439ebf48aca9f3d5889317876a/GD06-065_2.png",
+    "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-065",
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "GD06-066",
@@ -26650,6 +27586,32 @@
     "TCGPlayer_URL": "https://www.tcgplayer.com/product/724387/Shadow Gundam"
   },
   {
+    "card_id": "GD06-066_p1",
+    "card_no": "GD06-066",
+    "name": "明镜高达",
+    "link_name": "",
+    "rarity": "R +",
+    "spCol": "",
+    "block_icon": "2",
+    "level": "6",
+    "cost": "4",
+    "color": "White",
+    "type": "UNIT",
+    "effect": "《阻挡者》（可转为休息状态并将攻击对象改为此机体）\n【共鸣中】【攻击时】发动搭乘此机体的卡牌的【瞬动】效果。",
+    "zone": "宇宙 地球",
+    "trait": "<MF>",
+    "link": "特征〔高达斗士〕",
+    "ap": "5",
+    "hp": "4",
+    "source_title": "机动武斗传G高达",
+    "package": "星尘轨迹 Stardust Trails [GD06]",
+    "package_id": "615106",
+    "package_from": "[GD06] Stardust Trails",
+    "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/5dbf9d4f60b24998a9c6f764949483f7/GD06-066_2.png",
+    "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-066",
+    "TCGPlayer_URL": ""
+  },
+  {
     "card_id": "GD06-067",
     "card_no": "GD06-067",
     "name": "沙漠高达改（EW版）",
@@ -26673,7 +27635,7 @@
     "package_from": "[GD06] Stardust Trails",
     "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/d5210ba36ef44303a23320e98dc8dd85/GD06-067.png",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-067",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/724388/Gundam Sandrock Custom EW"
   },
   {
     "card_id": "GD06-068",
@@ -26702,6 +27664,32 @@
     "TCGPlayer_URL": "https://www.tcgplayer.com/product/724389/Gundam Heavyarms Custom EW"
   },
   {
+    "card_id": "GD06-068_p1",
+    "card_no": "GD06-068",
+    "name": "重装高达改（EW版）",
+    "link_name": "",
+    "rarity": "R +",
+    "spCol": "",
+    "block_icon": "2",
+    "level": "4",
+    "cost": "3",
+    "color": "White",
+    "type": "UNIT",
+    "effect": "【配置时】选择1张等级不高于Lv.3的对方机体。将其转为休息状态，且若我方战斗区中存在此机体以外的〔G小队〕/〔预防者〕机体，则本回合中，该对方机体的AP-2。",
+    "zone": "宇宙 地球",
+    "trait": "<G小队>",
+    "link": "特罗瓦・巴顿",
+    "ap": "4",
+    "hp": "3",
+    "source_title": "新机动战记高达W 无尽的华尔兹",
+    "package": "星尘轨迹 Stardust Trails [GD06]",
+    "package_id": "615106",
+    "package_from": "[GD06] Stardust Trails",
+    "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/69ef8fcff6dc4331aedca84d44aceb92/GD06-068_2.png",
+    "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-068",
+    "TCGPlayer_URL": ""
+  },
+  {
     "card_id": "GD06-069",
     "card_no": "GD06-069",
     "name": "银色苏摩",
@@ -26724,6 +27712,32 @@
     "package_id": "615106",
     "package_from": "[GD06] Stardust Trails",
     "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/c4cbac137a87425d895a2aad6e387e65/GD06-069.png",
+    "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-069",
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/724390/SUMO Silver Type"
+  },
+  {
+    "card_id": "GD06-069_p1",
+    "card_no": "GD06-069",
+    "name": "银色苏摩",
+    "link_name": "",
+    "rarity": "R +",
+    "spCol": "LK",
+    "block_icon": "2",
+    "level": "4",
+    "cost": "3",
+    "color": "White",
+    "type": "UNIT",
+    "effect": "《阻挡者》（可转为休息状态并将攻击对象改为此机体）\n【启动・瞬动】【每回合1次】①：选择1张受到过伤害的〔迪安娜回归军〕的我方机体。使其回复1点。",
+    "zone": "宇宙 地球",
+    "trait": "<迪安娜回归军>",
+    "link": "特征〔月之民〕",
+    "ap": "4",
+    "hp": "3",
+    "source_title": "∀高达",
+    "package": "星尘轨迹 Stardust Trails [GD06]",
+    "package_id": "615106",
+    "package_from": "[GD06] Stardust Trails",
+    "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/6341c7fba4c140fc9ce91676b7ea8000/GD06-069_2.png",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-069",
     "TCGPlayer_URL": ""
   },
@@ -26752,6 +27766,32 @@
     "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/08cea667149148e489adc2ca6e56864d/GD06-070.png",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-070",
     "TCGPlayer_URL": "https://www.tcgplayer.com/product/724391/Eagail"
+  },
+  {
+    "card_id": "GD06-070_p1",
+    "card_no": "GD06-070",
+    "name": "伊盖尔",
+    "link_name": "",
+    "rarity": "R +",
+    "spCol": "LK",
+    "block_icon": "2",
+    "level": "6",
+    "cost": "5",
+    "color": "White",
+    "type": "UNIT",
+    "effect": "【配置时】配置1张“戈佐”（〔迪安娜回归军〕・AP0・HP3・《阻挡者》）的机体替代卡。\n【攻击时】本回合中，若因我方机体的效果支付过共计③或更多费用，则选择1张对方的机体。本次战斗中，使其AP-5。",
+    "zone": "宇宙 地球",
+    "trait": "<迪安娜回归军>",
+    "link": "哥连·那达",
+    "ap": "5",
+    "hp": "3",
+    "source_title": "∀高达",
+    "package": "星尘轨迹 Stardust Trails [GD06]",
+    "package_id": "615106",
+    "package_from": "[GD06] Stardust Trails",
+    "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/b1e283de14ad45a9a6adfc8cd880ba34/GD06-070_2.png",
+    "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-070",
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "GD06-071",
@@ -26802,6 +27842,32 @@
     "package_id": "615106",
     "package_from": "[GD06] Stardust Trails",
     "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/c3ff14c277d14906865255f287cf4d96/GD06-072.png",
+    "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-072",
+    "TCGPlayer_URL": ""
+  },
+  {
+    "card_id": "GD06-072_p1",
+    "card_no": "GD06-072",
+    "name": "地狱死神高达（EW版）",
+    "link_name": "",
+    "rarity": "U +",
+    "spCol": "LK",
+    "block_icon": "2",
+    "level": "5",
+    "cost": "3",
+    "color": "White",
+    "type": "UNIT",
+    "effect": "【搭乘中】【破坏时】若我方战斗区中存在此机体以外的〔G小队〕/〔预防者〕机体，则可以选择我方废弃区中1张等级不高于Lv.5的指令卡牌。将其加入手牌。",
+    "zone": "宇宙 地球",
+    "trait": "<G小队>",
+    "link": "迪奥・麦克斯韦尔",
+    "ap": "5",
+    "hp": "3",
+    "source_title": "新机动战记高达W 无尽的华尔兹",
+    "package": "星尘轨迹 Stardust Trails [GD06]",
+    "package_id": "615106",
+    "package_from": "[GD06] Stardust Trails",
+    "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/ac938e9cde90424bbd8c60fb64a9d60d/GD06-072_2.png",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-072",
     "TCGPlayer_URL": ""
   },
@@ -26881,7 +27947,7 @@
     "package_from": "[GD06] Stardust Trails",
     "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/d5d86809ae3d48aebf7bea4f984432c5/GD06-075.png",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-075",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/724396/Serpent"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "GD06-076",
@@ -26933,7 +27999,7 @@
     "package_from": "[GD06] Stardust Trails",
     "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/091ee2cb879b4516a42ab95f812036ca/GD06-077.png",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-077",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/724398/Cannon Illfuto"
   },
   {
     "card_id": "GD06-078",
@@ -27011,7 +28077,33 @@
     "package_from": "[GD06] Stardust Trails",
     "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/a8a26519a8054045ac01e3daba52c45d/GD06-080.png",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-080",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/724401/Kou Uraki"
+    "TCGPlayer_URL": ""
+  },
+  {
+    "card_id": "GD06-080_p1",
+    "card_no": "GD06-080",
+    "name": "浦木宏",
+    "link_name": "",
+    "rarity": "R +",
+    "spCol": "",
+    "block_icon": "2",
+    "level": "4",
+    "cost": "1",
+    "color": "Blue",
+    "type": "PILOT",
+    "effect": "【爆发】此卡牌加入手牌。\n【启动・瞬动】【每回合1次】本回合中，若我方通过效果抽取卡牌，则选择1张我方的机体。使其回复2点。",
+    "zone": "-",
+    "trait": "<地球联邦> <阿尔比恩队>",
+    "link": "",
+    "ap": "+2",
+    "hp": "+1",
+    "source_title": "机动战士高达0083",
+    "package": "星尘轨迹 Stardust Trails [GD06]",
+    "package_id": "615106",
+    "package_from": "[GD06] Stardust Trails",
+    "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/b8b69253acbb4c7e9d7d5c0e3b1a5957/GD06-080_2.png",
+    "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-080",
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "GD06-081",
@@ -27038,6 +28130,32 @@
     "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/93925f8a6293465fbef6587281ff63fa/GD06-081.png",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-081",
     "TCGPlayer_URL": "https://www.tcgplayer.com/product/724402/Amate Yuzuriha Machu"
+  },
+  {
+    "card_id": "GD06-081_p1",
+    "card_no": "GD06-081",
+    "name": "天手让叶（玛秋）",
+    "link_name": "",
+    "rarity": "R +",
+    "spCol": "",
+    "block_icon": "2",
+    "level": "4",
+    "cost": "1",
+    "color": "Blue",
+    "type": "PILOT",
+    "effect": "【爆发】此卡牌加入手牌。\n此机体为〔阿尔法杀手〕的期间，此机体获得《修复2》效果。\n（当我方的回合结束时，此机体回复指定数值）",
+    "zone": "-",
+    "trait": "<阿尔法杀手> <新人类>",
+    "link": "",
+    "ap": "+1",
+    "hp": "+2",
+    "source_title": "机动战士Gundam GQuuuuuuX",
+    "package": "星尘轨迹 Stardust Trails [GD06]",
+    "package_id": "615106",
+    "package_from": "[GD06] Stardust Trails",
+    "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/7235ea24d84a4dfca90bdfe051e437c9/GD06-081_2.png",
+    "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-081",
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "GD06-082",
@@ -27118,6 +28236,32 @@
     "TCGPlayer_URL": ""
   },
   {
+    "card_id": "GD06-084_p1",
+    "card_no": "GD06-084",
+    "name": "艾露比·普露",
+    "link_name": "",
+    "rarity": "R +",
+    "spCol": "",
+    "block_icon": "2",
+    "level": "3",
+    "cost": "1",
+    "color": "Green",
+    "type": "PILOT",
+    "effect": "【爆发】此卡牌加入手牌。\n【搭乘时】本回合中，此机体获得等同于〔新吉翁〕/〔远程兵器〕的我方机体数量的《突破1》效果。\n（我方的回合中，当此机体通过战斗伤害破坏对方的机体时，给与该方护盾区最前方的1张卡牌指定数值的伤害）",
+    "zone": "-",
+    "trait": "<新吉翁> <新人类>",
+    "link": "",
+    "ap": "+2",
+    "hp": "+0",
+    "source_title": "机动战士高达 ZZ",
+    "package": "星尘轨迹 Stardust Trails [GD06]",
+    "package_id": "615106",
+    "package_from": "[GD06] Stardust Trails",
+    "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/4dda7fafde514dcb8c0dad6f83bd912a/GD06-084_2.png",
+    "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-084",
+    "TCGPlayer_URL": ""
+  },
+  {
     "card_id": "GD06-085",
     "card_no": "GD06-085",
     "name": "基姆·金卡拉姆",
@@ -27193,7 +28337,7 @@
     "package_from": "[GD06] Stardust Trails",
     "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/a3ff160250df43e3acb406b3af816611/GD06-087.png",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-087",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/724408/Merrybell Gadget"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "GD06-088",
@@ -27220,6 +28364,32 @@
     "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/99089861528343d88622d36c1691315f/GD06-088.png",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-088",
     "TCGPlayer_URL": "https://www.tcgplayer.com/product/724409/Judau Ashta"
+  },
+  {
+    "card_id": "GD06-088_p1",
+    "card_no": "GD06-088",
+    "name": "捷多·亚西塔",
+    "link_name": "",
+    "rarity": "R +",
+    "spCol": "",
+    "block_icon": "2",
+    "level": "5",
+    "cost": "1",
+    "color": "Red",
+    "type": "PILOT",
+    "effect": "【爆发】此卡牌加入手牌。\n【共鸣中】【破坏时】选择我方废弃区中1张等级不高于Lv.2的〔高达小队〕机体卡牌。将其加入手牌。",
+    "zone": "-",
+    "trait": "<奥古> <高达小队> <新人类>",
+    "link": "",
+    "ap": "+2",
+    "hp": "+2",
+    "source_title": "机动战士高达 ZZ",
+    "package": "星尘轨迹 Stardust Trails [GD06]",
+    "package_id": "615106",
+    "package_from": "[GD06] Stardust Trails",
+    "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/684a4ed82c524ddc8d789531ea84bc9b/GD06-088_2.png",
+    "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-088",
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "GD06-089",
@@ -27297,7 +28467,7 @@
     "package_from": "[GD06] Stardust Trails",
     "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/7ceefcd7c3d44c1e83841028bc2d1fd0/GD06-091.png",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-091",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/724412/Roux Louka"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "GD06-092",
@@ -27323,7 +28493,7 @@
     "package_from": "[GD06] Stardust Trails",
     "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/452b8f27e24a465d9ce48fae11174e0d/GD06-092.png",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-092",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/724413/Neo Lorrnoke"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "GD06-093",
@@ -27349,7 +28519,33 @@
     "package_from": "[GD06] Stardust Trails",
     "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/8d5f91b81f3a478790cc176a6dac6831/GD06-093.png",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-093",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/724414/Anavel Gato"
+    "TCGPlayer_URL": ""
+  },
+  {
+    "card_id": "GD06-093_p1",
+    "card_no": "GD06-093",
+    "name": "阿纳贝尔·卡多",
+    "link_name": "",
+    "rarity": "R +",
+    "spCol": "",
+    "block_icon": "2",
+    "level": "4",
+    "cost": "1",
+    "color": "Purple",
+    "type": "PILOT",
+    "effect": "【爆发】此卡牌加入手牌。\n【攻击时】本次战斗中，当此机体受到来自等级不高于此机体Lv.数值的对方机体的战斗伤害时，该伤害减轻2点。",
+    "zone": "-",
+    "trait": "<吉翁> <迪拉兹舰队>",
+    "link": "",
+    "ap": "+2",
+    "hp": "+1",
+    "source_title": "机动战士高达0083",
+    "package": "星尘轨迹 Stardust Trails [GD06]",
+    "package_id": "615106",
+    "package_from": "[GD06] Stardust Trails",
+    "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/25fe925a38e349e7882726b30227c5cc/GD06-093_2.png",
+    "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-093",
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "GD06-094",
@@ -27376,6 +28572,32 @@
     "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/8d725de6b9b94c54925d8b914ee6f2cd/GD06-094.png",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-094",
     "TCGPlayer_URL": "https://www.tcgplayer.com/product/724415/Nyaan"
+  },
+  {
+    "card_id": "GD06-094_p1",
+    "card_no": "GD06-094",
+    "name": "尼娅安",
+    "link_name": "",
+    "rarity": "R +",
+    "spCol": "",
+    "block_icon": "2",
+    "level": "4",
+    "cost": "1",
+    "color": "Purple",
+    "type": "PILOT",
+    "effect": "【爆发】此卡牌加入手牌。\n【搭乘时】选择1张友方的机体。本回合中，使其获得以下效果。\n■当此机体给与等级不高于Lv.4的对方机体战斗伤害时，破坏该对方机体。",
+    "zone": "-",
+    "trait": "<吉翁> <阿尔法杀手> <新人类>",
+    "link": "",
+    "ap": "+2",
+    "hp": "+1",
+    "source_title": "机动战士Gundam GQuuuuuuX",
+    "package": "星尘轨迹 Stardust Trails [GD06]",
+    "package_id": "615106",
+    "package_from": "[GD06] Stardust Trails",
+    "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/c2ae89b5de03442ba1b754f4b316d41b/GD06-094_2.png",
+    "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-094",
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "GD06-095",
@@ -27456,6 +28678,32 @@
     "TCGPlayer_URL": "https://www.tcgplayer.com/product/724418/Harry Ord"
   },
   {
+    "card_id": "GD06-097_p1",
+    "card_no": "GD06-097",
+    "name": "哈利·奥德",
+    "link_name": "",
+    "rarity": "R +",
+    "spCol": "",
+    "block_icon": "2",
+    "level": "5",
+    "cost": "1",
+    "color": "White",
+    "type": "PILOT",
+    "effect": "【爆发】此卡牌加入手牌。\n【每回合1次】当此机体发动《阻挡者》效果时，将此机体转为活跃状态。",
+    "zone": "-",
+    "trait": "<迪安娜回归军> <月之民>",
+    "link": "",
+    "ap": "+2",
+    "hp": "+2",
+    "source_title": "∀高达",
+    "package": "星尘轨迹 Stardust Trails [GD06]",
+    "package_id": "615106",
+    "package_from": "[GD06] Stardust Trails",
+    "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/08cd835f411746acaa05f0fd4cd9c87f/GD06-097_2.png",
+    "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-097",
+    "TCGPlayer_URL": ""
+  },
+  {
     "card_id": "GD06-098",
     "card_no": "GD06-098",
     "name": "迪奥・麦克斯韦尔",
@@ -27531,7 +28779,7 @@
     "package_from": "[GD06] Stardust Trails",
     "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/1e13694c539c45809059eb1e406f0ae8/GD06-100.png",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-100",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/724421/Corin Nander"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "GD06-101",
@@ -27609,7 +28857,7 @@
     "package_from": "[GD06] Stardust Trails",
     "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/9d242574b0a94eca9ab6b1726b8eae6e/GD06-103.png",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-103",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/724424/Restore the Front Line"
   },
   {
     "card_id": "GD06-104",
@@ -27662,6 +28910,32 @@
     "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/578dca02c0b54c75be6e9075b2f9e48d/GD06-105.png",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-105",
     "TCGPlayer_URL": "https://www.tcgplayer.com/product/724426/Grace Under Pressure"
+  },
+  {
+    "card_id": "GD06-105_p1",
+    "card_no": "GD06-105",
+    "name": "无法退让的温柔",
+    "link_name": "",
+    "rarity": "R +",
+    "spCol": "",
+    "block_icon": "2",
+    "level": "5",
+    "cost": "3",
+    "color": "Green",
+    "type": "COMMAND",
+    "effect": "【主要】配置1张“凯列班高达”（〔学园〕・AP5・HP3・《高机动》）的机体替代卡，或1张“风灵高达（改修型）”（〔静寂・零〕・AP3・HP5・《突破3》）的机体替代卡。",
+    "zone": "-",
+    "trait": "",
+    "link": "",
+    "ap": "-",
+    "hp": "-",
+    "source_title": "机动战士高达 水星的魔女",
+    "package": "星尘轨迹 Stardust Trails [GD06]",
+    "package_id": "615106",
+    "package_from": "[GD06] Stardust Trails",
+    "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/48b099c4a14548e69247414d97512bf3/GD06-105_2.png",
+    "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-105",
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "GD06-106",
@@ -27739,7 +29013,7 @@
     "package_from": "[GD06] Stardust Trails",
     "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/0c74e7c1460844de9a4850ae0f3192a8/GD06-108.png",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-108",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/724429/On Edge"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "GD06-109",
@@ -27791,7 +29065,33 @@
     "package_from": "[GD06] Stardust Trails",
     "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/1b3a32f10bbe4752ba7520ce4a2f280d/GD06-110.png",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-110",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/724431/Familial Love"
+    "TCGPlayer_URL": ""
+  },
+  {
+    "card_id": "GD06-110_p1",
+    "card_no": "GD06-110",
+    "name": "家族爱",
+    "link_name": "",
+    "rarity": "R +",
+    "spCol": "",
+    "block_icon": "2",
+    "level": "2",
+    "cost": "1",
+    "color": "Red",
+    "type": "COMMAND",
+    "effect": "【爆发】此卡牌加入手牌。\n【瞬动】选择1张我方的机体。本次战斗中，使其AP+2。此后，若我方的手牌不多于3张，则我方抽取1张卡牌。",
+    "zone": "-",
+    "trait": "",
+    "link": "",
+    "ap": "-",
+    "hp": "-",
+    "source_title": "机动战士高达 ZZ",
+    "package": "星尘轨迹 Stardust Trails [GD06]",
+    "package_id": "615106",
+    "package_from": "[GD06] Stardust Trails",
+    "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/3ce08ecd18c34b598eadaed328d9ffa3/GD06-110_2.png",
+    "YYT_URL": "",
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "GD06-111",
@@ -27947,7 +29247,7 @@
     "package_from": "[GD06] Stardust Trails",
     "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/9bca931560c3476fbfba08c8b8508912/GD06-116.png",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-116",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/724437/Afterglow of Zeon"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "GD06-117",
@@ -28000,6 +29300,32 @@
     "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/1b9ee9a2d93b42e5bc73e5b30df72e8e/GD06-118.png",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-118",
     "TCGPlayer_URL": "https://www.tcgplayer.com/product/724439/Infinite Variations"
+  },
+  {
+    "card_id": "GD06-118_p1",
+    "card_no": "GD06-118",
+    "name": "千变万化",
+    "link_name": "",
+    "rarity": "R +",
+    "spCol": "",
+    "block_icon": "2",
+    "level": "5",
+    "cost": "2",
+    "color": "White",
+    "type": "COMMAND",
+    "effect": "【主要】/【瞬动】选择最多等同于拥有《阻挡者》效果的白色的我方机体数量的对方机体。本回合中，使选择的机体AP-2。",
+    "zone": "-",
+    "trait": "",
+    "link": "",
+    "ap": "-",
+    "hp": "-",
+    "source_title": "∀高达",
+    "package": "星尘轨迹 Stardust Trails [GD06]",
+    "package_id": "615106",
+    "package_from": "[GD06] Stardust Trails",
+    "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/493b738e4d764d558a65f9124e581e0a/GD06-118_2.png",
+    "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-118",
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "GD06-119",
@@ -28155,7 +29481,7 @@
     "package_from": "[GD06] Stardust Trails",
     "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/c585b8f77cbd4ab3bd03985338878209/GD06-124.png",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-124",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/724445/Aspite"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "GD06-125",
@@ -28259,7 +29585,7 @@
     "package_from": "[GD06] Stardust Trails",
     "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/41d5e53237fa4188b72ccd7ab3d24037/GD06-128.png",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-128",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/724449/Gwaden"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "GD06-129",
@@ -28337,7 +29663,7 @@
     "package_from": "[GD06] Stardust Trails",
     "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/9260701d68ef452faf181bf2f90ed3b3/T-030.png",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=T-030",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/724454/Gozzo T 030 Token"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "T-031",
@@ -28389,7 +29715,7 @@
     "package_from": "[GD06] Stardust Trails",
     "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/718a5b8bf8c34f09bbca0a0e284a7415/T-032.png",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=T-032",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/724456/Turn X Legs T 032 Token"
   },
   {
     "card_id": "T-033",
@@ -28441,7 +29767,7 @@
     "package_from": "[GD06] Stardust Trails",
     "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/ef642fc8532545ccae42e1f234336154/T-034.png",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=T-034",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/724458/Nu Gundam T 034 Token"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "T-035",
@@ -28519,7 +29845,7 @@
     "package_from": "[GD06] Stardust Trails",
     "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/f9d9264b44004c619d2fda9e0ae65127/T-037.png",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=T-037",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/724461/Axis T 037 Token"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "ST01-001",
@@ -31197,7 +32523,7 @@
     "package_from": "[ST03] Zeon's Rush",
     "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/1752168803177T-007_1.png",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/reto/10010",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/643286/Zaku II T 007 Token"
   },
   {
     "card_id": "ST04-001",
@@ -31405,7 +32731,7 @@
     "package_from": "[ST04] SEED Strike",
     "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/1752168307687ST04-004_1.png",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st04/10008",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/641551/Moebius Cplus"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "ST04-005",
@@ -33199,7 +34525,7 @@
     "package_from": "[ST06] Clan Unity",
     "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/1761310153715ST06-004_2.jpg",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st06/10010",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/660490/Gelgoog GQ Cplus"
   },
   {
     "card_id": "ST06-005",
@@ -35435,7 +36761,7 @@
     "package_from": "[ST08] Flash of Radiance",
     "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/1768544960908ST08-015_2.png",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st08/10032",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/671978/Davao Cplus"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "EXB-002",
@@ -37567,7 +38893,7 @@
     "package_from": "[ST11] Aquatic Assault",
     "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/91295b3d2c7b4c62a30c6c1761fd0fcd/ST11-004_2.png",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st11/10008",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/721008/ZnO Cplus"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "ST11-005",
@@ -37671,7 +38997,7 @@
     "package_from": "[ST11] Aquatic Assault",
     "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/e0a93d8a73c84b80a36a3be9b36dc047/ST11-006_2.png",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st11/10012",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/721010/Shamblo LRplus"
   },
   {
     "card_id": "ST11-007",
@@ -37775,7 +39101,7 @@
     "package_from": "[ST11] Aquatic Assault",
     "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/1912c8bd627d4b45885b76b60b16dace/ST11-008_2.png",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st11/10016",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/721012/Daughseat Cplus"
   },
   {
     "card_id": "ST11-009",
@@ -38191,7 +39517,7 @@
     "package_from": "[ST11] Aquatic Assault",
     "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/caac88d434864ab4b454952f180decf3/ST11-016_2.png",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st11/10032",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/721020/Mad Angler Cplus"
   },
   {
     "card_id": "T-028",
@@ -38217,7 +39543,7 @@
     "package_from": "[ST11] Aquatic Assault",
     "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/4caab35ea11045c5b4d7e8f77a3f9f31/T-028.png",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/reto/10123",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/721037/GOOhN T 028 Token"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "ST12-001",
@@ -38269,7 +39595,7 @@
     "package_from": "[ST12] Raging Onslaught",
     "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/9ee82585d4d44a27bb3b3790bbc376c2/ST12-001_2.png",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st12/10002",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/721021/Gundam Epyon LRplus"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "ST12-002",
@@ -38477,7 +39803,7 @@
     "package_from": "[ST12] Raging Onslaught",
     "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/081fdad1f78c4e5482ae13c97b08bd70/ST12-005_2.png",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st12/10010",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/721025/GQuuuuuuX Omega Psycommu Cplus"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "ST12-006",
@@ -38737,7 +40063,7 @@
     "package_from": "[ST12] Raging Onslaught",
     "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/2a4ad68f1cac48d2aef6363f885b9345/ST12-010_2.png",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st12/10020",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/721030/Slash Zaku Phantom Cplus"
   },
   {
     "card_id": "ST12-011",
@@ -38789,7 +40115,7 @@
     "package_from": "[ST12] Raging Onslaught",
     "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/4d32e1b4e6944fc3be6595093165051b/ST12-011_2.png",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st12/10022",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/721031/Milliardo Peacecraft Cplus"
   },
   {
     "card_id": "ST12-012",
@@ -38945,7 +40271,7 @@
     "package_from": "[ST12] Raging Onslaught",
     "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/f1b21d2b255c4cb8a64b6454037cbc22/ST12-014_2.png",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st12/10028",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/721034/Wise Leaders Pride Cplus"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "ST12-015",
@@ -39153,7 +40479,7 @@
     "package_from": "[ST13] Silent Barrage",
     "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/8c73416a2a9940e9bbb62594f29c6078/ST13-002_2.png",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st13/10004",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/720973/Elmeth Cplus"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "ST13-003",
@@ -39205,7 +40531,7 @@
     "package_from": "[ST13] Silent Barrage",
     "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/9b0b555b58554888a777e89f3efe4d81/ST13-003_2.png",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st13/10006",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/720974/Bertigo Cplus"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "ST13-004",
@@ -39309,7 +40635,7 @@
     "package_from": "[ST13] Silent Barrage",
     "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/7e197f26e2a24684859c8be1336ef2f8/ST13-005_2.png",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st13/10010",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/720976/GFreD Cplus"
   },
   {
     "card_id": "ST13-006",
@@ -39413,7 +40739,7 @@
     "package_from": "[ST13] Silent Barrage",
     "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/e9efcf4aabac4646a38a37eedeb5006c/ST13-007_2.png",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st13/10014",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/720978/Gyuneis Jagd Doga Cplus"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "ST13-008",
@@ -39621,7 +40947,7 @@
     "package_from": "[ST13] Silent Barrage",
     "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/d291c3fc0c894fff8899c0d444c4ac85/ST13-011_2.png",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st13/10022",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/720982/Haman Karn Cplus"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "ST13-012",
@@ -39777,7 +41103,7 @@
     "package_from": "[ST13] Silent Barrage",
     "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/ef85731070d84565bbca75af32070c1c/ST13-014_2.png",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st13/10028",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/720985/Final Duty Cplus"
   },
   {
     "card_id": "ST13-015",
@@ -39907,7 +41233,7 @@
     "package_from": "[ST13] Silent Barrage",
     "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/aef1249e818e43eca5c45d6afcd1e53d/T-029.png",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/reto/10124",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/search/gundam-card-game/product?productLineName=gundam-card-game&view=grid&q=T-029%20C"
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/721038/Bit Funnel T 029 Token"
   },
   {
     "card_id": "ST14-001",
@@ -40167,7 +41493,7 @@
     "package_from": "[ST14] Heavy Dominion",
     "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/5385edb5d90546ed81625f51eae74d86/ST14-005_2.png",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st14/10010",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/720992/G Falcon DX Cplus"
   },
   {
     "card_id": "ST14-006",
@@ -40219,7 +41545,7 @@
     "package_from": "[ST14] Heavy Dominion",
     "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/0b054409207344d59978f4ab15601991/ST14-006_2.png",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st14/10012",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/720993/Full Armor Unicorn Gundam Destroy Mode LRplus"
   },
   {
     "card_id": "ST14-007",
@@ -40323,7 +41649,7 @@
     "package_from": "[ST14] Heavy Dominion",
     "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/146e12703f1945f8ad9cacfb95412722/ST14-008_2.png",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st14/10016",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/720995/Gundam Heavyarms Custom EW Cplus"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "ST14-009",
@@ -40427,7 +41753,7 @@
     "package_from": "[ST14] Heavy Dominion",
     "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/b0496fac2f0248e5be546542c5a8b48b/ST14-010_2.png",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st14/10020",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/720997/Perfect Strike Gundam Cplus"
   },
   {
     "card_id": "ST14-011",
@@ -40479,7 +41805,7 @@
     "package_from": "[ST14] Heavy Dominion",
     "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/86c2c902bc134fea854282df2b0b64fa/ST14-011_2.png",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st14/10022",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/720998/Paptimus Scirocco Cplus"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "ST14-012",
@@ -40531,7 +41857,7 @@
     "package_from": "[ST14] Heavy Dominion",
     "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/4d54e5bbb8ae4f26978c857a0620b178/ST14-012_2.png",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st14/10024",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/720999/Banagher Links Cplus"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "ST14-013",
@@ -40583,7 +41909,7 @@
     "package_from": "[ST14] Heavy Dominion",
     "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/9432c8c3a8fe4f5dafddf95d1be43340/ST14-013_2.png",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st14/10026",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/721000/Natural Talent Cplus"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "ST14-014",
@@ -40739,7 +42065,7 @@
     "package_from": "[ST14] Heavy Dominion",
     "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/429d6d5355e54816b4e1c6f2d987b7ab/ST14-016_2.png",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st14/10032",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/721003/Gryphios 2 Cplus"
   },
   {
     "card_id": "EB01-001",
@@ -41623,7 +42949,7 @@
     "package_from": "[EB01] Eternal Nexus",
     "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/1781243654749EB01-025.png",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/eb01/10034",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/700933/Tallgeese II"
   },
   {
     "card_id": "EB01-025_p1",
@@ -47733,7 +49059,7 @@
     "package_from": "リミテッドBOX Ver.β",
     "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/1752168306930R-001_5.png",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/limited1.0/10083",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/616677/Resource Cplus"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "ST01-001_p2",
@@ -49319,7 +50645,7 @@
     "package_from": "プロモーションカード",
     "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/e30f97d018c442d19e179d7a4b4a5817.png",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=EXBP-030",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/717020/EX Base EXBP 030 Special Booster Bundle 01"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "EXBP-031",
@@ -49553,7 +50879,7 @@
     "package_from": "プロモーションカード",
     "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/925d52afbcee4bd78df1417998d6f572.png",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=EXRP-015",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/717598/EX Resource EXRP 015 Playmat and Card Set Mobile Suit Gundam 00"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "EXRP-016",
@@ -51711,7 +53037,7 @@
     "package_from": "プロモーションカード",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD03-024_p2.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/promo-gd10/10105",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/703784/Hy Gogg Store Tournament Winner Pack 05"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "GD03-027_p1",
@@ -51919,7 +53245,7 @@
     "package_from": "プロモーションカード",
     "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/1772197342082GD03-072_3.png",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/promo-gd10/10053",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/670582/Aile Strike Gundam Store Tournament Winner Pack 03"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "GD03-076_p1",
@@ -52127,7 +53453,7 @@
     "package_from": "プロモーションカード",
     "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/1772197341346GD03-092_3.png",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/promo-gd10/10059",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/670587/Nyaan Store Tournament Winner Pack 03"
   },
   {
     "card_id": "GD03-100_p1",
@@ -52751,7 +54077,7 @@
     "package_from": "プロモーションカード",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD04-107_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/gd04/10138",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/search/gundam-card-game/product?productLineName=gundam-card-game&view=grid&q=GD04-107%20C"
   },
   {
     "card_id": "GD04-107_p2",
@@ -52881,7 +54207,7 @@
     "package_from": "プロモーションカード",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD05-016_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/gd05/10023",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/search/gundam-card-game/product?productLineName=gundam-card-game&view=grid&q=GD05-016%20C"
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/721542/Murasame Store Tournament Participation Pack 06"
   },
   {
     "card_id": "GD05-016_p2",
@@ -52907,7 +54233,7 @@
     "package_from": "プロモーションカード",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD05-016_p2.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD05-016",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/721550/Murasame Store Tournament Winner Pack 06"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "GD05-019_p1",
@@ -52933,7 +54259,7 @@
     "package_from": "プロモーションカード",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD05-019_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/gd05/10029",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/705555/Re GZ"
+    "TCGPlayer_URL": "https://www.tcgplayer.com/search/gundam-card-game/product?productLineName=gundam-card-game&view=grid&q=GD05-019%20R"
   },
   {
     "card_id": "GD05-019_p2",
@@ -52988,6 +54314,58 @@
     "TCGPlayer_URL": "https://www.tcgplayer.com/search/gundam-card-game/product?productLineName=gundam-card-game&view=grid&q=GD05-042%20C"
   },
   {
+    "card_id": "GD05-049_p3",
+    "card_no": "GD05-049",
+    "name": "沙扎比",
+    "link_name": "",
+    "rarity": "LR",
+    "spCol": "",
+    "block_icon": "2",
+    "level": "7",
+    "cost": "5",
+    "color": "Purple",
+    "type": "UNIT",
+    "effect": "《压制》（在攻击护盾并给与伤害时，会同时给与最前方的2张护盾伤害）\n【攻击时】可以选择我方的1张机体。将其破坏。若那样做的话，则所有对方玩家分别选择自己1张没有在战斗中的机体。将选择的机体破坏。",
+    "zone": "宇宙 地球",
+    "trait": "<新吉翁>",
+    "link": "夏亚・阿兹纳布尔",
+    "ap": "5",
+    "hp": "5",
+    "source_title": "机动战士高达 逆袭的夏亚",
+    "package": "自由跃升 Freedom Ascension [GD05]",
+    "package_id": "615901",
+    "package_from": "プロモーションカード",
+    "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/1784877141470GD05-049_3.png",
+    "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD05-049",
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/705585/Sazabi GD05 049"
+  },
+  {
+    "card_id": "GD05-057_p1",
+    "card_no": "GD05-057",
+    "name": "乍德・德卡（邱尼专用机）",
+    "link_name": "",
+    "rarity": "U",
+    "spCol": "",
+    "block_icon": "2",
+    "level": "4",
+    "cost": "3",
+    "color": "Purple",
+    "type": "UNIT",
+    "effect": "【启动・主要】【每回合1次】选择我方1张此机体以外的机体。将其破坏。若那样做的话，则将此机体转为活跃状态，且本回合中，此机体无法选择对方玩家作为攻击对象。",
+    "zone": "宇宙 地球",
+    "trait": "〔新吉翁〕",
+    "link": "邱尼・盖斯",
+    "ap": "4",
+    "hp": "3",
+    "source_title": "机动战士高达 马沙之反击",
+    "package": "NEWTYPE CHALLENGE 2026 MISSION 5 参加纪念品",
+    "package_id": "615901",
+    "package_from": "プロモーションカード",
+    "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD05-057_p1.webp",
+    "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD05-057",
+    "TCGPlayer_URL": ""
+  },
+  {
     "card_id": "GD05-069_p1",
     "card_no": "GD05-069",
     "name": "美国巨星高达",
@@ -53011,7 +54389,7 @@
     "package_from": "プロモーションカード",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD05-069_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/gd05/10104",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/search/gundam-card-game/product?productLineName=gundam-card-game&view=grid&q=GD05-069%20R"
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/705605/Gundam Maxter"
   },
   {
     "card_id": "GD05-069_p2",
@@ -53037,7 +54415,33 @@
     "package_from": "プロモーションカード",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/GD05-069_p2.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD05-069",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/721552/Gundam Maxter Store Tournament Winner Pack 06"
+    "TCGPlayer_URL": ""
+  },
+  {
+    "card_id": "GD05-093_p2",
+    "card_no": "GD05-093",
+    "name": "夏亚・阿兹纳布尔",
+    "link_name": "",
+    "rarity": "R",
+    "spCol": "",
+    "block_icon": "2",
+    "level": "5",
+    "cost": "1",
+    "color": "Purple",
+    "type": "PILOT",
+    "effect": "【共鸣时】可以选择我方废弃区中1张〔新吉翁〕的基地卡牌。将其配置。",
+    "zone": "-",
+    "trait": "<新吉翁> <新人类>",
+    "link": "",
+    "ap": "+2",
+    "hp": "+2",
+    "source_title": "机动战士高达 逆袭的夏亚",
+    "package": "自由跃升 Freedom Ascension [GD05]",
+    "package_id": "615901",
+    "package_from": "プロモーションカード",
+    "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/1784877143774GD05-093_2.png",
+    "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD05-093",
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/705629/Char Aznable"
   },
   {
     "card_id": "GD05-094_p1",
@@ -53274,6 +54678,58 @@
     "TCGPlayer_URL": ""
   },
   {
+    "card_id": "GD06-029_p2",
+    "card_no": "GD06-029",
+    "name": "卡碧尼Mk-Ⅱ（艾露比·普露专用）",
+    "link_name": "",
+    "rarity": "C",
+    "spCol": "",
+    "block_icon": "2",
+    "level": "4",
+    "cost": "3",
+    "color": "Green",
+    "type": "UNIT",
+    "effect": "《突破3》（我方的回合中，当此机体通过战斗伤害破坏对方的机体时，给与该方护盾区最前方的1张卡牌指定数值的伤害）",
+    "zone": "宇宙 地球",
+    "trait": "<新吉翁>",
+    "link": "艾露比·普露",
+    "ap": "4",
+    "hp": "3",
+    "source_title": "机动战士高达 ZZ",
+    "package": "星尘轨迹 Stardust Trails [GD06]",
+    "package_id": "615901",
+    "package_from": "プロモーションカード",
+    "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/2ed7e0bc60244c13931a6d6bc7667709/GD06-029_2.png",
+    "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-029",
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/724350/Elpeo Ples Qubeley Mk II GD06 029"
+  },
+  {
+    "card_id": "GD06-084_p2",
+    "card_no": "GD06-084",
+    "name": "艾露比·普露",
+    "link_name": "",
+    "rarity": "R",
+    "spCol": "",
+    "block_icon": "2",
+    "level": "3",
+    "cost": "1",
+    "color": "Green",
+    "type": "PILOT",
+    "effect": "【爆发】此卡牌加入手牌。\n【搭乘时】本回合中，此机体获得等同于〔新吉翁〕/〔远程兵器〕的我方机体数量的《突破1》效果。\n（我方的回合中，当此机体通过战斗伤害破坏对方的机体时，给与该方护盾区最前方的1张卡牌指定数值的伤害）",
+    "zone": "-",
+    "trait": "<新吉翁> <新人类>",
+    "link": "",
+    "ap": "+2",
+    "hp": "+0",
+    "source_title": "机动战士高达 ZZ",
+    "package": "星尘轨迹 Stardust Trails [GD06]",
+    "package_id": "615901",
+    "package_from": "プロモーションカード",
+    "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/4dda7fafde514dcb8c0dad6f83bd912a/GD06-084_2.png",
+    "YYT_URL": "https://yuyu-tei.jp/sell/gcg/s/search?search_word=GD06-084",
+    "TCGPlayer_URL": ""
+  },
+  {
     "card_id": "RP-001",
     "card_no": "RP-001",
     "name": "希罗&飞翼高达",
@@ -53401,7 +54857,7 @@
     "package_from": "プロモーションカード",
     "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/1758817710331RP-005.jpg",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/rp-100/10009",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/646549/Resource RP 005 Resource Pack"
+    "TCGPlayer_URL": ""
   },
   {
     "card_id": "RP-006",
@@ -54805,7 +56261,7 @@
     "package_from": "プロモーションカード",
     "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/1761310153630ST03-013_6.jpg",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st06/10001",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/search/gundam-card-game/product?productLineName=gundam-card-game&view=grid&q=ST03-013%20C"
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/654579/Close Combat Championship Participation Pack 01"
   },
   {
     "card_id": "ST04-002_p3",
@@ -55611,7 +57067,7 @@
     "package_from": "プロモーションカード",
     "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/1774591894702ST09-008_2.png",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st09/10022",
-    "TCGPlayer_URL": ""
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/684007/Shinn Asuka"
   },
   {
     "card_id": "ST09-009_p2",
@@ -55663,7 +57119,7 @@
     "package_from": "プロモーションカード",
     "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/4c2180cf40a84ada9bc1d0c76241944d/ST11-002_2.png",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st11/10003",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/search/gundam-card-game/product?productLineName=gundam-card-game&view=grid&q=ST11-002%20C"
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/717612/Acguy ST11 ST14 Release Event"
   },
   {
     "card_id": "ST11-011_p2",
@@ -55689,7 +57145,7 @@
     "package_from": "プロモーションカード",
     "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/4fa7bda38e0a492da982acf07e3becf3/ST11-011_2.png",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st11/10021",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/717613/Char Aznable ST11 ST14 Release Event"
+    "TCGPlayer_URL": "https://www.tcgplayer.com/search/gundam-card-game/product?productLineName=gundam-card-game&view=grid&q=ST11-011%20C"
   },
   {
     "card_id": "ST12-009_p2",
@@ -55715,7 +57171,7 @@
     "package_from": "プロモーションカード",
     "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/1de67d008da74c23b14f05d820627c73/ST12-009_2.png",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st12/10017",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/product/717615/Unicorn Gundam 02 Banshee Unicorn Mode ST11 ST14 Release Event"
+    "TCGPlayer_URL": "https://www.tcgplayer.com/search/gundam-card-game/product?productLineName=gundam-card-game&view=grid&q=ST12-009%20C"
   },
   {
     "card_id": "ST12-012_p2",
@@ -55741,7 +57197,7 @@
     "package_from": "プロモーションカード",
     "image_url": "https://wsrv.nl/?url=source.windoent.com/GaoDaPc/Picture/c8e37924ec42447eb2731852b73eb9dc/ST12-012_2.png",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/st12/10023",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/search/gundam-card-game/product?productLineName=gundam-card-game&view=grid&q=ST12-012%20C"
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/717617/Ple Twelve ST11 ST14 Release Event"
   },
   {
     "card_id": "T-022_p1",
@@ -55897,7 +57353,7 @@
     "package_from": "プロモーションカード",
     "image_url": "https://wsrv.nl/?url=www.gundam-gcg.com/jp/images/cards/card/T-029_p1.webp",
     "YYT_URL": "https://yuyu-tei.jp/sell/gcg/card/reto/10124",
-    "TCGPlayer_URL": "https://www.tcgplayer.com/search/gundam-card-game/product?productLineName=gundam-card-game&view=grid&q=T-029%20C"
+    "TCGPlayer_URL": "https://www.tcgplayer.com/product/721038/Bit Funnel T 029 Token"
   },
   {
     "card_id": "T-029_p2",
