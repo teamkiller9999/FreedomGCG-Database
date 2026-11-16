@@ -14868,5 +14868,770 @@
     "card_id": "T-030",
     "date": "09/Nov/2026",
     "price": "30"
+  },
+  {
+    "card_id": "EXR-009",
+    "date": "16/Nov/2026",
+    "price": "89800"
+  },
+  {
+    "card_id": "EXR-010",
+    "date": "16/Nov/2026",
+    "price": "29800"
+  },
+  {
+    "card_id": "EXR-006",
+    "date": "16/Nov/2026",
+    "price": "19800"
+  },
+  {
+    "card_id": "EXR-008",
+    "date": "16/Nov/2026",
+    "price": "9980"
+  },
+  {
+    "card_id": "EXR-011",
+    "date": "16/Nov/2026",
+    "price": "8980"
+  },
+  {
+    "card_id": "GD01-001_p2",
+    "date": "16/Nov/2026",
+    "price": "89800"
+  },
+  {
+    "card_id": "GD01-003_p1",
+    "date": "16/Nov/2026",
+    "price": "1780"
+  },
+  {
+    "card_id": "GD01-006",
+    "date": "16/Nov/2026",
+    "price": "320"
+  },
+  {
+    "card_id": "GD01-023",
+    "date": "16/Nov/2026",
+    "price": "320"
+  },
+  {
+    "card_id": "GD01-024",
+    "date": "16/Nov/2026",
+    "price": "780"
+  },
+  {
+    "card_id": "GD01-023_p1",
+    "date": "16/Nov/2026",
+    "price": "580"
+  },
+  {
+    "card_id": "GD01-027_p1",
+    "date": "16/Nov/2026",
+    "price": "420"
+  },
+  {
+    "card_id": "GD01-025_p1",
+    "date": "16/Nov/2026",
+    "price": "980"
+  },
+  {
+    "card_id": "GD01-044",
+    "date": "16/Nov/2026",
+    "price": "1480"
+  },
+  {
+    "card_id": "GD01-045_p1",
+    "date": "16/Nov/2026",
+    "price": "580"
+  },
+  {
+    "card_id": "GD01-050",
+    "date": "16/Nov/2026",
+    "price": "120"
+  },
+  {
+    "card_id": "GD01-067_p3",
+    "date": "16/Nov/2026",
+    "price": "158000"
+  },
+  {
+    "card_id": "GD01-066_p1",
+    "date": "16/Nov/2026",
+    "price": "3480"
+  },
+  {
+    "card_id": "GD01-066",
+    "date": "16/Nov/2026",
+    "price": "1780"
+  },
+  {
+    "card_id": "GD01-067",
+    "date": "16/Nov/2026",
+    "price": "320"
+  },
+  {
+    "card_id": "GD01-069_p1",
+    "date": "16/Nov/2026",
+    "price": "580"
+  },
+  {
+    "card_id": "GD01-087_p1",
+    "date": "16/Nov/2026",
+    "price": "1280"
+  },
+  {
+    "card_id": "GD01-090_p1",
+    "date": "16/Nov/2026",
+    "price": "580"
+  },
+  {
+    "card_id": "GD01-093_p2",
+    "date": "16/Nov/2026",
+    "price": "3980"
+  },
+  {
+    "card_id": "GD01-093_p1",
+    "date": "16/Nov/2026",
+    "price": "3980"
+  },
+  {
+    "card_id": "GD01-100_p6",
+    "date": "16/Nov/2026",
+    "price": "320"
+  },
+  {
+    "card_id": "GD01-100",
+    "date": "16/Nov/2026",
+    "price": "320"
+  },
+  {
+    "card_id": "GD01-100_p2",
+    "date": "16/Nov/2026",
+    "price": "320"
+  },
+  {
+    "card_id": "GD01-117_p1",
+    "date": "16/Nov/2026",
+    "price": "1280"
+  },
+  {
+    "card_id": "GD01-118_p5",
+    "date": "16/Nov/2026",
+    "price": "17800"
+  },
+  {
+    "card_id": "GD01-118_p3",
+    "date": "16/Nov/2026",
+    "price": "17800"
+  },
+  {
+    "card_id": "GD01-126_p1",
+    "date": "16/Nov/2026",
+    "price": "80"
+  },
+  {
+    "card_id": "GD02-002_p1",
+    "date": "16/Nov/2026",
+    "price": "2980"
+  },
+  {
+    "card_id": "GD02-020",
+    "date": "16/Nov/2026",
+    "price": "220"
+  },
+  {
+    "card_id": "GD02-021",
+    "date": "16/Nov/2026",
+    "price": "320"
+  },
+  {
+    "card_id": "GD02-021_p1",
+    "date": "16/Nov/2026",
+    "price": "980"
+  },
+  {
+    "card_id": "GD02-038_p2",
+    "date": "16/Nov/2026",
+    "price": "29800"
+  },
+  {
+    "card_id": "GD02-053_p1",
+    "date": "16/Nov/2026",
+    "price": "1780"
+  },
+  {
+    "card_id": "GD02-054",
+    "date": "16/Nov/2026",
+    "price": "3480"
+  },
+  {
+    "card_id": "GD02-054_p2",
+    "date": "16/Nov/2026",
+    "price": "49800"
+  },
+  {
+    "card_id": "GD02-069_p1",
+    "date": "16/Nov/2026",
+    "price": "1480"
+  },
+  {
+    "card_id": "GD02-070_p1",
+    "date": "16/Nov/2026",
+    "price": "980"
+  },
+  {
+    "card_id": "GD02-088_p1",
+    "date": "16/Nov/2026",
+    "price": "980"
+  },
+  {
+    "card_id": "GD02-094_p1",
+    "date": "16/Nov/2026",
+    "price": "1980"
+  },
+  {
+    "card_id": "GD02-103_p1",
+    "date": "16/Nov/2026",
+    "price": "780"
+  },
+  {
+    "card_id": "GD02-110_p3",
+    "date": "16/Nov/2026",
+    "price": "1480"
+  },
+  {
+    "card_id": "GD02-110_p1",
+    "date": "16/Nov/2026",
+    "price": "1480"
+  },
+  {
+    "card_id": "GD02-112_p3",
+    "date": "16/Nov/2026",
+    "price": "980"
+  },
+  {
+    "card_id": "GD02-129",
+    "date": "16/Nov/2026",
+    "price": "680"
+  },
+  {
+    "card_id": "GD02-129_p1",
+    "date": "16/Nov/2026",
+    "price": "2480"
+  },
+  {
+    "card_id": "GD03-001_p1",
+    "date": "16/Nov/2026",
+    "price": "1980"
+  },
+  {
+    "card_id": "GD03-017_p2",
+    "date": "16/Nov/2026",
+    "price": "29800"
+  },
+  {
+    "card_id": "GD03-019",
+    "date": "16/Nov/2026",
+    "price": "320"
+  },
+  {
+    "card_id": "GD03-034_p1",
+    "date": "16/Nov/2026",
+    "price": "2480"
+  },
+  {
+    "card_id": "GD03-034",
+    "date": "16/Nov/2026",
+    "price": "980"
+  },
+  {
+    "card_id": "GD03-035_p2",
+    "date": "16/Nov/2026",
+    "price": "29800"
+  },
+  {
+    "card_id": "GD03-036_p1",
+    "date": "16/Nov/2026",
+    "price": "580"
+  },
+  {
+    "card_id": "GD03-049",
+    "date": "16/Nov/2026",
+    "price": "680"
+  },
+  {
+    "card_id": "GD03-049_p1",
+    "date": "16/Nov/2026",
+    "price": "2980"
+  },
+  {
+    "card_id": "GD03-050",
+    "date": "16/Nov/2026",
+    "price": "680"
+  },
+  {
+    "card_id": "GD03-050_p1",
+    "date": "16/Nov/2026",
+    "price": "4980"
+  },
+  {
+    "card_id": "GD03-084_p1",
+    "date": "16/Nov/2026",
+    "price": "980"
+  },
+  {
+    "card_id": "GD03-094_p1",
+    "date": "16/Nov/2026",
+    "price": "1280"
+  },
+  {
+    "card_id": "GD03-109_p2",
+    "date": "16/Nov/2026",
+    "price": "2980"
+  },
+  {
+    "card_id": "GD03-109",
+    "date": "16/Nov/2026",
+    "price": "1480"
+  },
+  {
+    "card_id": "GD03-105_p1",
+    "date": "16/Nov/2026",
+    "price": "1780"
+  },
+  {
+    "card_id": "GD03-118_p1",
+    "date": "16/Nov/2026",
+    "price": "3980"
+  },
+  {
+    "card_id": "GD04-018_p1",
+    "date": "16/Nov/2026",
+    "price": "680"
+  },
+  {
+    "card_id": "GD04-038",
+    "date": "16/Nov/2026",
+    "price": "420"
+  },
+  {
+    "card_id": "GD04-036_p1",
+    "date": "16/Nov/2026",
+    "price": "780"
+  },
+  {
+    "card_id": "GD04-050_p2",
+    "date": "16/Nov/2026",
+    "price": "118000"
+  },
+  {
+    "card_id": "GD04-053",
+    "date": "16/Nov/2026",
+    "price": "120"
+  },
+  {
+    "card_id": "GD04-065_p1",
+    "date": "16/Nov/2026",
+    "price": "2480"
+  },
+  {
+    "card_id": "GD04-068_p1",
+    "date": "16/Nov/2026",
+    "price": "7980"
+  },
+  {
+    "card_id": "GD04-067_p1",
+    "date": "16/Nov/2026",
+    "price": "1480"
+  },
+  {
+    "card_id": "GD04-081_p1",
+    "date": "16/Nov/2026",
+    "price": "1480"
+  },
+  {
+    "card_id": "GD04-085_p1",
+    "date": "16/Nov/2026",
+    "price": "7980"
+  },
+  {
+    "card_id": "GD04-085",
+    "date": "16/Nov/2026",
+    "price": "220"
+  },
+  {
+    "card_id": "GD04-089",
+    "date": "16/Nov/2026",
+    "price": "120"
+  },
+  {
+    "card_id": "GD04-095_p1",
+    "date": "16/Nov/2026",
+    "price": "1780"
+  },
+  {
+    "card_id": "GD04-102_p1",
+    "date": "16/Nov/2026",
+    "price": "1280"
+  },
+  {
+    "card_id": "GD04-109",
+    "date": "16/Nov/2026",
+    "price": "500"
+  },
+  {
+    "card_id": "GD05-001_p1",
+    "date": "16/Nov/2026",
+    "price": "500"
+  },
+  {
+    "card_id": "GD05-005",
+    "date": "16/Nov/2026",
+    "price": "120"
+  },
+  {
+    "card_id": "GD05-004_p1",
+    "date": "16/Nov/2026",
+    "price": "1480"
+  },
+  {
+    "card_id": "GD05-002_p2",
+    "date": "16/Nov/2026",
+    "price": "248000"
+  },
+  {
+    "card_id": "GD05-017_p2",
+    "date": "16/Nov/2026",
+    "price": "108000"
+  },
+  {
+    "card_id": "GD05-017_p1",
+    "date": "16/Nov/2026",
+    "price": "2980"
+  },
+  {
+    "card_id": "GD05-018_p1",
+    "date": "16/Nov/2026",
+    "price": "1780"
+  },
+  {
+    "card_id": "GD05-018",
+    "date": "16/Nov/2026",
+    "price": "180"
+  },
+  {
+    "card_id": "GD05-019",
+    "date": "16/Nov/2026",
+    "price": "120"
+  },
+  {
+    "card_id": "GD05-021_p1",
+    "date": "16/Nov/2026",
+    "price": "680"
+  },
+  {
+    "card_id": "GD05-033_p2",
+    "date": "16/Nov/2026",
+    "price": "69800"
+  },
+  {
+    "card_id": "GD05-033",
+    "date": "16/Nov/2026",
+    "price": "220"
+  },
+  {
+    "card_id": "GD05-034",
+    "date": "16/Nov/2026",
+    "price": "120"
+  },
+  {
+    "card_id": "GD05-049_p1",
+    "date": "16/Nov/2026",
+    "price": "1980"
+  },
+  {
+    "card_id": "GD05-049",
+    "date": "16/Nov/2026",
+    "price": "420"
+  },
+  {
+    "card_id": "GD05-050",
+    "date": "16/Nov/2026",
+    "price": "980"
+  },
+  {
+    "card_id": "GD05-049_p2",
+    "date": "16/Nov/2026",
+    "price": "69800"
+  },
+  {
+    "card_id": "GD05-052_p1",
+    "date": "16/Nov/2026",
+    "price": "780"
+  },
+  {
+    "card_id": "GD05-055_p1",
+    "date": "16/Nov/2026",
+    "price": "780"
+  },
+  {
+    "card_id": "GD05-066",
+    "date": "16/Nov/2026",
+    "price": "320"
+  },
+  {
+    "card_id": "GD05-066_p1",
+    "date": "16/Nov/2026",
+    "price": "1980"
+  },
+  {
+    "card_id": "GD05-067_p2",
+    "date": "16/Nov/2026",
+    "price": "148000"
+  },
+  {
+    "card_id": "GD05-070_p1",
+    "date": "16/Nov/2026",
+    "price": "320"
+  },
+  {
+    "card_id": "GD05-081_p1",
+    "date": "16/Nov/2026",
+    "price": "2980"
+  },
+  {
+    "card_id": "GD05-093_p1",
+    "date": "16/Nov/2026",
+    "price": "1780"
+  },
+  {
+    "card_id": "GD05-089",
+    "date": "16/Nov/2026",
+    "price": "180"
+  },
+  {
+    "card_id": "GD05-094_p2",
+    "date": "16/Nov/2026",
+    "price": "2480"
+  },
+  {
+    "card_id": "GD05-110",
+    "date": "16/Nov/2026",
+    "price": "1480"
+  },
+  {
+    "card_id": "GD05-114_p1",
+    "date": "16/Nov/2026",
+    "price": "1480"
+  },
+  {
+    "card_id": "GD05-119_p1",
+    "date": "16/Nov/2026",
+    "price": "500"
+  },
+  {
+    "card_id": "GD05-125_p1",
+    "date": "16/Nov/2026",
+    "price": "5980"
+  },
+  {
+    "card_id": "GD06-002",
+    "date": "16/Nov/2026",
+    "price": "1280"
+  },
+  {
+    "card_id": "GD06-003",
+    "date": "16/Nov/2026",
+    "price": "1480"
+  },
+  {
+    "card_id": "GD05-129",
+    "date": "16/Nov/2026",
+    "price": "320"
+  },
+  {
+    "card_id": "GD06-009_p1",
+    "date": "16/Nov/2026",
+    "price": "120"
+  },
+  {
+    "card_id": "GD06-006",
+    "date": "16/Nov/2026",
+    "price": "120"
+  },
+  {
+    "card_id": "GD06-018",
+    "date": "16/Nov/2026",
+    "price": "320"
+  },
+  {
+    "card_id": "GD06-013",
+    "date": "16/Nov/2026",
+    "price": "50"
+  },
+  {
+    "card_id": "GD06-012",
+    "date": "16/Nov/2026",
+    "price": "30"
+  },
+  {
+    "card_id": "GD06-017",
+    "date": "16/Nov/2026",
+    "price": "50"
+  },
+  {
+    "card_id": "GD06-023",
+    "date": "16/Nov/2026",
+    "price": "50"
+  },
+  {
+    "card_id": "GD06-036",
+    "date": "16/Nov/2026",
+    "price": "180"
+  },
+  {
+    "card_id": "GD06-050_p1",
+    "date": "16/Nov/2026",
+    "price": "2480"
+  },
+  {
+    "card_id": "GD06-050",
+    "date": "16/Nov/2026",
+    "price": "500"
+  },
+  {
+    "card_id": "GD06-056",
+    "date": "16/Nov/2026",
+    "price": "50"
+  },
+  {
+    "card_id": "GD06-064",
+    "date": "16/Nov/2026",
+    "price": "2980"
+  },
+  {
+    "card_id": "GD06-070_p1",
+    "date": "16/Nov/2026",
+    "price": "120"
+  },
+  {
+    "card_id": "GD06-066_p1",
+    "date": "16/Nov/2026",
+    "price": "980"
+  },
+  {
+    "card_id": "GD06-068",
+    "date": "16/Nov/2026",
+    "price": "120"
+  },
+  {
+    "card_id": "GD06-077",
+    "date": "16/Nov/2026",
+    "price": "120"
+  },
+  {
+    "card_id": "GD06-080_p1",
+    "date": "16/Nov/2026",
+    "price": "1280"
+  },
+  {
+    "card_id": "GD06-083",
+    "date": "16/Nov/2026",
+    "price": "30"
+  },
+  {
+    "card_id": "GD06-081",
+    "date": "16/Nov/2026",
+    "price": "220"
+  },
+  {
+    "card_id": "GD06-093_p1",
+    "date": "16/Nov/2026",
+    "price": "980"
+  },
+  {
+    "card_id": "GD06-101",
+    "date": "16/Nov/2026",
+    "price": "120"
+  },
+  {
+    "card_id": "GD06-100",
+    "date": "16/Nov/2026",
+    "price": "30"
+  },
+  {
+    "card_id": "GD06-110",
+    "date": "16/Nov/2026",
+    "price": "780"
+  },
+  {
+    "card_id": "GD06-111",
+    "date": "16/Nov/2026",
+    "price": "120"
+  },
+  {
+    "card_id": "GD06-105",
+    "date": "16/Nov/2026",
+    "price": "120"
+  },
+  {
+    "card_id": "GD06-123",
+    "date": "16/Nov/2026",
+    "price": "50"
+  },
+  {
+    "card_id": "ST03-010_p2",
+    "date": "16/Nov/2026",
+    "price": "1280"
+  },
+  {
+    "card_id": "ST03-010_p1",
+    "date": "16/Nov/2026",
+    "price": "1280"
+  },
+  {
+    "card_id": "ST05-001_p1",
+    "date": "16/Nov/2026",
+    "price": "1780"
+  },
+  {
+    "card_id": "ST05-004_p1",
+    "date": "16/Nov/2026",
+    "price": "1780"
+  },
+  {
+    "card_id": "ST05-010",
+    "date": "16/Nov/2026",
+    "price": "30"
+  },
+  {
+    "card_id": "ST05-006_p1",
+    "date": "16/Nov/2026",
+    "price": "1980"
+  },
+  {
+    "card_id": "ST05-007_p1",
+    "date": "16/Nov/2026",
+    "price": "320"
+  },
+  {
+    "card_id": "ST05-010_p5",
+    "date": "16/Nov/2026",
+    "price": "30"
+  },
+  {
+    "card_id": "ST05-010_p3",
+    "date": "16/Nov/2026",
+    "price": "580"
+  },
+  {
+    "card_id": "ST11-010_p1",
+    "date": "16/Nov/2026",
+    "price": "320"
+  },
+  {
+    "card_id": "T-033",
+    "date": "16/Nov/2026",
+    "price": "30"
   }
 ]
